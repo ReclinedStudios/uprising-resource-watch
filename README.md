@@ -31,6 +31,9 @@ The monitor has not been connected to a Discord channel until the secret is adde
 - A resource can become active best with lower stats when the previous leader despawns. The message labels this as a replacement and still shows the historical best.
 - Resource types or stats absent from the current feed cannot have a harvestable winner. Resources with no reported planets are excluded from active rankings.
 - A first run sends one setup message, not hundreds of alerts. The initial records are visible in `data/records.md`.
+- Discord alert titles and the setup link open **SWGAide Home**. Home remembers its server selection through the site form; its `?server=182` URL parameter does not preselect Uprising. Choose **SWG Uprising [precu]** in the Home server selector when needed.
+- To post a current shortlist, open **Actions > Uprising resource watch > Run workflow** and check **Post a current strong-stat resource shortlist to Discord**. This queues one rich message with up to 12 different resource types, all stats, planets, age, and historical comparisons. Picks lead their exact type in one or more stats with a **SWGAide quality percentage of 95%+**. More qualifying stats rank first, with SWGAide's displayed average rating breaking ties. This is a harvest shortlist, not a universal crafting or recipe ranking. It uses the percentages displayed on SWGAide (relative to resource type ranges, not simply raw stat divided by 1000) and skips cards whose stats do not match the current XML data.
+- The optional `intro_message_id` workflow input updates an existing setup message posted by this webhook to use the Home link. It does not change other members' messages.
 - Historical stats are retained, and current resource stat corrections update their records. They are not treated as immutable high-water marks when source values are corrected.
 
 ## Reliability and free-plan limits
