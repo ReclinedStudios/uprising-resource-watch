@@ -23,6 +23,8 @@ STAT_NAMES = dict(zip(STATS, ('Entangle Resistance', 'Cold Resistance', 'Conduct
     'Decay Resistance', 'Flavor', 'Heat Resistance', 'Malleability', 'Potential Energy',
     'Overall Quality', 'Shock Resistance', 'Unit Toughness')))
 USER_AGENT = 'UprisingGuildResourceMonitor/1.0 (+https://swgaide.com/)'
+HOME_URL = 'https://swgaide.com/'
+RECORDS_URL = 'https://github.com/ReclinedStudios/uprising-resource-watch/blob/main/data/records.md'
 
 
 def utcnow():
@@ -141,11 +143,17 @@ def make_alert(resource, changes, state, history):
                      f"Historical best: **{record['value']}** - {text_safe(record_resource['name'])} ({suffix})\n{reason}"})
     all_stats = ' | '.join(f'{s} {v}' for s, v in resource['stats'].items())
     return {'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []},
-        'embeds': [{'title': f"New active best: {resource['name']}"[:256], 'url': resource['url'],
+        'embeds': [{'title': f"New active best: {resource['name']}"[:256], 'url': HOME_URL,
             'description': f"**{text_safe(resource['type'])}**\nPlanets: {text_safe(', '.join(resource['planets']))}\n{all_stats}",
             'color': 0x32B97C, 'fields': fields,
             'footer': {'text': 'SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records'},
             'timestamp': stamp()}]}
+
+
+def intro_payload(state):
+    return {'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []},
+        'content': f"Resource monitoring enabled for **SWG Uprising (Pre-CU)**. Tracking **{state.get('feed_count', 0)}** current resources and **{len(state['resources'])}** imported/observed records. Alerts compare each stat within the same resource class. Historical stats remain saved after despawn.\n"
+                   f"**SWGAide Home:** {HOME_URL}\nChoose **SWG Uprising [precu]** in the Home server selector."}
 
 
 def collect(state, config, raw):
@@ -189,9 +197,7 @@ def collect(state, config, raw):
             grouped[rid].append((stat, old, winner, rid not in old_ids))
     else:
         # One setup message instead of thousands of initial per-stat alerts.
-        state['outbox'].append({'kind': 'baseline', 'payload': {
-            'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []},
-            'content': f"Resource monitoring enabled for **SWG Uprising (Pre-CU)**. Tracking **{len(current)}** current resources and **{len(state['resources'])}** imported/observed records. Alerts compare each stat within the same resource class. Historical stats remain saved after despawn.\nhttps://swgaide.com/resources/?server=182"}})
+        state['outbox'].append({'kind': 'baseline', 'payload': intro_payload({**state, 'feed_count': len(current)})})
     for rid, changes in sorted(grouped.items()):
         state['outbox'].append({'kind': 'leader', 'resource_id': rid,
             'winner_values': {stat: winner['value'] for stat, _, winner, _ in changes},
@@ -246,6 +252,123 @@ class HistoryTable(HTMLParser):
             self.row = None
         elif tag == 'table':
             self.inside = False
+
+
+class ResourceCards(HTMLParser):
+    """Read displayed SWGAide stat values and cap percentages for a manual summary."""
+    def __init__(self):
+        super().__init__()
+        self.cards = {}
+        self.table = None
+        self.row = None
+        self.cell = None
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == 'table':
+            self.table = {'rows': [], 'id': None}
+        if self.table is None:
+            return
+        if tag == 'tr':
+            self.row = []
+        elif tag in ('td', 'th'):
+            self.cell = ''
+        elif tag == 'br' and self.cell is not None:
+            self.cell += ' '
+        elif tag == 'a':
+            match = re.search(r'view\.php\?rid=(\d+)', attrs.get('href', ''))
+            if match:
+                self.table['id'] = match[1]
+
+    def handle_data(self, data):
+        if self.cell is not None:
+            self.cell += data
+
+    def handle_endtag(self, tag):
+        if self.table is None:
+            return
+        if tag in ('td', 'th') and self.cell is not None and self.row is not None:
+            self.row.append(self.cell.strip())
+            self.cell = None
+        elif tag == 'tr' and self.row is not None:
+            self.table['rows'].append(self.row)
+            self.row = None
+        elif tag == 'table':
+            if self.table['id']:
+                rows = self.table['rows']
+                if len(rows) >= 3 and rows[1] == list(STATS) and len(rows[2]) == len(STATS):
+                    stats, percentages = {}, {}
+                    for stat, text in zip(STATS, rows[2]):
+                        if not text:
+                            continue
+                        match = re.fullmatch(r'(\d+)\s+(\d+(?:\.\d+)?)%', text)
+                        if not match:
+                            raise ValueError('Unrecognized SWGAide stat percentage')
+                        stats[stat] = int(match[1])
+                        percentages[stat] = float(match[2])
+                    heading = ' '.join(rows[0])
+                    rating = re.search(r'Rate:\s*(\d+)', heading)
+                    age = re.search(r'Age:\s*([\w ]+)', heading)
+                    self.cards[self.table['id']] = {'stats': stats, 'percentages': percentages,
+                        'rating': int(rating[1]) if rating else 0,
+                        'age': age[1].strip() if age else 'not reported'}
+            self.table = None
+
+
+def summary_payload(state, config, html):
+    parser = ResourceCards()
+    parser.feed(html)
+    if not parser.cards:
+        raise ValueError('No SWGAide resource cards found; summary not posted')
+    current = leaders(state['resources'], config, previous=state['leaders'])
+    history = leaders(state['resources'], config, active_only=False)
+    candidates = []
+    for rid, resource in state['resources'].items():
+        card = parser.cards.get(rid)
+        if not resource.get('active') or resource.get('missing_snapshots') or not card:
+            continue
+        # Do not combine percentages from an older/corrected page with different XML stats.
+        if card['stats'] != resource['stats']:
+            continue
+        strong = [s for s, p in card['percentages'].items() if p >= 95
+            and key_for(resource, s) in current and rid in current[key_for(resource, s)]['tied_ids']]
+        if strong:
+            candidates.append((len(strong), card['rating'], resource['name'], resource, card, strong))
+    candidates.sort(key=lambda c: (-c[0], -c[1], c[2]))
+    fields, selected_types = [], set()
+    for _, _, _, resource, card, strong in candidates:
+        if resource['type'] in selected_types:
+            continue
+        highlights = ' | '.join(f"{s} {card['percentages'][s]:g}%" for s in strong)
+        stats = ' | '.join(f'{s} {resource["stats"][s]}' for s in STATS if s in resource['stats'])
+        old_records = []
+        for stat in strong[:3]:
+            best = history[key_for(resource, stat)]
+            old = state['resources'][best['id']]
+            status = 'active' if old.get('active') else 'despawned'
+            old_records.append(f"{stat} {best['value']} ({text_safe(old['name'])}, {status})")
+        field = {'name': f"{len(fields)+1}. {resource['name']} - {resource['type']}"[:256],
+            'value': f"**Strong leading stats (SWGAide):** {highlights}\n**Stats:** {stats}\n"
+                     f"**Planets:** {text_safe(', '.join(resource['planets']))}\n"
+                     f"**Age:** {card['age']}\n**Historical best:** {'; '.join(old_records)}",
+            'inline': False}
+        if len(field['value']) > 1024:
+            raise ValueError('Summary resource details exceed Discord field limit')
+        if sum(len(f['name']) + len(f['value']) for f in fields + [field]) > 4800:
+            break
+        fields.append(field)
+        selected_types.add(resource['type'])
+        if len(fields) == 12:
+            break
+    if not fields:
+        raise ValueError('No matching active leaders with stats at 95% of cap; summary not posted')
+    return {'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []},
+        'content': f"**SWGAide Home:** {HOME_URL}\nChoose **SWG Uprising [precu]** in the Home server selector.\n[Complete active and historical records]({RECORDS_URL})",
+        'embeds': [{'title': 'Current resource shortlist - SWG Uprising', 'url': HOME_URL,
+            'description': 'Harvest candidates with several strong stats. Highlighted stats lead their own resource type and have a SWGAide quality percentage of at least 95%. More highlighted stats come first; one pick per type. Crafting recipes have different needs, so this is not a universal crafting ranking. All raw stats are shown below.',
+            'fields': fields, 'color': 0x42B9AD,
+            'footer': {'text': 'Percentages: SWGAide stat quality for this resource type. Historical details show up to 3 highlighted stats.'},
+            'timestamp': state['feed_generated']}]}
 
 
 def seed_history(state, config):
@@ -311,10 +434,10 @@ def webhook_url(raw):
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), ''))
 
 
-def send_webhook(url, payload):
+def send_webhook(url, payload, method='POST'):
     for attempt in range(4):
         request = Request(url, data=json.dumps(payload).encode(),
-            headers={'Content-Type': 'application/json', 'User-Agent': USER_AGENT}, method='POST')
+            headers={'Content-Type': 'application/json', 'User-Agent': USER_AGENT}, method=method)
         try:
             with urlopen(request, timeout=30) as response:
                 data = json.loads(response.read())
@@ -338,6 +461,8 @@ def deliver(state, state_path, config, url):
     sent = 0
     while state['outbox']:
         event = state['outbox'][0]
+        if event['kind'] == 'baseline':
+            event['payload'] = intro_payload(state)
         if event['kind'] == 'leader':
             resource = state['resources'][event['resource_id']]
             if not resource.get('active') or resource.get('missing_snapshots'):
@@ -355,6 +480,8 @@ def deliver(state, state_path, config, url):
             changes = [(s, None, {'id': resource['id'], 'value': v}, False) for s, v in current_values.items()]
             if len(current_values) != len(event['winner_values']):
                 event['payload'] = make_alert(resource, changes, state, leaders(state['resources'], config, active_only=False))
+            for embed in event['payload'].get('embeds', []):
+                embed['url'] = HOME_URL
         send_webhook(valid, event['payload'])
         state['outbox'].pop(0)
         sent += 1
@@ -391,10 +518,11 @@ def write_report(state, config, path):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['seed-history', 'collect', 'deliver', 'report', 'preview'])
+    parser.add_argument('command', choices=['seed-history', 'collect', 'deliver', 'report', 'preview', 'queue-summary', 'refresh-intro'])
     parser.add_argument('--state', type=Path, default=ROOT / 'data/state.json')
     parser.add_argument('--config', type=Path, default=ROOT / 'config.json')
     parser.add_argument('--feed', type=Path, help='Use a saved SWGAide XML/GZ file instead of downloading')
+    parser.add_argument('--message-id', help='Existing webhook setup message to update')
     args = parser.parse_args()
     config = json.loads(args.config.read_text(encoding='utf-8'))
     if not set(config['stats']).issubset(STATS) or not config['stats']:
@@ -417,6 +545,21 @@ def main():
         print(f'Sent {deliver(state, args.state, config, url)} messages')
     elif args.command == 'report':
         write_report(state, config, args.state.parent / 'records.md')
+    elif args.command == 'queue-summary':
+        html = fetch(f"https://swgaide.com/resources/?server={config['server_id']}").decode('utf-8')
+        payload = summary_payload(state, config, html)
+        state['outbox'].append({'kind': 'summary', 'payload': payload})
+        save_state(args.state, state)
+        print(f"Queued one summary with {len(payload['embeds'][0]['fields'])} resources")
+    elif args.command == 'refresh-intro':
+        if not args.message_id or not re.fullmatch(r'\d{15,25}', args.message_id):
+            raise ValueError('Provide a valid existing webhook message ID')
+        parts = urlsplit(webhook_url(os.environ.get('DISCORD_WEBHOOK_URL', '')))
+        url = urlunsplit((parts.scheme, parts.netloc, parts.path + '/messages/' + args.message_id, '', ''))
+        send_webhook(url, intro_payload(state), method='PATCH')
+        state['intro_home_link_updated'] = stamp()
+        save_state(args.state, state)
+        print('Updated the existing setup message to link to SWGAide Home')
     else:
         # Preview locally without posting or changing state.
         print(json.dumps([e['payload'] for e in state['outbox']], indent=2))
