@@ -24,6 +24,9 @@ jobs:
     # A public repo with a standard runner is required for this zero-cost setup.
     steps:
       - uses: actions/checkout@v4
+        with:
+          # A queued run must start from the latest saved archive, not its trigger's old SHA.
+          ref: ${{ github.event.repository.default_branch }}
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
