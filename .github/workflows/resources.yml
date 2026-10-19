@@ -17,6 +17,10 @@ on:
         description: Optional existing setup message ID to update its Home link
         type: string
         default: ''
+      home_message_ids:
+        description: Existing webhook message IDs whose links should force Uprising (comma-separated)
+        type: string
+        default: ''
 
 permissions:
   contents: write
@@ -76,9 +80,13 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           INTRO_MESSAGE_ID: ${{ inputs.intro_message_id }}
+          HOME_MESSAGE_IDS: ${{ inputs.home_message_ids }}
         run: |
           if [ -n "$INTRO_MESSAGE_ID" ]; then
             python monitor.py refresh-intro --message-id "$INTRO_MESSAGE_ID"
+          fi
+          if [ -n "$HOME_MESSAGE_IDS" ]; then
+            python monitor.py refresh-home-links --message-id "$HOME_MESSAGE_IDS"
           fi
           python monitor.py deliver
       - name: Save delivery progress, including after a partial failure
