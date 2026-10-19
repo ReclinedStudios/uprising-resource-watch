@@ -9,6 +9,14 @@ on:
         description: Import reported SWGAide history before this check (usually once)
         type: boolean
         default: false
+      post_summary:
+        description: Post a current strong-stat resource shortlist to Discord
+        type: boolean
+        default: false
+      intro_message_id:
+        description: Optional existing setup message ID to update its Home link
+        type: string
+        default: ''
 
 permissions:
   contents: write
@@ -51,6 +59,9 @@ jobs:
       - name: Collect current resources
         id: collect
         run: python monitor.py collect
+      - name: Prepare current resource shortlist when requested
+        if: ${{ inputs.post_summary == true }}
+        run: python monitor.py queue-summary
       - name: Save archive and pending alerts before sending
         run: |
           git config user.name 'Uprising Resource Watch'
@@ -64,7 +75,12 @@ jobs:
         id: send
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python monitor.py deliver
+          INTRO_MESSAGE_ID: ${{ inputs.intro_message_id }}
+        run: |
+          if [ -n "$INTRO_MESSAGE_ID" ]; then
+            python monitor.py refresh-intro --message-id "$INTRO_MESSAGE_ID"
+          fi
+          python monitor.py deliver
       - name: Save delivery progress, including after a partial failure
         if: ${{ always() && steps.send.outcome != 'skipped' }}
         run: |
