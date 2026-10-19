@@ -35,6 +35,15 @@ B = ('2', 'Other Iron', 800, 300)
 C = ('3', 'New Iron', 950, 150)
 
 
+def cards_html(cards):
+    tables = []
+    for rid, stats, percentages, rating in cards:
+        cells = ''.join(f'<td>{stats[s]}<br>{percentages[s]}%</td>' if s in stats else '<td><br></td>' for s in monitor.STATS)
+        tables.append(f'<table><tr><td><a href="/resources/view.php?rid={rid}">Resource</a></td><td>Rate: {rating} Age: 8h</td></tr>'
+            + '<tr>' + ''.join(f'<td>{s}</td>' for s in monitor.STATS) + '</tr><tr>' + cells + '</tr></table>')
+    return ''.join(tables)
+
+
 class MonitorTests(unittest.TestCase):
     def setUp(self):
         self.state = monitor.load_state(Path('nonexistent-test-state.json'))
@@ -146,6 +155,42 @@ class MonitorTests(unittest.TestCase):
         self.state['resources']['99'] = other
         history = monitor.leaders(self.state['resources'], self.config, active_only=False)
         self.assertEqual(history[json.dumps(['axidite iron', 'OQ'])]['value'], 900)
+
+    def test_alert_and_intro_open_swgaide_home(self):
+        self.baseline()
+        monitor.collect(self.state, self.config, feed([A, B, C], seconds=2))
+        self.assertEqual(self.state['outbox'][0]['payload']['embeds'][0]['url'], 'https://swgaide.com/')
+        self.assertIn('**SWGAide Home:** https://swgaide.com/', monitor.intro_payload(self.state)['content'])
+
+    def test_summary_uses_cap_percentages_and_contains_stats_planets_and_history(self):
+        self.baseline()
+        html = cards_html([('1', {'OQ':900,'CD':200}, {'OQ':90,'CD':66.7}, 700),
+            ('2', {'OQ':800,'CD':300}, {'OQ':80,'CD':100}, 800)])
+        payload = monitor.summary_payload(self.state, self.config, html)
+        field = payload['embeds'][0]['fields'][0]
+        self.assertIn('Other Iron', field['name'])
+        self.assertIn('CD 100%', field['value'])
+        self.assertIn('OQ 800', field['value'])
+        self.assertIn('Corellia', field['value'])
+        self.assertIn('Historical best', field['value'])
+        self.assertEqual(payload['allowed_mentions'], {'parse':[]})
+        self.assertEqual(payload['embeds'][0]['url'], monitor.HOME_URL)
+
+    def test_summary_skips_page_stats_that_do_not_match_latest_feed(self):
+        self.baseline()
+        html = cards_html([('1', {'OQ':999,'CD':200}, {'OQ':99.9,'CD':66.7}, 900)])
+        with self.assertRaisesRegex(ValueError, 'No matching active leaders'):
+            monitor.summary_payload(self.state, self.config, html)
+
+    def test_summary_selects_one_resource_per_type_and_respects_discord_size(self):
+        self.baseline()
+        html = cards_html([('1', {'OQ':900,'CD':200}, {'OQ':95,'CD':66.7}, 700),
+            ('2', {'OQ':800,'CD':300}, {'OQ':84.4,'CD':100}, 800)])
+        payload = monitor.summary_payload(self.state, self.config, html)
+        fields = payload['embeds'][0]['fields']
+        self.assertEqual(len(fields), 1)
+        self.assertTrue(all(len(f['value']) <= 1024 for f in fields))
+        self.assertLess(sum(len(f['value'])+len(f['name']) for f in fields), 4801)
 
 
 if __name__ == '__main__':
