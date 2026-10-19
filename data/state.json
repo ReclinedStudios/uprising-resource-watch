@@ -13351,18 +13351,7 @@
       "value": 51
     }
   },
-  "outbox": [
-    {
-      "kind": "baseline",
-      "payload": {
-        "allowed_mentions": {
-          "parse": []
-        },
-        "content": "Resource monitoring enabled for **SWG Uprising (Pre-CU)**. Tracking **453** current resources and **566** imported/observed records. Alerts compare each stat within the same resource class. Historical stats remain saved after despawn.\nhttps://swgaide.com/resources/?server=182",
-        "username": "Uprising Resource Watch"
-      }
-    }
-  ],
+  "outbox": [],
   "resources": {
     "1776811": {
       "active": true,
