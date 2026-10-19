@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>SWG Uprising | SWGAide Home</title>
+  <meta property="og:title" content="SWG Uprising | SWGAide Home">
+  <meta property="og:description" content="Opens SWGAide Home with SWG Uprising (Pre-CU) selected automatically.">
+  <meta name="description" content="Opens SWGAide Home with SWG Uprising (Pre-CU) selected automatically.">
+  <style>
+    body { margin:0; min-height:100vh; display:grid; place-items:center; background:#15252c; color:#edf5f5; font:16px/1.5 system-ui,sans-serif; }
+    main { max-width:30rem; padding:2rem; text-align:center; }
+    h1 { font-size:1.5rem; }
+    button { background:#70dbc3; color:#132323; border:0; border-radius:8px; padding:.8rem 1.2rem; font:inherit; cursor:pointer; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Opening SWG Uprising on SWGAide</h1>
+    <p>The Home page will open with SWG Uprising (Pre-CU) selected.</p>
+    <form id="uprising-home" method="post" action="https://swgaide.com/">
+      <input type="hidden" name="server" value="182">
+      <button type="submit">Open SWG Uprising Home</button>
+    </form>
+  </main>
+  <script>document.getElementById('uprising-home').requestSubmit();</script>
+</body>
+</html>
