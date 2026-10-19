@@ -7,6 +7,7 @@ from datetime import datetime, timezone, timedelta
 import gzip
 from html.parser import HTMLParser
 import json
+import math
 import os
 from pathlib import Path
 import re
@@ -23,7 +24,7 @@ STAT_NAMES = dict(zip(STATS, ('Entangle Resistance', 'Cold Resistance', 'Conduct
     'Decay Resistance', 'Flavor', 'Heat Resistance', 'Malleability', 'Potential Energy',
     'Overall Quality', 'Shock Resistance', 'Unit Toughness')))
 USER_AGENT = 'UprisingGuildResourceMonitor/1.0 (+https://swgaide.com/)'
-HOME_URL = 'https://swgaide.com/'
+HOME_URL = 'https://reclinedstudios.github.io/uprising-resource-watch/'
 RECORDS_URL = 'https://github.com/ReclinedStudios/uprising-resource-watch/blob/main/data/records.md'
 
 
@@ -88,12 +89,40 @@ def parse_feed(raw, config):
             'type': node.findtext('type', '').strip(), 'type_id': node.findtext('swgaide_type_id'),
             'stats': stats, 'planets': planets, 'available_timestamp': node.findtext('available_timestamp'),
             'url': f'https://swgaide.com/resources/view.php?rid={rid}',
-            'active': bool(planets), 'source': 'SWGAide'}
+            'active': bool(planets), 'source': 'SWGAide', 'waypoints': parse_waypoints(node, planets)}
         if not resources[rid]['name'] or not resources[rid]['type']:
             raise ValueError('Resource name or class missing')
     if not resources:
         raise ValueError('Empty feed; keeping previous active resources')
     return generated.isoformat(), resources
+
+
+def parse_waypoints(node, planets):
+    normalize = lambda p: re.sub(r'[^a-z0-9]', '', p.casefold())
+    allowed = {normalize(p) for p in planets}
+    points = []
+    for wp in node.findall('./waypoints/waypoint'):
+        try:
+            planet = wp.findtext('planet', '').strip()
+            concentration = float(wp.findtext('con', ''))
+            x, y = int(wp.findtext('x', '')), int(wp.findtext('y', ''))
+            if normalize(planet) not in allowed or not math.isfinite(concentration) or not 0 < concentration <= 100:
+                continue
+            points.append({'planet': planet, 'x': x, 'y': y, 'concentration': concentration,
+                           'reported_at': int(wp.get('timestamp', '0'))})
+        except (ValueError, TypeError):
+            continue
+    return points
+
+
+def waypoint_text(resource):
+    points = resource.get('waypoints', [])
+    if not points:
+        return 'No concentration waypoint reported on SWGAide yet.'
+    best = max(points, key=lambda p: (p['concentration'], p.get('reported_at', 0)))
+    planet_code = re.sub(r'[^a-z0-9]', '', best['planet'].casefold())
+    command = f"/wp {planet_code} {best['x']} {best['y']} {resource['name']} {best['concentration']:g}%"
+    return f"{text_safe(best['planet'])}: **{best['concentration']:g}%** at **{best['x']}, {best['y']}**\n`{command}`"
 
 
 def key_for(resource, stat):
@@ -127,7 +156,7 @@ def text_safe(value):
 
 
 def make_alert(resource, changes, state, history):
-    fields = []
+    fields = [{'name': 'Highest reported concentration', 'value': waypoint_text(resource), 'inline': False}]
     for stat, old, current, is_new in changes:
         record = history[key_for(resource, stat)]
         record_resource = state['resources'][record['id']]
@@ -153,7 +182,7 @@ def make_alert(resource, changes, state, history):
 def intro_payload(state):
     return {'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []},
         'content': f"Resource monitoring enabled for **SWG Uprising (Pre-CU)**. Tracking **{state.get('feed_count', 0)}** current resources and **{len(state['resources'])}** imported/observed records. Alerts compare each stat within the same resource class. Historical stats remain saved after despawn.\n"
-                   f"**SWGAide Home:** {HOME_URL}\nChoose **SWG Uprising [precu]** in the Home server selector."}
+                   f"**SWG Uprising Home (selected automatically):** {HOME_URL}"}
 
 
 def collect(state, config, raw):
@@ -350,7 +379,8 @@ def summary_payload(state, config, html):
         field = {'name': f"{len(fields)+1}. {resource['name']} - {resource['type']}"[:256],
             'value': f"**Strong leading stats (SWGAide):** {highlights}\n**Stats:** {stats}\n"
                      f"**Planets:** {text_safe(', '.join(resource['planets']))}\n"
-                     f"**Age:** {card['age']}\n**Historical best:** {'; '.join(old_records)}",
+                     f"**Age:** {card['age']}\n**Best reported concentration:** {waypoint_text(resource)}\n"
+                     f"**Historical best:** {'; '.join(old_records)}",
             'inline': False}
         if len(field['value']) > 1024:
             raise ValueError('Summary resource details exceed Discord field limit')
@@ -363,7 +393,7 @@ def summary_payload(state, config, html):
     if not fields:
         raise ValueError('No matching active leaders with stats at 95% of cap; summary not posted')
     return {'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []},
-        'content': f"**SWGAide Home:** {HOME_URL}\nChoose **SWG Uprising [precu]** in the Home server selector.\n[Complete active and historical records]({RECORDS_URL})",
+        'content': f"**SWG Uprising Home (selected automatically):** {HOME_URL}\n[Complete active and historical records]({RECORDS_URL})",
         'embeds': [{'title': 'Current resource shortlist - SWG Uprising', 'url': HOME_URL,
             'description': 'Harvest candidates with several strong stats. Highlighted stats lead their own resource type and have a SWGAide quality percentage of at least 95%. More highlighted stats come first; one pick per type. Crafting recipes have different needs, so this is not a universal crafting ranking. All raw stats are shown below.',
             'fields': fields, 'color': 0x42B9AD,
@@ -456,6 +486,30 @@ def send_webhook(url, payload, method='POST'):
     raise RuntimeError('Discord retries exhausted')
 
 
+def refresh_message_links(raw_webhook, message_id):
+    if not re.fullmatch(r'\d{15,25}', message_id):
+        raise ValueError('Invalid message ID')
+    parts = urlsplit(webhook_url(raw_webhook))
+    url = urlunsplit((parts.scheme, parts.netloc, parts.path + '/messages/' + message_id, '', ''))
+    try:
+        with urlopen(Request(url, headers={'User-Agent': USER_AGENT}), timeout=30) as response:
+            message = json.loads(response.read())
+    except HTTPError as error:
+        raise RuntimeError(f'Discord returned HTTP {error.code} while reading the existing message') from None
+    content = '\n'.join(line for line in message.get('content', '').splitlines()
+        if 'Home server selector' not in line)
+    content = re.sub(r'https://swgaide\.com/(?:resources/\?server=182)?(?=$|[\s)>])', HOME_URL, content)
+    content = content.replace('**SWGAide Home:**', '**SWG Uprising Home (selected automatically):**')
+    embeds = []
+    for original in message.get('embeds', []):
+        if original.get('type', 'rich') != 'rich':
+            continue
+        embed = {k: original[k] for k in ('title','description','color','fields','footer','timestamp') if k in original}
+        embed['url'] = HOME_URL
+        embeds.append(embed)
+    send_webhook(url, {'content': content, 'embeds': embeds, 'allowed_mentions': {'parse': []}}, method='PATCH')
+
+
 def deliver(state, state_path, config, url):
     valid = webhook_url(url)
     sent = 0
@@ -518,7 +572,7 @@ def write_report(state, config, path):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['seed-history', 'collect', 'deliver', 'report', 'preview', 'queue-summary', 'refresh-intro'])
+    parser.add_argument('command', choices=['seed-history', 'collect', 'deliver', 'report', 'preview', 'queue-summary', 'refresh-intro', 'refresh-home-links'])
     parser.add_argument('--state', type=Path, default=ROOT / 'data/state.json')
     parser.add_argument('--config', type=Path, default=ROOT / 'config.json')
     parser.add_argument('--feed', type=Path, help='Use a saved SWGAide XML/GZ file instead of downloading')
@@ -560,6 +614,15 @@ def main():
         state['intro_home_link_updated'] = stamp()
         save_state(args.state, state)
         print('Updated the existing setup message to link to SWGAide Home')
+    elif args.command == 'refresh-home-links':
+        ids = [s.strip() for s in (args.message_id or '').split(',')]
+        if not ids or any(not re.fullmatch(r'\d{15,25}', s) for s in ids):
+            raise ValueError('Provide valid comma-separated webhook message IDs')
+        for message_id in ids:
+            refresh_message_links(os.environ.get('DISCORD_WEBHOOK_URL', ''), message_id)
+        state['home_links_refreshed'] = stamp()
+        save_state(args.state, state)
+        print(f'Updated {len(ids)} existing messages to force SWG Uprising Home')
     else:
         # Preview locally without posting or changing state.
         print(json.dumps([e['payload'] for e in state['outbox']], indent=2))
