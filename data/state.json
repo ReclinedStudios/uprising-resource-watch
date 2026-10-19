@@ -1,6 +1,6 @@
 {
   "feed_count": 453,
-  "feed_generated": "2026-10-19T16:20:11+00:00",
+  "feed_generated": "2026-10-19T16:30:11+00:00",
   "history_imports": [
     {
       "coverage": "Reported records in the searched SWGAide categories; not guaranteed complete server history",
@@ -12,7 +12,7 @@
   ],
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-10-19T16:27:11+00:00",
+  "last_successful_collection": "2026-10-19T16:35:02+00:00",
   "leaders": {
     "[\"axidite iron\", \"CD\"]": {
       "id": "1776811",
@@ -13379,7 +13379,8 @@
       },
       "type": "Axidite Iron",
       "type_id": "axirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776811"
+      "url": "https://swgaide.com/resources/view.php?rid=1776811",
+      "waypoints": []
     },
     "1776812": {
       "active": true,
@@ -13404,7 +13405,8 @@
       },
       "type": "Axidite Iron",
       "type_id": "axirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776812"
+      "url": "https://swgaide.com/resources/view.php?rid=1776812",
+      "waypoints": []
     },
     "1776813": {
       "active": false,
@@ -13478,7 +13480,8 @@
       },
       "type": "Beyrllius Copper",
       "type_id": "becpr",
-      "url": "https://swgaide.com/resources/view.php?rid=1776815"
+      "url": "https://swgaide.com/resources/view.php?rid=1776815",
+      "waypoints": []
     },
     "1776816": {
       "active": false,
@@ -13545,7 +13548,8 @@
       },
       "type": "Bronzium Iron",
       "type_id": "brirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776818"
+      "url": "https://swgaide.com/resources/view.php?rid=1776818",
+      "waypoints": []
     },
     "1776819": {
       "active": true,
@@ -13577,7 +13581,8 @@
       },
       "type": "Carbonite Steel",
       "type_id": "cbstl",
-      "url": "https://swgaide.com/resources/view.php?rid=1776819"
+      "url": "https://swgaide.com/resources/view.php?rid=1776819",
+      "waypoints": []
     },
     "1776820": {
       "active": true,
@@ -13599,7 +13604,8 @@
       },
       "type": "Class 1 Liquid Petro Fuel",
       "type_id": "c1kpf",
-      "url": "https://swgaide.com/resources/view.php?rid=1776820"
+      "url": "https://swgaide.com/resources/view.php?rid=1776820",
+      "waypoints": []
     },
     "1776821": {
       "active": true,
@@ -13621,7 +13627,8 @@
       },
       "type": "Class 5 Liquid Petro Fuel",
       "type_id": "c5kpf",
-      "url": "https://swgaide.com/resources/view.php?rid=1776821"
+      "url": "https://swgaide.com/resources/view.php?rid=1776821",
+      "waypoints": []
     },
     "1776822": {
       "active": false,
@@ -13664,7 +13671,8 @@
       },
       "type": "Class 7 Radioactive",
       "type_id": "c7krd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776823"
+      "url": "https://swgaide.com/resources/view.php?rid=1776823",
+      "waypoints": []
     },
     "1776824": {
       "active": false,
@@ -13728,7 +13736,8 @@
       },
       "type": "Colat Iron",
       "type_id": "coirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776826"
+      "url": "https://swgaide.com/resources/view.php?rid=1776826",
+      "waypoints": []
     },
     "1776827": {
       "active": true,
@@ -13753,7 +13762,8 @@
       },
       "type": "Conductive Borcarbitic Copper",
       "type_id": "cbcpr",
-      "url": "https://swgaide.com/resources/view.php?rid=1776827"
+      "url": "https://swgaide.com/resources/view.php?rid=1776827",
+      "waypoints": []
     },
     "1776828": {
       "active": true,
@@ -13775,7 +13785,8 @@
       },
       "type": "Corellian Animal Bones",
       "type_id": "coabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776828"
+      "url": "https://swgaide.com/resources/view.php?rid=1776828",
+      "waypoints": []
     },
     "1776829": {
       "active": true,
@@ -13797,7 +13808,8 @@
       },
       "type": "Corellian Avian Bones",
       "type_id": "covbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776829"
+      "url": "https://swgaide.com/resources/view.php?rid=1776829",
+      "waypoints": []
     },
     "1776830": {
       "active": true,
@@ -13818,7 +13830,8 @@
       },
       "type": "Corellian Avian Meat",
       "type_id": "coamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776830"
+      "url": "https://swgaide.com/resources/view.php?rid=1776830",
+      "waypoints": []
     },
     "1776831": {
       "active": true,
@@ -13840,7 +13853,8 @@
       },
       "type": "Corellian Bristley Hide",
       "type_id": "cobhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776831"
+      "url": "https://swgaide.com/resources/view.php?rid=1776831",
+      "waypoints": []
     },
     "1776832": {
       "active": true,
@@ -13861,7 +13875,8 @@
       },
       "type": "Corellian Carnivore Meat",
       "type_id": "cocmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776832"
+      "url": "https://swgaide.com/resources/view.php?rid=1776832",
+      "waypoints": []
     },
     "1776833": {
       "active": true,
@@ -13883,7 +13898,8 @@
       },
       "type": "Corellian Conifer Wood",
       "type_id": "cocwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776833"
+      "url": "https://swgaide.com/resources/view.php?rid=1776833",
+      "waypoints": []
     },
     "1776834": {
       "active": false,
@@ -13922,7 +13938,8 @@
       },
       "type": "Corellian Deciduous Wood",
       "type_id": "codwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776835"
+      "url": "https://swgaide.com/resources/view.php?rid=1776835",
+      "waypoints": []
     },
     "1776836": {
       "active": true,
@@ -13943,7 +13960,8 @@
       },
       "type": "Corellian Domesticated Corn",
       "type_id": "codcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776836"
+      "url": "https://swgaide.com/resources/view.php?rid=1776836",
+      "waypoints": []
     },
     "1776837": {
       "active": true,
@@ -13964,7 +13982,8 @@
       },
       "type": "Corellian Domesticated Meat",
       "type_id": "codmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776837"
+      "url": "https://swgaide.com/resources/view.php?rid=1776837",
+      "waypoints": []
     },
     "1776838": {
       "active": false,
@@ -14002,7 +14021,8 @@
       },
       "type": "Corellian Domesticated Oats",
       "type_id": "codot",
-      "url": "https://swgaide.com/resources/view.php?rid=1776839"
+      "url": "https://swgaide.com/resources/view.php?rid=1776839",
+      "waypoints": []
     },
     "1776840": {
       "active": true,
@@ -14023,7 +14043,8 @@
       },
       "type": "Corellian Domesticated Rice",
       "type_id": "codrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1776840"
+      "url": "https://swgaide.com/resources/view.php?rid=1776840",
+      "waypoints": []
     },
     "1776841": {
       "active": true,
@@ -14044,7 +14065,8 @@
       },
       "type": "Corellian Domesticated Wheat",
       "type_id": "codwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776841"
+      "url": "https://swgaide.com/resources/view.php?rid=1776841",
+      "waypoints": []
     },
     "1776842": {
       "active": true,
@@ -14066,7 +14088,8 @@
       },
       "type": "Corellia Fiberplast",
       "type_id": "cofib",
-      "url": "https://swgaide.com/resources/view.php?rid=1776842"
+      "url": "https://swgaide.com/resources/view.php?rid=1776842",
+      "waypoints": []
     },
     "1776843": {
       "active": false,
@@ -14121,7 +14144,8 @@
       },
       "type": "Corellian Herbivore Meat",
       "type_id": "cohmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776845"
+      "url": "https://swgaide.com/resources/view.php?rid=1776845",
+      "waypoints": []
     },
     "1776846": {
       "active": false,
@@ -14160,7 +14184,8 @@
       },
       "type": "Corellian Insect Meat",
       "type_id": "coimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776847"
+      "url": "https://swgaide.com/resources/view.php?rid=1776847",
+      "waypoints": []
     },
     "1776848": {
       "active": false,
@@ -14232,7 +14257,8 @@
       },
       "type": "Corellian Solar Renewable Energy",
       "type_id": "coseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1776851"
+      "url": "https://swgaide.com/resources/view.php?rid=1776851",
+      "waypoints": []
     },
     "1776852": {
       "active": true,
@@ -14253,7 +14279,8 @@
       },
       "type": "Corellian Vegetable Beans",
       "type_id": "cobns",
-      "url": "https://swgaide.com/resources/view.php?rid=1776852"
+      "url": "https://swgaide.com/resources/view.php?rid=1776852",
+      "waypoints": []
     },
     "1776853": {
       "active": true,
@@ -14274,7 +14301,8 @@
       },
       "type": "Corellian Vegetable Fungus",
       "type_id": "cofgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1776853"
+      "url": "https://swgaide.com/resources/view.php?rid=1776853",
+      "waypoints": []
     },
     "1776854": {
       "active": true,
@@ -14295,7 +14323,8 @@
       },
       "type": "Corellian Vegetable Greens",
       "type_id": "cogrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776854"
+      "url": "https://swgaide.com/resources/view.php?rid=1776854",
+      "waypoints": []
     },
     "1776855": {
       "active": true,
@@ -14316,7 +14345,8 @@
       },
       "type": "Corellian Vegetable Tubers",
       "type_id": "cotub",
-      "url": "https://swgaide.com/resources/view.php?rid=1776855"
+      "url": "https://swgaide.com/resources/view.php?rid=1776855",
+      "waypoints": []
     },
     "1776856": {
       "active": true,
@@ -14335,7 +14365,8 @@
       },
       "type": "Corellian Water Vapor",
       "type_id": "cowtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1776856"
+      "url": "https://swgaide.com/resources/view.php?rid=1776856",
+      "waypoints": []
     },
     "1776857": {
       "active": true,
@@ -14356,7 +14387,8 @@
       },
       "type": "Corellian Wild Corn",
       "type_id": "cowcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776857"
+      "url": "https://swgaide.com/resources/view.php?rid=1776857",
+      "waypoints": []
     },
     "1776858": {
       "active": false,
@@ -14394,7 +14426,8 @@
       },
       "type": "Corellian Wild Milk",
       "type_id": "cowmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1776859"
+      "url": "https://swgaide.com/resources/view.php?rid=1776859",
+      "waypoints": []
     },
     "1776860": {
       "active": true,
@@ -14415,7 +14448,8 @@
       },
       "type": "Corellian Wild Oats",
       "type_id": "cowot",
-      "url": "https://swgaide.com/resources/view.php?rid=1776860"
+      "url": "https://swgaide.com/resources/view.php?rid=1776860",
+      "waypoints": []
     },
     "1776861": {
       "active": true,
@@ -14436,7 +14470,8 @@
       },
       "type": "Corellian Wild Rice",
       "type_id": "cowrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1776861"
+      "url": "https://swgaide.com/resources/view.php?rid=1776861",
+      "waypoints": []
     },
     "1776862": {
       "active": true,
@@ -14457,7 +14492,8 @@
       },
       "type": "Corellian Wild Wheat",
       "type_id": "cowwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776862"
+      "url": "https://swgaide.com/resources/view.php?rid=1776862",
+      "waypoints": []
     },
     "1776863": {
       "active": true,
@@ -14476,7 +14512,8 @@
       },
       "type": "Corellian Wind Renewable Energy",
       "type_id": "coweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1776863"
+      "url": "https://swgaide.com/resources/view.php?rid=1776863",
+      "waypoints": []
     },
     "1776864": {
       "active": true,
@@ -14498,7 +14535,8 @@
       },
       "type": "Corellian Wooly Hide",
       "type_id": "cowhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776864"
+      "url": "https://swgaide.com/resources/view.php?rid=1776864",
+      "waypoints": []
     },
     "1776865": {
       "active": true,
@@ -14524,7 +14562,8 @@
       },
       "type": "Corintium Intrusive Ore",
       "type_id": "coint",
-      "url": "https://swgaide.com/resources/view.php?rid=1776865"
+      "url": "https://swgaide.com/resources/view.php?rid=1776865",
+      "waypoints": []
     },
     "1776866": {
       "active": true,
@@ -14548,7 +14587,8 @@
       },
       "type": "Corintium Intrusive Ore",
       "type_id": "coint",
-      "url": "https://swgaide.com/resources/view.php?rid=1776866"
+      "url": "https://swgaide.com/resources/view.php?rid=1776866",
+      "waypoints": []
     },
     "1776867": {
       "active": true,
@@ -14579,7 +14619,8 @@
       },
       "type": "Cortosis Siliclastic Ore",
       "type_id": "cosil",
-      "url": "https://swgaide.com/resources/view.php?rid=1776867"
+      "url": "https://swgaide.com/resources/view.php?rid=1776867",
+      "waypoints": []
     },
     "1776868": {
       "active": true,
@@ -14610,7 +14651,8 @@
       },
       "type": "Cortosis Siliclastic Ore",
       "type_id": "cosil",
-      "url": "https://swgaide.com/resources/view.php?rid=1776868"
+      "url": "https://swgaide.com/resources/view.php?rid=1776868",
+      "waypoints": []
     },
     "1776869": {
       "active": false,
@@ -14653,7 +14695,8 @@
       },
       "type": "Dantooine Animal Bones",
       "type_id": "dnabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776870"
+      "url": "https://swgaide.com/resources/view.php?rid=1776870",
+      "waypoints": []
     },
     "1776871": {
       "active": false,
@@ -14692,7 +14735,8 @@
       },
       "type": "Dantooine Avian Meat",
       "type_id": "dnamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776872"
+      "url": "https://swgaide.com/resources/view.php?rid=1776872",
+      "waypoints": []
     },
     "1776873": {
       "active": true,
@@ -14713,7 +14757,8 @@
       },
       "type": "Dantooine Berry Fruit",
       "type_id": "dnber",
-      "url": "https://swgaide.com/resources/view.php?rid=1776873"
+      "url": "https://swgaide.com/resources/view.php?rid=1776873",
+      "waypoints": []
     },
     "1776874": {
       "active": true,
@@ -14735,7 +14780,8 @@
       },
       "type": "Dantooine Bristley Hide",
       "type_id": "dnbhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776874"
+      "url": "https://swgaide.com/resources/view.php?rid=1776874",
+      "waypoints": []
     },
     "1776875": {
       "active": true,
@@ -14756,7 +14802,8 @@
       },
       "type": "Dantooine Carnivore Meat",
       "type_id": "dncmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776875"
+      "url": "https://swgaide.com/resources/view.php?rid=1776875",
+      "waypoints": []
     },
     "1776876": {
       "active": false,
@@ -14795,7 +14842,8 @@
       },
       "type": "Dantooine Crustacean Meat",
       "type_id": "dntmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776877"
+      "url": "https://swgaide.com/resources/view.php?rid=1776877",
+      "waypoints": []
     },
     "1776878": {
       "active": true,
@@ -14817,7 +14865,8 @@
       },
       "type": "Dantooine Deciduous Wood",
       "type_id": "dndwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776878"
+      "url": "https://swgaide.com/resources/view.php?rid=1776878",
+      "waypoints": []
     },
     "1776879": {
       "active": true,
@@ -14838,7 +14887,8 @@
       },
       "type": "Dantooine Domesticated Corn",
       "type_id": "dndcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776879"
+      "url": "https://swgaide.com/resources/view.php?rid=1776879",
+      "waypoints": []
     },
     "1776880": {
       "active": true,
@@ -14859,7 +14909,8 @@
       },
       "type": "Dantooine Domesticated Meat",
       "type_id": "dndmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776880"
+      "url": "https://swgaide.com/resources/view.php?rid=1776880",
+      "waypoints": []
     },
     "1776881": {
       "active": true,
@@ -14880,7 +14931,8 @@
       },
       "type": "Dantooine Domesticated Milk",
       "type_id": "dndmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1776881"
+      "url": "https://swgaide.com/resources/view.php?rid=1776881",
+      "waypoints": []
     },
     "1776882": {
       "active": true,
@@ -14901,7 +14953,8 @@
       },
       "type": "Dantooine Domesticated Oats",
       "type_id": "dndot",
-      "url": "https://swgaide.com/resources/view.php?rid=1776882"
+      "url": "https://swgaide.com/resources/view.php?rid=1776882",
+      "waypoints": []
     },
     "1776883": {
       "active": true,
@@ -14922,7 +14975,8 @@
       },
       "type": "Dantooine Domesticated Rice",
       "type_id": "dndrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1776883"
+      "url": "https://swgaide.com/resources/view.php?rid=1776883",
+      "waypoints": []
     },
     "1776884": {
       "active": true,
@@ -14943,7 +14997,8 @@
       },
       "type": "Dantooine Domesticated Wheat",
       "type_id": "dndwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776884"
+      "url": "https://swgaide.com/resources/view.php?rid=1776884",
+      "waypoints": []
     },
     "1776885": {
       "active": true,
@@ -14965,7 +15020,8 @@
       },
       "type": "Dantooine Evergreen Wood",
       "type_id": "dnewd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776885"
+      "url": "https://swgaide.com/resources/view.php?rid=1776885",
+      "waypoints": []
     },
     "1776886": {
       "active": false,
@@ -15004,7 +15060,8 @@
       },
       "type": "Dantooine Fish Meat",
       "type_id": "dnfmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776887"
+      "url": "https://swgaide.com/resources/view.php?rid=1776887",
+      "waypoints": []
     },
     "1776888": {
       "active": true,
@@ -15025,7 +15082,8 @@
       },
       "type": "Dantooine Flower Fruit",
       "type_id": "dnflr",
-      "url": "https://swgaide.com/resources/view.php?rid=1776888"
+      "url": "https://swgaide.com/resources/view.php?rid=1776888",
+      "waypoints": []
     },
     "1776889": {
       "active": true,
@@ -15046,7 +15104,8 @@
       },
       "type": "Dantooine Fruit",
       "type_id": "dnfts",
-      "url": "https://swgaide.com/resources/view.php?rid=1776889"
+      "url": "https://swgaide.com/resources/view.php?rid=1776889",
+      "waypoints": []
     },
     "1776890": {
       "active": true,
@@ -15067,7 +15126,8 @@
       },
       "type": "Dantooine Herbivore Meat",
       "type_id": "dnhmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776890"
+      "url": "https://swgaide.com/resources/view.php?rid=1776890",
+      "waypoints": []
     },
     "1776891": {
       "active": false,
@@ -15124,7 +15184,8 @@
       },
       "type": "Dantooine Leathery Hide",
       "type_id": "dnlhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776893"
+      "url": "https://swgaide.com/resources/view.php?rid=1776893",
+      "waypoints": []
     },
     "1776894": {
       "active": true,
@@ -15145,7 +15206,8 @@
       },
       "type": "Dantooine Mollusk Meat",
       "type_id": "dnmmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776894"
+      "url": "https://swgaide.com/resources/view.php?rid=1776894",
+      "waypoints": []
     },
     "1776895": {
       "active": true,
@@ -15167,7 +15229,8 @@
       },
       "type": "Dantooine Scaley Hide",
       "type_id": "dnshd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776895"
+      "url": "https://swgaide.com/resources/view.php?rid=1776895",
+      "waypoints": []
     },
     "1776896": {
       "active": true,
@@ -15186,7 +15249,8 @@
       },
       "type": "Dantooine Solar Renewable Energy",
       "type_id": "dnseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1776896"
+      "url": "https://swgaide.com/resources/view.php?rid=1776896",
+      "waypoints": []
     },
     "1776897": {
       "active": false,
@@ -15224,7 +15288,8 @@
       },
       "type": "Dantooine Vegetable Fungus",
       "type_id": "dnfgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1776898"
+      "url": "https://swgaide.com/resources/view.php?rid=1776898",
+      "waypoints": []
     },
     "1776899": {
       "active": true,
@@ -15245,7 +15310,8 @@
       },
       "type": "Dantooine Vegetable Greens",
       "type_id": "dngrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776899"
+      "url": "https://swgaide.com/resources/view.php?rid=1776899",
+      "waypoints": []
     },
     "1776900": {
       "active": true,
@@ -15266,7 +15332,8 @@
       },
       "type": "Dantooine Vegetable Tubers",
       "type_id": "dntub",
-      "url": "https://swgaide.com/resources/view.php?rid=1776900"
+      "url": "https://swgaide.com/resources/view.php?rid=1776900",
+      "waypoints": []
     },
     "1776901": {
       "active": false,
@@ -15302,7 +15369,8 @@
       },
       "type": "Dantooine Wild Corn",
       "type_id": "dnwcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776902"
+      "url": "https://swgaide.com/resources/view.php?rid=1776902",
+      "waypoints": []
     },
     "1776903": {
       "active": true,
@@ -15323,7 +15391,8 @@
       },
       "type": "Dantooine Wild Meat",
       "type_id": "dnwmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776903"
+      "url": "https://swgaide.com/resources/view.php?rid=1776903",
+      "waypoints": []
     },
     "1776904": {
       "active": false,
@@ -15361,7 +15430,8 @@
       },
       "type": "Dantooine Wild Oats",
       "type_id": "dnwot",
-      "url": "https://swgaide.com/resources/view.php?rid=1776905"
+      "url": "https://swgaide.com/resources/view.php?rid=1776905",
+      "waypoints": []
     },
     "1776906": {
       "active": true,
@@ -15382,7 +15452,8 @@
       },
       "type": "Dantooine Wild Rice",
       "type_id": "dnwrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1776906"
+      "url": "https://swgaide.com/resources/view.php?rid=1776906",
+      "waypoints": []
     },
     "1776907": {
       "active": false,
@@ -15436,7 +15507,8 @@
       },
       "type": "Dantooine Wooly Hide",
       "type_id": "dnwhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776909"
+      "url": "https://swgaide.com/resources/view.php?rid=1776909",
+      "waypoints": []
     },
     "1776910": {
       "active": true,
@@ -15458,7 +15530,8 @@
       },
       "type": "Dathomirian Animal Bones",
       "type_id": "daabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776910"
+      "url": "https://swgaide.com/resources/view.php?rid=1776910",
+      "waypoints": []
     },
     "1776911": {
       "active": true,
@@ -15480,7 +15553,8 @@
       },
       "type": "Dathomirian Avian Bones",
       "type_id": "davbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776911"
+      "url": "https://swgaide.com/resources/view.php?rid=1776911",
+      "waypoints": []
     },
     "1776912": {
       "active": true,
@@ -15501,7 +15575,8 @@
       },
       "type": "Dathomirian Avian Meat",
       "type_id": "daamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776912"
+      "url": "https://swgaide.com/resources/view.php?rid=1776912",
+      "waypoints": []
     },
     "1776913": {
       "active": true,
@@ -15522,7 +15597,8 @@
       },
       "type": "Dathomirian Berry Fruit",
       "type_id": "daber",
-      "url": "https://swgaide.com/resources/view.php?rid=1776913"
+      "url": "https://swgaide.com/resources/view.php?rid=1776913",
+      "waypoints": []
     },
     "1776914": {
       "active": true,
@@ -15544,7 +15620,8 @@
       },
       "type": "Dathomirian Bristley Hide",
       "type_id": "dabhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776914"
+      "url": "https://swgaide.com/resources/view.php?rid=1776914",
+      "waypoints": []
     },
     "1776915": {
       "active": true,
@@ -15565,7 +15642,8 @@
       },
       "type": "Dathomirian Carnivore Meat",
       "type_id": "dacmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776915"
+      "url": "https://swgaide.com/resources/view.php?rid=1776915",
+      "waypoints": []
     },
     "1776916": {
       "active": true,
@@ -15587,7 +15665,8 @@
       },
       "type": "Dathomirian Conifer Wood",
       "type_id": "dacwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776916"
+      "url": "https://swgaide.com/resources/view.php?rid=1776916",
+      "waypoints": []
     },
     "1776917": {
       "active": true,
@@ -15608,7 +15687,8 @@
       },
       "type": "Dathomirian Crustacean Meat",
       "type_id": "datmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776917"
+      "url": "https://swgaide.com/resources/view.php?rid=1776917",
+      "waypoints": []
     },
     "1776918": {
       "active": false,
@@ -15647,7 +15727,8 @@
       },
       "type": "Dathomirian Domesticated Corn",
       "type_id": "dadcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776919"
+      "url": "https://swgaide.com/resources/view.php?rid=1776919",
+      "waypoints": []
     },
     "1776920": {
       "active": true,
@@ -15668,7 +15749,8 @@
       },
       "type": "Dathomirian Domesticated Meat",
       "type_id": "dadmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776920"
+      "url": "https://swgaide.com/resources/view.php?rid=1776920",
+      "waypoints": []
     },
     "1776921": {
       "active": true,
@@ -15689,7 +15771,8 @@
       },
       "type": "Dathomirian Domesticated Milk",
       "type_id": "dadmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1776921"
+      "url": "https://swgaide.com/resources/view.php?rid=1776921",
+      "waypoints": []
     },
     "1776922": {
       "active": true,
@@ -15710,7 +15793,8 @@
       },
       "type": "Dathomirian Domesticated Oats",
       "type_id": "dadot",
-      "url": "https://swgaide.com/resources/view.php?rid=1776922"
+      "url": "https://swgaide.com/resources/view.php?rid=1776922",
+      "waypoints": []
     },
     "1776923": {
       "active": true,
@@ -15731,7 +15815,8 @@
       },
       "type": "Dathomirian Domesticated Rice",
       "type_id": "dadrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1776923"
+      "url": "https://swgaide.com/resources/view.php?rid=1776923",
+      "waypoints": []
     },
     "1776924": {
       "active": true,
@@ -15752,7 +15837,8 @@
       },
       "type": "Dathomirian Domesticated Wheat",
       "type_id": "dadwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776924"
+      "url": "https://swgaide.com/resources/view.php?rid=1776924",
+      "waypoints": []
     },
     "1776925": {
       "active": true,
@@ -15774,7 +15860,8 @@
       },
       "type": "Dathomirian Evergreen Wood",
       "type_id": "daewd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776925"
+      "url": "https://swgaide.com/resources/view.php?rid=1776925",
+      "waypoints": []
     },
     "1776926": {
       "active": true,
@@ -15796,7 +15883,8 @@
       },
       "type": "Dathomirian Fiberplast",
       "type_id": "dafib",
-      "url": "https://swgaide.com/resources/view.php?rid=1776926"
+      "url": "https://swgaide.com/resources/view.php?rid=1776926",
+      "waypoints": []
     },
     "1776927": {
       "active": true,
@@ -15817,7 +15905,8 @@
       },
       "type": "Dathomirian Fish Meat",
       "type_id": "dafmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776927"
+      "url": "https://swgaide.com/resources/view.php?rid=1776927",
+      "waypoints": []
     },
     "1776928": {
       "active": false,
@@ -15855,7 +15944,8 @@
       },
       "type": "Dathomirian Fruit",
       "type_id": "dafts",
-      "url": "https://swgaide.com/resources/view.php?rid=1776929"
+      "url": "https://swgaide.com/resources/view.php?rid=1776929",
+      "waypoints": []
     },
     "1776930": {
       "active": true,
@@ -15876,7 +15966,8 @@
       },
       "type": "Dathomirian Herbivore Meat",
       "type_id": "dahmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776930"
+      "url": "https://swgaide.com/resources/view.php?rid=1776930",
+      "waypoints": []
     },
     "1776931": {
       "active": true,
@@ -15898,7 +15989,8 @@
       },
       "type": "Dathomirian Horn",
       "type_id": "dahrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776931"
+      "url": "https://swgaide.com/resources/view.php?rid=1776931",
+      "waypoints": []
     },
     "1776932": {
       "active": true,
@@ -15919,7 +16011,8 @@
       },
       "type": "Dathomirian Insect Meat",
       "type_id": "daimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776932"
+      "url": "https://swgaide.com/resources/view.php?rid=1776932",
+      "waypoints": []
     },
     "1776933": {
       "active": true,
@@ -15941,7 +16034,8 @@
       },
       "type": "Dathomirian Leathery Hide",
       "type_id": "dalhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776933"
+      "url": "https://swgaide.com/resources/view.php?rid=1776933",
+      "waypoints": []
     },
     "1776934": {
       "active": true,
@@ -15962,7 +16056,8 @@
       },
       "type": "Dathomirian Mollusk Meat",
       "type_id": "dammt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776934"
+      "url": "https://swgaide.com/resources/view.php?rid=1776934",
+      "waypoints": []
     },
     "1776935": {
       "active": true,
@@ -15984,7 +16079,8 @@
       },
       "type": "Dathomirian Scaley Hide",
       "type_id": "dashd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776935"
+      "url": "https://swgaide.com/resources/view.php?rid=1776935",
+      "waypoints": []
     },
     "1776936": {
       "active": true,
@@ -16003,7 +16099,8 @@
       },
       "type": "Dathomirian Solar Renewable Energy",
       "type_id": "daseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1776936"
+      "url": "https://swgaide.com/resources/view.php?rid=1776936",
+      "waypoints": []
     },
     "1776937": {
       "active": true,
@@ -16024,7 +16121,8 @@
       },
       "type": "Dathomirian Vegetable Beans",
       "type_id": "dabns",
-      "url": "https://swgaide.com/resources/view.php?rid=1776937"
+      "url": "https://swgaide.com/resources/view.php?rid=1776937",
+      "waypoints": []
     },
     "1776938": {
       "active": true,
@@ -16045,7 +16143,8 @@
       },
       "type": "Dathomirian Vegetable Fungus",
       "type_id": "dafgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1776938"
+      "url": "https://swgaide.com/resources/view.php?rid=1776938",
+      "waypoints": []
     },
     "1776939": {
       "active": true,
@@ -16066,7 +16165,8 @@
       },
       "type": "Dathomirian Vegetable Greens",
       "type_id": "dagrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776939"
+      "url": "https://swgaide.com/resources/view.php?rid=1776939",
+      "waypoints": []
     },
     "1776940": {
       "active": false,
@@ -16104,7 +16204,8 @@
       },
       "type": "Dathomirian Wild Corn",
       "type_id": "dawcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776941"
+      "url": "https://swgaide.com/resources/view.php?rid=1776941",
+      "waypoints": []
     },
     "1776942": {
       "active": true,
@@ -16125,7 +16226,8 @@
       },
       "type": "Dathomirian Wild Meat",
       "type_id": "dawmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776942"
+      "url": "https://swgaide.com/resources/view.php?rid=1776942",
+      "waypoints": []
     },
     "1776943": {
       "active": true,
@@ -16146,7 +16248,8 @@
       },
       "type": "Dathomirian Wild Milk",
       "type_id": "dawmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1776943"
+      "url": "https://swgaide.com/resources/view.php?rid=1776943",
+      "waypoints": []
     },
     "1776944": {
       "active": true,
@@ -16167,7 +16270,8 @@
       },
       "type": "Dathomirian Wild Oats",
       "type_id": "dawot",
-      "url": "https://swgaide.com/resources/view.php?rid=1776944"
+      "url": "https://swgaide.com/resources/view.php?rid=1776944",
+      "waypoints": []
     },
     "1776945": {
       "active": true,
@@ -16188,7 +16292,8 @@
       },
       "type": "Dathomirian Wild Rice",
       "type_id": "dawrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1776945"
+      "url": "https://swgaide.com/resources/view.php?rid=1776945",
+      "waypoints": []
     },
     "1776946": {
       "active": true,
@@ -16207,7 +16312,8 @@
       },
       "type": "Dathomirian Wind Renewable Energy",
       "type_id": "daweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1776946"
+      "url": "https://swgaide.com/resources/view.php?rid=1776946",
+      "waypoints": []
     },
     "1776947": {
       "active": false,
@@ -16278,7 +16384,8 @@
       },
       "type": "Diatium Copper",
       "type_id": "dicpr",
-      "url": "https://swgaide.com/resources/view.php?rid=1776949"
+      "url": "https://swgaide.com/resources/view.php?rid=1776949",
+      "waypoints": []
     },
     "1776950": {
       "active": true,
@@ -16310,7 +16417,8 @@
       },
       "type": "Ditanium Steel",
       "type_id": "dtstl",
-      "url": "https://swgaide.com/resources/view.php?rid=1776950"
+      "url": "https://swgaide.com/resources/view.php?rid=1776950",
+      "waypoints": []
     },
     "1776951": {
       "active": false,
@@ -16358,7 +16466,8 @@
       },
       "type": "Doonium Iron",
       "type_id": "doirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776952"
+      "url": "https://swgaide.com/resources/view.php?rid=1776952",
+      "waypoints": []
     },
     "1776953": {
       "active": true,
@@ -16382,7 +16491,8 @@
       },
       "type": "Dylinium Intrusive Ore",
       "type_id": "dyint",
-      "url": "https://swgaide.com/resources/view.php?rid=1776953"
+      "url": "https://swgaide.com/resources/view.php?rid=1776953",
+      "waypoints": []
     },
     "1776954": {
       "active": true,
@@ -16404,7 +16514,8 @@
       },
       "type": "Endorian Animal Bones",
       "type_id": "enabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776954"
+      "url": "https://swgaide.com/resources/view.php?rid=1776954",
+      "waypoints": []
     },
     "1776955": {
       "active": false,
@@ -16443,7 +16554,8 @@
       },
       "type": "Endorian Avian Meat",
       "type_id": "enamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776956"
+      "url": "https://swgaide.com/resources/view.php?rid=1776956",
+      "waypoints": []
     },
     "1776957": {
       "active": true,
@@ -16464,7 +16576,8 @@
       },
       "type": "Endorian Berry Fruit",
       "type_id": "enber",
-      "url": "https://swgaide.com/resources/view.php?rid=1776957"
+      "url": "https://swgaide.com/resources/view.php?rid=1776957",
+      "waypoints": []
     },
     "1776958": {
       "active": true,
@@ -16486,7 +16599,8 @@
       },
       "type": "Endorian Bristley Hide",
       "type_id": "enbhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776958"
+      "url": "https://swgaide.com/resources/view.php?rid=1776958",
+      "waypoints": []
     },
     "1776959": {
       "active": true,
@@ -16507,7 +16621,8 @@
       },
       "type": "Endorian Carnivore Meat",
       "type_id": "encmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776959"
+      "url": "https://swgaide.com/resources/view.php?rid=1776959",
+      "waypoints": []
     },
     "1776960": {
       "active": true,
@@ -16529,7 +16644,8 @@
       },
       "type": "Endorian Conifer Wood",
       "type_id": "encwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776960"
+      "url": "https://swgaide.com/resources/view.php?rid=1776960",
+      "waypoints": []
     },
     "1776961": {
       "active": true,
@@ -16550,7 +16666,8 @@
       },
       "type": "Endorian Crustacean Meat",
       "type_id": "entmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776961"
+      "url": "https://swgaide.com/resources/view.php?rid=1776961",
+      "waypoints": []
     },
     "1776962": {
       "active": false,
@@ -16606,7 +16723,8 @@
       },
       "type": "Endorian Domesticated Meat",
       "type_id": "endmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776964"
+      "url": "https://swgaide.com/resources/view.php?rid=1776964",
+      "waypoints": []
     },
     "1776965": {
       "active": false,
@@ -16644,7 +16762,8 @@
       },
       "type": "Endorian Domesticated Oats",
       "type_id": "endot",
-      "url": "https://swgaide.com/resources/view.php?rid=1776966"
+      "url": "https://swgaide.com/resources/view.php?rid=1776966",
+      "waypoints": []
     },
     "1776967": {
       "active": true,
@@ -16665,7 +16784,8 @@
       },
       "type": "Endorian Domesticated Rice",
       "type_id": "endrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1776967"
+      "url": "https://swgaide.com/resources/view.php?rid=1776967",
+      "waypoints": []
     },
     "1776968": {
       "active": true,
@@ -16686,7 +16806,8 @@
       },
       "type": "Endorian Domesticated Wheat",
       "type_id": "endwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776968"
+      "url": "https://swgaide.com/resources/view.php?rid=1776968",
+      "waypoints": []
     },
     "1776969": {
       "active": true,
@@ -16708,7 +16829,8 @@
       },
       "type": "Endorian Evergreen Wood",
       "type_id": "enewd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776969"
+      "url": "https://swgaide.com/resources/view.php?rid=1776969",
+      "waypoints": []
     },
     "1776970": {
       "active": true,
@@ -16730,7 +16852,8 @@
       },
       "type": "Endorian Fiberplast",
       "type_id": "enfib",
-      "url": "https://swgaide.com/resources/view.php?rid=1776970"
+      "url": "https://swgaide.com/resources/view.php?rid=1776970",
+      "waypoints": []
     },
     "1776971": {
       "active": true,
@@ -16751,7 +16874,8 @@
       },
       "type": "Endorian Fish Meat",
       "type_id": "enfmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776971"
+      "url": "https://swgaide.com/resources/view.php?rid=1776971",
+      "waypoints": []
     },
     "1776972": {
       "active": true,
@@ -16772,7 +16896,8 @@
       },
       "type": "Endorian Flower Fruit",
       "type_id": "enflr",
-      "url": "https://swgaide.com/resources/view.php?rid=1776972"
+      "url": "https://swgaide.com/resources/view.php?rid=1776972",
+      "waypoints": []
     },
     "1776973": {
       "active": true,
@@ -16793,7 +16918,8 @@
       },
       "type": "Endorian Fruit",
       "type_id": "enfts",
-      "url": "https://swgaide.com/resources/view.php?rid=1776973"
+      "url": "https://swgaide.com/resources/view.php?rid=1776973",
+      "waypoints": []
     },
     "1776974": {
       "active": true,
@@ -16814,7 +16940,8 @@
       },
       "type": "Endorian Herbivore Meat",
       "type_id": "enhmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776974"
+      "url": "https://swgaide.com/resources/view.php?rid=1776974",
+      "waypoints": []
     },
     "1776975": {
       "active": true,
@@ -16836,7 +16963,8 @@
       },
       "type": "Endorian Horn",
       "type_id": "enhrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1776975"
+      "url": "https://swgaide.com/resources/view.php?rid=1776975",
+      "waypoints": []
     },
     "1776976": {
       "active": true,
@@ -16857,7 +16985,8 @@
       },
       "type": "Endorian Insect Meat",
       "type_id": "enimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776976"
+      "url": "https://swgaide.com/resources/view.php?rid=1776976",
+      "waypoints": []
     },
     "1776977": {
       "active": true,
@@ -16879,7 +17008,8 @@
       },
       "type": "Endorian Leathery Hide",
       "type_id": "enlhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776977"
+      "url": "https://swgaide.com/resources/view.php?rid=1776977",
+      "waypoints": []
     },
     "1776978": {
       "active": true,
@@ -16900,7 +17030,8 @@
       },
       "type": "Endorian Mollusk Meat",
       "type_id": "enmmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776978"
+      "url": "https://swgaide.com/resources/view.php?rid=1776978",
+      "waypoints": []
     },
     "1776979": {
       "active": true,
@@ -16922,7 +17053,8 @@
       },
       "type": "Endorian Scaley Hide",
       "type_id": "enshd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776979"
+      "url": "https://swgaide.com/resources/view.php?rid=1776979",
+      "waypoints": []
     },
     "1776980": {
       "active": true,
@@ -16941,7 +17073,8 @@
       },
       "type": "Endorian Solar Renewable Energy",
       "type_id": "enseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1776980"
+      "url": "https://swgaide.com/resources/view.php?rid=1776980",
+      "waypoints": []
     },
     "1776981": {
       "active": true,
@@ -16962,7 +17095,8 @@
       },
       "type": "Endorian Vegetable Beans",
       "type_id": "enbns",
-      "url": "https://swgaide.com/resources/view.php?rid=1776981"
+      "url": "https://swgaide.com/resources/view.php?rid=1776981",
+      "waypoints": []
     },
     "1776982": {
       "active": true,
@@ -16983,7 +17117,8 @@
       },
       "type": "Endorian Vegetable Fungus",
       "type_id": "enfgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1776982"
+      "url": "https://swgaide.com/resources/view.php?rid=1776982",
+      "waypoints": []
     },
     "1776983": {
       "active": false,
@@ -17021,7 +17156,8 @@
       },
       "type": "Endorian Vegetable Tubers",
       "type_id": "entub",
-      "url": "https://swgaide.com/resources/view.php?rid=1776984"
+      "url": "https://swgaide.com/resources/view.php?rid=1776984",
+      "waypoints": []
     },
     "1776985": {
       "active": false,
@@ -17074,7 +17210,8 @@
       },
       "type": "Endorian Wild Meat",
       "type_id": "enwmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776987"
+      "url": "https://swgaide.com/resources/view.php?rid=1776987",
+      "waypoints": []
     },
     "1776988": {
       "active": false,
@@ -17112,7 +17249,8 @@
       },
       "type": "Endorian Wild Oats",
       "type_id": "enwot",
-      "url": "https://swgaide.com/resources/view.php?rid=1776989"
+      "url": "https://swgaide.com/resources/view.php?rid=1776989",
+      "waypoints": []
     },
     "1776990": {
       "active": true,
@@ -17133,7 +17271,8 @@
       },
       "type": "Endorian Wild Rice",
       "type_id": "enwrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1776990"
+      "url": "https://swgaide.com/resources/view.php?rid=1776990",
+      "waypoints": []
     },
     "1776991": {
       "active": true,
@@ -17154,7 +17293,8 @@
       },
       "type": "Endorian Wild Wheat",
       "type_id": "enwwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1776991"
+      "url": "https://swgaide.com/resources/view.php?rid=1776991",
+      "waypoints": []
     },
     "1776992": {
       "active": true,
@@ -17173,7 +17313,8 @@
       },
       "type": "Endorian Wind Renewable Energy",
       "type_id": "enweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1776992"
+      "url": "https://swgaide.com/resources/view.php?rid=1776992",
+      "waypoints": []
     },
     "1776993": {
       "active": true,
@@ -17195,7 +17336,8 @@
       },
       "type": "Endorian Wooly Hide",
       "type_id": "enwhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776993"
+      "url": "https://swgaide.com/resources/view.php?rid=1776993",
+      "waypoints": []
     },
     "1776994": {
       "active": true,
@@ -17219,7 +17361,8 @@
       },
       "type": "Fermionic Siliclastic Ore",
       "type_id": "fesil",
-      "url": "https://swgaide.com/resources/view.php?rid=1776994"
+      "url": "https://swgaide.com/resources/view.php?rid=1776994",
+      "waypoints": []
     },
     "1776995": {
       "active": true,
@@ -17250,7 +17393,8 @@
       },
       "type": "Frasium Carbonate Ore",
       "type_id": "frcrb",
-      "url": "https://swgaide.com/resources/view.php?rid=1776995"
+      "url": "https://swgaide.com/resources/view.php?rid=1776995",
+      "waypoints": []
     },
     "1776996": {
       "active": true,
@@ -17282,7 +17426,8 @@
       },
       "type": "Gallinorian Rainbow Gem Crystalline Gemstone",
       "type_id": "gacry",
-      "url": "https://swgaide.com/resources/view.php?rid=1776996"
+      "url": "https://swgaide.com/resources/view.php?rid=1776996",
+      "waypoints": []
     },
     "1776997": {
       "active": true,
@@ -17304,7 +17449,8 @@
       },
       "type": "Gravitonic Fiberplast",
       "type_id": "grfib",
-      "url": "https://swgaide.com/resources/view.php?rid=1776997"
+      "url": "https://swgaide.com/resources/view.php?rid=1776997",
+      "waypoints": []
     },
     "1776998": {
       "active": false,
@@ -17345,7 +17491,8 @@
       },
       "type": "High Grade Polymetric Radioactive",
       "type_id": "hpkrd",
-      "url": "https://swgaide.com/resources/view.php?rid=1776999"
+      "url": "https://swgaide.com/resources/view.php?rid=1776999",
+      "waypoints": []
     },
     "1777000": {
       "active": true,
@@ -17370,7 +17517,8 @@
       },
       "type": "Kammris Iron",
       "type_id": "kairn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777000"
+      "url": "https://swgaide.com/resources/view.php?rid=1777000",
+      "waypoints": []
     },
     "1777001": {
       "active": true,
@@ -17392,7 +17540,8 @@
       },
       "type": "Lokian Animal Bones",
       "type_id": "loabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777001"
+      "url": "https://swgaide.com/resources/view.php?rid=1777001",
+      "waypoints": []
     },
     "1777002": {
       "active": true,
@@ -17414,7 +17563,8 @@
       },
       "type": "Lokian Avian Bones",
       "type_id": "lovbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777002"
+      "url": "https://swgaide.com/resources/view.php?rid=1777002",
+      "waypoints": []
     },
     "1777003": {
       "active": true,
@@ -17435,7 +17585,8 @@
       },
       "type": "Lokian Avian Meat",
       "type_id": "loamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777003"
+      "url": "https://swgaide.com/resources/view.php?rid=1777003",
+      "waypoints": []
     },
     "1777004": {
       "active": true,
@@ -17456,7 +17607,8 @@
       },
       "type": "Lokian Berry Fruit",
       "type_id": "lober",
-      "url": "https://swgaide.com/resources/view.php?rid=1777004"
+      "url": "https://swgaide.com/resources/view.php?rid=1777004",
+      "waypoints": []
     },
     "1777005": {
       "active": true,
@@ -17478,7 +17630,8 @@
       },
       "type": "Lokian Bristley Hide",
       "type_id": "lobhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777005"
+      "url": "https://swgaide.com/resources/view.php?rid=1777005",
+      "waypoints": []
     },
     "1777006": {
       "active": false,
@@ -17517,7 +17670,8 @@
       },
       "type": "Lokian Conifer Wood",
       "type_id": "locwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777007"
+      "url": "https://swgaide.com/resources/view.php?rid=1777007",
+      "waypoints": []
     },
     "1777008": {
       "active": true,
@@ -17538,7 +17692,8 @@
       },
       "type": "Lokian Crustacean Meat",
       "type_id": "lotmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777008"
+      "url": "https://swgaide.com/resources/view.php?rid=1777008",
+      "waypoints": []
     },
     "1777009": {
       "active": true,
@@ -17560,7 +17715,8 @@
       },
       "type": "Lokian Deciduous Wood",
       "type_id": "lodwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777009"
+      "url": "https://swgaide.com/resources/view.php?rid=1777009",
+      "waypoints": []
     },
     "1777010": {
       "active": true,
@@ -17581,7 +17737,8 @@
       },
       "type": "Lokian Domesticated Corn",
       "type_id": "lodcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777010"
+      "url": "https://swgaide.com/resources/view.php?rid=1777010",
+      "waypoints": []
     },
     "1777011": {
       "active": true,
@@ -17602,7 +17759,8 @@
       },
       "type": "Lokian Domesticated Meat",
       "type_id": "lodmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777011"
+      "url": "https://swgaide.com/resources/view.php?rid=1777011",
+      "waypoints": []
     },
     "1777012": {
       "active": false,
@@ -17640,7 +17798,8 @@
       },
       "type": "Lokian Domesticated Oats",
       "type_id": "lodot",
-      "url": "https://swgaide.com/resources/view.php?rid=1777013"
+      "url": "https://swgaide.com/resources/view.php?rid=1777013",
+      "waypoints": []
     },
     "1777014": {
       "active": false,
@@ -17678,7 +17837,8 @@
       },
       "type": "Lokian Domesticated Wheat",
       "type_id": "lodwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777015"
+      "url": "https://swgaide.com/resources/view.php?rid=1777015",
+      "waypoints": []
     },
     "1777016": {
       "active": true,
@@ -17700,7 +17860,8 @@
       },
       "type": "Lokian Evergreen Wood",
       "type_id": "loewd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777016"
+      "url": "https://swgaide.com/resources/view.php?rid=1777016",
+      "waypoints": []
     },
     "1777017": {
       "active": true,
@@ -17722,7 +17883,8 @@
       },
       "type": "Lokian Fiberplast",
       "type_id": "lofib",
-      "url": "https://swgaide.com/resources/view.php?rid=1777017"
+      "url": "https://swgaide.com/resources/view.php?rid=1777017",
+      "waypoints": []
     },
     "1777018": {
       "active": true,
@@ -17743,7 +17905,8 @@
       },
       "type": "Lokian Fish Meat",
       "type_id": "lofmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777018"
+      "url": "https://swgaide.com/resources/view.php?rid=1777018",
+      "waypoints": []
     },
     "1777019": {
       "active": false,
@@ -17798,7 +17961,8 @@
       },
       "type": "Lokian Herbivore Meat",
       "type_id": "lohmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777021"
+      "url": "https://swgaide.com/resources/view.php?rid=1777021",
+      "waypoints": []
     },
     "1777022": {
       "active": true,
@@ -17820,7 +17984,8 @@
       },
       "type": "Lokian Horn",
       "type_id": "lohrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777022"
+      "url": "https://swgaide.com/resources/view.php?rid=1777022",
+      "waypoints": []
     },
     "1777023": {
       "active": true,
@@ -17841,7 +18006,8 @@
       },
       "type": "Lokian Insect Meat",
       "type_id": "loimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777023"
+      "url": "https://swgaide.com/resources/view.php?rid=1777023",
+      "waypoints": []
     },
     "1777024": {
       "active": true,
@@ -17863,7 +18029,8 @@
       },
       "type": "Lokian Leathery Hide",
       "type_id": "lolhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777024"
+      "url": "https://swgaide.com/resources/view.php?rid=1777024",
+      "waypoints": []
     },
     "1777025": {
       "active": true,
@@ -17884,7 +18051,8 @@
       },
       "type": "Lokian Mollusk Meat",
       "type_id": "lommt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777025"
+      "url": "https://swgaide.com/resources/view.php?rid=1777025",
+      "waypoints": []
     },
     "1777026": {
       "active": true,
@@ -17906,7 +18074,8 @@
       },
       "type": "Lokian Scaley Hide",
       "type_id": "loshd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777026"
+      "url": "https://swgaide.com/resources/view.php?rid=1777026",
+      "waypoints": []
     },
     "1777027": {
       "active": true,
@@ -17925,7 +18094,8 @@
       },
       "type": "Lokian Solar Renewable Energy",
       "type_id": "loseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1777027"
+      "url": "https://swgaide.com/resources/view.php?rid=1777027",
+      "waypoints": []
     },
     "1777028": {
       "active": true,
@@ -17946,7 +18116,8 @@
       },
       "type": "Lokian Vegetable Beans",
       "type_id": "lobns",
-      "url": "https://swgaide.com/resources/view.php?rid=1777028"
+      "url": "https://swgaide.com/resources/view.php?rid=1777028",
+      "waypoints": []
     },
     "1777029": {
       "active": true,
@@ -17967,7 +18138,8 @@
       },
       "type": "Lokian Vegetable Fungus",
       "type_id": "lofgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1777029"
+      "url": "https://swgaide.com/resources/view.php?rid=1777029",
+      "waypoints": []
     },
     "1777030": {
       "active": true,
@@ -17988,7 +18160,8 @@
       },
       "type": "Lokian Vegetable Greens",
       "type_id": "logrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777030"
+      "url": "https://swgaide.com/resources/view.php?rid=1777030",
+      "waypoints": []
     },
     "1777031": {
       "active": true,
@@ -18009,7 +18182,8 @@
       },
       "type": "Lokian Vegetable Tubers",
       "type_id": "lotub",
-      "url": "https://swgaide.com/resources/view.php?rid=1777031"
+      "url": "https://swgaide.com/resources/view.php?rid=1777031",
+      "waypoints": []
     },
     "1777032": {
       "active": false,
@@ -18043,7 +18217,8 @@
       },
       "type": "Lokian Water Vapor",
       "type_id": "lowtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777033"
+      "url": "https://swgaide.com/resources/view.php?rid=1777033",
+      "waypoints": []
     },
     "1777034": {
       "active": true,
@@ -18064,7 +18239,8 @@
       },
       "type": "Lokian Wild Corn",
       "type_id": "lowcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777034"
+      "url": "https://swgaide.com/resources/view.php?rid=1777034",
+      "waypoints": []
     },
     "1777035": {
       "active": true,
@@ -18085,7 +18261,8 @@
       },
       "type": "Lokian Wild Meat",
       "type_id": "lowmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777035"
+      "url": "https://swgaide.com/resources/view.php?rid=1777035",
+      "waypoints": []
     },
     "1777036": {
       "active": true,
@@ -18106,7 +18283,8 @@
       },
       "type": "Lokian Wild Milk",
       "type_id": "lowmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777036"
+      "url": "https://swgaide.com/resources/view.php?rid=1777036",
+      "waypoints": []
     },
     "1777037": {
       "active": false,
@@ -18144,7 +18322,8 @@
       },
       "type": "Lokian Wild Rice",
       "type_id": "lowrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1777038"
+      "url": "https://swgaide.com/resources/view.php?rid=1777038",
+      "waypoints": []
     },
     "1777039": {
       "active": true,
@@ -18165,7 +18344,8 @@
       },
       "type": "Lokian Wild Wheat",
       "type_id": "lowwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777039"
+      "url": "https://swgaide.com/resources/view.php?rid=1777039",
+      "waypoints": []
     },
     "1777040": {
       "active": false,
@@ -18202,7 +18382,8 @@
       },
       "type": "Lokian Wooly Hide",
       "type_id": "lowhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777041"
+      "url": "https://swgaide.com/resources/view.php?rid=1777041",
+      "waypoints": []
     },
     "1777042": {
       "active": false,
@@ -18278,7 +18459,8 @@
       },
       "type": "Malab Siliclastic Ore",
       "type_id": "masil",
-      "url": "https://swgaide.com/resources/view.php?rid=1777045"
+      "url": "https://swgaide.com/resources/view.php?rid=1777045",
+      "waypoints": []
     },
     "1777046": {
       "active": true,
@@ -18304,7 +18486,8 @@
       },
       "type": "Malium Inert Gas",
       "type_id": "makrt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777046"
+      "url": "https://swgaide.com/resources/view.php?rid=1777046",
+      "waypoints": []
     },
     "1777047": {
       "active": true,
@@ -18330,7 +18513,8 @@
       },
       "type": "Methane Reactive Gas",
       "type_id": "mektv",
-      "url": "https://swgaide.com/resources/view.php?rid=1777047"
+      "url": "https://swgaide.com/resources/view.php?rid=1777047",
+      "waypoints": []
     },
     "1777048": {
       "active": true,
@@ -18352,7 +18536,8 @@
       },
       "type": "Nabooian Animal Bones",
       "type_id": "naabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777048"
+      "url": "https://swgaide.com/resources/view.php?rid=1777048",
+      "waypoints": []
     },
     "1777049": {
       "active": true,
@@ -18374,7 +18559,8 @@
       },
       "type": "Nabooian Avian Bones",
       "type_id": "navbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777049"
+      "url": "https://swgaide.com/resources/view.php?rid=1777049",
+      "waypoints": []
     },
     "1777050": {
       "active": false,
@@ -18412,7 +18598,8 @@
       },
       "type": "Nabooian Berry Fruit",
       "type_id": "naber",
-      "url": "https://swgaide.com/resources/view.php?rid=1777051"
+      "url": "https://swgaide.com/resources/view.php?rid=1777051",
+      "waypoints": []
     },
     "1777052": {
       "active": true,
@@ -18434,7 +18621,8 @@
       },
       "type": "Nabooian Bristley Hide",
       "type_id": "nabhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777052"
+      "url": "https://swgaide.com/resources/view.php?rid=1777052",
+      "waypoints": []
     },
     "1777053": {
       "active": true,
@@ -18455,7 +18643,8 @@
       },
       "type": "Nabooian Carnivore Meat",
       "type_id": "nacmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777053"
+      "url": "https://swgaide.com/resources/view.php?rid=1777053",
+      "waypoints": []
     },
     "1777054": {
       "active": true,
@@ -18477,7 +18666,8 @@
       },
       "type": "Nabooian Conifer Wood",
       "type_id": "nacwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777054"
+      "url": "https://swgaide.com/resources/view.php?rid=1777054",
+      "waypoints": []
     },
     "1777055": {
       "active": true,
@@ -18498,7 +18688,8 @@
       },
       "type": "Nabooian Crustacean Meat",
       "type_id": "natmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777055"
+      "url": "https://swgaide.com/resources/view.php?rid=1777055",
+      "waypoints": []
     },
     "1777056": {
       "active": true,
@@ -18520,7 +18711,8 @@
       },
       "type": "Nabooian Deciduous Wood",
       "type_id": "nadwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777056"
+      "url": "https://swgaide.com/resources/view.php?rid=1777056",
+      "waypoints": []
     },
     "1777057": {
       "active": false,
@@ -18558,7 +18750,8 @@
       },
       "type": "Nabooian Domesticated Meat",
       "type_id": "nadmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777058"
+      "url": "https://swgaide.com/resources/view.php?rid=1777058",
+      "waypoints": []
     },
     "1777059": {
       "active": true,
@@ -18579,7 +18772,8 @@
       },
       "type": "Nabooian Domesticated Milk",
       "type_id": "nadmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777059"
+      "url": "https://swgaide.com/resources/view.php?rid=1777059",
+      "waypoints": []
     },
     "1777060": {
       "active": false,
@@ -18652,7 +18846,8 @@
       },
       "type": "Nabooian Evergreen Wood",
       "type_id": "naewd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777063"
+      "url": "https://swgaide.com/resources/view.php?rid=1777063",
+      "waypoints": []
     },
     "1777064": {
       "active": true,
@@ -18674,7 +18869,8 @@
       },
       "type": "Nabooian Fiberplast",
       "type_id": "nafib",
-      "url": "https://swgaide.com/resources/view.php?rid=1777064"
+      "url": "https://swgaide.com/resources/view.php?rid=1777064",
+      "waypoints": []
     },
     "1777065": {
       "active": true,
@@ -18695,7 +18891,8 @@
       },
       "type": "Nabooian Fish Meat",
       "type_id": "nafmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777065"
+      "url": "https://swgaide.com/resources/view.php?rid=1777065",
+      "waypoints": []
     },
     "1777066": {
       "active": true,
@@ -18716,7 +18913,8 @@
       },
       "type": "Nabooian Flower Fruit",
       "type_id": "naflr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777066"
+      "url": "https://swgaide.com/resources/view.php?rid=1777066",
+      "waypoints": []
     },
     "1777067": {
       "active": true,
@@ -18737,7 +18935,8 @@
       },
       "type": "Nabooian Fruit",
       "type_id": "nafts",
-      "url": "https://swgaide.com/resources/view.php?rid=1777067"
+      "url": "https://swgaide.com/resources/view.php?rid=1777067",
+      "waypoints": []
     },
     "1777068": {
       "active": true,
@@ -18758,7 +18957,8 @@
       },
       "type": "Nabooian Herbivore Meat",
       "type_id": "nahmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777068"
+      "url": "https://swgaide.com/resources/view.php?rid=1777068",
+      "waypoints": []
     },
     "1777069": {
       "active": true,
@@ -18780,7 +18980,8 @@
       },
       "type": "Nabooian Horn",
       "type_id": "nahrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777069"
+      "url": "https://swgaide.com/resources/view.php?rid=1777069",
+      "waypoints": []
     },
     "1777070": {
       "active": true,
@@ -18801,7 +19002,8 @@
       },
       "type": "Nabooian Insect Meat",
       "type_id": "naimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777070"
+      "url": "https://swgaide.com/resources/view.php?rid=1777070",
+      "waypoints": []
     },
     "1777071": {
       "active": true,
@@ -18823,7 +19025,8 @@
       },
       "type": "Nabooian Leathery Hide",
       "type_id": "nalhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777071"
+      "url": "https://swgaide.com/resources/view.php?rid=1777071",
+      "waypoints": []
     },
     "1777072": {
       "active": true,
@@ -18844,7 +19047,8 @@
       },
       "type": "Nabooian Mollusk Meat",
       "type_id": "nammt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777072"
+      "url": "https://swgaide.com/resources/view.php?rid=1777072",
+      "waypoints": []
     },
     "1777073": {
       "active": false,
@@ -18915,7 +19119,8 @@
       },
       "type": "Nabooian Vegetable Fungus",
       "type_id": "nafgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1777076"
+      "url": "https://swgaide.com/resources/view.php?rid=1777076",
+      "waypoints": []
     },
     "1777077": {
       "active": true,
@@ -18936,7 +19141,8 @@
       },
       "type": "Nabooian Vegetable Greens",
       "type_id": "nagrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777077"
+      "url": "https://swgaide.com/resources/view.php?rid=1777077",
+      "waypoints": []
     },
     "1777078": {
       "active": true,
@@ -18957,7 +19163,8 @@
       },
       "type": "Nabooian Vegetable Tubers",
       "type_id": "natub",
-      "url": "https://swgaide.com/resources/view.php?rid=1777078"
+      "url": "https://swgaide.com/resources/view.php?rid=1777078",
+      "waypoints": []
     },
     "1777079": {
       "active": true,
@@ -18976,7 +19183,8 @@
       },
       "type": "Nabooian Water Vapor",
       "type_id": "nawtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777079"
+      "url": "https://swgaide.com/resources/view.php?rid=1777079",
+      "waypoints": []
     },
     "1777080": {
       "active": true,
@@ -18997,7 +19205,8 @@
       },
       "type": "Nabooian Wild Corn",
       "type_id": "nawcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777080"
+      "url": "https://swgaide.com/resources/view.php?rid=1777080",
+      "waypoints": []
     },
     "1777081": {
       "active": true,
@@ -19018,7 +19227,8 @@
       },
       "type": "Nabooian Wild Meat",
       "type_id": "nawmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777081"
+      "url": "https://swgaide.com/resources/view.php?rid=1777081",
+      "waypoints": []
     },
     "1777082": {
       "active": true,
@@ -19039,7 +19249,8 @@
       },
       "type": "Nabooian Wild Milk",
       "type_id": "nawmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777082"
+      "url": "https://swgaide.com/resources/view.php?rid=1777082",
+      "waypoints": []
     },
     "1777083": {
       "active": false,
@@ -19077,7 +19288,8 @@
       },
       "type": "Nabooian Wild Rice",
       "type_id": "nawrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1777084"
+      "url": "https://swgaide.com/resources/view.php?rid=1777084",
+      "waypoints": []
     },
     "1777085": {
       "active": true,
@@ -19098,7 +19310,8 @@
       },
       "type": "Nabooian Wild Wheat",
       "type_id": "nawwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777085"
+      "url": "https://swgaide.com/resources/view.php?rid=1777085",
+      "waypoints": []
     },
     "1777086": {
       "active": true,
@@ -19117,7 +19330,8 @@
       },
       "type": "Nabooian Wind Renewable Energy",
       "type_id": "naweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1777086"
+      "url": "https://swgaide.com/resources/view.php?rid=1777086",
+      "waypoints": []
     },
     "1777087": {
       "active": true,
@@ -19139,7 +19353,8 @@
       },
       "type": "Nabooian Wooly Hide",
       "type_id": "nawhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777087"
+      "url": "https://swgaide.com/resources/view.php?rid=1777087",
+      "waypoints": []
     },
     "1777088": {
       "active": true,
@@ -19171,7 +19386,8 @@
       },
       "type": "Neutronium Steel",
       "type_id": "nestl",
-      "url": "https://swgaide.com/resources/view.php?rid=1777088"
+      "url": "https://swgaide.com/resources/view.php?rid=1777088",
+      "waypoints": []
     },
     "1777089": {
       "active": true,
@@ -19196,7 +19412,8 @@
       },
       "type": "Perovskitic Aluminum",
       "type_id": "pealu",
-      "url": "https://swgaide.com/resources/view.php?rid=1777089"
+      "url": "https://swgaide.com/resources/view.php?rid=1777089",
+      "waypoints": []
     },
     "1777090": {
       "active": true,
@@ -19228,7 +19445,8 @@
       },
       "type": "Phrik Aluminum",
       "type_id": "phalu",
-      "url": "https://swgaide.com/resources/view.php?rid=1777090"
+      "url": "https://swgaide.com/resources/view.php?rid=1777090",
+      "waypoints": []
     },
     "1777091": {
       "active": true,
@@ -19253,7 +19471,8 @@
       },
       "type": "Plumbum Iron",
       "type_id": "plirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777091"
+      "url": "https://swgaide.com/resources/view.php?rid=1777091",
+      "waypoints": []
     },
     "1777092": {
       "active": false,
@@ -19300,7 +19519,8 @@
       },
       "type": "Plumbum Iron",
       "type_id": "plirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777093"
+      "url": "https://swgaide.com/resources/view.php?rid=1777093",
+      "waypoints": []
     },
     "1777094": {
       "active": true,
@@ -19325,7 +19545,8 @@
       },
       "type": "Polonium Iron",
       "type_id": "poirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777094"
+      "url": "https://swgaide.com/resources/view.php?rid=1777094",
+      "waypoints": []
     },
     "1777095": {
       "active": true,
@@ -19354,7 +19575,8 @@
       },
       "type": "Polymer",
       "type_id": "pol",
-      "url": "https://swgaide.com/resources/view.php?rid=1777095"
+      "url": "https://swgaide.com/resources/view.php?rid=1777095",
+      "waypoints": []
     },
     "1777096": {
       "active": true,
@@ -19383,7 +19605,8 @@
       },
       "type": "Polymer",
       "type_id": "pol",
-      "url": "https://swgaide.com/resources/view.php?rid=1777096"
+      "url": "https://swgaide.com/resources/view.php?rid=1777096",
+      "waypoints": []
     },
     "1777097": {
       "active": false,
@@ -19434,7 +19657,8 @@
       },
       "type": "Robindun Siliclastic Ore",
       "type_id": "rosil",
-      "url": "https://swgaide.com/resources/view.php?rid=1777098"
+      "url": "https://swgaide.com/resources/view.php?rid=1777098",
+      "waypoints": []
     },
     "1777099": {
       "active": true,
@@ -19456,7 +19680,8 @@
       },
       "type": "Rori Animal Bones",
       "type_id": "roabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777099"
+      "url": "https://swgaide.com/resources/view.php?rid=1777099",
+      "waypoints": []
     },
     "1777100": {
       "active": true,
@@ -19478,7 +19703,8 @@
       },
       "type": "Rori Avian Bones",
       "type_id": "rovbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777100"
+      "url": "https://swgaide.com/resources/view.php?rid=1777100",
+      "waypoints": []
     },
     "1777101": {
       "active": true,
@@ -19499,7 +19725,8 @@
       },
       "type": "Rori Avian Meat",
       "type_id": "roamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777101"
+      "url": "https://swgaide.com/resources/view.php?rid=1777101",
+      "waypoints": []
     },
     "1777102": {
       "active": true,
@@ -19520,7 +19747,8 @@
       },
       "type": "Rori Berry Fruit",
       "type_id": "rober",
-      "url": "https://swgaide.com/resources/view.php?rid=1777102"
+      "url": "https://swgaide.com/resources/view.php?rid=1777102",
+      "waypoints": []
     },
     "1777103": {
       "active": true,
@@ -19542,7 +19770,8 @@
       },
       "type": "Rori Bristley Hide",
       "type_id": "robhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777103"
+      "url": "https://swgaide.com/resources/view.php?rid=1777103",
+      "waypoints": []
     },
     "1777104": {
       "active": false,
@@ -19598,7 +19827,8 @@
       },
       "type": "Rori Crustacean Meat",
       "type_id": "rotmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777106"
+      "url": "https://swgaide.com/resources/view.php?rid=1777106",
+      "waypoints": []
     },
     "1777107": {
       "active": false,
@@ -19637,7 +19867,8 @@
       },
       "type": "Rori Domesticated Corn",
       "type_id": "rodcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777108"
+      "url": "https://swgaide.com/resources/view.php?rid=1777108",
+      "waypoints": []
     },
     "1777109": {
       "active": true,
@@ -19658,7 +19889,8 @@
       },
       "type": "Rori Domesticated Meat",
       "type_id": "rodmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777109"
+      "url": "https://swgaide.com/resources/view.php?rid=1777109",
+      "waypoints": []
     },
     "1777110": {
       "active": true,
@@ -19679,7 +19911,8 @@
       },
       "type": "Rori Domesticated Milk",
       "type_id": "rodmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777110"
+      "url": "https://swgaide.com/resources/view.php?rid=1777110",
+      "waypoints": []
     },
     "1777111": {
       "active": true,
@@ -19700,7 +19933,8 @@
       },
       "type": "Rori Domesticated Oats",
       "type_id": "rodot",
-      "url": "https://swgaide.com/resources/view.php?rid=1777111"
+      "url": "https://swgaide.com/resources/view.php?rid=1777111",
+      "waypoints": []
     },
     "1777112": {
       "active": true,
@@ -19721,7 +19955,8 @@
       },
       "type": "Rori Domesticated Rice",
       "type_id": "rodrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1777112"
+      "url": "https://swgaide.com/resources/view.php?rid=1777112",
+      "waypoints": []
     },
     "1777113": {
       "active": false,
@@ -19760,7 +19995,8 @@
       },
       "type": "Rori Evergreen Wood",
       "type_id": "roewd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777114"
+      "url": "https://swgaide.com/resources/view.php?rid=1777114",
+      "waypoints": []
     },
     "1777115": {
       "active": true,
@@ -19782,7 +20018,8 @@
       },
       "type": "Rori Fiberplast",
       "type_id": "rofib",
-      "url": "https://swgaide.com/resources/view.php?rid=1777115"
+      "url": "https://swgaide.com/resources/view.php?rid=1777115",
+      "waypoints": []
     },
     "1777116": {
       "active": false,
@@ -19820,7 +20057,8 @@
       },
       "type": "Rori Flower Fruit",
       "type_id": "roflr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777117"
+      "url": "https://swgaide.com/resources/view.php?rid=1777117",
+      "waypoints": []
     },
     "1777118": {
       "active": true,
@@ -19841,7 +20079,8 @@
       },
       "type": "Rori Fruit",
       "type_id": "rofts",
-      "url": "https://swgaide.com/resources/view.php?rid=1777118"
+      "url": "https://swgaide.com/resources/view.php?rid=1777118",
+      "waypoints": []
     },
     "1777119": {
       "active": false,
@@ -19880,7 +20119,8 @@
       },
       "type": "Rori Horn",
       "type_id": "rohrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777120"
+      "url": "https://swgaide.com/resources/view.php?rid=1777120",
+      "waypoints": []
     },
     "1777121": {
       "active": true,
@@ -19901,7 +20141,8 @@
       },
       "type": "Rori Insect Meat",
       "type_id": "roimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777121"
+      "url": "https://swgaide.com/resources/view.php?rid=1777121",
+      "waypoints": []
     },
     "1777122": {
       "active": false,
@@ -19940,7 +20181,8 @@
       },
       "type": "Rori Mollusk Meat",
       "type_id": "rommt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777123"
+      "url": "https://swgaide.com/resources/view.php?rid=1777123",
+      "waypoints": []
     },
     "1777124": {
       "active": true,
@@ -19962,7 +20204,8 @@
       },
       "type": "Rori Scaley Hide",
       "type_id": "roshd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777124"
+      "url": "https://swgaide.com/resources/view.php?rid=1777124",
+      "waypoints": []
     },
     "1777125": {
       "active": true,
@@ -19981,7 +20224,8 @@
       },
       "type": "Rori Solar Renewable Energy",
       "type_id": "roseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1777125"
+      "url": "https://swgaide.com/resources/view.php?rid=1777125",
+      "waypoints": []
     },
     "1777126": {
       "active": true,
@@ -20002,7 +20246,8 @@
       },
       "type": "Rori Vegetable Beans",
       "type_id": "robns",
-      "url": "https://swgaide.com/resources/view.php?rid=1777126"
+      "url": "https://swgaide.com/resources/view.php?rid=1777126",
+      "waypoints": []
     },
     "1777127": {
       "active": true,
@@ -20023,7 +20268,8 @@
       },
       "type": "Rori Vegetable Fungus",
       "type_id": "rofgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1777127"
+      "url": "https://swgaide.com/resources/view.php?rid=1777127",
+      "waypoints": []
     },
     "1777128": {
       "active": true,
@@ -20044,7 +20290,8 @@
       },
       "type": "Rori Vegetable Greens",
       "type_id": "rogrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777128"
+      "url": "https://swgaide.com/resources/view.php?rid=1777128",
+      "waypoints": []
     },
     "1777129": {
       "active": false,
@@ -20080,7 +20327,8 @@
       },
       "type": "Rori Water Vapor",
       "type_id": "rowtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777130"
+      "url": "https://swgaide.com/resources/view.php?rid=1777130",
+      "waypoints": []
     },
     "1777131": {
       "active": true,
@@ -20101,7 +20349,8 @@
       },
       "type": "Rori Wild Corn",
       "type_id": "rowcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777131"
+      "url": "https://swgaide.com/resources/view.php?rid=1777131",
+      "waypoints": []
     },
     "1777132": {
       "active": true,
@@ -20122,7 +20371,8 @@
       },
       "type": "Rori Wild Meat",
       "type_id": "rowmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777132"
+      "url": "https://swgaide.com/resources/view.php?rid=1777132",
+      "waypoints": []
     },
     "1777133": {
       "active": false,
@@ -20177,7 +20427,8 @@
       },
       "type": "Rori Wild Rice",
       "type_id": "rowrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1777135"
+      "url": "https://swgaide.com/resources/view.php?rid=1777135",
+      "waypoints": []
     },
     "1777136": {
       "active": false,
@@ -20253,7 +20504,8 @@
       },
       "type": "Sig Reactive Gas",
       "type_id": "siktv",
-      "url": "https://swgaide.com/resources/view.php?rid=1777139"
+      "url": "https://swgaide.com/resources/view.php?rid=1777139",
+      "waypoints": []
     },
     "1777140": {
       "active": true,
@@ -20279,7 +20531,8 @@
       },
       "type": "Skevon Reactive Gas",
       "type_id": "skktv",
-      "url": "https://swgaide.com/resources/view.php?rid=1777140"
+      "url": "https://swgaide.com/resources/view.php?rid=1777140",
+      "waypoints": []
     },
     "1777141": {
       "active": true,
@@ -20301,7 +20554,8 @@
       },
       "type": "Talusian Animal Bones",
       "type_id": "tuabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777141"
+      "url": "https://swgaide.com/resources/view.php?rid=1777141",
+      "waypoints": []
     },
     "1777142": {
       "active": true,
@@ -20323,7 +20577,8 @@
       },
       "type": "Talusian Avian Bones",
       "type_id": "tuvbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777142"
+      "url": "https://swgaide.com/resources/view.php?rid=1777142",
+      "waypoints": []
     },
     "1777143": {
       "active": true,
@@ -20344,7 +20599,8 @@
       },
       "type": "Talusian Avian Meat",
       "type_id": "tuamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777143"
+      "url": "https://swgaide.com/resources/view.php?rid=1777143",
+      "waypoints": []
     },
     "1777144": {
       "active": true,
@@ -20365,7 +20621,8 @@
       },
       "type": "Talusian Berry Fruit",
       "type_id": "tuber",
-      "url": "https://swgaide.com/resources/view.php?rid=1777144"
+      "url": "https://swgaide.com/resources/view.php?rid=1777144",
+      "waypoints": []
     },
     "1777145": {
       "active": false,
@@ -20404,7 +20661,8 @@
       },
       "type": "Talusian Carnivore Meat",
       "type_id": "tucmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777146"
+      "url": "https://swgaide.com/resources/view.php?rid=1777146",
+      "waypoints": []
     },
     "1777147": {
       "active": true,
@@ -20426,7 +20684,8 @@
       },
       "type": "Talusian Conifer Wood",
       "type_id": "tucwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777147"
+      "url": "https://swgaide.com/resources/view.php?rid=1777147",
+      "waypoints": []
     },
     "1777148": {
       "active": false,
@@ -20465,7 +20724,8 @@
       },
       "type": "Talusian Deciduous Wood",
       "type_id": "tudwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777149"
+      "url": "https://swgaide.com/resources/view.php?rid=1777149",
+      "waypoints": []
     },
     "1777150": {
       "active": false,
@@ -20520,7 +20780,8 @@
       },
       "type": "Talusian Domesticated Milk",
       "type_id": "tudmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777152"
+      "url": "https://swgaide.com/resources/view.php?rid=1777152",
+      "waypoints": []
     },
     "1777153": {
       "active": true,
@@ -20541,7 +20802,8 @@
       },
       "type": "Talusian Domesticated Oats",
       "type_id": "tudot",
-      "url": "https://swgaide.com/resources/view.php?rid=1777153"
+      "url": "https://swgaide.com/resources/view.php?rid=1777153",
+      "waypoints": []
     },
     "1777154": {
       "active": true,
@@ -20562,7 +20824,8 @@
       },
       "type": "Talusian Domesticated Rice",
       "type_id": "tudrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1777154"
+      "url": "https://swgaide.com/resources/view.php?rid=1777154",
+      "waypoints": []
     },
     "1777155": {
       "active": true,
@@ -20583,7 +20846,8 @@
       },
       "type": "Talusian Domesticated Wheat",
       "type_id": "tudwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777155"
+      "url": "https://swgaide.com/resources/view.php?rid=1777155",
+      "waypoints": []
     },
     "1777156": {
       "active": true,
@@ -20605,7 +20869,8 @@
       },
       "type": "Talusian Evergreen Wood",
       "type_id": "tuewd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777156"
+      "url": "https://swgaide.com/resources/view.php?rid=1777156",
+      "waypoints": []
     },
     "1777157": {
       "active": false,
@@ -20678,7 +20943,8 @@
       },
       "type": "Talusian Fruit",
       "type_id": "tufts",
-      "url": "https://swgaide.com/resources/view.php?rid=1777160"
+      "url": "https://swgaide.com/resources/view.php?rid=1777160",
+      "waypoints": []
     },
     "1777161": {
       "active": true,
@@ -20699,7 +20965,8 @@
       },
       "type": "Talusian Herbivore Meat",
       "type_id": "tuhmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777161"
+      "url": "https://swgaide.com/resources/view.php?rid=1777161",
+      "waypoints": []
     },
     "1777162": {
       "active": false,
@@ -20756,7 +21023,8 @@
       },
       "type": "Talusian Leathery Hide",
       "type_id": "tulhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777164"
+      "url": "https://swgaide.com/resources/view.php?rid=1777164",
+      "waypoints": []
     },
     "1777165": {
       "active": true,
@@ -20777,7 +21045,8 @@
       },
       "type": "Talusian Mollusk Meat",
       "type_id": "tummt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777165"
+      "url": "https://swgaide.com/resources/view.php?rid=1777165",
+      "waypoints": []
     },
     "1777166": {
       "active": false,
@@ -20831,7 +21100,8 @@
       },
       "type": "Talusian Vegetable Beans",
       "type_id": "tubns",
-      "url": "https://swgaide.com/resources/view.php?rid=1777168"
+      "url": "https://swgaide.com/resources/view.php?rid=1777168",
+      "waypoints": []
     },
     "1777169": {
       "active": true,
@@ -20852,7 +21122,8 @@
       },
       "type": "Talusian Vegetable Fungus",
       "type_id": "tufgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1777169"
+      "url": "https://swgaide.com/resources/view.php?rid=1777169",
+      "waypoints": []
     },
     "1777170": {
       "active": true,
@@ -20873,7 +21144,8 @@
       },
       "type": "Talusian Vegetable Greens",
       "type_id": "tugrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777170"
+      "url": "https://swgaide.com/resources/view.php?rid=1777170",
+      "waypoints": []
     },
     "1777171": {
       "active": false,
@@ -20926,7 +21198,8 @@
       },
       "type": "Talusian Wild Corn",
       "type_id": "tuwcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777173"
+      "url": "https://swgaide.com/resources/view.php?rid=1777173",
+      "waypoints": []
     },
     "1777174": {
       "active": true,
@@ -20947,7 +21220,8 @@
       },
       "type": "Talusian Wild Meat",
       "type_id": "tuwmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777174"
+      "url": "https://swgaide.com/resources/view.php?rid=1777174",
+      "waypoints": []
     },
     "1777175": {
       "active": true,
@@ -20968,7 +21242,8 @@
       },
       "type": "Talusian Wild Milk",
       "type_id": "tuwmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777175"
+      "url": "https://swgaide.com/resources/view.php?rid=1777175",
+      "waypoints": []
     },
     "1777176": {
       "active": true,
@@ -20989,7 +21264,8 @@
       },
       "type": "Talusian Wild Oats",
       "type_id": "tuwot",
-      "url": "https://swgaide.com/resources/view.php?rid=1777176"
+      "url": "https://swgaide.com/resources/view.php?rid=1777176",
+      "waypoints": []
     },
     "1777177": {
       "active": true,
@@ -21010,7 +21286,8 @@
       },
       "type": "Talusian Wild Rice",
       "type_id": "tuwrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1777177"
+      "url": "https://swgaide.com/resources/view.php?rid=1777177",
+      "waypoints": []
     },
     "1777178": {
       "active": true,
@@ -21031,7 +21308,8 @@
       },
       "type": "Talusian Wild Wheat",
       "type_id": "tuwwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777178"
+      "url": "https://swgaide.com/resources/view.php?rid=1777178",
+      "waypoints": []
     },
     "1777179": {
       "active": false,
@@ -21068,7 +21346,8 @@
       },
       "type": "Talusian Wooly Hide",
       "type_id": "tuwhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777180"
+      "url": "https://swgaide.com/resources/view.php?rid=1777180",
+      "waypoints": []
     },
     "1777181": {
       "active": true,
@@ -21090,7 +21369,8 @@
       },
       "type": "Tatooinian Animal Bones",
       "type_id": "taabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777181"
+      "url": "https://swgaide.com/resources/view.php?rid=1777181",
+      "waypoints": []
     },
     "1777182": {
       "active": true,
@@ -21112,7 +21392,8 @@
       },
       "type": "Tatooinian Avian Bones",
       "type_id": "tavbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777182"
+      "url": "https://swgaide.com/resources/view.php?rid=1777182",
+      "waypoints": []
     },
     "1777183": {
       "active": true,
@@ -21133,7 +21414,8 @@
       },
       "type": "Tatooinian Avian Meat",
       "type_id": "taamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777183"
+      "url": "https://swgaide.com/resources/view.php?rid=1777183",
+      "waypoints": []
     },
     "1777184": {
       "active": true,
@@ -21154,7 +21436,8 @@
       },
       "type": "Tatooinian Berry Fruit",
       "type_id": "taber",
-      "url": "https://swgaide.com/resources/view.php?rid=1777184"
+      "url": "https://swgaide.com/resources/view.php?rid=1777184",
+      "waypoints": []
     },
     "1777185": {
       "active": true,
@@ -21176,7 +21459,8 @@
       },
       "type": "Tatooinian Bristley Hide",
       "type_id": "tabhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777185"
+      "url": "https://swgaide.com/resources/view.php?rid=1777185",
+      "waypoints": []
     },
     "1777186": {
       "active": true,
@@ -21197,7 +21481,8 @@
       },
       "type": "Tatooinian Carnivore Meat",
       "type_id": "tacmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777186"
+      "url": "https://swgaide.com/resources/view.php?rid=1777186",
+      "waypoints": []
     },
     "1777187": {
       "active": true,
@@ -21219,7 +21504,8 @@
       },
       "type": "Tatooinian Conifer Wood",
       "type_id": "tacwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777187"
+      "url": "https://swgaide.com/resources/view.php?rid=1777187",
+      "waypoints": []
     },
     "1777188": {
       "active": false,
@@ -21258,7 +21544,8 @@
       },
       "type": "Tatooinian Deciduous Wood",
       "type_id": "tadwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777189"
+      "url": "https://swgaide.com/resources/view.php?rid=1777189",
+      "waypoints": []
     },
     "1777190": {
       "active": true,
@@ -21279,7 +21566,8 @@
       },
       "type": "Tatooinian Domesticated Corn",
       "type_id": "tadcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777190"
+      "url": "https://swgaide.com/resources/view.php?rid=1777190",
+      "waypoints": []
     },
     "1777191": {
       "active": true,
@@ -21300,7 +21588,8 @@
       },
       "type": "Tatooinian Domesticated Meat",
       "type_id": "tadmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777191"
+      "url": "https://swgaide.com/resources/view.php?rid=1777191",
+      "waypoints": []
     },
     "1777192": {
       "active": true,
@@ -21321,7 +21610,8 @@
       },
       "type": "Tatooinian Domesticated Milk",
       "type_id": "tadmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777192"
+      "url": "https://swgaide.com/resources/view.php?rid=1777192",
+      "waypoints": []
     },
     "1777193": {
       "active": true,
@@ -21342,7 +21632,8 @@
       },
       "type": "Tatooinian Domesticated Oats",
       "type_id": "tadot",
-      "url": "https://swgaide.com/resources/view.php?rid=1777193"
+      "url": "https://swgaide.com/resources/view.php?rid=1777193",
+      "waypoints": []
     },
     "1777194": {
       "active": true,
@@ -21363,7 +21654,8 @@
       },
       "type": "Tatooinian Domesticated Rice",
       "type_id": "tadrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1777194"
+      "url": "https://swgaide.com/resources/view.php?rid=1777194",
+      "waypoints": []
     },
     "1777195": {
       "active": false,
@@ -21402,7 +21694,8 @@
       },
       "type": "Tatooinian Evergreen Wood",
       "type_id": "taewd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777196"
+      "url": "https://swgaide.com/resources/view.php?rid=1777196",
+      "waypoints": []
     },
     "1777197": {
       "active": true,
@@ -21424,7 +21717,8 @@
       },
       "type": "Tatooinian Fiberplast",
       "type_id": "tafib",
-      "url": "https://swgaide.com/resources/view.php?rid=1777197"
+      "url": "https://swgaide.com/resources/view.php?rid=1777197",
+      "waypoints": []
     },
     "1777198": {
       "active": false,
@@ -21462,7 +21756,8 @@
       },
       "type": "Tatooinian Flower Fruit",
       "type_id": "taflr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777199"
+      "url": "https://swgaide.com/resources/view.php?rid=1777199",
+      "waypoints": []
     },
     "1777200": {
       "active": false,
@@ -21500,7 +21795,8 @@
       },
       "type": "Tatooinian Herbivore Meat",
       "type_id": "tahmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777201"
+      "url": "https://swgaide.com/resources/view.php?rid=1777201",
+      "waypoints": []
     },
     "1777202": {
       "active": true,
@@ -21522,7 +21818,8 @@
       },
       "type": "Tatooinian Horn",
       "type_id": "tahrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777202"
+      "url": "https://swgaide.com/resources/view.php?rid=1777202",
+      "waypoints": []
     },
     "1777203": {
       "active": false,
@@ -21561,7 +21858,8 @@
       },
       "type": "Tatooinian Leathery Hide",
       "type_id": "talhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777204"
+      "url": "https://swgaide.com/resources/view.php?rid=1777204",
+      "waypoints": []
     },
     "1777205": {
       "active": true,
@@ -21582,7 +21880,8 @@
       },
       "type": "Tatooinian Mollusk Meat",
       "type_id": "tammt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777205"
+      "url": "https://swgaide.com/resources/view.php?rid=1777205",
+      "waypoints": []
     },
     "1777206": {
       "active": false,
@@ -21619,7 +21918,8 @@
       },
       "type": "Tatooinian Solar Renewable Energy",
       "type_id": "taseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1777207"
+      "url": "https://swgaide.com/resources/view.php?rid=1777207",
+      "waypoints": []
     },
     "1777208": {
       "active": true,
@@ -21640,7 +21940,8 @@
       },
       "type": "Tatooinian Vegetable Beans",
       "type_id": "tabns",
-      "url": "https://swgaide.com/resources/view.php?rid=1777208"
+      "url": "https://swgaide.com/resources/view.php?rid=1777208",
+      "waypoints": []
     },
     "1777209": {
       "active": true,
@@ -21661,7 +21962,8 @@
       },
       "type": "Tatooinian Vegetable Greens",
       "type_id": "tagrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777209"
+      "url": "https://swgaide.com/resources/view.php?rid=1777209",
+      "waypoints": []
     },
     "1777210": {
       "active": false,
@@ -21697,7 +21999,8 @@
       },
       "type": "Tatooinian Water Vapor",
       "type_id": "tawtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777211"
+      "url": "https://swgaide.com/resources/view.php?rid=1777211",
+      "waypoints": []
     },
     "1777212": {
       "active": true,
@@ -21716,7 +22019,8 @@
       },
       "type": "Tatooinian Water Vapor",
       "type_id": "tawtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777212"
+      "url": "https://swgaide.com/resources/view.php?rid=1777212",
+      "waypoints": []
     },
     "1777213": {
       "active": true,
@@ -21737,7 +22041,8 @@
       },
       "type": "Tatooinian Wild Corn",
       "type_id": "tawcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777213"
+      "url": "https://swgaide.com/resources/view.php?rid=1777213",
+      "waypoints": []
     },
     "1777214": {
       "active": true,
@@ -21758,7 +22063,8 @@
       },
       "type": "Tatooinian Wild Meat",
       "type_id": "tawmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777214"
+      "url": "https://swgaide.com/resources/view.php?rid=1777214",
+      "waypoints": []
     },
     "1777215": {
       "active": true,
@@ -21779,7 +22085,8 @@
       },
       "type": "Tatooinian Wild Milk",
       "type_id": "tawmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777215"
+      "url": "https://swgaide.com/resources/view.php?rid=1777215",
+      "waypoints": []
     },
     "1777216": {
       "active": true,
@@ -21800,7 +22107,8 @@
       },
       "type": "Tatooinian Wild Oats",
       "type_id": "tawot",
-      "url": "https://swgaide.com/resources/view.php?rid=1777216"
+      "url": "https://swgaide.com/resources/view.php?rid=1777216",
+      "waypoints": []
     },
     "1777217": {
       "active": true,
@@ -21821,7 +22129,8 @@
       },
       "type": "Tatooinian Wild Rice",
       "type_id": "tawrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1777217"
+      "url": "https://swgaide.com/resources/view.php?rid=1777217",
+      "waypoints": []
     },
     "1777218": {
       "active": true,
@@ -21842,7 +22151,8 @@
       },
       "type": "Tatooinian Wild Wheat",
       "type_id": "tawwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777218"
+      "url": "https://swgaide.com/resources/view.php?rid=1777218",
+      "waypoints": []
     },
     "1777219": {
       "active": true,
@@ -21861,7 +22171,8 @@
       },
       "type": "Tatooinian Wind Renewable Energy",
       "type_id": "taweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1777219"
+      "url": "https://swgaide.com/resources/view.php?rid=1777219",
+      "waypoints": []
     },
     "1777220": {
       "active": true,
@@ -21883,7 +22194,8 @@
       },
       "type": "Tatooinian Wooly Hide",
       "type_id": "tawhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777220"
+      "url": "https://swgaide.com/resources/view.php?rid=1777220",
+      "waypoints": []
     },
     "1777221": {
       "active": true,
@@ -21910,7 +22222,8 @@
       },
       "type": "Unknown Ferrous Metal",
       "type_id": "unfer",
-      "url": "https://swgaide.com/resources/view.php?rid=1777221"
+      "url": "https://swgaide.com/resources/view.php?rid=1777221",
+      "waypoints": []
     },
     "1777222": {
       "active": true,
@@ -21932,7 +22245,8 @@
       },
       "type": "Unknown Solid Petrochem Fuel",
       "type_id": "usp",
-      "url": "https://swgaide.com/resources/view.php?rid=1777222"
+      "url": "https://swgaide.com/resources/view.php?rid=1777222",
+      "waypoints": []
     },
     "1777223": {
       "active": true,
@@ -21951,7 +22265,8 @@
       },
       "type": "Unstable Organometallic Reactive Gas",
       "type_id": "uoktv",
-      "url": "https://swgaide.com/resources/view.php?rid=1777223"
+      "url": "https://swgaide.com/resources/view.php?rid=1777223",
+      "waypoints": []
     },
     "1777224": {
       "active": true,
@@ -21973,7 +22288,8 @@
       },
       "type": "Yavinian Animal Bones",
       "type_id": "yaabn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777224"
+      "url": "https://swgaide.com/resources/view.php?rid=1777224",
+      "waypoints": []
     },
     "1777225": {
       "active": true,
@@ -21995,7 +22311,8 @@
       },
       "type": "Yavinian Avian Bones",
       "type_id": "yavbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777225"
+      "url": "https://swgaide.com/resources/view.php?rid=1777225",
+      "waypoints": []
     },
     "1777226": {
       "active": true,
@@ -22016,7 +22333,8 @@
       },
       "type": "Yavinian Avian Meat",
       "type_id": "yaamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777226"
+      "url": "https://swgaide.com/resources/view.php?rid=1777226",
+      "waypoints": []
     },
     "1777227": {
       "active": true,
@@ -22037,7 +22355,8 @@
       },
       "type": "Yavinian Berry Fruit",
       "type_id": "yaber",
-      "url": "https://swgaide.com/resources/view.php?rid=1777227"
+      "url": "https://swgaide.com/resources/view.php?rid=1777227",
+      "waypoints": []
     },
     "1777228": {
       "active": true,
@@ -22059,7 +22378,8 @@
       },
       "type": "Yavinian Bristley Hide",
       "type_id": "yabhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777228"
+      "url": "https://swgaide.com/resources/view.php?rid=1777228",
+      "waypoints": []
     },
     "1777229": {
       "active": true,
@@ -22080,7 +22400,8 @@
       },
       "type": "Yavinian Carnivore Meat",
       "type_id": "yacmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777229"
+      "url": "https://swgaide.com/resources/view.php?rid=1777229",
+      "waypoints": []
     },
     "1777230": {
       "active": false,
@@ -22119,7 +22440,8 @@
       },
       "type": "Yavinian Crustacean Meat",
       "type_id": "yatmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777231"
+      "url": "https://swgaide.com/resources/view.php?rid=1777231",
+      "waypoints": []
     },
     "1777232": {
       "active": true,
@@ -22141,7 +22463,8 @@
       },
       "type": "Yavinian Deciduous Wood",
       "type_id": "yadwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777232"
+      "url": "https://swgaide.com/resources/view.php?rid=1777232",
+      "waypoints": []
     },
     "1777233": {
       "active": false,
@@ -22230,7 +22553,8 @@
       },
       "type": "Yavinian Domesticated Rice",
       "type_id": "yadrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1777237"
+      "url": "https://swgaide.com/resources/view.php?rid=1777237",
+      "waypoints": []
     },
     "1777238": {
       "active": true,
@@ -22251,7 +22575,8 @@
       },
       "type": "Yavinian Domesticated Wheat",
       "type_id": "yadwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777238"
+      "url": "https://swgaide.com/resources/view.php?rid=1777238",
+      "waypoints": []
     },
     "1777239": {
       "active": true,
@@ -22273,7 +22598,8 @@
       },
       "type": "Yavinian Evergreen Wood",
       "type_id": "yaewd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777239"
+      "url": "https://swgaide.com/resources/view.php?rid=1777239",
+      "waypoints": []
     },
     "1777240": {
       "active": false,
@@ -22312,7 +22638,8 @@
       },
       "type": "Yavinian Fish Meat",
       "type_id": "yafmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777241"
+      "url": "https://swgaide.com/resources/view.php?rid=1777241",
+      "waypoints": []
     },
     "1777242": {
       "active": true,
@@ -22333,7 +22660,8 @@
       },
       "type": "Yavinian Flower Fruit",
       "type_id": "yaflr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777242"
+      "url": "https://swgaide.com/resources/view.php?rid=1777242",
+      "waypoints": []
     },
     "1777243": {
       "active": true,
@@ -22354,7 +22682,8 @@
       },
       "type": "Yavinian Fruit",
       "type_id": "yafts",
-      "url": "https://swgaide.com/resources/view.php?rid=1777243"
+      "url": "https://swgaide.com/resources/view.php?rid=1777243",
+      "waypoints": []
     },
     "1777244": {
       "active": true,
@@ -22375,7 +22704,8 @@
       },
       "type": "Yavinian Herbivore Meat",
       "type_id": "yahmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777244"
+      "url": "https://swgaide.com/resources/view.php?rid=1777244",
+      "waypoints": []
     },
     "1777245": {
       "active": true,
@@ -22397,7 +22727,8 @@
       },
       "type": "Yavinian Horn",
       "type_id": "yahrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777245"
+      "url": "https://swgaide.com/resources/view.php?rid=1777245",
+      "waypoints": []
     },
     "1777246": {
       "active": true,
@@ -22418,7 +22749,8 @@
       },
       "type": "Yavinian Insect Meat",
       "type_id": "yaimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777246"
+      "url": "https://swgaide.com/resources/view.php?rid=1777246",
+      "waypoints": []
     },
     "1777247": {
       "active": false,
@@ -22475,7 +22807,8 @@
       },
       "type": "Yavinian Scaley Hide",
       "type_id": "yashd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777249"
+      "url": "https://swgaide.com/resources/view.php?rid=1777249",
+      "waypoints": []
     },
     "1777250": {
       "active": false,
@@ -22528,7 +22861,8 @@
       },
       "type": "Yavinian Vegetable Fungus",
       "type_id": "yafgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1777252"
+      "url": "https://swgaide.com/resources/view.php?rid=1777252",
+      "waypoints": []
     },
     "1777253": {
       "active": false,
@@ -22581,7 +22915,8 @@
       },
       "type": "Yavinian Water Vapor",
       "type_id": "yawtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777255"
+      "url": "https://swgaide.com/resources/view.php?rid=1777255",
+      "waypoints": []
     },
     "1777256": {
       "active": false,
@@ -22619,7 +22954,8 @@
       },
       "type": "Yavinian Wild Meat",
       "type_id": "yawmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777257"
+      "url": "https://swgaide.com/resources/view.php?rid=1777257",
+      "waypoints": []
     },
     "1777258": {
       "active": true,
@@ -22640,7 +22976,8 @@
       },
       "type": "Yavinian Wild Milk",
       "type_id": "yawmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777258"
+      "url": "https://swgaide.com/resources/view.php?rid=1777258",
+      "waypoints": []
     },
     "1777259": {
       "active": true,
@@ -22661,7 +22998,8 @@
       },
       "type": "Yavinian Wild Oats",
       "type_id": "yawot",
-      "url": "https://swgaide.com/resources/view.php?rid=1777259"
+      "url": "https://swgaide.com/resources/view.php?rid=1777259",
+      "waypoints": []
     },
     "1777260": {
       "active": false,
@@ -22714,7 +23052,8 @@
       },
       "type": "Yavinian Wind Renewable Energy",
       "type_id": "yaweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1777262"
+      "url": "https://swgaide.com/resources/view.php?rid=1777262",
+      "waypoints": []
     },
     "1777263": {
       "active": true,
@@ -22736,7 +23075,8 @@
       },
       "type": "Yavinian Wooly Hide",
       "type_id": "yawhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777263"
+      "url": "https://swgaide.com/resources/view.php?rid=1777263",
+      "waypoints": []
     },
     "1777694": {
       "active": true,
@@ -22767,7 +23107,8 @@
       },
       "type": "Chromite Carbonate Ore",
       "type_id": "chcrb",
-      "url": "https://swgaide.com/resources/view.php?rid=1777694"
+      "url": "https://swgaide.com/resources/view.php?rid=1777694",
+      "waypoints": []
     },
     "1777695": {
       "active": true,
@@ -22792,7 +23133,8 @@
       },
       "type": "Colat Iron",
       "type_id": "coirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777695"
+      "url": "https://swgaide.com/resources/view.php?rid=1777695",
+      "waypoints": []
     },
     "1777696": {
       "active": true,
@@ -22813,7 +23155,8 @@
       },
       "type": "Corellian Crustacean Meat",
       "type_id": "cotmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777696"
+      "url": "https://swgaide.com/resources/view.php?rid=1777696",
+      "waypoints": []
     },
     "1777697": {
       "active": true,
@@ -22834,7 +23177,8 @@
       },
       "type": "Corellian Fruit",
       "type_id": "cofts",
-      "url": "https://swgaide.com/resources/view.php?rid=1777697"
+      "url": "https://swgaide.com/resources/view.php?rid=1777697",
+      "waypoints": []
     },
     "1777698": {
       "active": true,
@@ -22855,7 +23199,8 @@
       },
       "type": "Corellian Mollusk Meat",
       "type_id": "commt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777698"
+      "url": "https://swgaide.com/resources/view.php?rid=1777698",
+      "waypoints": []
     },
     "1777699": {
       "active": true,
@@ -22877,7 +23222,8 @@
       },
       "type": "Corellian Scaley Hide",
       "type_id": "coshd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777699"
+      "url": "https://swgaide.com/resources/view.php?rid=1777699",
+      "waypoints": []
     },
     "1777700": {
       "active": true,
@@ -22902,7 +23248,8 @@
       },
       "type": "Crystallized Bicorbantium Steel",
       "type_id": "bistl",
-      "url": "https://swgaide.com/resources/view.php?rid=1777700"
+      "url": "https://swgaide.com/resources/view.php?rid=1777700",
+      "waypoints": []
     },
     "1777701": {
       "active": true,
@@ -22924,7 +23271,8 @@
       },
       "type": "Dantooine Horn",
       "type_id": "dnhrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777701"
+      "url": "https://swgaide.com/resources/view.php?rid=1777701",
+      "waypoints": []
     },
     "1777702": {
       "active": true,
@@ -22945,7 +23293,8 @@
       },
       "type": "Dantooine Insect Meat",
       "type_id": "dnimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777702"
+      "url": "https://swgaide.com/resources/view.php?rid=1777702",
+      "waypoints": []
     },
     "1777703": {
       "active": true,
@@ -22966,7 +23315,8 @@
       },
       "type": "Dantooine Wild Milk",
       "type_id": "dnwmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1777703"
+      "url": "https://swgaide.com/resources/view.php?rid=1777703",
+      "waypoints": []
     },
     "1777704": {
       "active": true,
@@ -22987,7 +23337,8 @@
       },
       "type": "Dantooine Wild Wheat",
       "type_id": "dnwwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777704"
+      "url": "https://swgaide.com/resources/view.php?rid=1777704",
+      "waypoints": []
     },
     "1777705": {
       "active": true,
@@ -23008,7 +23359,8 @@
       },
       "type": "Dathomirian Flower Fruit",
       "type_id": "daflr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777705"
+      "url": "https://swgaide.com/resources/view.php?rid=1777705",
+      "waypoints": []
     },
     "1777706": {
       "active": true,
@@ -23030,7 +23382,8 @@
       },
       "type": "Dathomirian Wooly Hide",
       "type_id": "dawhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777706"
+      "url": "https://swgaide.com/resources/view.php?rid=1777706",
+      "waypoints": []
     },
     "1777707": {
       "active": true,
@@ -23052,7 +23405,8 @@
       },
       "type": "Endorian Avian Bones",
       "type_id": "envbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777707"
+      "url": "https://swgaide.com/resources/view.php?rid=1777707",
+      "waypoints": []
     },
     "1777708": {
       "active": true,
@@ -23077,7 +23431,8 @@
       },
       "type": "Hardened Arveshium Steel",
       "type_id": "hastl",
-      "url": "https://swgaide.com/resources/view.php?rid=1777708"
+      "url": "https://swgaide.com/resources/view.php?rid=1777708",
+      "waypoints": []
     },
     "1777709": {
       "active": true,
@@ -23098,7 +23453,8 @@
       },
       "type": "Lokian Fruit",
       "type_id": "lofts",
-      "url": "https://swgaide.com/resources/view.php?rid=1777709"
+      "url": "https://swgaide.com/resources/view.php?rid=1777709",
+      "waypoints": []
     },
     "1777710": {
       "active": true,
@@ -23119,7 +23475,8 @@
       },
       "type": "Nabooian Avian Meat",
       "type_id": "naamt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777710"
+      "url": "https://swgaide.com/resources/view.php?rid=1777710",
+      "waypoints": []
     },
     "1777711": {
       "active": true,
@@ -23140,7 +23497,8 @@
       },
       "type": "Nabooian Domesticated Corn",
       "type_id": "nadcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777711"
+      "url": "https://swgaide.com/resources/view.php?rid=1777711",
+      "waypoints": []
     },
     "1777712": {
       "active": true,
@@ -23161,7 +23519,8 @@
       },
       "type": "Nabooian Domesticated Oats",
       "type_id": "nadot",
-      "url": "https://swgaide.com/resources/view.php?rid=1777712"
+      "url": "https://swgaide.com/resources/view.php?rid=1777712",
+      "waypoints": []
     },
     "1777713": {
       "active": true,
@@ -23182,7 +23541,8 @@
       },
       "type": "Nabooian Domesticated Wheat",
       "type_id": "nadwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777713"
+      "url": "https://swgaide.com/resources/view.php?rid=1777713",
+      "waypoints": []
     },
     "1777714": {
       "active": true,
@@ -23203,7 +23563,8 @@
       },
       "type": "Nabooian Vegetable Beans",
       "type_id": "nabns",
-      "url": "https://swgaide.com/resources/view.php?rid=1777714"
+      "url": "https://swgaide.com/resources/view.php?rid=1777714",
+      "waypoints": []
     },
     "1777715": {
       "active": true,
@@ -23228,7 +23589,8 @@
       },
       "type": "Plumbum Iron",
       "type_id": "plirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777715"
+      "url": "https://swgaide.com/resources/view.php?rid=1777715",
+      "waypoints": []
     },
     "1777716": {
       "active": true,
@@ -23249,7 +23611,8 @@
       },
       "type": "Rori Domesticated Wheat",
       "type_id": "rodwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777716"
+      "url": "https://swgaide.com/resources/view.php?rid=1777716",
+      "waypoints": []
     },
     "1777717": {
       "active": true,
@@ -23271,7 +23634,8 @@
       },
       "type": "Rori Leathery Hide",
       "type_id": "rolhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1777717"
+      "url": "https://swgaide.com/resources/view.php?rid=1777717",
+      "waypoints": []
     },
     "1777718": {
       "active": true,
@@ -23290,7 +23654,8 @@
       },
       "type": "Rori Wind Renewable Energy",
       "type_id": "roweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1777718"
+      "url": "https://swgaide.com/resources/view.php?rid=1777718",
+      "waypoints": []
     },
     "1777719": {
       "active": true,
@@ -23311,7 +23676,8 @@
       },
       "type": "Talusian Crustacean Meat",
       "type_id": "tutmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777719"
+      "url": "https://swgaide.com/resources/view.php?rid=1777719",
+      "waypoints": []
     },
     "1777720": {
       "active": true,
@@ -23332,7 +23698,8 @@
       },
       "type": "Talusian Domesticated Meat",
       "type_id": "tudmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777720"
+      "url": "https://swgaide.com/resources/view.php?rid=1777720",
+      "waypoints": []
     },
     "1777721": {
       "active": true,
@@ -23353,7 +23720,8 @@
       },
       "type": "Talusian Flower Fruit",
       "type_id": "tuflr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777721"
+      "url": "https://swgaide.com/resources/view.php?rid=1777721",
+      "waypoints": []
     },
     "1777722": {
       "active": true,
@@ -23374,7 +23742,8 @@
       },
       "type": "Talusian Vegetable Tubers",
       "type_id": "tutub",
-      "url": "https://swgaide.com/resources/view.php?rid=1777722"
+      "url": "https://swgaide.com/resources/view.php?rid=1777722",
+      "waypoints": []
     },
     "1777723": {
       "active": true,
@@ -23393,7 +23762,8 @@
       },
       "type": "Talusian Water Vapor",
       "type_id": "tuwtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1777723"
+      "url": "https://swgaide.com/resources/view.php?rid=1777723",
+      "waypoints": []
     },
     "1777724": {
       "active": true,
@@ -23414,7 +23784,8 @@
       },
       "type": "Tatooinian Crustacean Meat",
       "type_id": "tatmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777724"
+      "url": "https://swgaide.com/resources/view.php?rid=1777724",
+      "waypoints": []
     },
     "1777725": {
       "active": true,
@@ -23435,7 +23806,8 @@
       },
       "type": "Tatooinian Domesticated Wheat",
       "type_id": "tadwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777725"
+      "url": "https://swgaide.com/resources/view.php?rid=1777725",
+      "waypoints": []
     },
     "1777726": {
       "active": true,
@@ -23456,7 +23828,8 @@
       },
       "type": "Tatooinian Fish Meat",
       "type_id": "tafmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777726"
+      "url": "https://swgaide.com/resources/view.php?rid=1777726",
+      "waypoints": []
     },
     "1777727": {
       "active": true,
@@ -23477,7 +23850,8 @@
       },
       "type": "Tatooinian Vegetable Fungus",
       "type_id": "tafgs",
-      "url": "https://swgaide.com/resources/view.php?rid=1777727"
+      "url": "https://swgaide.com/resources/view.php?rid=1777727",
+      "waypoints": []
     },
     "1777728": {
       "active": true,
@@ -23498,7 +23872,8 @@
       },
       "type": "Tatooinian Vegetable Tubers",
       "type_id": "tatub",
-      "url": "https://swgaide.com/resources/view.php?rid=1777728"
+      "url": "https://swgaide.com/resources/view.php?rid=1777728",
+      "waypoints": []
     },
     "1777729": {
       "active": true,
@@ -23523,7 +23898,8 @@
       },
       "type": "Vintrium Extrusive Ore",
       "type_id": "viext",
-      "url": "https://swgaide.com/resources/view.php?rid=1777729"
+      "url": "https://swgaide.com/resources/view.php?rid=1777729",
+      "waypoints": []
     },
     "1777730": {
       "active": true,
@@ -23544,7 +23920,8 @@
       },
       "type": "Yavinian Domesticated Meat",
       "type_id": "yadmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777730"
+      "url": "https://swgaide.com/resources/view.php?rid=1777730",
+      "waypoints": []
     },
     "1777731": {
       "active": true,
@@ -23565,7 +23942,8 @@
       },
       "type": "Yavinian Mollusk Meat",
       "type_id": "yammt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777731"
+      "url": "https://swgaide.com/resources/view.php?rid=1777731",
+      "waypoints": []
     },
     "1777732": {
       "active": true,
@@ -23586,7 +23964,8 @@
       },
       "type": "Yavinian Vegetable Greens",
       "type_id": "yagrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777732"
+      "url": "https://swgaide.com/resources/view.php?rid=1777732",
+      "waypoints": []
     },
     "1777733": {
       "active": true,
@@ -23607,7 +23986,8 @@
       },
       "type": "Yavinian Wild Corn",
       "type_id": "yawcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777733"
+      "url": "https://swgaide.com/resources/view.php?rid=1777733",
+      "waypoints": []
     },
     "1777734": {
       "active": true,
@@ -23628,7 +24008,8 @@
       },
       "type": "Yavinian Wild Wheat",
       "type_id": "yawwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1777734"
+      "url": "https://swgaide.com/resources/view.php?rid=1777734",
+      "waypoints": []
     },
     "1777886": {
       "active": true,
@@ -23653,7 +24034,8 @@
       },
       "type": "Kammris Iron",
       "type_id": "kairn",
-      "url": "https://swgaide.com/resources/view.php?rid=1777886"
+      "url": "https://swgaide.com/resources/view.php?rid=1777886",
+      "waypoints": []
     },
     "1778186": {
       "active": true,
@@ -23680,7 +24062,8 @@
       },
       "type": "Axidite Iron",
       "type_id": "axirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778186"
+      "url": "https://swgaide.com/resources/view.php?rid=1778186",
+      "waypoints": []
     },
     "1778187": {
       "active": true,
@@ -23701,7 +24084,8 @@
       },
       "type": "Corellian Domesticated Milk",
       "type_id": "codmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1778187"
+      "url": "https://swgaide.com/resources/view.php?rid=1778187",
+      "waypoints": []
     },
     "1778188": {
       "active": true,
@@ -23723,7 +24107,8 @@
       },
       "type": "Corellian Leathery Hide",
       "type_id": "colhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778188"
+      "url": "https://swgaide.com/resources/view.php?rid=1778188",
+      "waypoints": []
     },
     "1778189": {
       "active": true,
@@ -23745,7 +24130,8 @@
       },
       "type": "Dantooine Fiberplast",
       "type_id": "dnfib",
-      "url": "https://swgaide.com/resources/view.php?rid=1778189"
+      "url": "https://swgaide.com/resources/view.php?rid=1778189",
+      "waypoints": []
     },
     "1778190": {
       "active": true,
@@ -23766,7 +24152,8 @@
       },
       "type": "Dantooine Vegetable Beans",
       "type_id": "dnbns",
-      "url": "https://swgaide.com/resources/view.php?rid=1778190"
+      "url": "https://swgaide.com/resources/view.php?rid=1778190",
+      "waypoints": []
     },
     "1778191": {
       "active": true,
@@ -23785,7 +24172,8 @@
       },
       "type": "Dantooine Water Vapor",
       "type_id": "dnwtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1778191"
+      "url": "https://swgaide.com/resources/view.php?rid=1778191",
+      "waypoints": []
     },
     "1778192": {
       "active": true,
@@ -23804,7 +24192,8 @@
       },
       "type": "Dantooine Wind Renewable Energy",
       "type_id": "dnweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1778192"
+      "url": "https://swgaide.com/resources/view.php?rid=1778192",
+      "waypoints": []
     },
     "1778193": {
       "active": true,
@@ -23836,7 +24225,8 @@
       },
       "type": "Duralumin Aluminum",
       "type_id": "dualu",
-      "url": "https://swgaide.com/resources/view.php?rid=1778193"
+      "url": "https://swgaide.com/resources/view.php?rid=1778193",
+      "waypoints": []
     },
     "1778194": {
       "active": true,
@@ -23858,7 +24248,8 @@
       },
       "type": "Endorian Deciduous Wood",
       "type_id": "endwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778194"
+      "url": "https://swgaide.com/resources/view.php?rid=1778194",
+      "waypoints": []
     },
     "1778195": {
       "active": true,
@@ -23879,7 +24270,8 @@
       },
       "type": "Endorian Domesticated Corn",
       "type_id": "endcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778195"
+      "url": "https://swgaide.com/resources/view.php?rid=1778195",
+      "waypoints": []
     },
     "1778196": {
       "active": true,
@@ -23900,7 +24292,8 @@
       },
       "type": "Endorian Vegetable Greens",
       "type_id": "engrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778196"
+      "url": "https://swgaide.com/resources/view.php?rid=1778196",
+      "waypoints": []
     },
     "1778197": {
       "active": true,
@@ -23919,7 +24312,8 @@
       },
       "type": "Endorian Water Vapor",
       "type_id": "enwtr",
-      "url": "https://swgaide.com/resources/view.php?rid=1778197"
+      "url": "https://swgaide.com/resources/view.php?rid=1778197",
+      "waypoints": []
     },
     "1778198": {
       "active": true,
@@ -23940,7 +24334,8 @@
       },
       "type": "Endorian Wild Corn",
       "type_id": "enwcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778198"
+      "url": "https://swgaide.com/resources/view.php?rid=1778198",
+      "waypoints": []
     },
     "1778199": {
       "active": true,
@@ -23961,7 +24356,8 @@
       },
       "type": "Lokian Flower Fruit",
       "type_id": "loflr",
-      "url": "https://swgaide.com/resources/view.php?rid=1778199"
+      "url": "https://swgaide.com/resources/view.php?rid=1778199",
+      "waypoints": []
     },
     "1778200": {
       "active": true,
@@ -23982,7 +24378,8 @@
       },
       "type": "Nabooian Domesticated Rice",
       "type_id": "nadrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1778200"
+      "url": "https://swgaide.com/resources/view.php?rid=1778200",
+      "waypoints": []
     },
     "1778201": {
       "active": true,
@@ -24004,7 +24401,8 @@
       },
       "type": "Nabooian Scaley Hide",
       "type_id": "nashd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778201"
+      "url": "https://swgaide.com/resources/view.php?rid=1778201",
+      "waypoints": []
     },
     "1778202": {
       "active": true,
@@ -24025,7 +24423,8 @@
       },
       "type": "Nabooian Wild Oats",
       "type_id": "nawot",
-      "url": "https://swgaide.com/resources/view.php?rid=1778202"
+      "url": "https://swgaide.com/resources/view.php?rid=1778202",
+      "waypoints": []
     },
     "1778203": {
       "active": true,
@@ -24057,7 +24456,8 @@
       },
       "type": "Rhodium Steel",
       "type_id": "rhstl",
-      "url": "https://swgaide.com/resources/view.php?rid=1778203"
+      "url": "https://swgaide.com/resources/view.php?rid=1778203",
+      "waypoints": []
     },
     "1778204": {
       "active": true,
@@ -24078,7 +24478,8 @@
       },
       "type": "Rori Carnivore Meat",
       "type_id": "rocmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778204"
+      "url": "https://swgaide.com/resources/view.php?rid=1778204",
+      "waypoints": []
     },
     "1778205": {
       "active": true,
@@ -24100,7 +24501,8 @@
       },
       "type": "Rori Conifer Wood",
       "type_id": "rocwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778205"
+      "url": "https://swgaide.com/resources/view.php?rid=1778205",
+      "waypoints": []
     },
     "1778206": {
       "active": true,
@@ -24122,7 +24524,8 @@
       },
       "type": "Rori Deciduous Wood",
       "type_id": "rodwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778206"
+      "url": "https://swgaide.com/resources/view.php?rid=1778206",
+      "waypoints": []
     },
     "1778207": {
       "active": true,
@@ -24143,7 +24546,8 @@
       },
       "type": "Rori Vegetable Tubers",
       "type_id": "rotub",
-      "url": "https://swgaide.com/resources/view.php?rid=1778207"
+      "url": "https://swgaide.com/resources/view.php?rid=1778207",
+      "waypoints": []
     },
     "1778208": {
       "active": true,
@@ -24164,7 +24568,8 @@
       },
       "type": "Rori Wild Oats",
       "type_id": "rowot",
-      "url": "https://swgaide.com/resources/view.php?rid=1778208"
+      "url": "https://swgaide.com/resources/view.php?rid=1778208",
+      "waypoints": []
     },
     "1778209": {
       "active": true,
@@ -24185,7 +24590,8 @@
       },
       "type": "Talusian Fish Meat",
       "type_id": "tufmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778209"
+      "url": "https://swgaide.com/resources/view.php?rid=1778209",
+      "waypoints": []
     },
     "1778210": {
       "active": true,
@@ -24207,7 +24613,8 @@
       },
       "type": "Talusian Horn",
       "type_id": "tuhrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778210"
+      "url": "https://swgaide.com/resources/view.php?rid=1778210",
+      "waypoints": []
     },
     "1778211": {
       "active": true,
@@ -24228,7 +24635,8 @@
       },
       "type": "Talusian Insect Meat",
       "type_id": "tuimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778211"
+      "url": "https://swgaide.com/resources/view.php?rid=1778211",
+      "waypoints": []
     },
     "1778212": {
       "active": true,
@@ -24250,7 +24658,8 @@
       },
       "type": "Talusian Scaley Hide",
       "type_id": "tushd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778212"
+      "url": "https://swgaide.com/resources/view.php?rid=1778212",
+      "waypoints": []
     },
     "1778213": {
       "active": true,
@@ -24271,7 +24680,8 @@
       },
       "type": "Tatooinian Insect Meat",
       "type_id": "taimt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778213"
+      "url": "https://swgaide.com/resources/view.php?rid=1778213",
+      "waypoints": []
     },
     "1778214": {
       "active": true,
@@ -24292,7 +24702,8 @@
       },
       "type": "Yavinian Domesticated Corn",
       "type_id": "yadcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778214"
+      "url": "https://swgaide.com/resources/view.php?rid=1778214",
+      "waypoints": []
     },
     "1778215": {
       "active": true,
@@ -24313,7 +24724,8 @@
       },
       "type": "Yavinian Domesticated Milk",
       "type_id": "yadmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1778215"
+      "url": "https://swgaide.com/resources/view.php?rid=1778215",
+      "waypoints": []
     },
     "1778216": {
       "active": true,
@@ -24334,7 +24746,8 @@
       },
       "type": "Yavinian Domesticated Oats",
       "type_id": "yadot",
-      "url": "https://swgaide.com/resources/view.php?rid=1778216"
+      "url": "https://swgaide.com/resources/view.php?rid=1778216",
+      "waypoints": []
     },
     "1778217": {
       "active": true,
@@ -24355,7 +24768,8 @@
       },
       "type": "Yavinian Vegetable Beans",
       "type_id": "yabns",
-      "url": "https://swgaide.com/resources/view.php?rid=1778217"
+      "url": "https://swgaide.com/resources/view.php?rid=1778217",
+      "waypoints": []
     },
     "1778218": {
       "active": true,
@@ -24376,7 +24790,8 @@
       },
       "type": "Yavinian Vegetable Tubers",
       "type_id": "yatub",
-      "url": "https://swgaide.com/resources/view.php?rid=1778218"
+      "url": "https://swgaide.com/resources/view.php?rid=1778218",
+      "waypoints": []
     },
     "1778638": {
       "active": true,
@@ -24396,7 +24811,8 @@
       },
       "type": "Class 3 Solid Petro Fuel",
       "type_id": "c3ksp",
-      "url": "https://swgaide.com/resources/view.php?rid=1778638"
+      "url": "https://swgaide.com/resources/view.php?rid=1778638",
+      "waypoints": []
     },
     "1778639": {
       "active": true,
@@ -24416,7 +24832,8 @@
       },
       "type": "Class 4 Solid Petro Fuel",
       "type_id": "c4ksp",
-      "url": "https://swgaide.com/resources/view.php?rid=1778639"
+      "url": "https://swgaide.com/resources/view.php?rid=1778639",
+      "waypoints": []
     },
     "1778640": {
       "active": true,
@@ -24437,7 +24854,8 @@
       },
       "type": "Corellian Fish Meat",
       "type_id": "cofmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778640"
+      "url": "https://swgaide.com/resources/view.php?rid=1778640",
+      "waypoints": []
     },
     "1778641": {
       "active": true,
@@ -24459,7 +24877,8 @@
       },
       "type": "Corellian Horn",
       "type_id": "cohrn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778641"
+      "url": "https://swgaide.com/resources/view.php?rid=1778641",
+      "waypoints": []
     },
     "1778642": {
       "active": true,
@@ -24480,7 +24899,8 @@
       },
       "type": "Corellian Wild Meat",
       "type_id": "cowmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778642"
+      "url": "https://swgaide.com/resources/view.php?rid=1778642",
+      "waypoints": []
     },
     "1778643": {
       "active": true,
@@ -24502,7 +24922,8 @@
       },
       "type": "Dantooine Avian Bones",
       "type_id": "dnvbn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778643"
+      "url": "https://swgaide.com/resources/view.php?rid=1778643",
+      "waypoints": []
     },
     "1778644": {
       "active": true,
@@ -24524,7 +24945,8 @@
       },
       "type": "Dantooine Conifer Wood",
       "type_id": "dncwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778644"
+      "url": "https://swgaide.com/resources/view.php?rid=1778644",
+      "waypoints": []
     },
     "1778645": {
       "active": true,
@@ -24546,7 +24968,8 @@
       },
       "type": "Dathomirian Deciduous Wood",
       "type_id": "dadwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778645"
+      "url": "https://swgaide.com/resources/view.php?rid=1778645",
+      "waypoints": []
     },
     "1778646": {
       "active": true,
@@ -24567,7 +24990,8 @@
       },
       "type": "Dathomirian Vegetable Tubers",
       "type_id": "datub",
-      "url": "https://swgaide.com/resources/view.php?rid=1778646"
+      "url": "https://swgaide.com/resources/view.php?rid=1778646",
+      "waypoints": []
     },
     "1778647": {
       "active": true,
@@ -24599,7 +25023,8 @@
       },
       "type": "Duralumin Aluminum",
       "type_id": "dualu",
-      "url": "https://swgaide.com/resources/view.php?rid=1778647"
+      "url": "https://swgaide.com/resources/view.php?rid=1778647",
+      "waypoints": []
     },
     "1778648": {
       "active": true,
@@ -24620,7 +25045,8 @@
       },
       "type": "Endorian Domesticated Milk",
       "type_id": "endmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1778648"
+      "url": "https://swgaide.com/resources/view.php?rid=1778648",
+      "waypoints": []
     },
     "1778649": {
       "active": true,
@@ -24641,7 +25067,8 @@
       },
       "type": "Endorian Wild Milk",
       "type_id": "enwmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1778649"
+      "url": "https://swgaide.com/resources/view.php?rid=1778649",
+      "waypoints": []
     },
     "1778650": {
       "active": true,
@@ -24662,7 +25089,8 @@
       },
       "type": "Lokian Carnivore Meat",
       "type_id": "locmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778650"
+      "url": "https://swgaide.com/resources/view.php?rid=1778650",
+      "waypoints": []
     },
     "1778651": {
       "active": true,
@@ -24683,7 +25111,8 @@
       },
       "type": "Lokian Domesticated Milk",
       "type_id": "lodmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1778651"
+      "url": "https://swgaide.com/resources/view.php?rid=1778651",
+      "waypoints": []
     },
     "1778652": {
       "active": true,
@@ -24704,7 +25133,8 @@
       },
       "type": "Lokian Domesticated Rice",
       "type_id": "lodrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1778652"
+      "url": "https://swgaide.com/resources/view.php?rid=1778652",
+      "waypoints": []
     },
     "1778653": {
       "active": true,
@@ -24725,7 +25155,8 @@
       },
       "type": "Lokian Wild Oats",
       "type_id": "lowot",
-      "url": "https://swgaide.com/resources/view.php?rid=1778653"
+      "url": "https://swgaide.com/resources/view.php?rid=1778653",
+      "waypoints": []
     },
     "1778654": {
       "active": true,
@@ -24744,7 +25175,8 @@
       },
       "type": "Lokian Wind Renewable Energy",
       "type_id": "loweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1778654"
+      "url": "https://swgaide.com/resources/view.php?rid=1778654",
+      "waypoints": []
     },
     "1778655": {
       "active": true,
@@ -24770,7 +25202,8 @@
       },
       "type": "Lubricating Oil",
       "type_id": "lub",
-      "url": "https://swgaide.com/resources/view.php?rid=1778655"
+      "url": "https://swgaide.com/resources/view.php?rid=1778655",
+      "waypoints": []
     },
     "1778656": {
       "active": true,
@@ -24796,7 +25229,8 @@
       },
       "type": "Lubricating Oil",
       "type_id": "lub",
-      "url": "https://swgaide.com/resources/view.php?rid=1778656"
+      "url": "https://swgaide.com/resources/view.php?rid=1778656",
+      "waypoints": []
     },
     "1778657": {
       "active": true,
@@ -24815,7 +25249,8 @@
       },
       "type": "Nabooian Solar Renewable Energy",
       "type_id": "naseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1778657"
+      "url": "https://swgaide.com/resources/view.php?rid=1778657",
+      "waypoints": []
     },
     "1778658": {
       "active": true,
@@ -24842,7 +25277,8 @@
       },
       "type": "Polonium Iron",
       "type_id": "poirn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778658"
+      "url": "https://swgaide.com/resources/view.php?rid=1778658",
+      "waypoints": []
     },
     "1778659": {
       "active": true,
@@ -24863,7 +25299,8 @@
       },
       "type": "Rori Fish Meat",
       "type_id": "rofmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778659"
+      "url": "https://swgaide.com/resources/view.php?rid=1778659",
+      "waypoints": []
     },
     "1778660": {
       "active": true,
@@ -24884,7 +25321,8 @@
       },
       "type": "Rori Herbivore Meat",
       "type_id": "rohmt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778660"
+      "url": "https://swgaide.com/resources/view.php?rid=1778660",
+      "waypoints": []
     },
     "1778661": {
       "active": true,
@@ -24905,7 +25343,8 @@
       },
       "type": "Rori Wild Milk",
       "type_id": "rowmk",
-      "url": "https://swgaide.com/resources/view.php?rid=1778661"
+      "url": "https://swgaide.com/resources/view.php?rid=1778661",
+      "waypoints": []
     },
     "1778662": {
       "active": true,
@@ -24926,7 +25365,8 @@
       },
       "type": "Rori Wild Wheat",
       "type_id": "rowwt",
-      "url": "https://swgaide.com/resources/view.php?rid=1778662"
+      "url": "https://swgaide.com/resources/view.php?rid=1778662",
+      "waypoints": []
     },
     "1778663": {
       "active": true,
@@ -24948,7 +25388,8 @@
       },
       "type": "Rori Wooly Hide",
       "type_id": "rowhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778663"
+      "url": "https://swgaide.com/resources/view.php?rid=1778663",
+      "waypoints": []
     },
     "1778664": {
       "active": true,
@@ -24970,7 +25411,8 @@
       },
       "type": "Talusian Bristley Hide",
       "type_id": "tubhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778664"
+      "url": "https://swgaide.com/resources/view.php?rid=1778664",
+      "waypoints": []
     },
     "1778665": {
       "active": true,
@@ -24991,7 +25433,8 @@
       },
       "type": "Talusian Domesticated Corn",
       "type_id": "tudcn",
-      "url": "https://swgaide.com/resources/view.php?rid=1778665"
+      "url": "https://swgaide.com/resources/view.php?rid=1778665",
+      "waypoints": []
     },
     "1778666": {
       "active": true,
@@ -25013,7 +25456,8 @@
       },
       "type": "Talusian Fiberplast",
       "type_id": "tufib",
-      "url": "https://swgaide.com/resources/view.php?rid=1778666"
+      "url": "https://swgaide.com/resources/view.php?rid=1778666",
+      "waypoints": []
     },
     "1778667": {
       "active": true,
@@ -25032,7 +25476,8 @@
       },
       "type": "Talusian Solar Renewable Energy",
       "type_id": "tuseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1778667"
+      "url": "https://swgaide.com/resources/view.php?rid=1778667",
+      "waypoints": []
     },
     "1778668": {
       "active": true,
@@ -25051,7 +25496,8 @@
       },
       "type": "Talusian Wind Renewable Energy",
       "type_id": "tuweg",
-      "url": "https://swgaide.com/resources/view.php?rid=1778668"
+      "url": "https://swgaide.com/resources/view.php?rid=1778668",
+      "waypoints": []
     },
     "1778669": {
       "active": true,
@@ -25072,7 +25518,8 @@
       },
       "type": "Tatooinian Fruit",
       "type_id": "tafts",
-      "url": "https://swgaide.com/resources/view.php?rid=1778669"
+      "url": "https://swgaide.com/resources/view.php?rid=1778669",
+      "waypoints": []
     },
     "1778670": {
       "active": true,
@@ -25094,7 +25541,8 @@
       },
       "type": "Tatooinian Scaley Hide",
       "type_id": "tashd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778670"
+      "url": "https://swgaide.com/resources/view.php?rid=1778670",
+      "waypoints": []
     },
     "1778671": {
       "active": true,
@@ -25116,7 +25564,8 @@
       },
       "type": "Yavinian Conifer Wood",
       "type_id": "yacwd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778671"
+      "url": "https://swgaide.com/resources/view.php?rid=1778671",
+      "waypoints": []
     },
     "1778672": {
       "active": true,
@@ -25138,7 +25587,8 @@
       },
       "type": "Yavinian Fiberplast",
       "type_id": "yafib",
-      "url": "https://swgaide.com/resources/view.php?rid=1778672"
+      "url": "https://swgaide.com/resources/view.php?rid=1778672",
+      "waypoints": []
     },
     "1778673": {
       "active": true,
@@ -25160,7 +25610,8 @@
       },
       "type": "Yavinian Leathery Hide",
       "type_id": "yalhd",
-      "url": "https://swgaide.com/resources/view.php?rid=1778673"
+      "url": "https://swgaide.com/resources/view.php?rid=1778673",
+      "waypoints": []
     },
     "1778674": {
       "active": true,
@@ -25179,7 +25630,8 @@
       },
       "type": "Yavinian Solar Renewable Energy",
       "type_id": "yaseg",
-      "url": "https://swgaide.com/resources/view.php?rid=1778674"
+      "url": "https://swgaide.com/resources/view.php?rid=1778674",
+      "waypoints": []
     },
     "1778675": {
       "active": true,
@@ -25200,7 +25652,8 @@
       },
       "type": "Yavinian Wild Rice",
       "type_id": "yawrc",
-      "url": "https://swgaide.com/resources/view.php?rid=1778675"
+      "url": "https://swgaide.com/resources/view.php?rid=1778675",
+      "waypoints": []
     }
   },
   "version": 1
