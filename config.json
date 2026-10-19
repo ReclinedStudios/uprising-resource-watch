@@ -1,0 +1,10 @@
+{
+  "server_id": "182",
+  "server_name": "SWG Uprising",
+  "feed_url": "https://swgaide.com/pub/exports/currentresources_182.xml.gz",
+  "stats": ["ER", "CR", "CD", "DR", "FL", "HR", "MA", "PE", "OQ", "SR", "UT"],
+  "resource_types": [],
+  "max_feed_age_hours": 48,
+  "minimum_feed_size_ratio": 0.5,
+  "missing_snapshots_before_inactive": 2
+}

@@ -1,0 +1,74 @@
+name: Uprising resource watch
+
+on:
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+    inputs:
+      import_history:
+        description: Import reported SWGAide history before this check (usually once)
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: uprising-resource-watch
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # A public repo with a standard runner is required for this zero-cost setup.
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check configuration
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          REPOSITORY_PRIVATE: ${{ github.event.repository.private }}
+        run: |
+          if [ "$REPOSITORY_PRIVATE" = "true" ]; then
+            echo 'This free setup requires a PUBLIC repository and standard runners.'
+            exit 1
+          fi
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo 'Add the DISCORD_WEBHOOK_URL repository Actions secret first.'
+            exit 1
+          fi
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Import historical records when requested
+        if: ${{ inputs.import_history == true }}
+        run: python monitor.py seed-history
+      - name: Collect current resources
+        id: collect
+        run: python monitor.py collect
+      - name: Save archive and pending alerts before sending
+        run: |
+          git config user.name 'Uprising Resource Watch'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/state.json data/records.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save resource archive and pending alerts'
+            git push
+          fi
+      - name: Send Discord alerts
+        id: send
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python monitor.py deliver
+      - name: Save delivery progress, including after a partial failure
+        if: ${{ always() && steps.send.outcome != 'skipped' }}
+        run: |
+          git config user.name 'Uprising Resource Watch'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save Discord delivery progress'
+            git push
+          fi
