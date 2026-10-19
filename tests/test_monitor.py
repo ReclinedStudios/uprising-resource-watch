@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
-from unittest.mock import patch
+from unittest.mock import patch, MagicMock
 import xml.etree.ElementTree as ET
 
 import monitor
@@ -159,8 +159,9 @@ class MonitorTests(unittest.TestCase):
     def test_alert_and_intro_open_swgaide_home(self):
         self.baseline()
         monitor.collect(self.state, self.config, feed([A, B, C], seconds=2))
-        self.assertEqual(self.state['outbox'][0]['payload']['embeds'][0]['url'], 'https://swgaide.com/')
-        self.assertIn('**SWGAide Home:** https://swgaide.com/', monitor.intro_payload(self.state)['content'])
+        self.assertEqual(self.state['outbox'][0]['payload']['embeds'][0]['url'], monitor.HOME_URL)
+        self.assertIn('selected automatically', monitor.intro_payload(self.state)['content'])
+        self.assertNotIn('Choose', monitor.intro_payload(self.state)['content'])
 
     def test_summary_uses_cap_percentages_and_contains_stats_planets_and_history(self):
         self.baseline()
@@ -191,6 +192,44 @@ class MonitorTests(unittest.TestCase):
         self.assertEqual(len(fields), 1)
         self.assertTrue(all(len(f['value']) <= 1024 for f in fields))
         self.assertLess(sum(len(f['value'])+len(f['name']) for f in fields), 4801)
+
+    def test_waypoints_select_highest_concentration_not_first_or_wrong_planet(self):
+        node = ET.fromstring('<resource><waypoints>'
+            '<waypoint timestamp="1"><planet>Corellia</planet><x>1</x><y>2</y><con>60</con></waypoint>'
+            '<waypoint timestamp="2"><planet>Corellia</planet><x>-30</x><y>40</y><con>95</con></waypoint>'
+            '<waypoint timestamp="3"><planet>Naboo</planet><x>5</x><y>6</y><con>99</con></waypoint>'
+            '</waypoints></resource>')
+        points = monitor.parse_waypoints(node, ['Corellia'])
+        text = monitor.waypoint_text({'name':'Iron','waypoints':points})
+        self.assertIn('95%', text)
+        self.assertIn('/wp corellia -30 40 Iron 95%', text)
+        self.assertNotIn('Naboo', text)
+
+    def test_waypoints_ignore_invalid_concentration_and_use_newer_report_for_tie(self):
+        node = ET.fromstring('<resource><waypoints>'
+            '<waypoint timestamp="1"><planet>Yavin 4</planet><x>1</x><y>2</y><con>90</con></waypoint>'
+            '<waypoint timestamp="2"><planet>Yavin 4</planet><x>3</x><y>4</y><con>90</con></waypoint>'
+            '<waypoint><planet>Yavin 4</planet><x>9</x><y>9</y><con>NaN</con></waypoint>'
+            '<waypoint><planet>Yavin 4</planet><x>9</x><y>9</y><con>101</con></waypoint>'
+            '</waypoints></resource>')
+        points = monitor.parse_waypoints(node, ['Yavin 4'])
+        self.assertEqual(len(points), 2)
+        self.assertIn('/wp yavin4 3 4 Iron 90%', monitor.waypoint_text({'name':'Iron','waypoints':points}))
+        self.assertIn('No concentration waypoint reported', monitor.waypoint_text({'name':'Iron'}))
+
+    def test_refresh_links_preserves_summary_details_and_removes_manual_selection(self):
+        original = {'content':'Home: https://swgaide.com/\nChoose **SWG Uprising [precu]** in the Home server selector.',
+            'embeds':[{'type':'rich','title':'Resources','url':'https://swgaide.com/',
+                'fields':[{'name':'Iron','value':'OQ 999 | Corellia'}]}]}
+        response = MagicMock()
+        response.__enter__.return_value.read.return_value = json.dumps(original).encode()
+        with patch.object(monitor,'urlopen',return_value=response), patch.object(monitor,'send_webhook') as send:
+            monitor.refresh_message_links('https://discord.com/api/webhooks/123/test-token','1561775250369421392')
+            payload=send.call_args.args[1]
+            self.assertIn(monitor.HOME_URL,payload['content'])
+            self.assertNotIn('Choose',payload['content'])
+            self.assertEqual(payload['embeds'][0]['fields'],original['embeds'][0]['fields'])
+            self.assertEqual(payload['embeds'][0]['url'],monitor.HOME_URL)
 
 
 if __name__ == '__main__':
