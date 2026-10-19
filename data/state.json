@@ -11,6 +11,7 @@
     }
   ],
   "initialized": true,
+  "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
   "last_successful_collection": "2026-10-19T16:27:11+00:00",
   "leaders": {
     "[\"axidite iron\", \"CD\"]": {
@@ -13351,92 +13352,7 @@
       "value": 51
     }
   },
-  "outbox": [
-    {
-      "kind": "summary",
-      "payload": {
-        "allowed_mentions": {
-          "parse": []
-        },
-        "content": "**SWGAide Home:** https://swgaide.com/\nChoose **SWG Uprising [precu]** in the Home server selector.\n[Complete active and historical records](https://github.com/ReclinedStudios/uprising-resource-watch/blob/main/data/records.md)",
-        "embeds": [
-          {
-            "color": 4372909,
-            "description": "Harvest candidates with several strong stats. Highlighted stats lead their own resource type and have a SWGAide quality percentage of at least 95%. More highlighted stats come first; one pick per type. Crafting recipes have different needs, so this is not a universal crafting ranking. All raw stats are shown below.",
-            "fields": [
-              {
-                "inline": false,
-                "name": "1. Vepoism - Ditanium Steel",
-                "value": "**Strong leading stats (SWGAide):** CR 98.2% | CD 95.1% | DR 97.1% | HR 95.9% | SR 99.4% | UT 98.6%\n**Stats:** CR 574 | CD 452 | DR 840 | HR 856 | MA 244 | OQ 575 | SR 860 | UT 827\n**Planets:** Corellia, Dathomir, Endor, Lok, Naboo, Rori, Tatooine, Yavin 4\n**Age:** 7d\n**Historical best:** CR 574 (Vepoism, active); CD 452 (Vepoism, active); DR 840 (Vepoism, active)"
-              },
-              {
-                "inline": false,
-                "name": "2. Feva - Corintium Intrusive Ore",
-                "value": "**Strong leading stats (SWGAide):** CR 98.7% | HR 97% | MA 99% | UT 98.5%\n**Stats:** CR 487 | DR 484 | HR 786 | MA 219 | OQ 563 | SR 634 | UT 611\n**Planets:** Corellia, Endor, Naboo\n**Age:** 10d\n**Historical best:** CR 487 (Feva, active); HR 786 (Feva, active); MA 219 (Feva, active)"
-              },
-              {
-                "inline": false,
-                "name": "3. Ocaium - Carbonite Steel",
-                "value": "**Strong leading stats (SWGAide):** CD 99.3% | DR 98.5% | HR 98.5% | UT 95%\n**Stats:** CR 683 | CD 601 | DR 951 | HR 958 | MA 347 | OQ 447 | SR 912 | UT 911\n**Planets:** Corellia, Dathomir, Endor, Lok, Naboo, Talus, Tatooine, Yavin 4\n**Age:** 9d\n**Historical best:** CD 601 (Ocaium, active); DR 951 (Ocaium, active); HR 958 (Ocaium, active)"
-              },
-              {
-                "inline": false,
-                "name": "4. Toloic - Diatium Copper",
-                "value": "**Strong leading stats (SWGAide):** CR 98.5% | CD 99.8% | SR 95.9% | UT 98.4%\n**Stats:** CR 465 | CD 793 | DR 380 | HR 407 | MA 726 | OQ 463 | SR 570 | UT 585\n**Planets:** Corellia, Dantooine, Dathomir, Endor, Lok, Rori, Talus, Yavin 4\n**Age:** 6d\n**Historical best:** CR 465 (Toloic, active); CD 793 (Toloic, active); SR 570 (Toloic, active)"
-              },
-              {
-                "inline": false,
-                "name": "5. Saca - Neutronium Steel",
-                "value": "**Strong leading stats (SWGAide):** CR 99.5% | DR 98.6% | HR 98.2% | UT 95.6%\n**Stats:** CR 422 | CD 299 | DR 755 | HR 798 | MA 173 | OQ 531 | SR 695 | UT 687\n**Planets:** Corellia, Dantooine, Dathomir, Endor, Lok, Naboo, Rori, Talus\n**Age:** 6d\n**Historical best:** CR 422 (Saca, active); DR 755 (Saca, active); HR 798 (Saca, active)"
-              },
-              {
-                "inline": false,
-                "name": "6. Gosy - Kammris Iron",
-                "value": "**Strong leading stats (SWGAide):** MA 96% | SR 99.6% | UT 98.4%\n**Stats:** CR 742 | CD 459 | DR 898 | HR 966 | MA 576 | OQ 465 | SR 996 | UT 984\n**Planets:** Corellia\n**Age:** 8d\n**Historical best:** MA 576 (Gosy, active); SR 996 (Gosy, active); UT 984 (Gosy, active)"
-              },
-              {
-                "inline": false,
-                "name": "7. Ewoa - Duralumin Aluminum",
-                "value": "**Strong leading stats (SWGAide):** CR 98.2% | CD 99.6% | SR 99.3%\n**Stats:** CR 564 | CD 656 | DR 407 | HR 485 | MA 648 | OQ 265 | SR 725 | UT 677\n**Planets:** Dantooine, Dathomir, Endor, Lok, Naboo, Rori, Talus, Yavin 4\n**Age:** 11h\n**Historical best:** CR 564 (Ewoa, active); CD 656 (Ewoa, active); SR 725 (Ewoa, active)"
-              },
-              {
-                "inline": false,
-                "name": "8. Saietaian - Cortosis Siliclastic Ore",
-                "value": "**Strong leading stats (SWGAide):** CR 96.3% | DR 96.6% | MA 99.2%\n**Stats:** CR 547 | DR 260 | HR 414 | MA 564 | OQ 742 | SR 137 | UT 170\n**Planets:** Corellia, Endor, Lok, Naboo, Rori, Talus, Tatooine, Yavin 4\n**Age:** 9d\n**Historical best:** CR 547 (Saietaian, active); DR 260 (Saietaian, active); MA 564 (Saietaian, active)"
-              },
-              {
-                "inline": false,
-                "name": "9. Oati - Yavinian Solar Renewable Energy",
-                "value": "**Strong leading stats (SWGAide):** PE 99.5% | OQ 100%\n**Stats:** PE 597 | OQ 500\n**Planets:** Yavin 4\n**Age:** 20h\n**Historical best:** PE 597 (Oati, active); OQ 500 (Liczoite, despawned)"
-              },
-              {
-                "inline": false,
-                "name": "10. Olaris - Phrik Aluminum",
-                "value": "**Strong leading stats (SWGAide):** DR 96.8% | UT 99.7%\n**Stats:** CR 732 | CD 705 | DR 775 | HR 700 | MA 916 | OQ 799 | SR 828 | UT 898\n**Planets:** Corellia, Dantooine, Dathomir, Lok, Naboo, Talus, Tatooine, Yavin 4\n**Age:** 6d\n**Historical best:** DR 775 (Olaris, active); UT 898 (Olaris, active)"
-              },
-              {
-                "inline": false,
-                "name": "11. Aba - Rori Horn",
-                "value": "**Strong leading stats (SWGAide):** MA 96.8% | SR 95%\n**Stats:** DR 847 | MA 484 | OQ 756 | SR 665 | UT 427\n**Planets:** Rori\n**Age:** 8d\n**Historical best:** MA 484 (Aba, active); SR 665 (Aba, active)"
-              },
-              {
-                "inline": false,
-                "name": "12. Temiide - Vintrium Extrusive Ore",
-                "value": "**Strong leading stats (SWGAide):** HR 97.2% | MA 98.8%\n**Stats:** CR 937 | DR 931 | HR 972 | MA 593 | OQ 398 | SR 944 | UT 940\n**Planets:** Dantooine, Dathomir\n**Age:** 3d\n**Historical best:** HR 972 (Temiide, active); MA 593 (Temiide, active)"
-              }
-            ],
-            "footer": {
-              "text": "Percentages: SWGAide stat quality for this resource type. Historical details show up to 3 highlighted stats."
-            },
-            "timestamp": "2026-10-19T16:20:11+00:00",
-            "title": "Current resource shortlist - SWG Uprising",
-            "url": "https://swgaide.com/"
-          }
-        ],
-        "username": "Uprising Resource Watch"
-      }
-    }
-  ],
+  "outbox": [],
   "resources": {
     "1776811": {
       "active": true,
