@@ -1,6 +1,6 @@
 {
   "feed_count": 451,
-  "feed_generated": "2026-10-20T10:20:11+00:00",
+  "feed_generated": "2026-10-20T15:20:10+00:00",
   "history_imports": [
     {
       "coverage": "Reported records in the searched SWGAide categories; not guaranteed complete server history",
@@ -13,7 +13,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-10-20T10:27:23+00:00",
+  "last_successful_collection": "2026-10-20T15:24:00+00:00",
   "leaders": {
     "[\"agrinium aluminum\", \"CD\"]": {
       "id": "1779084",
@@ -93,11 +93,11 @@
       "value": 586
     },
     "[\"axidite iron\", \"HR\"]": {
-      "id": "1776811",
+      "id": "1779085",
       "tied_ids": [
-        "1776811"
+        "1779085"
       ],
-      "value": 688
+      "value": 642
     },
     "[\"axidite iron\", \"MA\"]": {
       "id": "1779086",
@@ -121,11 +121,11 @@
       "value": 586
     },
     "[\"axidite iron\", \"UT\"]": {
-      "id": "1776811",
+      "id": "1778186",
       "tied_ids": [
-        "1776811"
+        "1778186"
       ],
-      "value": 628
+      "value": 612
     },
     "[\"beyrllius copper\", \"CD\"]": {
       "id": "1776815",
@@ -239,62 +239,6 @@
       ],
       "value": 610
     },
-    "[\"carbonite steel\", \"CD\"]": {
-      "id": "1776819",
-      "tied_ids": [
-        "1776819"
-      ],
-      "value": 601
-    },
-    "[\"carbonite steel\", \"CR\"]": {
-      "id": "1776819",
-      "tied_ids": [
-        "1776819"
-      ],
-      "value": 683
-    },
-    "[\"carbonite steel\", \"DR\"]": {
-      "id": "1776819",
-      "tied_ids": [
-        "1776819"
-      ],
-      "value": 951
-    },
-    "[\"carbonite steel\", \"HR\"]": {
-      "id": "1776819",
-      "tied_ids": [
-        "1776819"
-      ],
-      "value": 958
-    },
-    "[\"carbonite steel\", \"MA\"]": {
-      "id": "1776819",
-      "tied_ids": [
-        "1776819"
-      ],
-      "value": 347
-    },
-    "[\"carbonite steel\", \"OQ\"]": {
-      "id": "1776819",
-      "tied_ids": [
-        "1776819"
-      ],
-      "value": 447
-    },
-    "[\"carbonite steel\", \"SR\"]": {
-      "id": "1776819",
-      "tied_ids": [
-        "1776819"
-      ],
-      "value": 912
-    },
-    "[\"carbonite steel\", \"UT\"]": {
-      "id": "1776819",
-      "tied_ids": [
-        "1776819"
-      ],
-      "value": 911
-    },
     "[\"chromite carbonate ore\", \"CR\"]": {
       "id": "1777694",
       "tied_ids": [
@@ -407,27 +351,6 @@
       ],
       "value": 697
     },
-    "[\"class 5 liquid petro fuel\", \"DR\"]": {
-      "id": "1776821",
-      "tied_ids": [
-        "1776821"
-      ],
-      "value": 314
-    },
-    "[\"class 5 liquid petro fuel\", \"OQ\"]": {
-      "id": "1776821",
-      "tied_ids": [
-        "1776821"
-      ],
-      "value": 655
-    },
-    "[\"class 5 liquid petro fuel\", \"PE\"]": {
-      "id": "1776821",
-      "tied_ids": [
-        "1776821"
-      ],
-      "value": 493
-    },
     "[\"class 7 radioactive\", \"DR\"]": {
       "id": "1776823",
       "tied_ids": [
@@ -450,11 +373,11 @@
       "value": 941
     },
     "[\"colat iron\", \"CD\"]": {
-      "id": "1776826",
+      "id": "1777695",
       "tied_ids": [
-        "1776826"
+        "1777695"
       ],
-      "value": 287
+      "value": 247
     },
     "[\"colat iron\", \"CR\"]": {
       "id": "1777695",
@@ -471,11 +394,11 @@
       "value": 758
     },
     "[\"colat iron\", \"HR\"]": {
-      "id": "1776826",
+      "id": "1777695",
       "tied_ids": [
-        "1776826"
+        "1777695"
       ],
-      "value": 761
+      "value": 750
     },
     "[\"colat iron\", \"MA\"]": {
       "id": "1777695",
@@ -492,11 +415,11 @@
       "value": 463
     },
     "[\"colat iron\", \"SR\"]": {
-      "id": "1776826",
+      "id": "1777695",
       "tied_ids": [
-        "1776826"
+        "1777695"
       ],
-      "value": 695
+      "value": 683
     },
     "[\"colat iron\", \"UT\"]": {
       "id": "1777695",
@@ -569,11 +492,11 @@
       "value": 929
     },
     "[\"corellia fiberplast\", \"MA\"]": {
-      "id": "1776842",
+      "id": "1779087",
       "tied_ids": [
-        "1776842"
+        "1779087"
       ],
-      "value": 737
+      "value": 206
     },
     "[\"corellia fiberplast\", \"OQ\"]": {
       "id": "1779087",
@@ -1626,11 +1549,11 @@
       "value": 960
     },
     "[\"corintium intrusive ore\", \"CR\"]": {
-      "id": "1776865",
+      "id": "1776866",
       "tied_ids": [
-        "1776865"
+        "1776866"
       ],
-      "value": 487
+      "value": 405
     },
     "[\"corintium intrusive ore\", \"DR\"]": {
       "id": "1776866",
@@ -1640,18 +1563,18 @@
       "value": 493
     },
     "[\"corintium intrusive ore\", \"HR\"]": {
-      "id": "1776865",
+      "id": "1776866",
       "tied_ids": [
-        "1776865"
+        "1776866"
       ],
-      "value": 786
+      "value": 768
     },
     "[\"corintium intrusive ore\", \"MA\"]": {
-      "id": "1776865",
+      "id": "1776866",
       "tied_ids": [
-        "1776865"
+        "1776866"
       ],
-      "value": 219
+      "value": 170
     },
     "[\"corintium intrusive ore\", \"OQ\"]": {
       "id": "1776866",
@@ -1668,25 +1591,25 @@
       "value": 651
     },
     "[\"corintium intrusive ore\", \"UT\"]": {
-      "id": "1776865",
+      "id": "1776866",
       "tied_ids": [
-        "1776865"
+        "1776866"
       ],
-      "value": 611
+      "value": 527
     },
     "[\"cortosis siliclastic ore\", \"CR\"]": {
-      "id": "1776867",
+      "id": "1776868",
       "tied_ids": [
-        "1776867"
+        "1776868"
       ],
-      "value": 547
+      "value": 404
     },
     "[\"cortosis siliclastic ore\", \"DR\"]": {
-      "id": "1776867",
+      "id": "1776868",
       "tied_ids": [
-        "1776867"
+        "1776868"
       ],
-      "value": 260
+      "value": 182
     },
     "[\"cortosis siliclastic ore\", \"HR\"]": {
       "id": "1776868",
@@ -1696,23 +1619,22 @@
       "value": 558
     },
     "[\"cortosis siliclastic ore\", \"MA\"]": {
-      "id": "1776867",
+      "id": "1776868",
       "tied_ids": [
-        "1776867"
+        "1776868"
       ],
-      "value": 564
+      "value": 562
     },
     "[\"cortosis siliclastic ore\", \"OQ\"]": {
-      "id": "1776867",
+      "id": "1776868",
       "tied_ids": [
-        "1776867"
+        "1776868"
       ],
-      "value": 742
+      "value": 459
     },
     "[\"cortosis siliclastic ore\", \"SR\"]": {
-      "id": "1776867",
+      "id": "1776868",
       "tied_ids": [
-        "1776867",
         "1776868"
       ],
       "value": 137
@@ -2061,11 +1983,11 @@
       "value": 182
     },
     "[\"dantooine crustacean meat\", \"DR\"]": {
-      "id": "1776877",
+      "id": "1779089",
       "tied_ids": [
-        "1776877"
+        "1779089"
       ],
-      "value": 794
+      "value": 59
     },
     "[\"dantooine crustacean meat\", \"FL\"]": {
       "id": "1779089",
@@ -2075,11 +1997,11 @@
       "value": 587
     },
     "[\"dantooine crustacean meat\", \"OQ\"]": {
-      "id": "1776877",
+      "id": "1779089",
       "tied_ids": [
-        "1776877"
+        "1779089"
       ],
-      "value": 755
+      "value": 323
     },
     "[\"dantooine crustacean meat\", \"PE\"]": {
       "id": "1779089",
@@ -2096,18 +2018,18 @@
       "value": 555
     },
     "[\"dantooine deciduous wood\", \"MA\"]": {
-      "id": "1776878",
+      "id": "1779090",
       "tied_ids": [
-        "1776878"
+        "1779090"
       ],
-      "value": 673
+      "value": 577
     },
     "[\"dantooine deciduous wood\", \"OQ\"]": {
-      "id": "1776878",
+      "id": "1779090",
       "tied_ids": [
-        "1776878"
+        "1779090"
       ],
-      "value": 308
+      "value": 258
     },
     "[\"dantooine deciduous wood\", \"SR\"]": {
       "id": "1779090",
@@ -2117,11 +2039,11 @@
       "value": 453
     },
     "[\"dantooine deciduous wood\", \"UT\"]": {
-      "id": "1776878",
+      "id": "1779090",
       "tied_ids": [
-        "1776878"
+        "1779090"
       ],
-      "value": 420
+      "value": 241
     },
     "[\"dantooine domesticated corn\", \"DR\"]": {
       "id": "1776879",
@@ -2544,11 +2466,11 @@
       "value": 861
     },
     "[\"dantooine leathery hide\", \"MA\"]": {
-      "id": "1776893",
+      "id": "1779091",
       "tied_ids": [
-        "1776893"
+        "1779091"
       ],
-      "value": 680
+      "value": 39
     },
     "[\"dantooine leathery hide\", \"OQ\"]": {
       "id": "1779091",
@@ -2635,19 +2557,18 @@
       "value": 419
     },
     "[\"dantooine solar renewable energy\", \"OQ\"]": {
-      "id": "1776896",
+      "id": "1779092",
       "tied_ids": [
-        "1776896",
         "1779092"
       ],
       "value": 500
     },
     "[\"dantooine solar renewable energy\", \"PE\"]": {
-      "id": "1776896",
+      "id": "1779092",
       "tied_ids": [
-        "1776896"
+        "1779092"
       ],
-      "value": 330
+      "value": 311
     },
     "[\"dantooine vegetable beans\", \"DR\"]": {
       "id": "1778190",
@@ -3119,18 +3040,18 @@
       "value": 458
     },
     "[\"dathomirian bristley hide\", \"DR\"]": {
-      "id": "1776914",
+      "id": "1779093",
       "tied_ids": [
-        "1776914"
+        "1779093"
       ],
-      "value": 855
+      "value": 351
     },
     "[\"dathomirian bristley hide\", \"MA\"]": {
-      "id": "1776914",
+      "id": "1779093",
       "tied_ids": [
-        "1776914"
+        "1779093"
       ],
-      "value": 509
+      "value": 336
     },
     "[\"dathomirian bristley hide\", \"OQ\"]": {
       "id": "1779093",
@@ -3140,18 +3061,18 @@
       "value": 612
     },
     "[\"dathomirian bristley hide\", \"SR\"]": {
-      "id": "1776914",
+      "id": "1779093",
       "tied_ids": [
-        "1776914"
+        "1779093"
       ],
-      "value": 560
+      "value": 238
     },
     "[\"dathomirian bristley hide\", \"UT\"]": {
-      "id": "1776914",
+      "id": "1779093",
       "tied_ids": [
-        "1776914"
+        "1779093"
       ],
-      "value": 557
+      "value": 12
     },
     "[\"dathomirian carnivore meat\", \"DR\"]": {
       "id": "1776915",
@@ -3616,18 +3537,18 @@
       "value": 521
     },
     "[\"dathomirian herbivore meat\", \"OQ\"]": {
-      "id": "1776930",
+      "id": "1779094",
       "tied_ids": [
-        "1776930"
+        "1779094"
       ],
-      "value": 887
+      "value": 470
     },
     "[\"dathomirian herbivore meat\", \"PE\"]": {
-      "id": "1776930",
+      "id": "1779094",
       "tied_ids": [
-        "1776930"
+        "1779094"
       ],
-      "value": 540
+      "value": 522
     },
     "[\"dathomirian horn\", \"DR\"]": {
       "id": "1776931",
@@ -3791,9 +3712,8 @@
       "value": 447
     },
     "[\"dathomirian solar renewable energy\", \"OQ\"]": {
-      "id": "1776936",
+      "id": "1779095",
       "tied_ids": [
-        "1776936",
         "1779095"
       ],
       "value": 500
@@ -4058,9 +3978,8 @@
       "value": 401
     },
     "[\"dathomirian wind renewable energy\", \"OQ\"]": {
-      "id": "1776946",
+      "id": "1779096",
       "tied_ids": [
-        "1776946",
         "1779096"
       ],
       "value": 500
@@ -4218,62 +4137,6 @@
         "1776949"
       ],
       "value": 585
-    },
-    "[\"ditanium steel\", \"CD\"]": {
-      "id": "1776950",
-      "tied_ids": [
-        "1776950"
-      ],
-      "value": 452
-    },
-    "[\"ditanium steel\", \"CR\"]": {
-      "id": "1776950",
-      "tied_ids": [
-        "1776950"
-      ],
-      "value": 574
-    },
-    "[\"ditanium steel\", \"DR\"]": {
-      "id": "1776950",
-      "tied_ids": [
-        "1776950"
-      ],
-      "value": 840
-    },
-    "[\"ditanium steel\", \"HR\"]": {
-      "id": "1776950",
-      "tied_ids": [
-        "1776950"
-      ],
-      "value": 856
-    },
-    "[\"ditanium steel\", \"MA\"]": {
-      "id": "1776950",
-      "tied_ids": [
-        "1776950"
-      ],
-      "value": 244
-    },
-    "[\"ditanium steel\", \"OQ\"]": {
-      "id": "1776950",
-      "tied_ids": [
-        "1776950"
-      ],
-      "value": 575
-    },
-    "[\"ditanium steel\", \"SR\"]": {
-      "id": "1776950",
-      "tied_ids": [
-        "1776950"
-      ],
-      "value": 860
-    },
-    "[\"ditanium steel\", \"UT\"]": {
-      "id": "1776950",
-      "tied_ids": [
-        "1776950"
-      ],
-      "value": 827
     },
     "[\"dolovite iron\", \"CD\"]": {
       "id": "1779098",
@@ -4442,55 +4305,6 @@
         "1778647"
       ],
       "value": 677
-    },
-    "[\"dylinium intrusive ore\", \"CR\"]": {
-      "id": "1776953",
-      "tied_ids": [
-        "1776953"
-      ],
-      "value": 649
-    },
-    "[\"dylinium intrusive ore\", \"DR\"]": {
-      "id": "1776953",
-      "tied_ids": [
-        "1776953"
-      ],
-      "value": 730
-    },
-    "[\"dylinium intrusive ore\", \"HR\"]": {
-      "id": "1776953",
-      "tied_ids": [
-        "1776953"
-      ],
-      "value": 886
-    },
-    "[\"dylinium intrusive ore\", \"MA\"]": {
-      "id": "1776953",
-      "tied_ids": [
-        "1776953"
-      ],
-      "value": 383
-    },
-    "[\"dylinium intrusive ore\", \"OQ\"]": {
-      "id": "1776953",
-      "tied_ids": [
-        "1776953"
-      ],
-      "value": 296
-    },
-    "[\"dylinium intrusive ore\", \"SR\"]": {
-      "id": "1776953",
-      "tied_ids": [
-        "1776953"
-      ],
-      "value": 838
-    },
-    "[\"dylinium intrusive ore\", \"UT\"]": {
-      "id": "1776953",
-      "tied_ids": [
-        "1776953"
-      ],
-      "value": 745
     },
     "[\"eleton reactive gas\", \"DR\"]": {
       "id": "1779099",
@@ -4941,25 +4755,25 @@
       "value": 922
     },
     "[\"endorian domesticated wheat\", \"FL\"]": {
-      "id": "1776968",
+      "id": "1779100",
       "tied_ids": [
-        "1776968"
+        "1779100"
       ],
-      "value": 580
+      "value": 288
     },
     "[\"endorian domesticated wheat\", \"OQ\"]": {
-      "id": "1776968",
+      "id": "1779100",
       "tied_ids": [
-        "1776968"
+        "1779100"
       ],
-      "value": 927
+      "value": 30
     },
     "[\"endorian domesticated wheat\", \"PE\"]": {
-      "id": "1776968",
+      "id": "1779100",
       "tied_ids": [
-        "1776968"
+        "1779100"
       ],
-      "value": 811
+      "value": 496
     },
     "[\"endorian evergreen wood\", \"DR\"]": {
       "id": "1776969",
@@ -5473,11 +5287,11 @@
       "value": 329
     },
     "[\"endorian wild meat\", \"DR\"]": {
-      "id": "1776987",
+      "id": "1779101",
       "tied_ids": [
-        "1776987"
+        "1779101"
       ],
-      "value": 956
+      "value": 721
     },
     "[\"endorian wild meat\", \"FL\"]": {
       "id": "1779101",
@@ -5494,11 +5308,11 @@
       "value": 905
     },
     "[\"endorian wild meat\", \"PE\"]": {
-      "id": "1776987",
+      "id": "1779101",
       "tied_ids": [
-        "1776987"
+        "1779101"
       ],
-      "value": 845
+      "value": 796
     },
     "[\"endorian wild milk\", \"DR\"]": {
       "id": "1778649",
@@ -5557,11 +5371,11 @@
       "value": 282
     },
     "[\"endorian wild rice\", \"DR\"]": {
-      "id": "1776990",
+      "id": "1779102",
       "tied_ids": [
-        "1776990"
+        "1779102"
       ],
-      "value": 976
+      "value": 855
     },
     "[\"endorian wild rice\", \"FL\"]": {
       "id": "1779102",
@@ -5571,11 +5385,11 @@
       "value": 472
     },
     "[\"endorian wild rice\", \"OQ\"]": {
-      "id": "1776990",
+      "id": "1779102",
       "tied_ids": [
-        "1776990"
+        "1779102"
       ],
-      "value": 488
+      "value": 74
     },
     "[\"endorian wild rice\", \"PE\"]": {
       "id": "1779102",
@@ -5758,62 +5572,6 @@
         "1776995"
       ],
       "value": 515
-    },
-    "[\"gallinorian rainbow gem crystalline gemstone\", \"CR\"]": {
-      "id": "1776996",
-      "tied_ids": [
-        "1776996"
-      ],
-      "value": 104
-    },
-    "[\"gallinorian rainbow gem crystalline gemstone\", \"DR\"]": {
-      "id": "1776996",
-      "tied_ids": [
-        "1776996"
-      ],
-      "value": 143
-    },
-    "[\"gallinorian rainbow gem crystalline gemstone\", \"ER\"]": {
-      "id": "1776996",
-      "tied_ids": [
-        "1776996"
-      ],
-      "value": 606
-    },
-    "[\"gallinorian rainbow gem crystalline gemstone\", \"HR\"]": {
-      "id": "1776996",
-      "tied_ids": [
-        "1776996"
-      ],
-      "value": 751
-    },
-    "[\"gallinorian rainbow gem crystalline gemstone\", \"MA\"]": {
-      "id": "1776996",
-      "tied_ids": [
-        "1776996"
-      ],
-      "value": 106
-    },
-    "[\"gallinorian rainbow gem crystalline gemstone\", \"OQ\"]": {
-      "id": "1776996",
-      "tied_ids": [
-        "1776996"
-      ],
-      "value": 103
-    },
-    "[\"gallinorian rainbow gem crystalline gemstone\", \"SR\"]": {
-      "id": "1776996",
-      "tied_ids": [
-        "1776996"
-      ],
-      "value": 375
-    },
-    "[\"gallinorian rainbow gem crystalline gemstone\", \"UT\"]": {
-      "id": "1776996",
-      "tied_ids": [
-        "1776996"
-      ],
-      "value": 432
     },
     "[\"gravitonic fiberplast\", \"DR\"]": {
       "id": "1776997",
@@ -6005,11 +5763,11 @@
       "value": 985
     },
     "[\"kammris iron\", \"MA\"]": {
-      "id": "1777000",
+      "id": "1777886",
       "tied_ids": [
-        "1777000"
+        "1777886"
       ],
-      "value": 576
+      "value": 508
     },
     "[\"kammris iron\", \"OQ\"]": {
       "id": "1777886",
@@ -6019,18 +5777,18 @@
       "value": 907
     },
     "[\"kammris iron\", \"SR\"]": {
-      "id": "1777000",
+      "id": "1777886",
       "tied_ids": [
-        "1777000"
+        "1777886"
       ],
-      "value": 996
+      "value": 985
     },
     "[\"kammris iron\", \"UT\"]": {
-      "id": "1777000",
+      "id": "1777886",
       "tied_ids": [
-        "1777000"
+        "1777886"
       ],
-      "value": 984
+      "value": 971
     },
     "[\"lokian animal bones\", \"DR\"]": {
       "id": "1777001",
@@ -6698,11 +6456,11 @@
       "value": 685
     },
     "[\"lokian horn\", \"UT\"]": {
-      "id": "1777022",
+      "id": "1779104",
       "tied_ids": [
-        "1777022"
+        "1779104"
       ],
-      "value": 463
+      "value": 370
     },
     "[\"lokian insect meat\", \"DR\"]": {
       "id": "1777023",
@@ -6831,9 +6589,8 @@
       "value": 287
     },
     "[\"lokian solar renewable energy\", \"OQ\"]": {
-      "id": "1777027",
+      "id": "1779105",
       "tied_ids": [
-        "1777027",
         "1779105"
       ],
       "value": 500
@@ -6888,11 +6645,11 @@
       "value": 392
     },
     "[\"lokian vegetable fungus\", \"OQ\"]": {
-      "id": "1777029",
+      "id": "1779106",
       "tied_ids": [
-        "1777029"
+        "1779106"
       ],
-      "value": 542
+      "value": 352
     },
     "[\"lokian vegetable fungus\", \"PE\"]": {
       "id": "1779106",
@@ -6972,11 +6729,11 @@
       "value": 643
     },
     "[\"lokian wild corn\", \"DR\"]": {
-      "id": "1777034",
+      "id": "1779107",
       "tied_ids": [
-        "1777034"
+        "1779107"
       ],
-      "value": 59
+      "value": 18
     },
     "[\"lokian wild corn\", \"FL\"]": {
       "id": "1779107",
@@ -6986,18 +6743,18 @@
       "value": 646
     },
     "[\"lokian wild corn\", \"OQ\"]": {
-      "id": "1777034",
+      "id": "1779107",
       "tied_ids": [
-        "1777034"
+        "1779107"
       ],
-      "value": 957
+      "value": 49
     },
     "[\"lokian wild corn\", \"PE\"]": {
-      "id": "1777034",
+      "id": "1779107",
       "tied_ids": [
-        "1777034"
+        "1779107"
       ],
-      "value": 642
+      "value": 381
     },
     "[\"lokian wild meat\", \"DR\"]": {
       "id": "1777035",
@@ -7028,11 +6785,11 @@
       "value": 890
     },
     "[\"lokian wild milk\", \"DR\"]": {
-      "id": "1777036",
+      "id": "1779108",
       "tied_ids": [
-        "1777036"
+        "1779108"
       ],
-      "value": 486
+      "value": 467
     },
     "[\"lokian wild milk\", \"FL\"]": {
       "id": "1779108",
@@ -7265,20 +7022,6 @@
       ],
       "value": 576
     },
-    "[\"methane reactive gas\", \"DR\"]": {
-      "id": "1777047",
-      "tied_ids": [
-        "1777047"
-      ],
-      "value": 614
-    },
-    "[\"methane reactive gas\", \"OQ\"]": {
-      "id": "1777047",
-      "tied_ids": [
-        "1777047"
-      ],
-      "value": 272
-    },
     "[\"nabooian animal bones\", \"DR\"]": {
       "id": "1777048",
       "tied_ids": [
@@ -7413,11 +7156,11 @@
       "value": 958
     },
     "[\"nabooian bristley hide\", \"MA\"]": {
-      "id": "1777052",
+      "id": "1779110",
       "tied_ids": [
-        "1777052"
+        "1779110"
       ],
-      "value": 363
+      "value": 105
     },
     "[\"nabooian bristley hide\", \"OQ\"]": {
       "id": "1779110",
@@ -7427,18 +7170,18 @@
       "value": 664
     },
     "[\"nabooian bristley hide\", \"SR\"]": {
-      "id": "1777052",
+      "id": "1779110",
       "tied_ids": [
-        "1777052"
+        "1779110"
       ],
-      "value": 857
+      "value": 201
     },
     "[\"nabooian bristley hide\", \"UT\"]": {
-      "id": "1777052",
+      "id": "1779110",
       "tied_ids": [
-        "1777052"
+        "1779110"
       ],
-      "value": 344
+      "value": 33
     },
     "[\"nabooian carnivore meat\", \"DR\"]": {
       "id": "1777053",
@@ -8239,11 +7982,11 @@
       "value": 692
     },
     "[\"nabooian wild corn\", \"PE\"]": {
-      "id": "1777080",
+      "id": "1779111",
       "tied_ids": [
-        "1777080"
+        "1779111"
       ],
-      "value": 564
+      "value": 132
     },
     "[\"nabooian wild meat\", \"DR\"]": {
       "id": "1777081",
@@ -8595,68 +8338,13 @@
       ],
       "value": 244
     },
-    "[\"phrik aluminum\", \"CD\"]": {
-      "id": "1777090",
-      "tied_ids": [
-        "1777090"
-      ],
-      "value": 705
-    },
-    "[\"phrik aluminum\", \"CR\"]": {
-      "id": "1777090",
-      "tied_ids": [
-        "1777090"
-      ],
-      "value": 732
-    },
-    "[\"phrik aluminum\", \"DR\"]": {
-      "id": "1777090",
-      "tied_ids": [
-        "1777090"
-      ],
-      "value": 775
-    },
-    "[\"phrik aluminum\", \"HR\"]": {
-      "id": "1777090",
-      "tied_ids": [
-        "1777090"
-      ],
-      "value": 700
-    },
-    "[\"phrik aluminum\", \"MA\"]": {
-      "id": "1777090",
-      "tied_ids": [
-        "1777090"
-      ],
-      "value": 916
-    },
-    "[\"phrik aluminum\", \"OQ\"]": {
-      "id": "1777090",
-      "tied_ids": [
-        "1777090"
-      ],
-      "value": 799
-    },
-    "[\"phrik aluminum\", \"SR\"]": {
-      "id": "1777090",
-      "tied_ids": [
-        "1777090"
-      ],
-      "value": 828
-    },
-    "[\"phrik aluminum\", \"UT\"]": {
-      "id": "1777090",
-      "tied_ids": [
-        "1777090"
-      ],
-      "value": 898
-    },
     "[\"plumbum iron\", \"CD\"]": {
-      "id": "1777091",
+      "id": "1777093",
       "tied_ids": [
-        "1777091"
+        "1777093",
+        "1777715"
       ],
-      "value": 65
+      "value": 2
     },
     "[\"plumbum iron\", \"CR\"]": {
       "id": "1777715",
@@ -8687,11 +8375,11 @@
       "value": 81
     },
     "[\"plumbum iron\", \"OQ\"]": {
-      "id": "1777091",
+      "id": "1777715",
       "tied_ids": [
-        "1777091"
+        "1777715"
       ],
-      "value": 734
+      "value": 562
     },
     "[\"plumbum iron\", \"SR\"]": {
       "id": "1777715",
@@ -9192,11 +8880,11 @@
       "value": 31
     },
     "[\"rori domesticated corn\", \"DR\"]": {
-      "id": "1777108",
+      "id": "1779115",
       "tied_ids": [
-        "1777108"
+        "1779115"
       ],
-      "value": 549
+      "value": 346
     },
     "[\"rori domesticated corn\", \"FL\"]": {
       "id": "1779115",
@@ -9213,25 +8901,25 @@
       "value": 964
     },
     "[\"rori domesticated corn\", \"PE\"]": {
-      "id": "1777108",
+      "id": "1779115",
       "tied_ids": [
-        "1777108"
+        "1779115"
       ],
-      "value": 919
+      "value": 683
     },
     "[\"rori domesticated meat\", \"DR\"]": {
-      "id": "1777109",
+      "id": "1779116",
       "tied_ids": [
-        "1777109"
+        "1779116"
       ],
-      "value": 959
+      "value": 141
     },
     "[\"rori domesticated meat\", \"FL\"]": {
-      "id": "1777109",
+      "id": "1779116",
       "tied_ids": [
-        "1777109"
+        "1779116"
       ],
-      "value": 810
+      "value": 743
     },
     "[\"rori domesticated meat\", \"OQ\"]": {
       "id": "1779116",
@@ -9241,11 +8929,11 @@
       "value": 739
     },
     "[\"rori domesticated meat\", \"PE\"]": {
-      "id": "1777109",
+      "id": "1779116",
       "tied_ids": [
-        "1777109"
+        "1779116"
       ],
-      "value": 642
+      "value": 585
     },
     "[\"rori domesticated milk\", \"DR\"]": {
       "id": "1777110",
@@ -9367,18 +9055,18 @@
       "value": 222
     },
     "[\"rori evergreen wood\", \"MA\"]": {
-      "id": "1777114",
+      "id": "1779117",
       "tied_ids": [
-        "1777114"
+        "1779117"
       ],
-      "value": 819
+      "value": 810
     },
     "[\"rori evergreen wood\", \"OQ\"]": {
-      "id": "1777114",
+      "id": "1779117",
       "tied_ids": [
-        "1777114"
+        "1779117"
       ],
-      "value": 946
+      "value": 217
     },
     "[\"rori evergreen wood\", \"SR\"]": {
       "id": "1779117",
@@ -9388,11 +9076,11 @@
       "value": 277
     },
     "[\"rori evergreen wood\", \"UT\"]": {
-      "id": "1777114",
+      "id": "1779117",
       "tied_ids": [
-        "1777114"
+        "1779117"
       ],
-      "value": 184
+      "value": 133
     },
     "[\"rori fiberplast\", \"DR\"]": {
       "id": "1777115",
@@ -9724,11 +9412,11 @@
       "value": 826
     },
     "[\"rori vegetable beans\", \"FL\"]": {
-      "id": "1777126",
+      "id": "1779118",
       "tied_ids": [
-        "1777126"
+        "1779118"
       ],
-      "value": 533
+      "value": 207
     },
     "[\"rori vegetable beans\", \"OQ\"]": {
       "id": "1779118",
@@ -9738,11 +9426,11 @@
       "value": 471
     },
     "[\"rori vegetable beans\", \"PE\"]": {
-      "id": "1777126",
+      "id": "1779118",
       "tied_ids": [
-        "1777126"
+        "1779118"
       ],
-      "value": 873
+      "value": 818
     },
     "[\"rori vegetable fungus\", \"DR\"]": {
       "id": "1777127",
@@ -10277,18 +9965,18 @@
       "value": 328
     },
     "[\"talusian conifer wood\", \"DR\"]": {
-      "id": "1777147",
+      "id": "1779119",
       "tied_ids": [
-        "1777147"
+        "1779119"
       ],
-      "value": 503
+      "value": 410
     },
     "[\"talusian conifer wood\", \"MA\"]": {
-      "id": "1777147",
+      "id": "1779119",
       "tied_ids": [
-        "1777147"
+        "1779119"
       ],
-      "value": 863
+      "value": 769
     },
     "[\"talusian conifer wood\", \"OQ\"]": {
       "id": "1779119",
@@ -10305,11 +9993,11 @@
       "value": 350
     },
     "[\"talusian conifer wood\", \"UT\"]": {
-      "id": "1777147",
+      "id": "1779119",
       "tied_ids": [
-        "1777147"
+        "1779119"
       ],
-      "value": 278
+      "value": 47
     },
     "[\"talusian crustacean meat\", \"DR\"]": {
       "id": "1777719",
@@ -10480,11 +10168,11 @@
       "value": 960
     },
     "[\"talusian domesticated oats\", \"PE\"]": {
-      "id": "1777153",
+      "id": "1779120",
       "tied_ids": [
-        "1777153"
+        "1779120"
       ],
-      "value": 635
+      "value": 318
     },
     "[\"talusian domesticated rice\", \"DR\"]": {
       "id": "1777154",
@@ -10956,11 +10644,11 @@
       "value": 685
     },
     "[\"talusian vegetable greens\", \"DR\"]": {
-      "id": "1777170",
+      "id": "1779121",
       "tied_ids": [
-        "1777170"
+        "1779121"
       ],
-      "value": 636
+      "value": 530
     },
     "[\"talusian vegetable greens\", \"FL\"]": {
       "id": "1779121",
@@ -10970,18 +10658,18 @@
       "value": 726
     },
     "[\"talusian vegetable greens\", \"OQ\"]": {
-      "id": "1777170",
+      "id": "1779121",
       "tied_ids": [
-        "1777170"
+        "1779121"
       ],
-      "value": 904
+      "value": 587
     },
     "[\"talusian vegetable greens\", \"PE\"]": {
-      "id": "1777170",
+      "id": "1779121",
       "tied_ids": [
-        "1777170"
+        "1779121"
       ],
-      "value": 982
+      "value": 652
     },
     "[\"talusian vegetable tubers\", \"DR\"]": {
       "id": "1777722",
@@ -12167,11 +11855,11 @@
       "value": 904
     },
     "[\"tatooinian water vapor\", \"DR\"]": {
-      "id": "1777211",
+      "id": "1777212",
       "tied_ids": [
-        "1777211"
+        "1777212"
       ],
-      "value": 275
+      "value": 168
     },
     "[\"tatooinian water vapor\", \"OQ\"]": {
       "id": "1777212",
@@ -12195,11 +11883,11 @@
       "value": 461
     },
     "[\"tatooinian wild corn\", \"OQ\"]": {
-      "id": "1777213",
+      "id": "1779122",
       "tied_ids": [
-        "1777213"
+        "1779122"
       ],
-      "value": 335
+      "value": 169
     },
     "[\"tatooinian wild corn\", \"PE\"]": {
       "id": "1779122",
@@ -12223,11 +11911,11 @@
       "value": 275
     },
     "[\"tatooinian wild meat\", \"OQ\"]": {
-      "id": "1777214",
+      "id": "1779123",
       "tied_ids": [
-        "1777214"
+        "1779123"
       ],
-      "value": 740
+      "value": 434
     },
     "[\"tatooinian wild meat\", \"PE\"]": {
       "id": "1779123",
@@ -12349,9 +12037,8 @@
       "value": 147
     },
     "[\"tatooinian wind renewable energy\", \"OQ\"]": {
-      "id": "1777219",
+      "id": "1779124",
       "tied_ids": [
-        "1777219",
         "1779124"
       ],
       "value": 500
@@ -12637,18 +12324,18 @@
       "value": 313
     },
     "[\"yavinian berry fruit\", \"DR\"]": {
-      "id": "1777227",
+      "id": "1779125",
       "tied_ids": [
-        "1777227"
+        "1779125"
       ],
-      "value": 443
+      "value": 31
     },
     "[\"yavinian berry fruit\", \"FL\"]": {
-      "id": "1777227",
+      "id": "1779125",
       "tied_ids": [
-        "1777227"
+        "1779125"
       ],
-      "value": 737
+      "value": 546
     },
     "[\"yavinian berry fruit\", \"OQ\"]": {
       "id": "1779125",
@@ -13211,11 +12898,11 @@
       "value": 460
     },
     "[\"yavinian insect meat\", \"DR\"]": {
-      "id": "1777246",
+      "id": "1779126",
       "tied_ids": [
-        "1777246"
+        "1779126"
       ],
-      "value": 931
+      "value": 373
     },
     "[\"yavinian insect meat\", \"FL\"]": {
       "id": "1779126",
@@ -13225,11 +12912,11 @@
       "value": 900
     },
     "[\"yavinian insect meat\", \"OQ\"]": {
-      "id": "1777246",
+      "id": "1779126",
       "tied_ids": [
-        "1777246"
+        "1779126"
       ],
-      "value": 812
+      "value": 135
     },
     "[\"yavinian insect meat\", \"PE\"]": {
       "id": "1779126",
@@ -13694,14 +13381,1730 @@
       "value": 51
     }
   },
-  "outbox": [],
+  "outbox": [
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Corintium Intrusive Ore**\nPlanets: Dantooine\nCR 405 | DR 493 | HR 768 | MA 170 | OQ 989 | SR 651 | UT 527",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "CR - Cold Resistance",
+                "value": "**Active best: 405** | Previous: 487 (Feva)\nHistorical best: **487** - Feva (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "HR - Heat Resistance",
+                "value": "**Active best: 768** | Previous: 786 (Feva)\nHistorical best: **786** - Feva (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 170** | Previous: 219 (Feva)\nHistorical best: **219** - Feva (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 527** | Previous: 611 (Feva)\nHistorical best: **611** - Feva (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Odeto",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1776866",
+      "winner_values": {
+        "CR": 405,
+        "HR": 768,
+        "MA": 170,
+        "UT": 527
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Cortosis Siliclastic Ore**\nPlanets: Corellia, Dantooine, Dathomir, Naboo, Rori, Talus, Tatooine, Yavin 4\nCR 404 | DR 182 | HR 558 | MA 562 | OQ 459 | SR 137 | UT 187",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "CR - Cold Resistance",
+                "value": "**Active best: 404** | Previous: 547 (Saietaian)\nHistorical best: **547** - Saietaian (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 182** | Previous: 260 (Saietaian)\nHistorical best: **260** - Saietaian (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 562** | Previous: 564 (Saietaian)\nHistorical best: **564** - Saietaian (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 459** | Previous: 742 (Saietaian)\nHistorical best: **742** - Saietaian (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "SR - Shock Resistance",
+                "value": "**Active best: 137** | Previous: 137 (Saietaian)\nHistorical best: **137** - Saietaian (despawned / inactive)\nActive leader changed / stats updated"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Topohia",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1776868",
+      "winner_values": {
+        "CR": 404,
+        "DR": 182,
+        "MA": 562,
+        "OQ": 459,
+        "SR": 137
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Plumbum Iron**\nPlanets: Naboo, Talus\nCR 16 | CD 2 | DR 396 | HR 555 | MA 81 | OQ 467 | SR 459 | UT 463",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "CD - Conductivity",
+                "value": "**Active best: 2** | Previous: 65 (Feihoiam)\nHistorical best: **65** - Feihoiam (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Ibiism",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1777093",
+      "winner_values": {
+        "CD": 2
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Tatooinian Water Vapor**\nPlanets: Tatooine\nDR 168 | OQ 795",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 168** | Previous: 275 (Nenti)\nHistorical best: **275** - Nenti (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Dima",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1777212",
+      "winner_values": {
+        "DR": 168
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Colat Iron**\nPlanets: Yavin 4\nCR 495 | CD 247 | DR 758 | HR 750 | MA 366 | OQ 463 | SR 683 | UT 725",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "CD - Conductivity",
+                "value": "**Active best: 247** | Previous: 287 (Laidoite)\nHistorical best: **287** - Laidoite (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "HR - Heat Resistance",
+                "value": "**Active best: 750** | Previous: 761 (Laidoite)\nHistorical best: **809** - Wodoiam (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "SR - Shock Resistance",
+                "value": "**Active best: 683** | Previous: 695 (Laidoite)\nHistorical best: **732** - Wodoiam (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Fikeate",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1777695",
+      "winner_values": {
+        "CD": 247,
+        "HR": 750,
+        "SR": 683
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Plumbum Iron**\nPlanets: Lok\nCR 111 | CD 2 | DR 348 | HR 507 | MA 20 | OQ 562 | SR 495 | UT 401",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 562** | Previous: 734 (Feihoiam)\nHistorical best: **840** - Kahe (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Xarihi",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1777715",
+      "winner_values": {
+        "OQ": 562
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Kammris Iron**\nPlanets: Talus\nCR 750 | CD 489 | DR 927 | HR 985 | MA 508 | OQ 907 | SR 985 | UT 971",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 508** | Previous: 576 (Gosy)\nHistorical best: **576** - Gosy (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "SR - Shock Resistance",
+                "value": "**Active best: 985** | Previous: 996 (Gosy)\nHistorical best: **996** - Gosy (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 971** | Previous: 984 (Gosy)\nHistorical best: **984** - Gosy (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Osoiam",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1777886",
+      "winner_values": {
+        "MA": 508,
+        "SR": 985,
+        "UT": 971
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Axidite Iron**\nPlanets: Corellia, Tatooine, Yavin 4\nCR 209 | CD 135 | DR 585 | HR 634 | MA 232 | OQ 745 | SR 541 | UT 612",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 612** | Previous: 628 (Abeium)\nHistorical best: **628** - Abeium (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Pilae",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1778186",
+      "winner_values": {
+        "UT": 612
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Axidite Iron**\nPlanets: Dantooine, Endor\nCR 329 | CD 169 | DR 586 | HR 642 | MA 217 | OQ 713 | SR 564 | UT 545",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "HR - Heat Resistance",
+                "value": "**Active best: 642** | Previous: 688 (Abeium)\nHistorical best: **688** - Abeium (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Fene",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779085",
+      "winner_values": {
+        "HR": 642
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Corellia Fiberplast**\nPlanets: Corellia\nDR 929 | MA 206 | OQ 768 | SR 221 | UT 223",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 206** | Previous: 737 (Kicoo)\nHistorical best: **737** - Kicoo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Ixira",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779087",
+      "winner_values": {
+        "MA": 206
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Dantooine Crustacean Meat**\nPlanets: Dantooine\nDR 59 | FL 587 | PE 119 | OQ 323",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 59** | Previous: 794 (Haelpo)\nHistorical best: **794** - Haelpo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 323** | Previous: 755 (Haelpo)\nHistorical best: **755** - Haelpo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Oufe",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779089",
+      "winner_values": {
+        "DR": 59,
+        "OQ": 323
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Dantooine Deciduous Wood**\nPlanets: Dantooine\nDR 555 | MA 577 | OQ 258 | SR 453 | UT 241",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 577** | Previous: 673 (Mace)\nHistorical best: **673** - Mace (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 258** | Previous: 308 (Mace)\nHistorical best: **308** - Mace (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 241** | Previous: 420 (Mace)\nHistorical best: **420** - Mace (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Horisi",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779090",
+      "winner_values": {
+        "MA": 577,
+        "OQ": 258,
+        "UT": 241
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Dantooine Leathery Hide**\nPlanets: Dantooine\nDR 861 | MA 39 | OQ 919 | SR 751 | UT 225",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 39** | Previous: 680 (Cate)\nHistorical best: **680** - Cate (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Llaibo",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779091",
+      "winner_values": {
+        "MA": 39
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Dantooine Solar Renewable Energy**\nPlanets: Dantooine\nPE 311 | OQ 500",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 311** | Previous: 330 (Yishia)\nHistorical best: **330** - Yishia (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 500** | Previous: 500 (Yishia)\nHistorical best: **500** - Yishia (despawned / inactive)\nActive leader changed / stats updated"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Iofasis",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779092",
+      "winner_values": {
+        "OQ": 500,
+        "PE": 311
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Dathomirian Bristley Hide**\nPlanets: Dathomir\nDR 351 | MA 336 | OQ 612 | SR 238 | UT 12",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 351** | Previous: 855 (Slera)\nHistorical best: **855** - Slera (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 336** | Previous: 509 (Slera)\nHistorical best: **509** - Slera (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "SR - Shock Resistance",
+                "value": "**Active best: 238** | Previous: 560 (Slera)\nHistorical best: **560** - Slera (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 12** | Previous: 557 (Slera)\nHistorical best: **557** - Slera (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Giode",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779093",
+      "winner_values": {
+        "DR": 351,
+        "MA": 336,
+        "SR": 238,
+        "UT": 12
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Dathomirian Herbivore Meat**\nPlanets: Dathomir\nDR 851 | FL 521 | PE 522 | OQ 470",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 522** | Previous: 540 (Priweti)\nHistorical best: **540** - Priweti (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 470** | Previous: 887 (Priweti)\nHistorical best: **887** - Priweti (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Wwixeipi",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779094",
+      "winner_values": {
+        "OQ": 470,
+        "PE": 522
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Dathomirian Solar Renewable Energy**\nPlanets: Dathomir\nPE 577 | OQ 500",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 500** | Previous: 500 (Ktinoto)\nHistorical best: **500** - Ktinoto (despawned / inactive)\nActive leader changed / stats updated"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Kafewi",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779095",
+      "winner_values": {
+        "OQ": 500
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Dathomirian Wind Renewable Energy**\nPlanets: Dathomir\nPE 174 | OQ 500",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 500** | Previous: 500 (Saodo)\nHistorical best: **500** - Saodo (despawned / inactive)\nActive leader changed / stats updated"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Kisa",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779096",
+      "winner_values": {
+        "OQ": 500
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Endorian Domesticated Wheat**\nPlanets: Endor\nDR 922 | FL 288 | PE 496 | OQ 30",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "FL - Flavor",
+                "value": "**Active best: 288** | Previous: 580 (Line)\nHistorical best: **580** - Line (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 496** | Previous: 811 (Line)\nHistorical best: **811** - Line (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 30** | Previous: 927 (Line)\nHistorical best: **927** - Line (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Stoove",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779100",
+      "winner_values": {
+        "FL": 288,
+        "OQ": 30,
+        "PE": 496
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Endorian Wild Meat**\nPlanets: Endor\nDR 721 | FL 527 | PE 796 | OQ 905",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 721** | Previous: 956 (Yogra)\nHistorical best: **956** - Yogra (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 796** | Previous: 845 (Yogra)\nHistorical best: **845** - Yogra (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Boorea",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779101",
+      "winner_values": {
+        "DR": 721,
+        "PE": 796
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Endorian Wild Rice**\nPlanets: Endor\nDR 855 | FL 472 | PE 564 | OQ 74",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 855** | Previous: 976 (Kkivoo)\nHistorical best: **976** - Kkivoo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 74** | Previous: 488 (Kkivoo)\nHistorical best: **488** - Kkivoo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Oha",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779102",
+      "winner_values": {
+        "DR": 855,
+        "OQ": 74
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Lokian Horn**\nPlanets: Lok\nDR 985 | MA 138 | OQ 725 | SR 685 | UT 370",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 370** | Previous: 463 (Gace)\nHistorical best: **463** - Gace (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Eexodoe",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779104",
+      "winner_values": {
+        "UT": 370
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Lokian Solar Renewable Energy**\nPlanets: Lok\nPE 515 | OQ 500",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 500** | Previous: 500 (Ageide)\nHistorical best: **500** - Ageide (despawned / inactive)\nActive leader changed / stats updated"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Fijoate",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779105",
+      "winner_values": {
+        "OQ": 500
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Lokian Vegetable Fungus**\nPlanets: Lok\nDR 630 | FL 392 | PE 995 | OQ 352",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 352** | Previous: 542 (Fouli)\nHistorical best: **542** - Fouli (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Vewo",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779106",
+      "winner_values": {
+        "OQ": 352
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Lokian Wild Corn**\nPlanets: Lok\nDR 18 | FL 646 | PE 381 | OQ 49",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 18** | Previous: 59 (Goago)\nHistorical best: **59** - Goago (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 381** | Previous: 642 (Goago)\nHistorical best: **642** - Goago (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 49** | Previous: 957 (Goago)\nHistorical best: **957** - Goago (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Stopace",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779107",
+      "winner_values": {
+        "DR": 18,
+        "OQ": 49,
+        "PE": 381
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Lokian Wild Milk**\nPlanets: Lok\nDR 467 | FL 935 | PE 406 | OQ 440",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 467** | Previous: 486 (Cillea)\nHistorical best: **486** - Cillea (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Veeka",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779108",
+      "winner_values": {
+        "DR": 467
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Nabooian Bristley Hide**\nPlanets: Naboo\nDR 958 | MA 105 | OQ 664 | SR 201 | UT 33",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 105** | Previous: 363 (Ofano)\nHistorical best: **363** - Ofano (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "SR - Shock Resistance",
+                "value": "**Active best: 201** | Previous: 857 (Ofano)\nHistorical best: **857** - Ofano (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 33** | Previous: 344 (Ofano)\nHistorical best: **344** - Ofano (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Spobiga",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779110",
+      "winner_values": {
+        "MA": 105,
+        "SR": 201,
+        "UT": 33
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Nabooian Wild Corn**\nPlanets: Naboo\nDR 903 | FL 757 | PE 132 | OQ 692",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 132** | Previous: 564 (Ipoabae)\nHistorical best: **564** - Ipoabae (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Nore",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779111",
+      "winner_values": {
+        "PE": 132
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Rori Domesticated Corn**\nPlanets: Rori\nDR 346 | FL 327 | PE 683 | OQ 964",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 346** | Previous: 549 (Totchigo)\nHistorical best: **549** - Totchigo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 683** | Previous: 919 (Totchigo)\nHistorical best: **919** - Totchigo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Gewoe",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779115",
+      "winner_values": {
+        "DR": 346,
+        "PE": 683
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Rori Domesticated Meat**\nPlanets: Rori\nDR 141 | FL 743 | PE 585 | OQ 739",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 141** | Previous: 959 (Miateia)\nHistorical best: **959** - Miateia (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "FL - Flavor",
+                "value": "**Active best: 743** | Previous: 810 (Miateia)\nHistorical best: **810** - Miateia (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 585** | Previous: 642 (Miateia)\nHistorical best: **642** - Miateia (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Cepie",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779116",
+      "winner_values": {
+        "DR": 141,
+        "FL": 743,
+        "PE": 585
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Rori Evergreen Wood**\nPlanets: Rori\nDR 222 | MA 810 | OQ 217 | SR 277 | UT 133",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 810** | Previous: 819 (Shotriva)\nHistorical best: **819** - Shotriva (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 217** | Previous: 946 (Shotriva)\nHistorical best: **946** - Shotriva (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 133** | Previous: 184 (Shotriva)\nHistorical best: **184** - Shotriva (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Wewa",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779117",
+      "winner_values": {
+        "MA": 810,
+        "OQ": 217,
+        "UT": 133
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Rori Vegetable Beans**\nPlanets: Rori\nDR 826 | FL 207 | PE 818 | OQ 471",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "FL - Flavor",
+                "value": "**Active best: 207** | Previous: 533 (Gaofou)\nHistorical best: **533** - Gaofou (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 818** | Previous: 873 (Gaofou)\nHistorical best: **873** - Gaofou (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Nesa",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779118",
+      "winner_values": {
+        "FL": 207,
+        "PE": 818
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Talusian Conifer Wood**\nPlanets: Talus\nDR 410 | MA 769 | OQ 240 | SR 350 | UT 47",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 410** | Previous: 503 (Koglimo)\nHistorical best: **503** - Koglimo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 769** | Previous: 863 (Koglimo)\nHistorical best: **863** - Koglimo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 47** | Previous: 278 (Koglimo)\nHistorical best: **278** - Koglimo (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Gabu",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779119",
+      "winner_values": {
+        "DR": 410,
+        "MA": 769,
+        "UT": 47
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Talusian Domesticated Oats**\nPlanets: Talus\nDR 872 | FL 373 | PE 318 | OQ 960",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 318** | Previous: 635 (Erivio)\nHistorical best: **635** - Erivio (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Zilita",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779120",
+      "winner_values": {
+        "PE": 318
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Talusian Vegetable Greens**\nPlanets: Talus\nDR 530 | FL 726 | PE 652 | OQ 587",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 530** | Previous: 636 (Cegge)\nHistorical best: **636** - Cegge (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "PE - Potential Energy",
+                "value": "**Active best: 652** | Previous: 982 (Cegge)\nHistorical best: **982** - Cegge (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 587** | Previous: 904 (Cegge)\nHistorical best: **904** - Cegge (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Riri",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779121",
+      "winner_values": {
+        "DR": 530,
+        "OQ": 587,
+        "PE": 652
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Tatooinian Wild Corn**\nPlanets: Tatooine\nDR 858 | FL 461 | PE 385 | OQ 169",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 169** | Previous: 335 (Tropra)\nHistorical best: **335** - Tropra (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Gaovope",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779122",
+      "winner_values": {
+        "OQ": 169
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Tatooinian Wild Meat**\nPlanets: Tatooine\nDR 760 | FL 275 | PE 656 | OQ 434",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 434** | Previous: 740 (Aikre)\nHistorical best: **740** - Aikre (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Sasroina",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779123",
+      "winner_values": {
+        "OQ": 434
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Tatooinian Wind Renewable Energy**\nPlanets: Tatooine\nPE 247 | OQ 500",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 500** | Previous: 500 (Melmy)\nHistorical best: **500** - Melmy (despawned / inactive)\nActive leader changed / stats updated"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Iskeqiian",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779124",
+      "winner_values": {
+        "OQ": 500
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Yavinian Berry Fruit**\nPlanets: Yavin 4\nDR 31 | FL 546 | PE 497 | OQ 793",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 31** | Previous: 443 (Domi)\nHistorical best: **443** - Domi (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "FL - Flavor",
+                "value": "**Active best: 546** | Previous: 737 (Domi)\nHistorical best: **737** - Domi (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Wepi",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779125",
+      "winner_values": {
+        "DR": 31,
+        "FL": 546
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Yavinian Insect Meat**\nPlanets: Yavin 4\nDR 373 | FL 900 | PE 980 | OQ 135",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 373** | Previous: 931 (Gleme)\nHistorical best: **931** - Gleme (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 135** | Previous: 812 (Gleme)\nHistorical best: **812** - Gleme (despawned / inactive)\nPrevious leader left spawn; replacement active best"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-20T15:24:00+00:00",
+            "title": "New active best: Werea",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779126",
+      "winner_values": {
+        "DR": 373,
+        "OQ": 135
+      }
+    }
+  ],
   "resources": {
     "1776811": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791565083",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1776811",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Abeium",
       "planets": [
         "Corellia",
@@ -13894,11 +15297,12 @@
       "waypoints": []
     },
     "1776819": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791589392",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1776819",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Ocaium",
       "planets": [
         "Corellia",
@@ -13950,11 +15354,12 @@
       "waypoints": []
     },
     "1776821": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791560083",
       "first_seen": "2026-10-19T15:58:01+00:00",
       "id": "1776821",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Whokrau",
       "planets": [
         "Dathomir",
@@ -14054,11 +15459,12 @@
       "url": "https://swgaide.com/resources/view.php?rid=1776825"
     },
     "1776826": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791847405",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1776826",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Laidoite",
       "planets": [
         "Dantooine",
@@ -14411,11 +15817,12 @@
       "waypoints": []
     },
     "1776842": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791565289",
       "first_seen": "2026-10-19T15:58:01+00:00",
       "id": "1776842",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Kicoo",
       "planets": [
         "Corellia"
@@ -14881,11 +16288,12 @@
       "waypoints": []
     },
     "1776865": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791547401",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1776865",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Feva",
       "planets": [
         "Corellia",
@@ -14933,11 +16341,12 @@
       "waypoints": []
     },
     "1776867": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791582057",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1776867",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Saietaian",
       "planets": [
         "Corellia",
@@ -15166,11 +16575,12 @@
       "url": "https://swgaide.com/resources/view.php?rid=1776876"
     },
     "1776877": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791334493",
       "first_seen": "2026-10-19T15:58:02+00:00",
       "id": "1776877",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Haelpo",
       "planets": [
         "Dantooine"
@@ -15188,11 +16598,12 @@
       "waypoints": []
     },
     "1776878": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791336456",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1776878",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Mace",
       "planets": [
         "Dantooine"
@@ -15507,11 +16918,12 @@
       "url": "https://swgaide.com/resources/view.php?rid=1776892"
     },
     "1776893": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791332251",
       "first_seen": "2026-10-19T15:58:04+00:00",
       "id": "1776893",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Cate",
       "planets": [
         "Dantooine"
@@ -15575,11 +16987,12 @@
       "waypoints": []
     },
     "1776896": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791861871",
       "first_seen": "2026-10-19T15:58:00+00:00",
       "id": "1776896",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Yishia",
       "planets": [
         "Dantooine"
@@ -15943,11 +17356,12 @@
       "waypoints": []
     },
     "1776914": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791340243",
       "first_seen": "2026-10-19T15:58:04+00:00",
       "id": "1776914",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Slera",
       "planets": [
         "Dathomir"
@@ -16290,11 +17704,12 @@
       "waypoints": []
     },
     "1776930": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791826172",
       "first_seen": "2026-10-19T15:58:02+00:00",
       "id": "1776930",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Priweti",
       "planets": [
         "Dathomir"
@@ -16425,11 +17840,12 @@
       "waypoints": []
     },
     "1776936": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791632441",
       "first_seen": "2026-10-19T15:58:00+00:00",
       "id": "1776936",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Ktinoto",
       "planets": [
         "Dathomir"
@@ -16638,11 +18054,12 @@
       "waypoints": []
     },
     "1776946": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791681715",
       "first_seen": "2026-10-19T15:58:00+00:00",
       "id": "1776946",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Saodo",
       "planets": [
         "Dathomir"
@@ -16730,11 +18147,12 @@
       "waypoints": []
     },
     "1776950": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791766359",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1776950",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Vepoism",
       "planets": [
         "Corellia",
@@ -16812,11 +18230,12 @@
       "waypoints": []
     },
     "1776953": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791768152",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1776953",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Hopiiam",
       "planets": [
         "Lok"
@@ -17130,11 +18549,12 @@
       "waypoints": []
     },
     "1776968": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791336163",
       "first_seen": "2026-10-19T15:58:07+00:00",
       "id": "1776968",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Line",
       "planets": [
         "Endor"
@@ -17534,11 +18954,12 @@
       "url": "https://swgaide.com/resources/view.php?rid=1776986"
     },
     "1776987": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791341890",
       "first_seen": "2026-10-19T15:58:02+00:00",
       "id": "1776987",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Yogra",
       "planets": [
         "Endor"
@@ -17595,11 +19016,12 @@
       "waypoints": []
     },
     "1776990": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791335805",
       "first_seen": "2026-10-19T15:58:07+00:00",
       "id": "1776990",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Kkivoo",
       "planets": [
         "Endor"
@@ -17739,11 +19161,12 @@
       "waypoints": []
     },
     "1776996": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791631996",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1776996",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Pebeine",
       "planets": [
         "Dantooine",
@@ -17837,11 +19260,12 @@
       "waypoints": []
     },
     "1777000": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791717731",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1777000",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Gosy",
       "planets": [
         "Corellia"
@@ -18307,11 +19731,12 @@
       "waypoints": []
     },
     "1777022": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791333958",
       "first_seen": "2026-10-19T15:58:04+00:00",
       "id": "1777022",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Gace",
       "planets": [
         "Lok"
@@ -18420,11 +19845,12 @@
       "waypoints": []
     },
     "1777027": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791865392",
       "first_seen": "2026-10-19T15:58:00+00:00",
       "id": "1777027",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Ageide",
       "planets": [
         "Lok"
@@ -18462,11 +19888,12 @@
       "waypoints": []
     },
     "1777029": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791333935",
       "first_seen": "2026-10-19T15:58:06+00:00",
       "id": "1777029",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Fouli",
       "planets": [
         "Lok"
@@ -18563,11 +19990,12 @@
       "waypoints": []
     },
     "1777034": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791334340",
       "first_seen": "2026-10-19T15:58:07+00:00",
       "id": "1777034",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Goago",
       "planets": [
         "Lok"
@@ -18607,11 +20035,12 @@
       "waypoints": []
     },
     "1777036": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791332551",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777036",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Cillea",
       "planets": [
         "Lok"
@@ -18832,11 +20261,12 @@
       "waypoints": []
     },
     "1777047": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791768163",
       "first_seen": "2026-10-19T15:58:10+00:00",
       "id": "1777047",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Pagwibiene",
       "planets": [
         "Corellia",
@@ -18944,11 +20374,12 @@
       "waypoints": []
     },
     "1777052": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791919415",
       "first_seen": "2026-10-19T15:58:04+00:00",
       "id": "1777052",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Ofano",
       "planets": [
         "Naboo"
@@ -19529,11 +20960,12 @@
       "waypoints": []
     },
     "1777080": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791335400",
       "first_seen": "2026-10-19T15:58:07+00:00",
       "id": "1777080",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Ipoabae",
       "planets": [
         "Naboo"
@@ -19758,11 +21190,12 @@
       "waypoints": []
     },
     "1777090": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791854432",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1777090",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Olaris",
       "planets": [
         "Corellia",
@@ -19791,11 +21224,12 @@
       "waypoints": []
     },
     "1777091": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791657185",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1777091",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Feihoiam",
       "planets": [
         "Tatooine"
@@ -20191,11 +21625,12 @@
       "url": "https://swgaide.com/resources/view.php?rid=1777107"
     },
     "1777108": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791341065",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1777108",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Totchigo",
       "planets": [
         "Rori"
@@ -20213,11 +21648,12 @@
       "waypoints": []
     },
     "1777109": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791336682",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777109",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Miateia",
       "planets": [
         "Rori"
@@ -20318,11 +21754,12 @@
       "url": "https://swgaide.com/resources/view.php?rid=1777113"
     },
     "1777114": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791339953",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1777114",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Shotriva",
       "planets": [
         "Rori"
@@ -20570,11 +22007,12 @@
       "waypoints": []
     },
     "1777126": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791334034",
       "first_seen": "2026-10-19T15:58:06+00:00",
       "id": "1777126",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Gaofou",
       "planets": [
         "Rori"
@@ -21007,11 +22445,12 @@
       "waypoints": []
     },
     "1777147": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791335866",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1777147",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Koglimo",
       "planets": [
         "Talus"
@@ -21126,11 +22565,12 @@
       "waypoints": []
     },
     "1777153": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791333545",
       "first_seen": "2026-10-19T15:58:06+00:00",
       "id": "1777153",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Erivio",
       "planets": [
         "Talus"
@@ -21468,11 +22908,12 @@
       "waypoints": []
     },
     "1777170": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791332465",
       "first_seen": "2026-10-19T15:58:06+00:00",
       "id": "1777170",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Cegge",
       "planets": [
         "Talus"
@@ -22325,11 +23766,12 @@
       "url": "https://swgaide.com/resources/view.php?rid=1777210"
     },
     "1777211": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791832906",
       "first_seen": "2026-10-19T15:58:13+00:00",
       "id": "1777211",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Nenti",
       "planets": [
         "Tatooine"
@@ -22365,11 +23807,12 @@
       "waypoints": []
     },
     "1777213": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791904887",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1777213",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Tropra",
       "planets": [
         "Tatooine"
@@ -22387,11 +23830,12 @@
       "waypoints": []
     },
     "1777214": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791912146",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777214",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Aikre",
       "planets": [
         "Tatooine"
@@ -22497,11 +23941,12 @@
       "waypoints": []
     },
     "1777219": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791912195",
       "first_seen": "2026-10-19T15:58:00+00:00",
       "id": "1777219",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Melmy",
       "planets": [
         "Tatooine"
@@ -22679,11 +24124,12 @@
       "waypoints": []
     },
     "1777227": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791333121",
       "first_seen": "2026-10-19T15:58:06+00:00",
       "id": "1777227",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Domi",
       "planets": [
         "Yavin 4"
@@ -23073,11 +24519,12 @@
       "waypoints": []
     },
     "1777246": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791334288",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777246",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-20T15:24:00+00:00",
+      "missing_snapshots": 2,
       "name": "Gleme",
       "planets": [
         "Yavin 4"
