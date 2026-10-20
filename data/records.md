@@ -1,6 +1,6 @@
 # Uprising resource records
 
-Latest SWGAide export: 2026-10-20T19:30:09+00:00
+Latest SWGAide export: 2026-10-20T22:40:09+00:00
 
 Historical best means the best imported or observed record, including despawned resources.
 Comparisons use each stat within the exact resource class; these are not crafting scores.
