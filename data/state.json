@@ -1,6 +1,6 @@
 {
   "feed_count": 451,
-  "feed_generated": "2026-10-21T00:50:10+00:00",
+  "feed_generated": "2026-10-21T06:00:12+00:00",
   "history_imports": [
     {
       "coverage": "Reported records in the searched SWGAide categories; not guaranteed complete server history",
@@ -13,7 +13,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-10-21T01:02:19+00:00",
+  "last_successful_collection": "2026-10-21T06:05:54+00:00",
   "leaders": {
     "[\"agrinium aluminum\", \"CD\"]": {
       "id": "1779084",
