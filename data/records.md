@@ -1,6 +1,6 @@
 # Uprising resource records
 
-Latest SWGAide export: 2026-10-21T11:50:11+00:00
+Latest SWGAide export: 2026-10-21T17:10:19+00:00
 
 Historical best means the best imported or observed record, including despawned resources.
 Comparisons use each stat within the exact resource class; these are not crafting scores.
@@ -69,9 +69,9 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Chromite Carbonate Ore | OQ | [Noumo](https://swgaide.com/resources/view.php?rid=1777694) **579** | [Noumo](https://swgaide.com/resources/view.php?rid=1777694) **579** | Active |
 | Chromite Carbonate Ore | SR | [Noumo](https://swgaide.com/resources/view.php?rid=1777694) **201** | [Noumo](https://swgaide.com/resources/view.php?rid=1777694) **201** | Active |
 | Chromite Carbonate Ore | UT | [Noumo](https://swgaide.com/resources/view.php?rid=1777694) **436** | [Noumo](https://swgaide.com/resources/view.php?rid=1777694) **436** | Active |
-| Class 1 Liquid Petro Fuel | DR | None reported active | [Slislio](https://swgaide.com/resources/view.php?rid=1776820) **485** | Awaiting feed confirmation |
-| Class 1 Liquid Petro Fuel | OQ | None reported active | [Slislio](https://swgaide.com/resources/view.php?rid=1776820) **644** | Awaiting feed confirmation |
-| Class 1 Liquid Petro Fuel | PE | None reported active | [Slislio](https://swgaide.com/resources/view.php?rid=1776820) **391** | Awaiting feed confirmation |
+| Class 1 Liquid Petro Fuel | DR | None reported active | [Slislio](https://swgaide.com/resources/view.php?rid=1776820) **485** | Despawned / inactive |
+| Class 1 Liquid Petro Fuel | OQ | None reported active | [Slislio](https://swgaide.com/resources/view.php?rid=1776820) **644** | Despawned / inactive |
+| Class 1 Liquid Petro Fuel | PE | None reported active | [Slislio](https://swgaide.com/resources/view.php?rid=1776820) **391** | Despawned / inactive |
 | Class 3 Liquid Petro Fuel | DR | [Deryate](https://swgaide.com/resources/view.php?rid=1779528) **129** | [Deryate](https://swgaide.com/resources/view.php?rid=1779528) **129** | Active |
 | Class 3 Liquid Petro Fuel | OQ | [Deryate](https://swgaide.com/resources/view.php?rid=1779528) **461** | [Deryate](https://swgaide.com/resources/view.php?rid=1779528) **461** | Active |
 | Class 3 Liquid Petro Fuel | PE | [Deryate](https://swgaide.com/resources/view.php?rid=1779528) **124** | [Deryate](https://swgaide.com/resources/view.php?rid=1779528) **124** | Active |
@@ -136,10 +136,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Corellian Bristley Hide | OQ | [Egia](https://swgaide.com/resources/view.php?rid=1776831) **41** | [Egia](https://swgaide.com/resources/view.php?rid=1776831) **41** | Active |
 | Corellian Bristley Hide | SR | [Egia](https://swgaide.com/resources/view.php?rid=1776831) **758** | [Egia](https://swgaide.com/resources/view.php?rid=1776831) **758** | Active |
 | Corellian Bristley Hide | UT | [Egia](https://swgaide.com/resources/view.php?rid=1776831) **309** | [Egia](https://swgaide.com/resources/view.php?rid=1776831) **309** | Active |
-| Corellian Carnivore Meat | DR | [Stake](https://swgaide.com/resources/view.php?rid=1779530) **609** | [Smeirka](https://swgaide.com/resources/view.php?rid=1776832) **807** | Awaiting feed confirmation |
+| Corellian Carnivore Meat | DR | [Stake](https://swgaide.com/resources/view.php?rid=1779530) **609** | [Smeirka](https://swgaide.com/resources/view.php?rid=1776832) **807** | Despawned / inactive |
 | Corellian Carnivore Meat | FL | [Stake](https://swgaide.com/resources/view.php?rid=1779530) **763** | [Stake](https://swgaide.com/resources/view.php?rid=1779530) **763** | Active |
 | Corellian Carnivore Meat | OQ | [Stake](https://swgaide.com/resources/view.php?rid=1779530) **383** | [Stake](https://swgaide.com/resources/view.php?rid=1779530) **383** | Active |
-| Corellian Carnivore Meat | PE | [Stake](https://swgaide.com/resources/view.php?rid=1779530) **426** | [Smeirka](https://swgaide.com/resources/view.php?rid=1776832) **480** | Awaiting feed confirmation |
+| Corellian Carnivore Meat | PE | [Stake](https://swgaide.com/resources/view.php?rid=1779530) **426** | [Smeirka](https://swgaide.com/resources/view.php?rid=1776832) **480** | Despawned / inactive |
 | Corellian Conifer Wood | DR | [Vaofeta](https://swgaide.com/resources/view.php?rid=1776833) **327** | [Vaofeta](https://swgaide.com/resources/view.php?rid=1776833) **327** | Active |
 | Corellian Conifer Wood | MA | [Vaofeta](https://swgaide.com/resources/view.php?rid=1776833) **697** | [Vaofeta](https://swgaide.com/resources/view.php?rid=1776833) **697** | Active |
 | Corellian Conifer Wood | OQ | [Vaofeta](https://swgaide.com/resources/view.php?rid=1776833) **127** | [Vaofeta](https://swgaide.com/resources/view.php?rid=1776833) **127** | Active |
@@ -195,9 +195,9 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Corellian Horn | OQ | [Forocte](https://swgaide.com/resources/view.php?rid=1778641) **858** | [Forocte](https://swgaide.com/resources/view.php?rid=1778641) **858** | Active |
 | Corellian Horn | SR | [Forocte](https://swgaide.com/resources/view.php?rid=1778641) **622** | [Scoasi](https://swgaide.com/resources/view.php?rid=1776846) **671** | Despawned / inactive |
 | Corellian Horn | UT | [Forocte](https://swgaide.com/resources/view.php?rid=1778641) **66** | [Forocte](https://swgaide.com/resources/view.php?rid=1778641) **66** | Active |
-| Corellian Insect Meat | DR | [Bipeece](https://swgaide.com/resources/view.php?rid=1779531) **286** | [Aehoi](https://swgaide.com/resources/view.php?rid=1776847) **944** | Awaiting feed confirmation |
-| Corellian Insect Meat | FL | [Bipeece](https://swgaide.com/resources/view.php?rid=1779531) **253** | [Aehoi](https://swgaide.com/resources/view.php?rid=1776847) **800** | Awaiting feed confirmation |
-| Corellian Insect Meat | OQ | [Bipeece](https://swgaide.com/resources/view.php?rid=1779531) **769** | [Aehoi](https://swgaide.com/resources/view.php?rid=1776847) **875** | Awaiting feed confirmation |
+| Corellian Insect Meat | DR | [Bipeece](https://swgaide.com/resources/view.php?rid=1779531) **286** | [Aehoi](https://swgaide.com/resources/view.php?rid=1776847) **944** | Despawned / inactive |
+| Corellian Insect Meat | FL | [Bipeece](https://swgaide.com/resources/view.php?rid=1779531) **253** | [Aehoi](https://swgaide.com/resources/view.php?rid=1776847) **800** | Despawned / inactive |
+| Corellian Insect Meat | OQ | [Bipeece](https://swgaide.com/resources/view.php?rid=1779531) **769** | [Aehoi](https://swgaide.com/resources/view.php?rid=1776847) **875** | Despawned / inactive |
 | Corellian Insect Meat | PE | [Bipeece](https://swgaide.com/resources/view.php?rid=1779531) **771** | [Bipeece](https://swgaide.com/resources/view.php?rid=1779531) **771** | Active |
 | Corellian Leathery Hide | DR | [Thivocio](https://swgaide.com/resources/view.php?rid=1778188) **501** | [Thivocio](https://swgaide.com/resources/view.php?rid=1778188) **501** | Active |
 | Corellian Leathery Hide | MA | [Thivocio](https://swgaide.com/resources/view.php?rid=1778188) **637** | [Thivocio](https://swgaide.com/resources/view.php?rid=1778188) **637** | Active |
@@ -213,7 +213,7 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Corellian Scaley Hide | OQ | [Neobeva](https://swgaide.com/resources/view.php?rid=1777699) **243** | [Mahoo](https://swgaide.com/resources/view.php?rid=1776850) **642** | Despawned / inactive |
 | Corellian Scaley Hide | SR | [Neobeva](https://swgaide.com/resources/view.php?rid=1777699) **797** | [Neobeva](https://swgaide.com/resources/view.php?rid=1777699) **797** | Active |
 | Corellian Scaley Hide | UT | [Neobeva](https://swgaide.com/resources/view.php?rid=1777699) **150** | [Mahoo](https://swgaide.com/resources/view.php?rid=1776850) **534** | Despawned / inactive |
-| Corellian Solar Renewable Energy | OQ | [Cawaic](https://swgaide.com/resources/view.php?rid=1779532) **500** | [Gidaism](https://swgaide.com/resources/view.php?rid=1776851) **500** | Awaiting feed confirmation |
+| Corellian Solar Renewable Energy | OQ | [Cawaic](https://swgaide.com/resources/view.php?rid=1779532) **500** | [Gidaism](https://swgaide.com/resources/view.php?rid=1776851) **500** | Despawned / inactive |
 | Corellian Solar Renewable Energy | PE | [Cawaic](https://swgaide.com/resources/view.php?rid=1779532) **566** | [Cawaic](https://swgaide.com/resources/view.php?rid=1779532) **566** | Active |
 | Corellian Vegetable Beans | DR | [Waiko](https://swgaide.com/resources/view.php?rid=1776852) **831** | [Waiko](https://swgaide.com/resources/view.php?rid=1776852) **831** | Active |
 | Corellian Vegetable Beans | FL | [Waiko](https://swgaide.com/resources/view.php?rid=1776852) **358** | [Waiko](https://swgaide.com/resources/view.php?rid=1776852) **358** | Active |
@@ -231,8 +231,8 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Corellian Vegetable Tubers | FL | [Ootoga](https://swgaide.com/resources/view.php?rid=1776855) **92** | [Ootoga](https://swgaide.com/resources/view.php?rid=1776855) **92** | Active |
 | Corellian Vegetable Tubers | OQ | [Ootoga](https://swgaide.com/resources/view.php?rid=1776855) **672** | [Ootoga](https://swgaide.com/resources/view.php?rid=1776855) **672** | Active |
 | Corellian Vegetable Tubers | PE | [Ootoga](https://swgaide.com/resources/view.php?rid=1776855) **287** | [Ootoga](https://swgaide.com/resources/view.php?rid=1776855) **287** | Active |
-| Corellian Water Vapor | DR | [Ino](https://swgaide.com/resources/view.php?rid=1779533) **105** | [Vauskerti](https://swgaide.com/resources/view.php?rid=1776856) **473** | Awaiting feed confirmation |
-| Corellian Water Vapor | OQ | [Ino](https://swgaide.com/resources/view.php?rid=1779533) **648** | [Vauskerti](https://swgaide.com/resources/view.php?rid=1776856) **816** | Awaiting feed confirmation |
+| Corellian Water Vapor | DR | [Ino](https://swgaide.com/resources/view.php?rid=1779533) **105** | [Vauskerti](https://swgaide.com/resources/view.php?rid=1776856) **473** | Despawned / inactive |
+| Corellian Water Vapor | OQ | [Ino](https://swgaide.com/resources/view.php?rid=1779533) **648** | [Vauskerti](https://swgaide.com/resources/view.php?rid=1776856) **816** | Despawned / inactive |
 | Corellian Wild Corn | DR | [Khobo](https://swgaide.com/resources/view.php?rid=1776857) **514** | [Khobo](https://swgaide.com/resources/view.php?rid=1776857) **514** | Active |
 | Corellian Wild Corn | FL | [Khobo](https://swgaide.com/resources/view.php?rid=1776857) **800** | [Khobo](https://swgaide.com/resources/view.php?rid=1776857) **800** | Active |
 | Corellian Wild Corn | OQ | [Khobo](https://swgaide.com/resources/view.php?rid=1776857) **50** | [Khobo](https://swgaide.com/resources/view.php?rid=1776857) **50** | Active |
@@ -245,9 +245,9 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Corellian Wild Milk | FL | [Poha](https://swgaide.com/resources/view.php?rid=1776859) **880** | [Poha](https://swgaide.com/resources/view.php?rid=1776859) **880** | Active |
 | Corellian Wild Milk | OQ | [Poha](https://swgaide.com/resources/view.php?rid=1776859) **127** | [Poha](https://swgaide.com/resources/view.php?rid=1776859) **127** | Active |
 | Corellian Wild Milk | PE | [Poha](https://swgaide.com/resources/view.php?rid=1776859) **312** | [Poha](https://swgaide.com/resources/view.php?rid=1776859) **312** | Active |
-| Corellian Wild Oats | DR | [Bibrercho](https://swgaide.com/resources/view.php?rid=1779534) **62** | [Megi](https://swgaide.com/resources/view.php?rid=1776860) **324** | Awaiting feed confirmation |
+| Corellian Wild Oats | DR | [Bibrercho](https://swgaide.com/resources/view.php?rid=1779534) **62** | [Megi](https://swgaide.com/resources/view.php?rid=1776860) **324** | Despawned / inactive |
 | Corellian Wild Oats | FL | [Bibrercho](https://swgaide.com/resources/view.php?rid=1779534) **637** | [Bibrercho](https://swgaide.com/resources/view.php?rid=1779534) **637** | Active |
-| Corellian Wild Oats | OQ | [Bibrercho](https://swgaide.com/resources/view.php?rid=1779534) **589** | [Megi](https://swgaide.com/resources/view.php?rid=1776860) **699** | Awaiting feed confirmation |
+| Corellian Wild Oats | OQ | [Bibrercho](https://swgaide.com/resources/view.php?rid=1779534) **589** | [Megi](https://swgaide.com/resources/view.php?rid=1776860) **699** | Despawned / inactive |
 | Corellian Wild Oats | PE | [Bibrercho](https://swgaide.com/resources/view.php?rid=1779534) **577** | [Bibrercho](https://swgaide.com/resources/view.php?rid=1779534) **577** | Active |
 | Corellian Wild Rice | DR | [Deedoo](https://swgaide.com/resources/view.php?rid=1776861) **595** | [Deedoo](https://swgaide.com/resources/view.php?rid=1776861) **595** | Active |
 | Corellian Wild Rice | FL | [Deedoo](https://swgaide.com/resources/view.php?rid=1776861) **775** | [Deedoo](https://swgaide.com/resources/view.php?rid=1776861) **775** | Active |
@@ -265,11 +265,11 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Corellian Wooly Hide | SR | [Rahavo](https://swgaide.com/resources/view.php?rid=1776864) **375** | [Rahavo](https://swgaide.com/resources/view.php?rid=1776864) **375** | Active |
 | Corellian Wooly Hide | UT | [Rahavo](https://swgaide.com/resources/view.php?rid=1776864) **960** | [Rahavo](https://swgaide.com/resources/view.php?rid=1776864) **960** | Active |
 | Corintium Intrusive Ore | CR | None reported active | [Feva](https://swgaide.com/resources/view.php?rid=1776865) **487** | Despawned / inactive |
-| Corintium Intrusive Ore | DR | None reported active | [Odeto](https://swgaide.com/resources/view.php?rid=1776866) **493** | Awaiting feed confirmation |
+| Corintium Intrusive Ore | DR | None reported active | [Odeto](https://swgaide.com/resources/view.php?rid=1776866) **493** | Despawned / inactive |
 | Corintium Intrusive Ore | HR | None reported active | [Feva](https://swgaide.com/resources/view.php?rid=1776865) **786** | Despawned / inactive |
 | Corintium Intrusive Ore | MA | None reported active | [Feva](https://swgaide.com/resources/view.php?rid=1776865) **219** | Despawned / inactive |
-| Corintium Intrusive Ore | OQ | None reported active | [Odeto](https://swgaide.com/resources/view.php?rid=1776866) **989** | Awaiting feed confirmation |
-| Corintium Intrusive Ore | SR | None reported active | [Odeto](https://swgaide.com/resources/view.php?rid=1776866) **651** | Awaiting feed confirmation |
+| Corintium Intrusive Ore | OQ | None reported active | [Odeto](https://swgaide.com/resources/view.php?rid=1776866) **989** | Despawned / inactive |
+| Corintium Intrusive Ore | SR | None reported active | [Odeto](https://swgaide.com/resources/view.php?rid=1776866) **651** | Despawned / inactive |
 | Corintium Intrusive Ore | UT | None reported active | [Feva](https://swgaide.com/resources/view.php?rid=1776865) **611** | Despawned / inactive |
 | Cortosis Siliclastic Ore | CR | [Topohia](https://swgaide.com/resources/view.php?rid=1776868) **404** | [Saietaian](https://swgaide.com/resources/view.php?rid=1776867) **547** | Despawned / inactive |
 | Cortosis Siliclastic Ore | DR | [Topohia](https://swgaide.com/resources/view.php?rid=1776868) **182** | [Saietaian](https://swgaide.com/resources/view.php?rid=1776867) **260** | Despawned / inactive |
@@ -304,10 +304,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dantooine Avian Bones | OQ | [Slito](https://swgaide.com/resources/view.php?rid=1778643) **855** | [Slito](https://swgaide.com/resources/view.php?rid=1778643) **855** | Active |
 | Dantooine Avian Bones | SR | [Slito](https://swgaide.com/resources/view.php?rid=1778643) **245** | [Daba](https://swgaide.com/resources/view.php?rid=1776871) **418** | Despawned / inactive |
 | Dantooine Avian Bones | UT | [Slito](https://swgaide.com/resources/view.php?rid=1778643) **127** | [Daba](https://swgaide.com/resources/view.php?rid=1776871) **334** | Despawned / inactive |
-| Dantooine Avian Meat | DR | [Prawagi](https://swgaide.com/resources/view.php?rid=1779535) **319** | [Aka](https://swgaide.com/resources/view.php?rid=1776872) **540** | Awaiting feed confirmation |
+| Dantooine Avian Meat | DR | [Prawagi](https://swgaide.com/resources/view.php?rid=1779535) **319** | [Aka](https://swgaide.com/resources/view.php?rid=1776872) **540** | Despawned / inactive |
 | Dantooine Avian Meat | FL | [Prawagi](https://swgaide.com/resources/view.php?rid=1779535) **422** | [Prawagi](https://swgaide.com/resources/view.php?rid=1779535) **422** | Active |
-| Dantooine Avian Meat | OQ | [Prawagi](https://swgaide.com/resources/view.php?rid=1779535) **415** | [Aka](https://swgaide.com/resources/view.php?rid=1776872) **811** | Awaiting feed confirmation |
-| Dantooine Avian Meat | PE | [Prawagi](https://swgaide.com/resources/view.php?rid=1779535) **567** | [Aka](https://swgaide.com/resources/view.php?rid=1776872) **703** | Awaiting feed confirmation |
+| Dantooine Avian Meat | OQ | [Prawagi](https://swgaide.com/resources/view.php?rid=1779535) **415** | [Aka](https://swgaide.com/resources/view.php?rid=1776872) **811** | Despawned / inactive |
+| Dantooine Avian Meat | PE | [Prawagi](https://swgaide.com/resources/view.php?rid=1779535) **567** | [Aka](https://swgaide.com/resources/view.php?rid=1776872) **703** | Despawned / inactive |
 | Dantooine Berry Fruit | DR | [Iro](https://swgaide.com/resources/view.php?rid=1776873) **763** | [Iro](https://swgaide.com/resources/view.php?rid=1776873) **763** | Active |
 | Dantooine Berry Fruit | FL | [Iro](https://swgaide.com/resources/view.php?rid=1776873) **952** | [Iro](https://swgaide.com/resources/view.php?rid=1776873) **952** | Active |
 | Dantooine Berry Fruit | OQ | [Iro](https://swgaide.com/resources/view.php?rid=1776873) **513** | [Iro](https://swgaide.com/resources/view.php?rid=1776873) **513** | Active |
@@ -358,7 +358,7 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dantooine Domesticated Wheat | DR | [Sridao](https://swgaide.com/resources/view.php?rid=1779536) **772** | [Sridao](https://swgaide.com/resources/view.php?rid=1779536) **772** | Active |
 | Dantooine Domesticated Wheat | FL | [Sridao](https://swgaide.com/resources/view.php?rid=1779536) **528** | [Sridao](https://swgaide.com/resources/view.php?rid=1779536) **528** | Active |
 | Dantooine Domesticated Wheat | OQ | [Sridao](https://swgaide.com/resources/view.php?rid=1779536) **574** | [Sridao](https://swgaide.com/resources/view.php?rid=1779536) **574** | Active |
-| Dantooine Domesticated Wheat | PE | [Sridao](https://swgaide.com/resources/view.php?rid=1779536) **492** | [Tikibo](https://swgaide.com/resources/view.php?rid=1776884) **726** | Awaiting feed confirmation |
+| Dantooine Domesticated Wheat | PE | [Sridao](https://swgaide.com/resources/view.php?rid=1779536) **492** | [Tikibo](https://swgaide.com/resources/view.php?rid=1776884) **726** | Despawned / inactive |
 | Dantooine Evergreen Wood | DR | [Tosou](https://swgaide.com/resources/view.php?rid=1776885) **332** | [Tosou](https://swgaide.com/resources/view.php?rid=1776885) **332** | Active |
 | Dantooine Evergreen Wood | MA | [Tosou](https://swgaide.com/resources/view.php?rid=1776885) **864** | [Tosou](https://swgaide.com/resources/view.php?rid=1776885) **864** | Active |
 | Dantooine Evergreen Wood | OQ | [Tosou](https://swgaide.com/resources/view.php?rid=1776885) **166** | [Tosou](https://swgaide.com/resources/view.php?rid=1776885) **166** | Active |
@@ -440,8 +440,8 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dantooine Wild Milk | FL | [Veina](https://swgaide.com/resources/view.php?rid=1777703) **955** | [Veina](https://swgaide.com/resources/view.php?rid=1777703) **955** | Active |
 | Dantooine Wild Milk | OQ | [Veina](https://swgaide.com/resources/view.php?rid=1777703) **719** | [Mowi](https://swgaide.com/resources/view.php?rid=1776904) **817** | Despawned / inactive |
 | Dantooine Wild Milk | PE | [Veina](https://swgaide.com/resources/view.php?rid=1777703) **511** | [Veina](https://swgaide.com/resources/view.php?rid=1777703) **511** | Active |
-| Dantooine Wild Oats | DR | [Gninapi](https://swgaide.com/resources/view.php?rid=1779537) **423** | [Nami](https://swgaide.com/resources/view.php?rid=1776905) **571** | Awaiting feed confirmation |
-| Dantooine Wild Oats | FL | [Gninapi](https://swgaide.com/resources/view.php?rid=1779537) **527** | [Nami](https://swgaide.com/resources/view.php?rid=1776905) **552** | Awaiting feed confirmation |
+| Dantooine Wild Oats | DR | [Gninapi](https://swgaide.com/resources/view.php?rid=1779537) **423** | [Nami](https://swgaide.com/resources/view.php?rid=1776905) **571** | Despawned / inactive |
+| Dantooine Wild Oats | FL | [Gninapi](https://swgaide.com/resources/view.php?rid=1779537) **527** | [Nami](https://swgaide.com/resources/view.php?rid=1776905) **552** | Despawned / inactive |
 | Dantooine Wild Oats | OQ | [Gninapi](https://swgaide.com/resources/view.php?rid=1779537) **318** | [Gninapi](https://swgaide.com/resources/view.php?rid=1779537) **318** | Active |
 | Dantooine Wild Oats | PE | [Gninapi](https://swgaide.com/resources/view.php?rid=1779537) **593** | [Gninapi](https://swgaide.com/resources/view.php?rid=1779537) **593** | Active |
 | Dantooine Wild Rice | DR | [Tocochi](https://swgaide.com/resources/view.php?rid=1776906) **40** | [Tocochi](https://swgaide.com/resources/view.php?rid=1776906) **40** | Active |
@@ -459,11 +459,11 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dantooine Wooly Hide | OQ | [Oba](https://swgaide.com/resources/view.php?rid=1776909) **701** | [Oba](https://swgaide.com/resources/view.php?rid=1776909) **701** | Active |
 | Dantooine Wooly Hide | SR | [Oba](https://swgaide.com/resources/view.php?rid=1776909) **544** | [Oba](https://swgaide.com/resources/view.php?rid=1776909) **544** | Active |
 | Dantooine Wooly Hide | UT | [Oba](https://swgaide.com/resources/view.php?rid=1776909) **654** | [Oba](https://swgaide.com/resources/view.php?rid=1776909) **654** | Active |
-| Dathomirian Animal Bones | DR | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **815** | [Ibarge](https://swgaide.com/resources/view.php?rid=1776910) **815** | Awaiting feed confirmation |
-| Dathomirian Animal Bones | MA | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **52** | [Ibarge](https://swgaide.com/resources/view.php?rid=1776910) **145** | Awaiting feed confirmation |
+| Dathomirian Animal Bones | DR | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **815** | [Ibarge](https://swgaide.com/resources/view.php?rid=1776910) **815** | Despawned / inactive |
+| Dathomirian Animal Bones | MA | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **52** | [Ibarge](https://swgaide.com/resources/view.php?rid=1776910) **145** | Despawned / inactive |
 | Dathomirian Animal Bones | OQ | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **815** | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **815** | Active |
 | Dathomirian Animal Bones | SR | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **924** | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **924** | Active |
-| Dathomirian Animal Bones | UT | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **525** | [Ibarge](https://swgaide.com/resources/view.php?rid=1776910) **737** | Awaiting feed confirmation |
+| Dathomirian Animal Bones | UT | [Ofi](https://swgaide.com/resources/view.php?rid=1779538) **525** | [Ibarge](https://swgaide.com/resources/view.php?rid=1776910) **737** | Despawned / inactive |
 | Dathomirian Avian Bones | DR | [Blalci](https://swgaide.com/resources/view.php?rid=1776911) **183** | [Blalci](https://swgaide.com/resources/view.php?rid=1776911) **183** | Active |
 | Dathomirian Avian Bones | MA | [Blalci](https://swgaide.com/resources/view.php?rid=1776911) **244** | [Blalci](https://swgaide.com/resources/view.php?rid=1776911) **244** | Active |
 | Dathomirian Avian Bones | OQ | [Blalci](https://swgaide.com/resources/view.php?rid=1776911) **45** | [Blalci](https://swgaide.com/resources/view.php?rid=1776911) **45** | Active |
@@ -486,9 +486,9 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dathomirian Carnivore Meat | FL | [Wharika](https://swgaide.com/resources/view.php?rid=1776915) **882** | [Wharika](https://swgaide.com/resources/view.php?rid=1776915) **882** | Active |
 | Dathomirian Carnivore Meat | OQ | [Wharika](https://swgaide.com/resources/view.php?rid=1776915) **420** | [Wharika](https://swgaide.com/resources/view.php?rid=1776915) **420** | Active |
 | Dathomirian Carnivore Meat | PE | [Wharika](https://swgaide.com/resources/view.php?rid=1776915) **345** | [Wharika](https://swgaide.com/resources/view.php?rid=1776915) **345** | Active |
-| Dathomirian Conifer Wood | DR | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **56** | [Ipa](https://swgaide.com/resources/view.php?rid=1776916) **245** | Awaiting feed confirmation |
-| Dathomirian Conifer Wood | MA | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **706** | [Ipa](https://swgaide.com/resources/view.php?rid=1776916) **870** | Awaiting feed confirmation |
-| Dathomirian Conifer Wood | OQ | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **442** | [Ipa](https://swgaide.com/resources/view.php?rid=1776916) **522** | Awaiting feed confirmation |
+| Dathomirian Conifer Wood | DR | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **56** | [Ipa](https://swgaide.com/resources/view.php?rid=1776916) **245** | Despawned / inactive |
+| Dathomirian Conifer Wood | MA | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **706** | [Ipa](https://swgaide.com/resources/view.php?rid=1776916) **870** | Despawned / inactive |
+| Dathomirian Conifer Wood | OQ | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **442** | [Ipa](https://swgaide.com/resources/view.php?rid=1776916) **522** | Despawned / inactive |
 | Dathomirian Conifer Wood | SR | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **346** | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **346** | Active |
 | Dathomirian Conifer Wood | UT | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **212** | [Ethi](https://swgaide.com/resources/view.php?rid=1779539) **212** | Active |
 | Dathomirian Crustacean Meat | DR | [Wazi](https://swgaide.com/resources/view.php?rid=1776917) **130** | [Wazi](https://swgaide.com/resources/view.php?rid=1776917) **130** | Active |
@@ -529,10 +529,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dathomirian Evergreen Wood | OQ | [Nasaho](https://swgaide.com/resources/view.php?rid=1776925) **28** | [Nasaho](https://swgaide.com/resources/view.php?rid=1776925) **28** | Active |
 | Dathomirian Evergreen Wood | SR | [Nasaho](https://swgaide.com/resources/view.php?rid=1776925) **366** | [Nasaho](https://swgaide.com/resources/view.php?rid=1776925) **366** | Active |
 | Dathomirian Evergreen Wood | UT | [Nasaho](https://swgaide.com/resources/view.php?rid=1776925) **212** | [Nasaho](https://swgaide.com/resources/view.php?rid=1776925) **212** | Active |
-| Dathomirian Fiberplast | DR | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **332** | [Nirpoga](https://swgaide.com/resources/view.php?rid=1776926) **852** | Awaiting feed confirmation |
-| Dathomirian Fiberplast | MA | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **164** | [Nirpoga](https://swgaide.com/resources/view.php?rid=1776926) **749** | Awaiting feed confirmation |
+| Dathomirian Fiberplast | DR | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **332** | [Nirpoga](https://swgaide.com/resources/view.php?rid=1776926) **852** | Despawned / inactive |
+| Dathomirian Fiberplast | MA | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **164** | [Nirpoga](https://swgaide.com/resources/view.php?rid=1776926) **749** | Despawned / inactive |
 | Dathomirian Fiberplast | OQ | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **705** | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **705** | Active |
-| Dathomirian Fiberplast | SR | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **130** | [Nirpoga](https://swgaide.com/resources/view.php?rid=1776926) **587** | Awaiting feed confirmation |
+| Dathomirian Fiberplast | SR | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **130** | [Nirpoga](https://swgaide.com/resources/view.php?rid=1776926) **587** | Despawned / inactive |
 | Dathomirian Fiberplast | UT | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **270** | [Gosi](https://swgaide.com/resources/view.php?rid=1779540) **270** | Active |
 | Dathomirian Fish Meat | DR | [Testope](https://swgaide.com/resources/view.php?rid=1776927) **970** | [Testope](https://swgaide.com/resources/view.php?rid=1776927) **970** | Active |
 | Dathomirian Fish Meat | FL | [Testope](https://swgaide.com/resources/view.php?rid=1776927) **612** | [Testope](https://swgaide.com/resources/view.php?rid=1776927) **612** | Active |
@@ -542,10 +542,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dathomirian Flower Fruit | FL | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) **672** | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) **672** | Active |
 | Dathomirian Flower Fruit | OQ | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) **827** | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) **827** | Active |
 | Dathomirian Flower Fruit | PE | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) **672** | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) **672** | Active |
-| Dathomirian Fruit | DR | None reported active | [Vedwi](https://swgaide.com/resources/view.php?rid=1776929) **398** | Awaiting feed confirmation |
-| Dathomirian Fruit | FL | None reported active | [Vedwi](https://swgaide.com/resources/view.php?rid=1776929) **516** | Awaiting feed confirmation |
-| Dathomirian Fruit | OQ | None reported active | [Vedwi](https://swgaide.com/resources/view.php?rid=1776929) **349** | Awaiting feed confirmation |
-| Dathomirian Fruit | PE | None reported active | [Vedwi](https://swgaide.com/resources/view.php?rid=1776929) **684** | Awaiting feed confirmation |
+| Dathomirian Fruit | DR | None reported active | [Vedwi](https://swgaide.com/resources/view.php?rid=1776929) **398** | Despawned / inactive |
+| Dathomirian Fruit | FL | None reported active | [Vedwi](https://swgaide.com/resources/view.php?rid=1776929) **516** | Despawned / inactive |
+| Dathomirian Fruit | OQ | None reported active | [Vedwi](https://swgaide.com/resources/view.php?rid=1776929) **349** | Despawned / inactive |
+| Dathomirian Fruit | PE | None reported active | [Vedwi](https://swgaide.com/resources/view.php?rid=1776929) **684** | Despawned / inactive |
 | Dathomirian Herbivore Meat | DR | [Wwixeipi](https://swgaide.com/resources/view.php?rid=1779094) **851** | [Wwixeipi](https://swgaide.com/resources/view.php?rid=1779094) **851** | Active |
 | Dathomirian Herbivore Meat | FL | [Wwixeipi](https://swgaide.com/resources/view.php?rid=1779094) **521** | [Wwixeipi](https://swgaide.com/resources/view.php?rid=1779094) **521** | Active |
 | Dathomirian Herbivore Meat | OQ | [Wwixeipi](https://swgaide.com/resources/view.php?rid=1779094) **470** | [Priweti](https://swgaide.com/resources/view.php?rid=1776930) **887** | Despawned / inactive |
@@ -579,10 +579,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dathomirian Vegetable Beans | FL | [Neneva](https://swgaide.com/resources/view.php?rid=1776937) **670** | [Neneva](https://swgaide.com/resources/view.php?rid=1776937) **670** | Active |
 | Dathomirian Vegetable Beans | OQ | [Neneva](https://swgaide.com/resources/view.php?rid=1776937) **393** | [Neneva](https://swgaide.com/resources/view.php?rid=1776937) **393** | Active |
 | Dathomirian Vegetable Beans | PE | [Neneva](https://swgaide.com/resources/view.php?rid=1776937) **284** | [Neneva](https://swgaide.com/resources/view.php?rid=1776937) **284** | Active |
-| Dathomirian Vegetable Fungus | DR | [Rneke](https://swgaide.com/resources/view.php?rid=1779541) **710** | [Kugiveu](https://swgaide.com/resources/view.php?rid=1776938) **769** | Awaiting feed confirmation |
+| Dathomirian Vegetable Fungus | DR | [Rneke](https://swgaide.com/resources/view.php?rid=1779541) **710** | [Kugiveu](https://swgaide.com/resources/view.php?rid=1776938) **769** | Despawned / inactive |
 | Dathomirian Vegetable Fungus | FL | [Rneke](https://swgaide.com/resources/view.php?rid=1779541) **928** | [Rneke](https://swgaide.com/resources/view.php?rid=1779541) **928** | Active |
-| Dathomirian Vegetable Fungus | OQ | [Rneke](https://swgaide.com/resources/view.php?rid=1779541) **322** | [Kugiveu](https://swgaide.com/resources/view.php?rid=1776938) **835** | Awaiting feed confirmation |
-| Dathomirian Vegetable Fungus | PE | [Rneke](https://swgaide.com/resources/view.php?rid=1779541) **343** | [Kugiveu](https://swgaide.com/resources/view.php?rid=1776938) **994** | Awaiting feed confirmation |
+| Dathomirian Vegetable Fungus | OQ | [Rneke](https://swgaide.com/resources/view.php?rid=1779541) **322** | [Kugiveu](https://swgaide.com/resources/view.php?rid=1776938) **835** | Despawned / inactive |
+| Dathomirian Vegetable Fungus | PE | [Rneke](https://swgaide.com/resources/view.php?rid=1779541) **343** | [Kugiveu](https://swgaide.com/resources/view.php?rid=1776938) **994** | Despawned / inactive |
 | Dathomirian Vegetable Greens | DR | [Ewoikki](https://swgaide.com/resources/view.php?rid=1776939) **326** | [Ewoikki](https://swgaide.com/resources/view.php?rid=1776939) **326** | Active |
 | Dathomirian Vegetable Greens | FL | [Ewoikki](https://swgaide.com/resources/view.php?rid=1776939) **409** | [Ewoikki](https://swgaide.com/resources/view.php?rid=1776939) **409** | Active |
 | Dathomirian Vegetable Greens | OQ | [Ewoikki](https://swgaide.com/resources/view.php?rid=1776939) **154** | [Ewoikki](https://swgaide.com/resources/view.php?rid=1776939) **154** | Active |
@@ -599,10 +599,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dathomirian Wild Meat | FL | [Niba](https://swgaide.com/resources/view.php?rid=1779542) **642** | [Niba](https://swgaide.com/resources/view.php?rid=1779542) **642** | Active |
 | Dathomirian Wild Meat | OQ | [Niba](https://swgaide.com/resources/view.php?rid=1779542) **673** | [Niba](https://swgaide.com/resources/view.php?rid=1779542) **673** | Active |
 | Dathomirian Wild Meat | PE | [Niba](https://swgaide.com/resources/view.php?rid=1779542) **679** | [Niba](https://swgaide.com/resources/view.php?rid=1779542) **679** | Active |
-| Dathomirian Wild Milk | DR | [Dahei](https://swgaide.com/resources/view.php?rid=1779543) **517** | [Coce](https://swgaide.com/resources/view.php?rid=1776943) **863** | Awaiting feed confirmation |
+| Dathomirian Wild Milk | DR | [Dahei](https://swgaide.com/resources/view.php?rid=1779543) **517** | [Coce](https://swgaide.com/resources/view.php?rid=1776943) **863** | Despawned / inactive |
 | Dathomirian Wild Milk | FL | [Dahei](https://swgaide.com/resources/view.php?rid=1779543) **857** | [Dahei](https://swgaide.com/resources/view.php?rid=1779543) **857** | Active |
 | Dathomirian Wild Milk | OQ | [Dahei](https://swgaide.com/resources/view.php?rid=1779543) **543** | [Dahei](https://swgaide.com/resources/view.php?rid=1779543) **543** | Active |
-| Dathomirian Wild Milk | PE | [Dahei](https://swgaide.com/resources/view.php?rid=1779543) **114** | [Coce](https://swgaide.com/resources/view.php?rid=1776943) **330** | Awaiting feed confirmation |
+| Dathomirian Wild Milk | PE | [Dahei](https://swgaide.com/resources/view.php?rid=1779543) **114** | [Coce](https://swgaide.com/resources/view.php?rid=1776943) **330** | Despawned / inactive |
 | Dathomirian Wild Oats | DR | [Bajo](https://swgaide.com/resources/view.php?rid=1776944) **250** | [Bajo](https://swgaide.com/resources/view.php?rid=1776944) **250** | Active |
 | Dathomirian Wild Oats | FL | [Bajo](https://swgaide.com/resources/view.php?rid=1776944) **606** | [Bajo](https://swgaide.com/resources/view.php?rid=1776944) **606** | Active |
 | Dathomirian Wild Oats | OQ | [Bajo](https://swgaide.com/resources/view.php?rid=1776944) **82** | [Bajo](https://swgaide.com/resources/view.php?rid=1776944) **82** | Active |
@@ -626,14 +626,14 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Desh Copper | OQ | [Venaeti](https://swgaide.com/resources/view.php?rid=1779097) **779** | [Venaeti](https://swgaide.com/resources/view.php?rid=1779097) **779** | Active |
 | Desh Copper | SR | [Venaeti](https://swgaide.com/resources/view.php?rid=1779097) **306** | [Venaeti](https://swgaide.com/resources/view.php?rid=1779097) **306** | Active |
 | Desh Copper | UT | [Venaeti](https://swgaide.com/resources/view.php?rid=1779097) **371** | [Venaeti](https://swgaide.com/resources/view.php?rid=1779097) **371** | Active |
-| Diatium Copper | CD | None reported active | [Toloic](https://swgaide.com/resources/view.php?rid=1776949) **793** | Awaiting feed confirmation |
-| Diatium Copper | CR | None reported active | [Toloic](https://swgaide.com/resources/view.php?rid=1776949) **465** | Awaiting feed confirmation |
+| Diatium Copper | CD | None reported active | [Toloic](https://swgaide.com/resources/view.php?rid=1776949) **793** | Despawned / inactive |
+| Diatium Copper | CR | None reported active | [Toloic](https://swgaide.com/resources/view.php?rid=1776949) **465** | Despawned / inactive |
 | Diatium Copper | DR | None reported active | [Woseho](https://swgaide.com/resources/view.php?rid=1776948) **381** | Despawned / inactive |
 | Diatium Copper | HR | None reported active | [Woseho](https://swgaide.com/resources/view.php?rid=1776948) **425** | Despawned / inactive |
 | Diatium Copper | MA | None reported active | [Woseho](https://swgaide.com/resources/view.php?rid=1776948) **793** | Despawned / inactive |
 | Diatium Copper | OQ | None reported active | [Woseho](https://swgaide.com/resources/view.php?rid=1776948) **931** | Despawned / inactive |
-| Diatium Copper | SR | None reported active | [Toloic](https://swgaide.com/resources/view.php?rid=1776949) **570** | Awaiting feed confirmation |
-| Diatium Copper | UT | None reported active | [Toloic](https://swgaide.com/resources/view.php?rid=1776949) **585** | Awaiting feed confirmation |
+| Diatium Copper | SR | None reported active | [Toloic](https://swgaide.com/resources/view.php?rid=1776949) **570** | Despawned / inactive |
+| Diatium Copper | UT | None reported active | [Toloic](https://swgaide.com/resources/view.php?rid=1776949) **585** | Despawned / inactive |
 | Ditanium Steel | CD | None reported active | [Vepoism](https://swgaide.com/resources/view.php?rid=1776950) **452** | Despawned / inactive |
 | Ditanium Steel | CR | None reported active | [Vepoism](https://swgaide.com/resources/view.php?rid=1776950) **574** | Despawned / inactive |
 | Ditanium Steel | DR | None reported active | [Vepoism](https://swgaide.com/resources/view.php?rid=1776950) **840** | Despawned / inactive |
@@ -652,8 +652,8 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Dolovite Iron | UT | [Bitu](https://swgaide.com/resources/view.php?rid=1779098) **815** | [Bitu](https://swgaide.com/resources/view.php?rid=1779098) **815** | Active |
 | Doonium Iron | CD | None reported active | [Hahiism](https://swgaide.com/resources/view.php?rid=1776951) **405** | Despawned / inactive |
 | Doonium Iron | CR | None reported active | [Hahiism](https://swgaide.com/resources/view.php?rid=1776951) **723** | Despawned / inactive |
-| Doonium Iron | DR | None reported active | [Wuko](https://swgaide.com/resources/view.php?rid=1776952) **901** | Awaiting feed confirmation |
-| Doonium Iron | HR | None reported active | [Wuko](https://swgaide.com/resources/view.php?rid=1776952) **909** | Awaiting feed confirmation |
+| Doonium Iron | DR | None reported active | [Wuko](https://swgaide.com/resources/view.php?rid=1776952) **901** | Despawned / inactive |
+| Doonium Iron | HR | None reported active | [Wuko](https://swgaide.com/resources/view.php?rid=1776952) **909** | Despawned / inactive |
 | Doonium Iron | MA | None reported active | [Hahiism](https://swgaide.com/resources/view.php?rid=1776951) **538** | Despawned / inactive |
 | Doonium Iron | OQ | None reported active | [Hahiism](https://swgaide.com/resources/view.php?rid=1776951) **317** | Despawned / inactive |
 | Doonium Iron | SR | None reported active | [Hahiism](https://swgaide.com/resources/view.php?rid=1776951) **848** | Despawned / inactive |
@@ -709,7 +709,7 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Endorian Conifer Wood | UT | [Oovina](https://swgaide.com/resources/view.php?rid=1776960) **7** | [Oovina](https://swgaide.com/resources/view.php?rid=1776960) **7** | Active |
 | Endorian Crustacean Meat | DR | [Maquage](https://swgaide.com/resources/view.php?rid=1779544) **907** | [Maquage](https://swgaide.com/resources/view.php?rid=1779544) **907** | Active |
 | Endorian Crustacean Meat | FL | [Maquage](https://swgaide.com/resources/view.php?rid=1779544) **860** | [Maquage](https://swgaide.com/resources/view.php?rid=1779544) **860** | Active |
-| Endorian Crustacean Meat | OQ | [Maquage](https://swgaide.com/resources/view.php?rid=1779544) **419** | [Dacti](https://swgaide.com/resources/view.php?rid=1776961) **889** | Awaiting feed confirmation |
+| Endorian Crustacean Meat | OQ | [Maquage](https://swgaide.com/resources/view.php?rid=1779544) **419** | [Dacti](https://swgaide.com/resources/view.php?rid=1776961) **889** | Despawned / inactive |
 | Endorian Crustacean Meat | PE | [Maquage](https://swgaide.com/resources/view.php?rid=1779544) **996** | [Maquage](https://swgaide.com/resources/view.php?rid=1779544) **996** | Active |
 | Endorian Deciduous Wood | DR | [Pocoela](https://swgaide.com/resources/view.php?rid=1778194) **165** | [Revio](https://swgaide.com/resources/view.php?rid=1776962) **645** | Despawned / inactive |
 | Endorian Deciduous Wood | MA | [Pocoela](https://swgaide.com/resources/view.php?rid=1778194) **671** | [Revio](https://swgaide.com/resources/view.php?rid=1776962) **724** | Despawned / inactive |
@@ -728,9 +728,9 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Endorian Domesticated Milk | FL | [Leana](https://swgaide.com/resources/view.php?rid=1778648) **108** | [Kewi](https://swgaide.com/resources/view.php?rid=1776965) **664** | Despawned / inactive |
 | Endorian Domesticated Milk | OQ | [Leana](https://swgaide.com/resources/view.php?rid=1778648) **282** | [Kewi](https://swgaide.com/resources/view.php?rid=1776965) **455** | Despawned / inactive |
 | Endorian Domesticated Milk | PE | [Leana](https://swgaide.com/resources/view.php?rid=1778648) **738** | [Kewi](https://swgaide.com/resources/view.php?rid=1776965) **774** | Despawned / inactive |
-| Endorian Domesticated Oats | DR | [Vafe](https://swgaide.com/resources/view.php?rid=1779545) **257** | [Wesi](https://swgaide.com/resources/view.php?rid=1776966) **270** | Awaiting feed confirmation |
+| Endorian Domesticated Oats | DR | [Vafe](https://swgaide.com/resources/view.php?rid=1779545) **257** | [Wesi](https://swgaide.com/resources/view.php?rid=1776966) **270** | Despawned / inactive |
 | Endorian Domesticated Oats | FL | [Vafe](https://swgaide.com/resources/view.php?rid=1779545) **567** | [Vafe](https://swgaide.com/resources/view.php?rid=1779545) **567** | Active |
-| Endorian Domesticated Oats | OQ | [Vafe](https://swgaide.com/resources/view.php?rid=1779545) **484** | [Wesi](https://swgaide.com/resources/view.php?rid=1776966) **559** | Awaiting feed confirmation |
+| Endorian Domesticated Oats | OQ | [Vafe](https://swgaide.com/resources/view.php?rid=1779545) **484** | [Wesi](https://swgaide.com/resources/view.php?rid=1776966) **559** | Despawned / inactive |
 | Endorian Domesticated Oats | PE | [Vafe](https://swgaide.com/resources/view.php?rid=1779545) **418** | [Vafe](https://swgaide.com/resources/view.php?rid=1779545) **418** | Active |
 | Endorian Domesticated Rice | DR | [Wasa](https://swgaide.com/resources/view.php?rid=1776967) **867** | [Wasa](https://swgaide.com/resources/view.php?rid=1776967) **867** | Active |
 | Endorian Domesticated Rice | FL | [Wasa](https://swgaide.com/resources/view.php?rid=1776967) **511** | [Wasa](https://swgaide.com/resources/view.php?rid=1776967) **511** | Active |
@@ -750,20 +750,20 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Endorian Fiberplast | OQ | [Pido](https://swgaide.com/resources/view.php?rid=1776970) **897** | [Pido](https://swgaide.com/resources/view.php?rid=1776970) **897** | Active |
 | Endorian Fiberplast | SR | [Pido](https://swgaide.com/resources/view.php?rid=1776970) **767** | [Pido](https://swgaide.com/resources/view.php?rid=1776970) **767** | Active |
 | Endorian Fiberplast | UT | [Pido](https://swgaide.com/resources/view.php?rid=1776970) **625** | [Pido](https://swgaide.com/resources/view.php?rid=1776970) **625** | Active |
-| Endorian Fish Meat | DR | [Olepa](https://swgaide.com/resources/view.php?rid=1779546) **251** | [Voitto](https://swgaide.com/resources/view.php?rid=1776971) **626** | Awaiting feed confirmation |
+| Endorian Fish Meat | DR | [Olepa](https://swgaide.com/resources/view.php?rid=1779546) **251** | [Voitto](https://swgaide.com/resources/view.php?rid=1776971) **626** | Despawned / inactive |
 | Endorian Fish Meat | FL | [Olepa](https://swgaide.com/resources/view.php?rid=1779546) **469** | [Olepa](https://swgaide.com/resources/view.php?rid=1779546) **469** | Active |
 | Endorian Fish Meat | OQ | [Olepa](https://swgaide.com/resources/view.php?rid=1779546) **845** | [Olepa](https://swgaide.com/resources/view.php?rid=1779546) **845** | Active |
 | Endorian Fish Meat | PE | [Olepa](https://swgaide.com/resources/view.php?rid=1779546) **775** | [Olepa](https://swgaide.com/resources/view.php?rid=1779546) **775** | Active |
 | Endorian Flower Fruit | DR | [Likoi](https://swgaide.com/resources/view.php?rid=1779547) **861** | [Likoi](https://swgaide.com/resources/view.php?rid=1779547) **861** | Active |
 | Endorian Flower Fruit | FL | [Likoi](https://swgaide.com/resources/view.php?rid=1779547) **355** | [Likoi](https://swgaide.com/resources/view.php?rid=1779547) **355** | Active |
-| Endorian Flower Fruit | OQ | [Likoi](https://swgaide.com/resources/view.php?rid=1779547) **440** | [Ovy](https://swgaide.com/resources/view.php?rid=1776972) **537** | Awaiting feed confirmation |
+| Endorian Flower Fruit | OQ | [Likoi](https://swgaide.com/resources/view.php?rid=1779547) **440** | [Ovy](https://swgaide.com/resources/view.php?rid=1776972) **537** | Despawned / inactive |
 | Endorian Flower Fruit | PE | [Likoi](https://swgaide.com/resources/view.php?rid=1779547) **498** | [Likoi](https://swgaide.com/resources/view.php?rid=1779547) **498** | Active |
 | Endorian Fruit | DR | [Gedwa](https://swgaide.com/resources/view.php?rid=1776973) **575** | [Gedwa](https://swgaide.com/resources/view.php?rid=1776973) **575** | Active |
 | Endorian Fruit | FL | [Gedwa](https://swgaide.com/resources/view.php?rid=1776973) **253** | [Gedwa](https://swgaide.com/resources/view.php?rid=1776973) **253** | Active |
 | Endorian Fruit | OQ | [Gedwa](https://swgaide.com/resources/view.php?rid=1776973) **710** | [Gedwa](https://swgaide.com/resources/view.php?rid=1776973) **710** | Active |
 | Endorian Fruit | PE | [Gedwa](https://swgaide.com/resources/view.php?rid=1776973) **53** | [Gedwa](https://swgaide.com/resources/view.php?rid=1776973) **53** | Active |
 | Endorian Herbivore Meat | DR | [Midabo](https://swgaide.com/resources/view.php?rid=1779548) **227** | [Midabo](https://swgaide.com/resources/view.php?rid=1779548) **227** | Active |
-| Endorian Herbivore Meat | FL | [Midabo](https://swgaide.com/resources/view.php?rid=1779548) **518** | [Whonaehi](https://swgaide.com/resources/view.php?rid=1776974) **695** | Awaiting feed confirmation |
+| Endorian Herbivore Meat | FL | [Midabo](https://swgaide.com/resources/view.php?rid=1779548) **518** | [Whonaehi](https://swgaide.com/resources/view.php?rid=1776974) **695** | Despawned / inactive |
 | Endorian Herbivore Meat | OQ | [Midabo](https://swgaide.com/resources/view.php?rid=1779548) **800** | [Midabo](https://swgaide.com/resources/view.php?rid=1779548) **800** | Active |
 | Endorian Herbivore Meat | PE | [Midabo](https://swgaide.com/resources/view.php?rid=1779548) **221** | [Midabo](https://swgaide.com/resources/view.php?rid=1779548) **221** | Active |
 | Endorian Horn | DR | [Rege](https://swgaide.com/resources/view.php?rid=1776975) **497** | [Rege](https://swgaide.com/resources/view.php?rid=1776975) **497** | Active |
@@ -792,7 +792,7 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Endorian Solar Renewable Energy | OQ | [Miwediian](https://swgaide.com/resources/view.php?rid=1776980) **500** | [Miwediian](https://swgaide.com/resources/view.php?rid=1776980) **500** | Active |
 | Endorian Solar Renewable Energy | PE | [Miwediian](https://swgaide.com/resources/view.php?rid=1776980) **533** | [Miwediian](https://swgaide.com/resources/view.php?rid=1776980) **533** | Active |
 | Endorian Vegetable Beans | DR | [Oceo](https://swgaide.com/resources/view.php?rid=1779549) **928** | [Oceo](https://swgaide.com/resources/view.php?rid=1779549) **928** | Active |
-| Endorian Vegetable Beans | FL | [Oceo](https://swgaide.com/resources/view.php?rid=1779549) **215** | [Auko](https://swgaide.com/resources/view.php?rid=1776981) **868** | Awaiting feed confirmation |
+| Endorian Vegetable Beans | FL | [Oceo](https://swgaide.com/resources/view.php?rid=1779549) **215** | [Auko](https://swgaide.com/resources/view.php?rid=1776981) **868** | Despawned / inactive |
 | Endorian Vegetable Beans | OQ | [Oceo](https://swgaide.com/resources/view.php?rid=1779549) **394** | [Oceo](https://swgaide.com/resources/view.php?rid=1779549) **394** | Active |
 | Endorian Vegetable Beans | PE | [Oceo](https://swgaide.com/resources/view.php?rid=1779549) **670** | [Oceo](https://swgaide.com/resources/view.php?rid=1779549) **670** | Active |
 | Endorian Vegetable Fungus | DR | [Sserco](https://swgaide.com/resources/view.php?rid=1776982) **625** | [Sserco](https://swgaide.com/resources/view.php?rid=1776982) **625** | Active |
@@ -822,14 +822,14 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Endorian Wild Milk | OQ | [Cluthovo](https://swgaide.com/resources/view.php?rid=1778649) **425** | [Voce](https://swgaide.com/resources/view.php?rid=1776988) **894** | Despawned / inactive |
 | Endorian Wild Milk | PE | [Cluthovo](https://swgaide.com/resources/view.php?rid=1778649) **505** | [Cluthovo](https://swgaide.com/resources/view.php?rid=1778649) **505** | Active |
 | Endorian Wild Oats | DR | [Eli](https://swgaide.com/resources/view.php?rid=1779550) **623** | [Eli](https://swgaide.com/resources/view.php?rid=1779550) **623** | Active |
-| Endorian Wild Oats | FL | [Eli](https://swgaide.com/resources/view.php?rid=1779550) **803** | [Lete](https://swgaide.com/resources/view.php?rid=1776989) **842** | Awaiting feed confirmation |
+| Endorian Wild Oats | FL | [Eli](https://swgaide.com/resources/view.php?rid=1779550) **803** | [Lete](https://swgaide.com/resources/view.php?rid=1776989) **842** | Despawned / inactive |
 | Endorian Wild Oats | OQ | [Eli](https://swgaide.com/resources/view.php?rid=1779550) **493** | [Eli](https://swgaide.com/resources/view.php?rid=1779550) **493** | Active |
 | Endorian Wild Oats | PE | [Eli](https://swgaide.com/resources/view.php?rid=1779550) **626** | [Eli](https://swgaide.com/resources/view.php?rid=1779550) **626** | Active |
 | Endorian Wild Rice | DR | [Oha](https://swgaide.com/resources/view.php?rid=1779102) **855** | [Kkivoo](https://swgaide.com/resources/view.php?rid=1776990) **976** | Despawned / inactive |
 | Endorian Wild Rice | FL | [Oha](https://swgaide.com/resources/view.php?rid=1779102) **472** | [Oha](https://swgaide.com/resources/view.php?rid=1779102) **472** | Active |
 | Endorian Wild Rice | OQ | [Oha](https://swgaide.com/resources/view.php?rid=1779102) **74** | [Kkivoo](https://swgaide.com/resources/view.php?rid=1776990) **488** | Despawned / inactive |
 | Endorian Wild Rice | PE | [Oha](https://swgaide.com/resources/view.php?rid=1779102) **564** | [Oha](https://swgaide.com/resources/view.php?rid=1779102) **564** | Active |
-| Endorian Wild Wheat | DR | [Pide](https://swgaide.com/resources/view.php?rid=1779551) **202** | [Cyiwi](https://swgaide.com/resources/view.php?rid=1776991) **457** | Awaiting feed confirmation |
+| Endorian Wild Wheat | DR | [Pide](https://swgaide.com/resources/view.php?rid=1779551) **202** | [Cyiwi](https://swgaide.com/resources/view.php?rid=1776991) **457** | Despawned / inactive |
 | Endorian Wild Wheat | FL | [Pide](https://swgaide.com/resources/view.php?rid=1779551) **885** | [Pide](https://swgaide.com/resources/view.php?rid=1779551) **885** | Active |
 | Endorian Wild Wheat | OQ | [Pide](https://swgaide.com/resources/view.php?rid=1779551) **557** | [Pide](https://swgaide.com/resources/view.php?rid=1779551) **557** | Active |
 | Endorian Wild Wheat | PE | [Pide](https://swgaide.com/resources/view.php?rid=1779551) **177** | [Pide](https://swgaide.com/resources/view.php?rid=1779551) **177** | Active |
@@ -849,10 +849,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Fermionic Siliclastic Ore | UT | [Geke](https://swgaide.com/resources/view.php?rid=1776994) **408** | [Geke](https://swgaide.com/resources/view.php?rid=1776994) **408** | Active |
 | Frasium Carbonate Ore | CR | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **648** | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **648** | Active |
 | Frasium Carbonate Ore | DR | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **244** | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **244** | Active |
-| Frasium Carbonate Ore | HR | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **656** | [Hibesis](https://swgaide.com/resources/view.php?rid=1776995) **715** | Awaiting feed confirmation |
+| Frasium Carbonate Ore | HR | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **656** | [Hibesis](https://swgaide.com/resources/view.php?rid=1776995) **715** | Despawned / inactive |
 | Frasium Carbonate Ore | MA | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **589** | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **589** | Active |
 | Frasium Carbonate Ore | OQ | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **785** | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **785** | Active |
-| Frasium Carbonate Ore | SR | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **275** | [Hibesis](https://swgaide.com/resources/view.php?rid=1776995) **357** | Awaiting feed confirmation |
+| Frasium Carbonate Ore | SR | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **275** | [Hibesis](https://swgaide.com/resources/view.php?rid=1776995) **357** | Despawned / inactive |
 | Frasium Carbonate Ore | UT | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **595** | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **595** | Active |
 | Gallinorian Rainbow Gem Crystalline Gemstone | CR | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **104** | Despawned / inactive |
 | Gallinorian Rainbow Gem Crystalline Gemstone | DR | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **143** | Despawned / inactive |
@@ -875,9 +875,9 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Hardened Arveshium Steel | OQ | [Semeine](https://swgaide.com/resources/view.php?rid=1777708) **329** | [Semeine](https://swgaide.com/resources/view.php?rid=1777708) **329** | Active |
 | Hardened Arveshium Steel | SR | [Semeine](https://swgaide.com/resources/view.php?rid=1777708) **107** | [Semeine](https://swgaide.com/resources/view.php?rid=1777708) **107** | Active |
 | Hardened Arveshium Steel | UT | [Semeine](https://swgaide.com/resources/view.php?rid=1777708) **61** | [Otaide](https://swgaide.com/resources/view.php?rid=1776998) **655** | Despawned / inactive |
-| High Grade Polymetric Radioactive | DR | [Gasoeic](https://swgaide.com/resources/view.php?rid=1779553) **472** | [Lipiic](https://swgaide.com/resources/view.php?rid=1776999) **513** | Awaiting feed confirmation |
+| High Grade Polymetric Radioactive | DR | [Gasoeic](https://swgaide.com/resources/view.php?rid=1779553) **472** | [Lipiic](https://swgaide.com/resources/view.php?rid=1776999) **513** | Despawned / inactive |
 | High Grade Polymetric Radioactive | OQ | [Gasoeic](https://swgaide.com/resources/view.php?rid=1779553) **694** | [Gasoeic](https://swgaide.com/resources/view.php?rid=1779553) **694** | Active |
-| High Grade Polymetric Radioactive | PE | [Gasoeic](https://swgaide.com/resources/view.php?rid=1779553) **240** | [Lipiic](https://swgaide.com/resources/view.php?rid=1776999) **270** | Awaiting feed confirmation |
+| High Grade Polymetric Radioactive | PE | [Gasoeic](https://swgaide.com/resources/view.php?rid=1779553) **240** | [Lipiic](https://swgaide.com/resources/view.php?rid=1776999) **270** | Despawned / inactive |
 | Ionite Intrusive Ore | CR | [Deasyiam](https://swgaide.com/resources/view.php?rid=1779103) **927** | [Deasyiam](https://swgaide.com/resources/view.php?rid=1779103) **927** | Active |
 | Ionite Intrusive Ore | DR | [Deasyiam](https://swgaide.com/resources/view.php?rid=1779103) **916** | [Deasyiam](https://swgaide.com/resources/view.php?rid=1779103) **916** | Active |
 | Ionite Intrusive Ore | HR | [Deasyiam](https://swgaide.com/resources/view.php?rid=1779103) **972** | [Deasyiam](https://swgaide.com/resources/view.php?rid=1779103) **972** | Active |
@@ -934,14 +934,14 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Lokian Conifer Wood | SR | [Sqaloime](https://swgaide.com/resources/view.php?rid=1777007) **260** | [Sqaloime](https://swgaide.com/resources/view.php?rid=1777007) **260** | Active |
 | Lokian Conifer Wood | UT | [Sqaloime](https://swgaide.com/resources/view.php?rid=1777007) **239** | [Sqaloime](https://swgaide.com/resources/view.php?rid=1777007) **239** | Active |
 | Lokian Crustacean Meat | DR | [Gaci](https://swgaide.com/resources/view.php?rid=1779555) **651** | [Gaci](https://swgaide.com/resources/view.php?rid=1779555) **651** | Active |
-| Lokian Crustacean Meat | FL | [Gaci](https://swgaide.com/resources/view.php?rid=1779555) **164** | [Skosai](https://swgaide.com/resources/view.php?rid=1777008) **235** | Awaiting feed confirmation |
+| Lokian Crustacean Meat | FL | [Gaci](https://swgaide.com/resources/view.php?rid=1779555) **164** | [Skosai](https://swgaide.com/resources/view.php?rid=1777008) **235** | Despawned / inactive |
 | Lokian Crustacean Meat | OQ | [Gaci](https://swgaide.com/resources/view.php?rid=1779555) **757** | [Gaci](https://swgaide.com/resources/view.php?rid=1779555) **757** | Active |
 | Lokian Crustacean Meat | PE | [Gaci](https://swgaide.com/resources/view.php?rid=1779555) **822** | [Gaci](https://swgaide.com/resources/view.php?rid=1779555) **822** | Active |
-| Lokian Deciduous Wood | DR | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **24** | Awaiting feed confirmation |
-| Lokian Deciduous Wood | MA | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **572** | Awaiting feed confirmation |
-| Lokian Deciduous Wood | OQ | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **187** | Awaiting feed confirmation |
-| Lokian Deciduous Wood | SR | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **467** | Awaiting feed confirmation |
-| Lokian Deciduous Wood | UT | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **662** | Awaiting feed confirmation |
+| Lokian Deciduous Wood | DR | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **24** | Despawned / inactive |
+| Lokian Deciduous Wood | MA | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **572** | Despawned / inactive |
+| Lokian Deciduous Wood | OQ | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **187** | Despawned / inactive |
+| Lokian Deciduous Wood | SR | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **467** | Despawned / inactive |
+| Lokian Deciduous Wood | UT | None reported active | [Tesa](https://swgaide.com/resources/view.php?rid=1777009) **662** | Despawned / inactive |
 | Lokian Domesticated Corn | DR | [Taliri](https://swgaide.com/resources/view.php?rid=1777010) **756** | [Taliri](https://swgaide.com/resources/view.php?rid=1777010) **756** | Active |
 | Lokian Domesticated Corn | FL | [Taliri](https://swgaide.com/resources/view.php?rid=1777010) **387** | [Taliri](https://swgaide.com/resources/view.php?rid=1777010) **387** | Active |
 | Lokian Domesticated Corn | OQ | [Taliri](https://swgaide.com/resources/view.php?rid=1777010) **324** | [Taliri](https://swgaide.com/resources/view.php?rid=1777010) **324** | Active |
@@ -966,17 +966,17 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Lokian Domesticated Wheat | FL | [Hobio](https://swgaide.com/resources/view.php?rid=1777015) **468** | [Hobio](https://swgaide.com/resources/view.php?rid=1777015) **468** | Active |
 | Lokian Domesticated Wheat | OQ | [Hobio](https://swgaide.com/resources/view.php?rid=1777015) **893** | [Hobio](https://swgaide.com/resources/view.php?rid=1777015) **893** | Active |
 | Lokian Domesticated Wheat | PE | [Hobio](https://swgaide.com/resources/view.php?rid=1777015) **618** | [Hobio](https://swgaide.com/resources/view.php?rid=1777015) **618** | Active |
-| Lokian Evergreen Wood | DR | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **318** | [Seagirca](https://swgaide.com/resources/view.php?rid=1777016) **407** | Awaiting feed confirmation |
-| Lokian Evergreen Wood | MA | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **873** | [Seagirca](https://swgaide.com/resources/view.php?rid=1777016) **912** | Awaiting feed confirmation |
+| Lokian Evergreen Wood | DR | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **318** | [Seagirca](https://swgaide.com/resources/view.php?rid=1777016) **407** | Despawned / inactive |
+| Lokian Evergreen Wood | MA | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **873** | [Seagirca](https://swgaide.com/resources/view.php?rid=1777016) **912** | Despawned / inactive |
 | Lokian Evergreen Wood | OQ | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **842** | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **842** | Active |
 | Lokian Evergreen Wood | SR | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **247** | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **247** | Active |
-| Lokian Evergreen Wood | UT | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **135** | [Seagirca](https://swgaide.com/resources/view.php?rid=1777016) **230** | Awaiting feed confirmation |
+| Lokian Evergreen Wood | UT | [Aspi](https://swgaide.com/resources/view.php?rid=1779557) **135** | [Seagirca](https://swgaide.com/resources/view.php?rid=1777016) **230** | Despawned / inactive |
 | Lokian Fiberplast | DR | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **894** | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **894** | Active |
 | Lokian Fiberplast | MA | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **33** | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **33** | Active |
 | Lokian Fiberplast | OQ | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **578** | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **578** | Active |
 | Lokian Fiberplast | SR | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **114** | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **114** | Active |
 | Lokian Fiberplast | UT | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **793** | [Meecoi](https://swgaide.com/resources/view.php?rid=1777017) **793** | Active |
-| Lokian Fish Meat | DR | [Postobee](https://swgaide.com/resources/view.php?rid=1779558) **184** | [Skave](https://swgaide.com/resources/view.php?rid=1777018) **471** | Awaiting feed confirmation |
+| Lokian Fish Meat | DR | [Postobee](https://swgaide.com/resources/view.php?rid=1779558) **184** | [Skave](https://swgaide.com/resources/view.php?rid=1777018) **471** | Despawned / inactive |
 | Lokian Fish Meat | FL | [Postobee](https://swgaide.com/resources/view.php?rid=1779558) **878** | [Postobee](https://swgaide.com/resources/view.php?rid=1779558) **878** | Active |
 | Lokian Fish Meat | OQ | [Postobee](https://swgaide.com/resources/view.php?rid=1779558) **533** | [Postobee](https://swgaide.com/resources/view.php?rid=1779558) **533** | Active |
 | Lokian Fish Meat | PE | [Postobee](https://swgaide.com/resources/view.php?rid=1779558) **641** | [Postobee](https://swgaide.com/resources/view.php?rid=1779558) **641** | Active |
@@ -1029,7 +1029,7 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Lokian Vegetable Greens | FL | [Kiki](https://swgaide.com/resources/view.php?rid=1777030) **769** | [Kiki](https://swgaide.com/resources/view.php?rid=1777030) **769** | Active |
 | Lokian Vegetable Greens | OQ | [Kiki](https://swgaide.com/resources/view.php?rid=1777030) **177** | [Kiki](https://swgaide.com/resources/view.php?rid=1777030) **177** | Active |
 | Lokian Vegetable Greens | PE | [Kiki](https://swgaide.com/resources/view.php?rid=1777030) **511** | [Kiki](https://swgaide.com/resources/view.php?rid=1777030) **511** | Active |
-| Lokian Vegetable Tubers | DR | [Ivi](https://swgaide.com/resources/view.php?rid=1779559) **276** | [Saba](https://swgaide.com/resources/view.php?rid=1777031) **335** | Awaiting feed confirmation |
+| Lokian Vegetable Tubers | DR | [Ivi](https://swgaide.com/resources/view.php?rid=1779559) **276** | [Saba](https://swgaide.com/resources/view.php?rid=1777031) **335** | Despawned / inactive |
 | Lokian Vegetable Tubers | FL | [Ivi](https://swgaide.com/resources/view.php?rid=1779559) **688** | [Ivi](https://swgaide.com/resources/view.php?rid=1779559) **688** | Active |
 | Lokian Vegetable Tubers | OQ | [Ivi](https://swgaide.com/resources/view.php?rid=1779559) **320** | [Ivi](https://swgaide.com/resources/view.php?rid=1779559) **320** | Active |
 | Lokian Vegetable Tubers | PE | [Ivi](https://swgaide.com/resources/view.php?rid=1779559) **901** | [Ivi](https://swgaide.com/resources/view.php?rid=1779559) **901** | Active |
@@ -1039,10 +1039,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Lokian Wild Corn | FL | [Stopace](https://swgaide.com/resources/view.php?rid=1779107) **646** | [Stopace](https://swgaide.com/resources/view.php?rid=1779107) **646** | Active |
 | Lokian Wild Corn | OQ | [Stopace](https://swgaide.com/resources/view.php?rid=1779107) **49** | [Goago](https://swgaide.com/resources/view.php?rid=1777034) **957** | Despawned / inactive |
 | Lokian Wild Corn | PE | [Stopace](https://swgaide.com/resources/view.php?rid=1779107) **381** | [Goago](https://swgaide.com/resources/view.php?rid=1777034) **642** | Despawned / inactive |
-| Lokian Wild Meat | DR | [Chisxei](https://swgaide.com/resources/view.php?rid=1779560) **379** | [Kama](https://swgaide.com/resources/view.php?rid=1777035) **886** | Awaiting feed confirmation |
+| Lokian Wild Meat | DR | [Chisxei](https://swgaide.com/resources/view.php?rid=1779560) **379** | [Kama](https://swgaide.com/resources/view.php?rid=1777035) **886** | Despawned / inactive |
 | Lokian Wild Meat | FL | [Chisxei](https://swgaide.com/resources/view.php?rid=1779560) **425** | [Chisxei](https://swgaide.com/resources/view.php?rid=1779560) **425** | Active |
-| Lokian Wild Meat | OQ | [Chisxei](https://swgaide.com/resources/view.php?rid=1779560) **205** | [Kama](https://swgaide.com/resources/view.php?rid=1777035) **415** | Awaiting feed confirmation |
-| Lokian Wild Meat | PE | [Chisxei](https://swgaide.com/resources/view.php?rid=1779560) **770** | [Kama](https://swgaide.com/resources/view.php?rid=1777035) **890** | Awaiting feed confirmation |
+| Lokian Wild Meat | OQ | [Chisxei](https://swgaide.com/resources/view.php?rid=1779560) **205** | [Kama](https://swgaide.com/resources/view.php?rid=1777035) **415** | Despawned / inactive |
+| Lokian Wild Meat | PE | [Chisxei](https://swgaide.com/resources/view.php?rid=1779560) **770** | [Kama](https://swgaide.com/resources/view.php?rid=1777035) **890** | Despawned / inactive |
 | Lokian Wild Milk | DR | [Veeka](https://swgaide.com/resources/view.php?rid=1779108) **467** | [Cillea](https://swgaide.com/resources/view.php?rid=1777036) **486** | Despawned / inactive |
 | Lokian Wild Milk | FL | [Veeka](https://swgaide.com/resources/view.php?rid=1779108) **935** | [Veeka](https://swgaide.com/resources/view.php?rid=1779108) **935** | Active |
 | Lokian Wild Milk | OQ | [Veeka](https://swgaide.com/resources/view.php?rid=1779108) **440** | [Veeka](https://swgaide.com/resources/view.php?rid=1779108) **440** | Active |
@@ -1051,10 +1051,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Lokian Wild Oats | FL | [Lehabeo](https://swgaide.com/resources/view.php?rid=1778653) **824** | [Lehabeo](https://swgaide.com/resources/view.php?rid=1778653) **824** | Active |
 | Lokian Wild Oats | OQ | [Lehabeo](https://swgaide.com/resources/view.php?rid=1778653) **324** | [Weho](https://swgaide.com/resources/view.php?rid=1777037) **464** | Despawned / inactive |
 | Lokian Wild Oats | PE | [Lehabeo](https://swgaide.com/resources/view.php?rid=1778653) **193** | [Lehabeo](https://swgaide.com/resources/view.php?rid=1778653) **193** | Active |
-| Lokian Wild Rice | DR | None reported active | [Grekra](https://swgaide.com/resources/view.php?rid=1777038) **729** | Awaiting feed confirmation |
-| Lokian Wild Rice | FL | None reported active | [Grekra](https://swgaide.com/resources/view.php?rid=1777038) **513** | Awaiting feed confirmation |
-| Lokian Wild Rice | OQ | None reported active | [Grekra](https://swgaide.com/resources/view.php?rid=1777038) **341** | Awaiting feed confirmation |
-| Lokian Wild Rice | PE | None reported active | [Grekra](https://swgaide.com/resources/view.php?rid=1777038) **338** | Awaiting feed confirmation |
+| Lokian Wild Rice | DR | None reported active | [Grekra](https://swgaide.com/resources/view.php?rid=1777038) **729** | Despawned / inactive |
+| Lokian Wild Rice | FL | None reported active | [Grekra](https://swgaide.com/resources/view.php?rid=1777038) **513** | Despawned / inactive |
+| Lokian Wild Rice | OQ | None reported active | [Grekra](https://swgaide.com/resources/view.php?rid=1777038) **341** | Despawned / inactive |
+| Lokian Wild Rice | PE | None reported active | [Grekra](https://swgaide.com/resources/view.php?rid=1777038) **338** | Despawned / inactive |
 | Lokian Wild Wheat | DR | [Nohe](https://swgaide.com/resources/view.php?rid=1777039) **547** | [Nohe](https://swgaide.com/resources/view.php?rid=1777039) **547** | Active |
 | Lokian Wild Wheat | FL | [Nohe](https://swgaide.com/resources/view.php?rid=1777039) **660** | [Nohe](https://swgaide.com/resources/view.php?rid=1777039) **660** | Active |
 | Lokian Wild Wheat | OQ | [Nohe](https://swgaide.com/resources/view.php?rid=1777039) **614** | [Nohe](https://swgaide.com/resources/view.php?rid=1777039) **614** | Active |
@@ -1068,13 +1068,13 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Lokian Wooly Hide | UT | [Ckapli](https://swgaide.com/resources/view.php?rid=1777041) **496** | [Ckapli](https://swgaide.com/resources/view.php?rid=1777041) **496** | Active |
 | Lubricating Oil | DR | [Kehi](https://swgaide.com/resources/view.php?rid=1778655) **677** | [Kehi](https://swgaide.com/resources/view.php?rid=1778655) **677** | Active |
 | Lubricating Oil | OQ | [Nirae](https://swgaide.com/resources/view.php?rid=1778656) **835** | [Nirae](https://swgaide.com/resources/view.php?rid=1778656) **835** | Active |
-| Malab Siliclastic Ore | CR | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **696** | Awaiting feed confirmation |
-| Malab Siliclastic Ore | DR | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **339** | Awaiting feed confirmation |
-| Malab Siliclastic Ore | HR | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **693** | Awaiting feed confirmation |
-| Malab Siliclastic Ore | MA | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **736** | Awaiting feed confirmation |
-| Malab Siliclastic Ore | OQ | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **271** | Awaiting feed confirmation |
-| Malab Siliclastic Ore | SR | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **342** | Awaiting feed confirmation |
-| Malab Siliclastic Ore | UT | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **425** | Awaiting feed confirmation |
+| Malab Siliclastic Ore | CR | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **696** | Despawned / inactive |
+| Malab Siliclastic Ore | DR | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **339** | Despawned / inactive |
+| Malab Siliclastic Ore | HR | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **693** | Despawned / inactive |
+| Malab Siliclastic Ore | MA | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **736** | Despawned / inactive |
+| Malab Siliclastic Ore | OQ | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **271** | Despawned / inactive |
+| Malab Siliclastic Ore | SR | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **342** | Despawned / inactive |
+| Malab Siliclastic Ore | UT | None reported active | [Votasis](https://swgaide.com/resources/view.php?rid=1777045) **425** | Despawned / inactive |
 | Malium Inert Gas | DR | [Skeacheaate](https://swgaide.com/resources/view.php?rid=1779109) **137** | [Skeacheaate](https://swgaide.com/resources/view.php?rid=1779109) **137** | Active |
 | Malium Inert Gas | OQ | [Skeacheaate](https://swgaide.com/resources/view.php?rid=1779109) **576** | [Skeacheaate](https://swgaide.com/resources/view.php?rid=1779109) **576** | Active |
 | Methane Reactive Gas | DR | None reported active | [Pagwibiene](https://swgaide.com/resources/view.php?rid=1777047) **614** | Despawned / inactive |
@@ -1106,11 +1106,11 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Nabooian Carnivore Meat | FL | [Hagabie](https://swgaide.com/resources/view.php?rid=1777053) **546** | [Hagabie](https://swgaide.com/resources/view.php?rid=1777053) **546** | Active |
 | Nabooian Carnivore Meat | OQ | [Hagabie](https://swgaide.com/resources/view.php?rid=1777053) **145** | [Hagabie](https://swgaide.com/resources/view.php?rid=1777053) **145** | Active |
 | Nabooian Carnivore Meat | PE | [Hagabie](https://swgaide.com/resources/view.php?rid=1777053) **936** | [Hagabie](https://swgaide.com/resources/view.php?rid=1777053) **936** | Active |
-| Nabooian Conifer Wood | DR | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **459** | [Ako](https://swgaide.com/resources/view.php?rid=1777054) **579** | Awaiting feed confirmation |
-| Nabooian Conifer Wood | MA | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **817** | [Ako](https://swgaide.com/resources/view.php?rid=1777054) **911** | Awaiting feed confirmation |
-| Nabooian Conifer Wood | OQ | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **232** | [Ako](https://swgaide.com/resources/view.php?rid=1777054) **287** | Awaiting feed confirmation |
+| Nabooian Conifer Wood | DR | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **459** | [Ako](https://swgaide.com/resources/view.php?rid=1777054) **579** | Despawned / inactive |
+| Nabooian Conifer Wood | MA | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **817** | [Ako](https://swgaide.com/resources/view.php?rid=1777054) **911** | Despawned / inactive |
+| Nabooian Conifer Wood | OQ | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **232** | [Ako](https://swgaide.com/resources/view.php?rid=1777054) **287** | Despawned / inactive |
 | Nabooian Conifer Wood | SR | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **292** | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **292** | Active |
-| Nabooian Conifer Wood | UT | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **67** | [Ako](https://swgaide.com/resources/view.php?rid=1777054) **262** | Awaiting feed confirmation |
+| Nabooian Conifer Wood | UT | [Heswo](https://swgaide.com/resources/view.php?rid=1779561) **67** | [Ako](https://swgaide.com/resources/view.php?rid=1777054) **262** | Despawned / inactive |
 | Nabooian Crustacean Meat | DR | [Rjitai](https://swgaide.com/resources/view.php?rid=1777055) **534** | [Rjitai](https://swgaide.com/resources/view.php?rid=1777055) **534** | Active |
 | Nabooian Crustacean Meat | FL | [Rjitai](https://swgaide.com/resources/view.php?rid=1777055) **66** | [Rjitai](https://swgaide.com/resources/view.php?rid=1777055) **66** | Active |
 | Nabooian Crustacean Meat | OQ | [Rjitai](https://swgaide.com/resources/view.php?rid=1777055) **562** | [Rjitai](https://swgaide.com/resources/view.php?rid=1777055) **562** | Active |
@@ -1144,11 +1144,11 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Nabooian Domesticated Wheat | FL | [Naechi](https://swgaide.com/resources/view.php?rid=1777713) **668** | [Naechi](https://swgaide.com/resources/view.php?rid=1777713) **668** | Active |
 | Nabooian Domesticated Wheat | OQ | [Naechi](https://swgaide.com/resources/view.php?rid=1777713) **55** | [Enige](https://swgaide.com/resources/view.php?rid=1777062) **995** | Despawned / inactive |
 | Nabooian Domesticated Wheat | PE | [Naechi](https://swgaide.com/resources/view.php?rid=1777713) **695** | [Naechi](https://swgaide.com/resources/view.php?rid=1777713) **695** | Active |
-| Nabooian Evergreen Wood | DR | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **76** | [Sefavo](https://swgaide.com/resources/view.php?rid=1777063) **146** | Awaiting feed confirmation |
-| Nabooian Evergreen Wood | MA | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **867** | [Sefavo](https://swgaide.com/resources/view.php?rid=1777063) **901** | Awaiting feed confirmation |
-| Nabooian Evergreen Wood | OQ | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **656** | [Sefavo](https://swgaide.com/resources/view.php?rid=1777063) **670** | Awaiting feed confirmation |
+| Nabooian Evergreen Wood | DR | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **76** | [Sefavo](https://swgaide.com/resources/view.php?rid=1777063) **146** | Despawned / inactive |
+| Nabooian Evergreen Wood | MA | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **867** | [Sefavo](https://swgaide.com/resources/view.php?rid=1777063) **901** | Despawned / inactive |
+| Nabooian Evergreen Wood | OQ | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **656** | [Sefavo](https://swgaide.com/resources/view.php?rid=1777063) **670** | Despawned / inactive |
 | Nabooian Evergreen Wood | SR | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **247** | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **247** | Active |
-| Nabooian Evergreen Wood | UT | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **2** | [Sefavo](https://swgaide.com/resources/view.php?rid=1777063) **47** | Awaiting feed confirmation |
+| Nabooian Evergreen Wood | UT | [Niso](https://swgaide.com/resources/view.php?rid=1779562) **2** | [Sefavo](https://swgaide.com/resources/view.php?rid=1777063) **47** | Despawned / inactive |
 | Nabooian Fiberplast | DR | [Fasheako](https://swgaide.com/resources/view.php?rid=1777064) **911** | [Fasheako](https://swgaide.com/resources/view.php?rid=1777064) **911** | Active |
 | Nabooian Fiberplast | MA | [Fasheako](https://swgaide.com/resources/view.php?rid=1777064) **629** | [Fasheako](https://swgaide.com/resources/view.php?rid=1777064) **629** | Active |
 | Nabooian Fiberplast | OQ | [Fasheako](https://swgaide.com/resources/view.php?rid=1777064) **843** | [Fasheako](https://swgaide.com/resources/view.php?rid=1777064) **843** | Active |
@@ -1166,10 +1166,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Nabooian Fruit | FL | [Cise](https://swgaide.com/resources/view.php?rid=1777067) **747** | [Cise](https://swgaide.com/resources/view.php?rid=1777067) **747** | Active |
 | Nabooian Fruit | OQ | [Cise](https://swgaide.com/resources/view.php?rid=1777067) **55** | [Cise](https://swgaide.com/resources/view.php?rid=1777067) **55** | Active |
 | Nabooian Fruit | PE | [Cise](https://swgaide.com/resources/view.php?rid=1777067) **351** | [Cise](https://swgaide.com/resources/view.php?rid=1777067) **351** | Active |
-| Nabooian Herbivore Meat | DR | [Raehi](https://swgaide.com/resources/view.php?rid=1779563) **309** | [Coukeme](https://swgaide.com/resources/view.php?rid=1777068) **807** | Awaiting feed confirmation |
+| Nabooian Herbivore Meat | DR | [Raehi](https://swgaide.com/resources/view.php?rid=1779563) **309** | [Coukeme](https://swgaide.com/resources/view.php?rid=1777068) **807** | Despawned / inactive |
 | Nabooian Herbivore Meat | FL | [Raehi](https://swgaide.com/resources/view.php?rid=1779563) **537** | [Raehi](https://swgaide.com/resources/view.php?rid=1779563) **537** | Active |
-| Nabooian Herbivore Meat | OQ | [Raehi](https://swgaide.com/resources/view.php?rid=1779563) **113** | [Coukeme](https://swgaide.com/resources/view.php?rid=1777068) **474** | Awaiting feed confirmation |
-| Nabooian Herbivore Meat | PE | [Raehi](https://swgaide.com/resources/view.php?rid=1779563) **410** | [Coukeme](https://swgaide.com/resources/view.php?rid=1777068) **626** | Awaiting feed confirmation |
+| Nabooian Herbivore Meat | OQ | [Raehi](https://swgaide.com/resources/view.php?rid=1779563) **113** | [Coukeme](https://swgaide.com/resources/view.php?rid=1777068) **474** | Despawned / inactive |
+| Nabooian Herbivore Meat | PE | [Raehi](https://swgaide.com/resources/view.php?rid=1779563) **410** | [Coukeme](https://swgaide.com/resources/view.php?rid=1777068) **626** | Despawned / inactive |
 | Nabooian Horn | DR | [Meagou](https://swgaide.com/resources/view.php?rid=1777069) **396** | [Meagou](https://swgaide.com/resources/view.php?rid=1777069) **396** | Active |
 | Nabooian Horn | MA | [Meagou](https://swgaide.com/resources/view.php?rid=1777069) **484** | [Meagou](https://swgaide.com/resources/view.php?rid=1777069) **484** | Active |
 | Nabooian Horn | OQ | [Meagou](https://swgaide.com/resources/view.php?rid=1777069) **447** | [Meagou](https://swgaide.com/resources/view.php?rid=1777069) **447** | Active |
@@ -1211,8 +1211,8 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Nabooian Vegetable Tubers | FL | [Iczooka](https://swgaide.com/resources/view.php?rid=1777078) **357** | [Iczooka](https://swgaide.com/resources/view.php?rid=1777078) **357** | Active |
 | Nabooian Vegetable Tubers | OQ | [Iczooka](https://swgaide.com/resources/view.php?rid=1777078) **913** | [Iczooka](https://swgaide.com/resources/view.php?rid=1777078) **913** | Active |
 | Nabooian Vegetable Tubers | PE | [Iczooka](https://swgaide.com/resources/view.php?rid=1777078) **609** | [Iczooka](https://swgaide.com/resources/view.php?rid=1777078) **609** | Active |
-| Nabooian Water Vapor | DR | None reported active | [Dome](https://swgaide.com/resources/view.php?rid=1777079) **166** | Awaiting feed confirmation |
-| Nabooian Water Vapor | OQ | None reported active | [Dome](https://swgaide.com/resources/view.php?rid=1777079) **630** | Awaiting feed confirmation |
+| Nabooian Water Vapor | DR | None reported active | [Dome](https://swgaide.com/resources/view.php?rid=1777079) **166** | Despawned / inactive |
+| Nabooian Water Vapor | OQ | None reported active | [Dome](https://swgaide.com/resources/view.php?rid=1777079) **630** | Despawned / inactive |
 | Nabooian Wild Corn | DR | [Nore](https://swgaide.com/resources/view.php?rid=1779111) **903** | [Nore](https://swgaide.com/resources/view.php?rid=1779111) **903** | Active |
 | Nabooian Wild Corn | FL | [Nore](https://swgaide.com/resources/view.php?rid=1779111) **757** | [Nore](https://swgaide.com/resources/view.php?rid=1779111) **757** | Active |
 | Nabooian Wild Corn | OQ | [Nore](https://swgaide.com/resources/view.php?rid=1779111) **692** | [Nore](https://swgaide.com/resources/view.php?rid=1779111) **692** | Active |
@@ -1237,7 +1237,7 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Nabooian Wild Wheat | FL | [Egho](https://swgaide.com/resources/view.php?rid=1777085) **465** | [Egho](https://swgaide.com/resources/view.php?rid=1777085) **465** | Active |
 | Nabooian Wild Wheat | OQ | [Egho](https://swgaide.com/resources/view.php?rid=1777085) **335** | [Egho](https://swgaide.com/resources/view.php?rid=1777085) **335** | Active |
 | Nabooian Wild Wheat | PE | [Egho](https://swgaide.com/resources/view.php?rid=1777085) **680** | [Egho](https://swgaide.com/resources/view.php?rid=1777085) **680** | Active |
-| Nabooian Wind Renewable Energy | OQ | [Loweo](https://swgaide.com/resources/view.php?rid=1779564) **500** | [Resnelo](https://swgaide.com/resources/view.php?rid=1777086) **500** | Awaiting feed confirmation |
+| Nabooian Wind Renewable Energy | OQ | [Loweo](https://swgaide.com/resources/view.php?rid=1779564) **500** | [Resnelo](https://swgaide.com/resources/view.php?rid=1777086) **500** | Despawned / inactive |
 | Nabooian Wind Renewable Energy | PE | [Loweo](https://swgaide.com/resources/view.php?rid=1779564) **170** | [Loweo](https://swgaide.com/resources/view.php?rid=1779564) **170** | Active |
 | Nabooian Wooly Hide | DR | [Srilo](https://swgaide.com/resources/view.php?rid=1777087) **114** | [Srilo](https://swgaide.com/resources/view.php?rid=1777087) **114** | Active |
 | Nabooian Wooly Hide | MA | [Srilo](https://swgaide.com/resources/view.php?rid=1777087) **732** | [Srilo](https://swgaide.com/resources/view.php?rid=1777087) **732** | Active |
@@ -1353,9 +1353,9 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Rori Conifer Wood | SR | [Loce](https://swgaide.com/resources/view.php?rid=1778205) **336** | [Loce](https://swgaide.com/resources/view.php?rid=1778205) **336** | Active |
 | Rori Conifer Wood | UT | [Loce](https://swgaide.com/resources/view.php?rid=1778205) **261** | [Loce](https://swgaide.com/resources/view.php?rid=1778205) **261** | Active |
 | Rori Crustacean Meat | DR | [Ceera](https://swgaide.com/resources/view.php?rid=1779567) **947** | [Ceera](https://swgaide.com/resources/view.php?rid=1779567) **947** | Active |
-| Rori Crustacean Meat | FL | [Ceera](https://swgaide.com/resources/view.php?rid=1779567) **200** | [Ota](https://swgaide.com/resources/view.php?rid=1777106) **459** | Awaiting feed confirmation |
-| Rori Crustacean Meat | OQ | [Ceera](https://swgaide.com/resources/view.php?rid=1779567) **377** | [Ota](https://swgaide.com/resources/view.php?rid=1777106) **695** | Awaiting feed confirmation |
-| Rori Crustacean Meat | PE | [Ceera](https://swgaide.com/resources/view.php?rid=1779567) **114** | [Ota](https://swgaide.com/resources/view.php?rid=1777106) **692** | Awaiting feed confirmation |
+| Rori Crustacean Meat | FL | [Ceera](https://swgaide.com/resources/view.php?rid=1779567) **200** | [Ota](https://swgaide.com/resources/view.php?rid=1777106) **459** | Despawned / inactive |
+| Rori Crustacean Meat | OQ | [Ceera](https://swgaide.com/resources/view.php?rid=1779567) **377** | [Ota](https://swgaide.com/resources/view.php?rid=1777106) **695** | Despawned / inactive |
+| Rori Crustacean Meat | PE | [Ceera](https://swgaide.com/resources/view.php?rid=1779567) **114** | [Ota](https://swgaide.com/resources/view.php?rid=1777106) **692** | Despawned / inactive |
 | Rori Deciduous Wood | DR | [Ibivi](https://swgaide.com/resources/view.php?rid=1778206) **402** | [Cico](https://swgaide.com/resources/view.php?rid=1777107) **750** | Despawned / inactive |
 | Rori Deciduous Wood | MA | [Ibivi](https://swgaide.com/resources/view.php?rid=1778206) **588** | [Cico](https://swgaide.com/resources/view.php?rid=1777107) **702** | Despawned / inactive |
 | Rori Deciduous Wood | OQ | [Ibivi](https://swgaide.com/resources/view.php?rid=1778206) **128** | [Cico](https://swgaide.com/resources/view.php?rid=1777107) **209** | Despawned / inactive |
@@ -1390,11 +1390,11 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Rori Evergreen Wood | OQ | [Wewa](https://swgaide.com/resources/view.php?rid=1779117) **217** | [Shotriva](https://swgaide.com/resources/view.php?rid=1777114) **946** | Despawned / inactive |
 | Rori Evergreen Wood | SR | [Wewa](https://swgaide.com/resources/view.php?rid=1779117) **277** | [Wewa](https://swgaide.com/resources/view.php?rid=1779117) **277** | Active |
 | Rori Evergreen Wood | UT | [Wewa](https://swgaide.com/resources/view.php?rid=1779117) **133** | [Shotriva](https://swgaide.com/resources/view.php?rid=1777114) **184** | Despawned / inactive |
-| Rori Fiberplast | DR | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **738** | [Pifo](https://swgaide.com/resources/view.php?rid=1777115) **953** | Awaiting feed confirmation |
-| Rori Fiberplast | MA | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **50** | [Pifo](https://swgaide.com/resources/view.php?rid=1777115) **86** | Awaiting feed confirmation |
-| Rori Fiberplast | OQ | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **601** | [Pifo](https://swgaide.com/resources/view.php?rid=1777115) **989** | Awaiting feed confirmation |
+| Rori Fiberplast | DR | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **738** | [Pifo](https://swgaide.com/resources/view.php?rid=1777115) **953** | Despawned / inactive |
+| Rori Fiberplast | MA | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **50** | [Pifo](https://swgaide.com/resources/view.php?rid=1777115) **86** | Despawned / inactive |
+| Rori Fiberplast | OQ | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **601** | [Pifo](https://swgaide.com/resources/view.php?rid=1777115) **989** | Despawned / inactive |
 | Rori Fiberplast | SR | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **262** | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **262** | Active |
-| Rori Fiberplast | UT | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **882** | [Pifo](https://swgaide.com/resources/view.php?rid=1777115) **909** | Awaiting feed confirmation |
+| Rori Fiberplast | UT | [Ogeu](https://swgaide.com/resources/view.php?rid=1779568) **882** | [Pifo](https://swgaide.com/resources/view.php?rid=1777115) **909** | Despawned / inactive |
 | Rori Fish Meat | DR | [Ecibi](https://swgaide.com/resources/view.php?rid=1778659) **493** | [Ecibi](https://swgaide.com/resources/view.php?rid=1778659) **493** | Active |
 | Rori Fish Meat | FL | [Ecibi](https://swgaide.com/resources/view.php?rid=1778659) **620** | [Ecibi](https://swgaide.com/resources/view.php?rid=1778659) **620** | Active |
 | Rori Fish Meat | OQ | [Ecibi](https://swgaide.com/resources/view.php?rid=1778659) **142** | [Hike](https://swgaide.com/resources/view.php?rid=1777116) **332** | Despawned / inactive |
@@ -1426,15 +1426,15 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Rori Leathery Hide | SR | [Aha](https://swgaide.com/resources/view.php?rid=1777717) **836** | [Eba](https://swgaide.com/resources/view.php?rid=1777122) **903** | Despawned / inactive |
 | Rori Leathery Hide | UT | [Aha](https://swgaide.com/resources/view.php?rid=1777717) **486** | [Aha](https://swgaide.com/resources/view.php?rid=1777717) **486** | Active |
 | Rori Mollusk Meat | DR | [Gaboco](https://swgaide.com/resources/view.php?rid=1779569) **651** | [Gaboco](https://swgaide.com/resources/view.php?rid=1779569) **651** | Active |
-| Rori Mollusk Meat | FL | [Gaboco](https://swgaide.com/resources/view.php?rid=1779569) **619** | [Wieke](https://swgaide.com/resources/view.php?rid=1777123) **829** | Awaiting feed confirmation |
-| Rori Mollusk Meat | OQ | [Gaboco](https://swgaide.com/resources/view.php?rid=1779569) **740** | [Wieke](https://swgaide.com/resources/view.php?rid=1777123) **860** | Awaiting feed confirmation |
+| Rori Mollusk Meat | FL | [Gaboco](https://swgaide.com/resources/view.php?rid=1779569) **619** | [Wieke](https://swgaide.com/resources/view.php?rid=1777123) **829** | Despawned / inactive |
+| Rori Mollusk Meat | OQ | [Gaboco](https://swgaide.com/resources/view.php?rid=1779569) **740** | [Wieke](https://swgaide.com/resources/view.php?rid=1777123) **860** | Despawned / inactive |
 | Rori Mollusk Meat | PE | [Gaboco](https://swgaide.com/resources/view.php?rid=1779569) **579** | [Gaboco](https://swgaide.com/resources/view.php?rid=1779569) **579** | Active |
 | Rori Scaley Hide | DR | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **235** | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **235** | Active |
 | Rori Scaley Hide | MA | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **453** | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **453** | Active |
 | Rori Scaley Hide | OQ | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **776** | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **776** | Active |
 | Rori Scaley Hide | SR | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **507** | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **507** | Active |
 | Rori Scaley Hide | UT | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **655** | [Aere](https://swgaide.com/resources/view.php?rid=1777124) **655** | Active |
-| Rori Solar Renewable Energy | OQ | [Ppekhaiite](https://swgaide.com/resources/view.php?rid=1779570) **500** | [Llettaian](https://swgaide.com/resources/view.php?rid=1777125) **500** | Awaiting feed confirmation |
+| Rori Solar Renewable Energy | OQ | [Ppekhaiite](https://swgaide.com/resources/view.php?rid=1779570) **500** | [Llettaian](https://swgaide.com/resources/view.php?rid=1777125) **500** | Despawned / inactive |
 | Rori Solar Renewable Energy | PE | [Ppekhaiite](https://swgaide.com/resources/view.php?rid=1779570) **372** | [Ppekhaiite](https://swgaide.com/resources/view.php?rid=1779570) **372** | Active |
 | Rori Vegetable Beans | DR | [Nesa](https://swgaide.com/resources/view.php?rid=1779118) **826** | [Nesa](https://swgaide.com/resources/view.php?rid=1779118) **826** | Active |
 | Rori Vegetable Beans | FL | [Nesa](https://swgaide.com/resources/view.php?rid=1779118) **207** | [Gaofou](https://swgaide.com/resources/view.php?rid=1777126) **533** | Despawned / inactive |
@@ -1485,8 +1485,8 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Rori Wooly Hide | OQ | [Rciefo](https://swgaide.com/resources/view.php?rid=1778663) **133** | [Seokau](https://swgaide.com/resources/view.php?rid=1777138) **290** | Despawned / inactive |
 | Rori Wooly Hide | SR | [Rciefo](https://swgaide.com/resources/view.php?rid=1778663) **263** | [Seokau](https://swgaide.com/resources/view.php?rid=1777138) **864** | Despawned / inactive |
 | Rori Wooly Hide | UT | [Rciefo](https://swgaide.com/resources/view.php?rid=1778663) **529** | [Seokau](https://swgaide.com/resources/view.php?rid=1777138) **992** | Despawned / inactive |
-| Sig Reactive Gas | DR | None reported active | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) **620** | Awaiting feed confirmation |
-| Sig Reactive Gas | OQ | None reported active | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) **967** | Awaiting feed confirmation |
+| Sig Reactive Gas | DR | None reported active | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) **620** | Despawned / inactive |
+| Sig Reactive Gas | OQ | None reported active | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) **967** | Despawned / inactive |
 | Skevon Reactive Gas | DR | [Baoggioate](https://swgaide.com/resources/view.php?rid=1777140) **604** | [Baoggioate](https://swgaide.com/resources/view.php?rid=1777140) **604** | Active |
 | Skevon Reactive Gas | OQ | [Baoggioate](https://swgaide.com/resources/view.php?rid=1777140) **490** | [Baoggioate](https://swgaide.com/resources/view.php?rid=1777140) **490** | Active |
 | Talusian Animal Bones | DR | [Rzofa](https://swgaide.com/resources/view.php?rid=1779571) **890** | [Rzofa](https://swgaide.com/resources/view.php?rid=1779571) **890** | Active |
@@ -1503,10 +1503,10 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Talusian Avian Meat | FL | [Myeto](https://swgaide.com/resources/view.php?rid=1777143) **121** | [Myeto](https://swgaide.com/resources/view.php?rid=1777143) **121** | Active |
 | Talusian Avian Meat | OQ | [Myeto](https://swgaide.com/resources/view.php?rid=1777143) **654** | [Myeto](https://swgaide.com/resources/view.php?rid=1777143) **654** | Active |
 | Talusian Avian Meat | PE | [Myeto](https://swgaide.com/resources/view.php?rid=1777143) **399** | [Myeto](https://swgaide.com/resources/view.php?rid=1777143) **399** | Active |
-| Talusian Berry Fruit | DR | [Fossocra](https://swgaide.com/resources/view.php?rid=1779572) **794** | [Tchopefo](https://swgaide.com/resources/view.php?rid=1777144) **912** | Awaiting feed confirmation |
-| Talusian Berry Fruit | FL | [Fossocra](https://swgaide.com/resources/view.php?rid=1779572) **181** | [Tchopefo](https://swgaide.com/resources/view.php?rid=1777144) **396** | Awaiting feed confirmation |
+| Talusian Berry Fruit | DR | [Fossocra](https://swgaide.com/resources/view.php?rid=1779572) **794** | [Tchopefo](https://swgaide.com/resources/view.php?rid=1777144) **912** | Despawned / inactive |
+| Talusian Berry Fruit | FL | [Fossocra](https://swgaide.com/resources/view.php?rid=1779572) **181** | [Tchopefo](https://swgaide.com/resources/view.php?rid=1777144) **396** | Despawned / inactive |
 | Talusian Berry Fruit | OQ | [Fossocra](https://swgaide.com/resources/view.php?rid=1779572) **925** | [Fossocra](https://swgaide.com/resources/view.php?rid=1779572) **925** | Active |
-| Talusian Berry Fruit | PE | [Fossocra](https://swgaide.com/resources/view.php?rid=1779572) **142** | [Tchopefo](https://swgaide.com/resources/view.php?rid=1777144) **766** | Awaiting feed confirmation |
+| Talusian Berry Fruit | PE | [Fossocra](https://swgaide.com/resources/view.php?rid=1779572) **142** | [Tchopefo](https://swgaide.com/resources/view.php?rid=1777144) **766** | Despawned / inactive |
 | Talusian Bristley Hide | DR | [Enota](https://swgaide.com/resources/view.php?rid=1778664) **559** | [Kairko](https://swgaide.com/resources/view.php?rid=1777145) **633** | Despawned / inactive |
 | Talusian Bristley Hide | MA | [Enota](https://swgaide.com/resources/view.php?rid=1778664) **80** | [Kairko](https://swgaide.com/resources/view.php?rid=1777145) **907** | Despawned / inactive |
 | Talusian Bristley Hide | OQ | [Enota](https://swgaide.com/resources/view.php?rid=1778664) **395** | [Kairko](https://swgaide.com/resources/view.php?rid=1777145) **597** | Despawned / inactive |
@@ -1665,9 +1665,9 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Tatooinian Avian Bones | SR | [Dewro](https://swgaide.com/resources/view.php?rid=1777182) **478** | [Dewro](https://swgaide.com/resources/view.php?rid=1777182) **478** | Active |
 | Tatooinian Avian Bones | UT | [Dewro](https://swgaide.com/resources/view.php?rid=1777182) **3** | [Dewro](https://swgaide.com/resources/view.php?rid=1777182) **3** | Active |
 | Tatooinian Avian Meat | DR | [Gmomo](https://swgaide.com/resources/view.php?rid=1779573) **806** | [Gmomo](https://swgaide.com/resources/view.php?rid=1779573) **806** | Active |
-| Tatooinian Avian Meat | FL | [Gmomo](https://swgaide.com/resources/view.php?rid=1779573) **264** | [Sridei](https://swgaide.com/resources/view.php?rid=1777183) **355** | Awaiting feed confirmation |
+| Tatooinian Avian Meat | FL | [Gmomo](https://swgaide.com/resources/view.php?rid=1779573) **264** | [Sridei](https://swgaide.com/resources/view.php?rid=1777183) **355** | Despawned / inactive |
 | Tatooinian Avian Meat | OQ | [Gmomo](https://swgaide.com/resources/view.php?rid=1779573) **972** | [Gmomo](https://swgaide.com/resources/view.php?rid=1779573) **972** | Active |
-| Tatooinian Avian Meat | PE | [Gmomo](https://swgaide.com/resources/view.php?rid=1779573) **820** | [Sridei](https://swgaide.com/resources/view.php?rid=1777183) **986** | Awaiting feed confirmation |
+| Tatooinian Avian Meat | PE | [Gmomo](https://swgaide.com/resources/view.php?rid=1779573) **820** | [Sridei](https://swgaide.com/resources/view.php?rid=1777183) **986** | Despawned / inactive |
 | Tatooinian Berry Fruit | DR | [Ida](https://swgaide.com/resources/view.php?rid=1777184) **943** | [Ida](https://swgaide.com/resources/view.php?rid=1777184) **943** | Active |
 | Tatooinian Berry Fruit | FL | [Ida](https://swgaide.com/resources/view.php?rid=1777184) **236** | [Ida](https://swgaide.com/resources/view.php?rid=1777184) **236** | Active |
 | Tatooinian Berry Fruit | OQ | [Ida](https://swgaide.com/resources/view.php?rid=1777184) **16** | [Ida](https://swgaide.com/resources/view.php?rid=1777184) **16** | Active |
@@ -1681,11 +1681,11 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Tatooinian Carnivore Meat | FL | [Cepio](https://swgaide.com/resources/view.php?rid=1777186) **391** | [Cepio](https://swgaide.com/resources/view.php?rid=1777186) **391** | Active |
 | Tatooinian Carnivore Meat | OQ | [Cepio](https://swgaide.com/resources/view.php?rid=1777186) **465** | [Cepio](https://swgaide.com/resources/view.php?rid=1777186) **465** | Active |
 | Tatooinian Carnivore Meat | PE | [Cepio](https://swgaide.com/resources/view.php?rid=1777186) **477** | [Cepio](https://swgaide.com/resources/view.php?rid=1777186) **477** | Active |
-| Tatooinian Conifer Wood | DR | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **313** | [Letze](https://swgaide.com/resources/view.php?rid=1777187) **351** | Awaiting feed confirmation |
+| Tatooinian Conifer Wood | DR | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **313** | [Letze](https://swgaide.com/resources/view.php?rid=1777187) **351** | Despawned / inactive |
 | Tatooinian Conifer Wood | MA | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **851** | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **851** | Active |
-| Tatooinian Conifer Wood | OQ | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **5** | [Letze](https://swgaide.com/resources/view.php?rid=1777187) **388** | Awaiting feed confirmation |
+| Tatooinian Conifer Wood | OQ | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **5** | [Letze](https://swgaide.com/resources/view.php?rid=1777187) **388** | Despawned / inactive |
 | Tatooinian Conifer Wood | SR | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **325** | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **325** | Active |
-| Tatooinian Conifer Wood | UT | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **51** | [Letze](https://swgaide.com/resources/view.php?rid=1777187) **288** | Awaiting feed confirmation |
+| Tatooinian Conifer Wood | UT | [Bocho](https://swgaide.com/resources/view.php?rid=1779574) **51** | [Letze](https://swgaide.com/resources/view.php?rid=1777187) **288** | Despawned / inactive |
 | Tatooinian Crustacean Meat | DR | [Kabromo](https://swgaide.com/resources/view.php?rid=1777724) **661** | [Kabromo](https://swgaide.com/resources/view.php?rid=1777724) **661** | Active |
 | Tatooinian Crustacean Meat | FL | [Kabromo](https://swgaide.com/resources/view.php?rid=1777724) **947** | [Kabromo](https://swgaide.com/resources/view.php?rid=1777724) **947** | Active |
 | Tatooinian Crustacean Meat | OQ | [Kabromo](https://swgaide.com/resources/view.php?rid=1777724) **192** | [Ano](https://swgaide.com/resources/view.php?rid=1777188) **971** | Despawned / inactive |
@@ -1695,18 +1695,18 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Tatooinian Deciduous Wood | OQ | [Toosre](https://swgaide.com/resources/view.php?rid=1777189) **36** | [Toosre](https://swgaide.com/resources/view.php?rid=1777189) **36** | Active |
 | Tatooinian Deciduous Wood | SR | [Toosre](https://swgaide.com/resources/view.php?rid=1777189) **496** | [Toosre](https://swgaide.com/resources/view.php?rid=1777189) **496** | Active |
 | Tatooinian Deciduous Wood | UT | [Toosre](https://swgaide.com/resources/view.php?rid=1777189) **354** | [Toosre](https://swgaide.com/resources/view.php?rid=1777189) **354** | Active |
-| Tatooinian Domesticated Corn | DR | [Riwro](https://swgaide.com/resources/view.php?rid=1779575) **485** | [Rhichai](https://swgaide.com/resources/view.php?rid=1777190) **727** | Awaiting feed confirmation |
-| Tatooinian Domesticated Corn | FL | [Riwro](https://swgaide.com/resources/view.php?rid=1779575) **97** | [Rhichai](https://swgaide.com/resources/view.php?rid=1777190) **330** | Awaiting feed confirmation |
-| Tatooinian Domesticated Corn | OQ | [Riwro](https://swgaide.com/resources/view.php?rid=1779575) **165** | [Rhichai](https://swgaide.com/resources/view.php?rid=1777190) **556** | Awaiting feed confirmation |
+| Tatooinian Domesticated Corn | DR | [Riwro](https://swgaide.com/resources/view.php?rid=1779575) **485** | [Rhichai](https://swgaide.com/resources/view.php?rid=1777190) **727** | Despawned / inactive |
+| Tatooinian Domesticated Corn | FL | [Riwro](https://swgaide.com/resources/view.php?rid=1779575) **97** | [Rhichai](https://swgaide.com/resources/view.php?rid=1777190) **330** | Despawned / inactive |
+| Tatooinian Domesticated Corn | OQ | [Riwro](https://swgaide.com/resources/view.php?rid=1779575) **165** | [Rhichai](https://swgaide.com/resources/view.php?rid=1777190) **556** | Despawned / inactive |
 | Tatooinian Domesticated Corn | PE | [Riwro](https://swgaide.com/resources/view.php?rid=1779575) **823** | [Riwro](https://swgaide.com/resources/view.php?rid=1779575) **823** | Active |
 | Tatooinian Domesticated Meat | DR | [Lliyo](https://swgaide.com/resources/view.php?rid=1777191) **827** | [Lliyo](https://swgaide.com/resources/view.php?rid=1777191) **827** | Active |
 | Tatooinian Domesticated Meat | FL | [Lliyo](https://swgaide.com/resources/view.php?rid=1777191) **823** | [Lliyo](https://swgaide.com/resources/view.php?rid=1777191) **823** | Active |
 | Tatooinian Domesticated Meat | OQ | [Lliyo](https://swgaide.com/resources/view.php?rid=1777191) **857** | [Lliyo](https://swgaide.com/resources/view.php?rid=1777191) **857** | Active |
 | Tatooinian Domesticated Meat | PE | [Lliyo](https://swgaide.com/resources/view.php?rid=1777191) **37** | [Lliyo](https://swgaide.com/resources/view.php?rid=1777191) **37** | Active |
-| Tatooinian Domesticated Milk | DR | [Isea](https://swgaide.com/resources/view.php?rid=1779576) **575** | [Wimo](https://swgaide.com/resources/view.php?rid=1777192) **798** | Awaiting feed confirmation |
-| Tatooinian Domesticated Milk | FL | [Isea](https://swgaide.com/resources/view.php?rid=1779576) **33** | [Wimo](https://swgaide.com/resources/view.php?rid=1777192) **480** | Awaiting feed confirmation |
+| Tatooinian Domesticated Milk | DR | [Isea](https://swgaide.com/resources/view.php?rid=1779576) **575** | [Wimo](https://swgaide.com/resources/view.php?rid=1777192) **798** | Despawned / inactive |
+| Tatooinian Domesticated Milk | FL | [Isea](https://swgaide.com/resources/view.php?rid=1779576) **33** | [Wimo](https://swgaide.com/resources/view.php?rid=1777192) **480** | Despawned / inactive |
 | Tatooinian Domesticated Milk | OQ | [Isea](https://swgaide.com/resources/view.php?rid=1779576) **914** | [Isea](https://swgaide.com/resources/view.php?rid=1779576) **914** | Active |
-| Tatooinian Domesticated Milk | PE | [Isea](https://swgaide.com/resources/view.php?rid=1779576) **408** | [Wimo](https://swgaide.com/resources/view.php?rid=1777192) **539** | Awaiting feed confirmation |
+| Tatooinian Domesticated Milk | PE | [Isea](https://swgaide.com/resources/view.php?rid=1779576) **408** | [Wimo](https://swgaide.com/resources/view.php?rid=1777192) **539** | Despawned / inactive |
 | Tatooinian Domesticated Oats | DR | [Ifo](https://swgaide.com/resources/view.php?rid=1777193) **20** | [Ifo](https://swgaide.com/resources/view.php?rid=1777193) **20** | Active |
 | Tatooinian Domesticated Oats | FL | [Ifo](https://swgaide.com/resources/view.php?rid=1777193) **76** | [Ifo](https://swgaide.com/resources/view.php?rid=1777193) **76** | Active |
 | Tatooinian Domesticated Oats | OQ | [Ifo](https://swgaide.com/resources/view.php?rid=1777193) **31** | [Ifo](https://swgaide.com/resources/view.php?rid=1777193) **31** | Active |
@@ -1768,8 +1768,8 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Tatooinian Scaley Hide | OQ | [Keuyi](https://swgaide.com/resources/view.php?rid=1778670) **490** | [Rdaitse](https://swgaide.com/resources/view.php?rid=1777206) **836** | Despawned / inactive |
 | Tatooinian Scaley Hide | SR | [Keuyi](https://swgaide.com/resources/view.php?rid=1778670) **608** | [Rdaitse](https://swgaide.com/resources/view.php?rid=1777206) **887** | Despawned / inactive |
 | Tatooinian Scaley Hide | UT | [Keuyi](https://swgaide.com/resources/view.php?rid=1778670) **772** | [Keuyi](https://swgaide.com/resources/view.php?rid=1778670) **772** | Active |
-| Tatooinian Solar Renewable Energy | OQ | [Deweate](https://swgaide.com/resources/view.php?rid=1779577) **500** | [Arasis](https://swgaide.com/resources/view.php?rid=1777207) **500** | Awaiting feed confirmation |
-| Tatooinian Solar Renewable Energy | PE | [Deweate](https://swgaide.com/resources/view.php?rid=1779577) **459** | [Arasis](https://swgaide.com/resources/view.php?rid=1777207) **460** | Awaiting feed confirmation |
+| Tatooinian Solar Renewable Energy | OQ | [Deweate](https://swgaide.com/resources/view.php?rid=1779577) **500** | [Arasis](https://swgaide.com/resources/view.php?rid=1777207) **500** | Despawned / inactive |
+| Tatooinian Solar Renewable Energy | PE | [Deweate](https://swgaide.com/resources/view.php?rid=1779577) **459** | [Arasis](https://swgaide.com/resources/view.php?rid=1777207) **460** | Despawned / inactive |
 | Tatooinian Vegetable Beans | DR | [Xaro](https://swgaide.com/resources/view.php?rid=1777208) **498** | [Xaro](https://swgaide.com/resources/view.php?rid=1777208) **498** | Active |
 | Tatooinian Vegetable Beans | FL | [Xaro](https://swgaide.com/resources/view.php?rid=1777208) **488** | [Xaro](https://swgaide.com/resources/view.php?rid=1777208) **488** | Active |
 | Tatooinian Vegetable Beans | OQ | [Xaro](https://swgaide.com/resources/view.php?rid=1777208) **409** | [Xaro](https://swgaide.com/resources/view.php?rid=1777208) **409** | Active |
@@ -1827,14 +1827,14 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Thallium Copper | OQ | [Tewosis](https://swgaide.com/resources/view.php?rid=1779578) **913** | [Tewosis](https://swgaide.com/resources/view.php?rid=1779578) **913** | Active |
 | Thallium Copper | SR | [Tewosis](https://swgaide.com/resources/view.php?rid=1779578) **394** | [Tewosis](https://swgaide.com/resources/view.php?rid=1779578) **394** | Active |
 | Thallium Copper | UT | [Tewosis](https://swgaide.com/resources/view.php?rid=1779578) **428** | [Tewosis](https://swgaide.com/resources/view.php?rid=1779578) **428** | Active |
-| Unknown Ferrous Metal | CD | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **559** | Awaiting feed confirmation |
-| Unknown Ferrous Metal | CR | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **787** | Awaiting feed confirmation |
-| Unknown Ferrous Metal | DR | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **904** | Awaiting feed confirmation |
-| Unknown Ferrous Metal | HR | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **905** | Awaiting feed confirmation |
-| Unknown Ferrous Metal | MA | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **356** | Awaiting feed confirmation |
-| Unknown Ferrous Metal | OQ | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **292** | Awaiting feed confirmation |
-| Unknown Ferrous Metal | SR | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **799** | Awaiting feed confirmation |
-| Unknown Ferrous Metal | UT | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **759** | Awaiting feed confirmation |
+| Unknown Ferrous Metal | CD | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **559** | Despawned / inactive |
+| Unknown Ferrous Metal | CR | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **787** | Despawned / inactive |
+| Unknown Ferrous Metal | DR | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **904** | Despawned / inactive |
+| Unknown Ferrous Metal | HR | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **905** | Despawned / inactive |
+| Unknown Ferrous Metal | MA | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **356** | Despawned / inactive |
+| Unknown Ferrous Metal | OQ | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **292** | Despawned / inactive |
+| Unknown Ferrous Metal | SR | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **799** | Despawned / inactive |
+| Unknown Ferrous Metal | UT | None reported active | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) **759** | Despawned / inactive |
 | Unknown Solid Petrochem Fuel | DR | [Varroitwaium](https://swgaide.com/resources/view.php?rid=1777222) **190** | [Varroitwaium](https://swgaide.com/resources/view.php?rid=1777222) **190** | Active |
 | Unknown Solid Petrochem Fuel | OQ | [Varroitwaium](https://swgaide.com/resources/view.php?rid=1777222) **9** | [Varroitwaium](https://swgaide.com/resources/view.php?rid=1777222) **9** | Active |
 | Unknown Solid Petrochem Fuel | PE | [Varroitwaium](https://swgaide.com/resources/view.php?rid=1777222) **768** | [Varroitwaium](https://swgaide.com/resources/view.php?rid=1777222) **768** | Active |
@@ -1883,11 +1883,11 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Yavinian Crustacean Meat | FL | [Tihaiceo](https://swgaide.com/resources/view.php?rid=1777231) **32** | [Tihaiceo](https://swgaide.com/resources/view.php?rid=1777231) **32** | Active |
 | Yavinian Crustacean Meat | OQ | [Tihaiceo](https://swgaide.com/resources/view.php?rid=1777231) **750** | [Tihaiceo](https://swgaide.com/resources/view.php?rid=1777231) **750** | Active |
 | Yavinian Crustacean Meat | PE | [Tihaiceo](https://swgaide.com/resources/view.php?rid=1777231) **757** | [Tihaiceo](https://swgaide.com/resources/view.php?rid=1777231) **757** | Active |
-| Yavinian Deciduous Wood | DR | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **261** | [Begi](https://swgaide.com/resources/view.php?rid=1777232) **443** | Awaiting feed confirmation |
-| Yavinian Deciduous Wood | MA | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **731** | [Begi](https://swgaide.com/resources/view.php?rid=1777232) **738** | Awaiting feed confirmation |
+| Yavinian Deciduous Wood | DR | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **261** | [Begi](https://swgaide.com/resources/view.php?rid=1777232) **443** | Despawned / inactive |
+| Yavinian Deciduous Wood | MA | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **731** | [Begi](https://swgaide.com/resources/view.php?rid=1777232) **738** | Despawned / inactive |
 | Yavinian Deciduous Wood | OQ | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **720** | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **720** | Active |
 | Yavinian Deciduous Wood | SR | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **564** | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **564** | Active |
-| Yavinian Deciduous Wood | UT | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **277** | [Begi](https://swgaide.com/resources/view.php?rid=1777232) **439** | Awaiting feed confirmation |
+| Yavinian Deciduous Wood | UT | [Ece](https://swgaide.com/resources/view.php?rid=1779580) **277** | [Begi](https://swgaide.com/resources/view.php?rid=1777232) **439** | Despawned / inactive |
 | Yavinian Domesticated Corn | DR | [Womma](https://swgaide.com/resources/view.php?rid=1778214) **63** | [Noski](https://swgaide.com/resources/view.php?rid=1777233) **222** | Despawned / inactive |
 | Yavinian Domesticated Corn | FL | [Womma](https://swgaide.com/resources/view.php?rid=1778214) **239** | [Noski](https://swgaide.com/resources/view.php?rid=1777233) **390** | Despawned / inactive |
 | Yavinian Domesticated Corn | OQ | [Womma](https://swgaide.com/resources/view.php?rid=1778214) **527** | [Womma](https://swgaide.com/resources/view.php?rid=1778214) **527** | Active |
@@ -1930,8 +1930,8 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Yavinian Flower Fruit | FL | [Thana](https://swgaide.com/resources/view.php?rid=1777242) **158** | [Thana](https://swgaide.com/resources/view.php?rid=1777242) **158** | Active |
 | Yavinian Flower Fruit | OQ | [Thana](https://swgaide.com/resources/view.php?rid=1777242) **754** | [Thana](https://swgaide.com/resources/view.php?rid=1777242) **754** | Active |
 | Yavinian Flower Fruit | PE | [Thana](https://swgaide.com/resources/view.php?rid=1777242) **34** | [Thana](https://swgaide.com/resources/view.php?rid=1777242) **34** | Active |
-| Yavinian Fruit | DR | [Imowo](https://swgaide.com/resources/view.php?rid=1779581) **37** | [Soona](https://swgaide.com/resources/view.php?rid=1777243) **626** | Awaiting feed confirmation |
-| Yavinian Fruit | FL | [Imowo](https://swgaide.com/resources/view.php?rid=1779581) **470** | [Soona](https://swgaide.com/resources/view.php?rid=1777243) **877** | Awaiting feed confirmation |
+| Yavinian Fruit | DR | [Imowo](https://swgaide.com/resources/view.php?rid=1779581) **37** | [Soona](https://swgaide.com/resources/view.php?rid=1777243) **626** | Despawned / inactive |
+| Yavinian Fruit | FL | [Imowo](https://swgaide.com/resources/view.php?rid=1779581) **470** | [Soona](https://swgaide.com/resources/view.php?rid=1777243) **877** | Despawned / inactive |
 | Yavinian Fruit | OQ | [Imowo](https://swgaide.com/resources/view.php?rid=1779581) **461** | [Imowo](https://swgaide.com/resources/view.php?rid=1779581) **461** | Active |
 | Yavinian Fruit | PE | [Imowo](https://swgaide.com/resources/view.php?rid=1779581) **252** | [Imowo](https://swgaide.com/resources/view.php?rid=1779581) **252** | Active |
 | Yavinian Herbivore Meat | DR | [Lphoko](https://swgaide.com/resources/view.php?rid=1777244) **191** | [Lphoko](https://swgaide.com/resources/view.php?rid=1777244) **191** | Active |
@@ -1986,9 +1986,9 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Yavinian Wild Corn | OQ | [Nidwa](https://swgaide.com/resources/view.php?rid=1777733) **967** | [Nidwa](https://swgaide.com/resources/view.php?rid=1777733) **967** | Active |
 | Yavinian Wild Corn | PE | [Nidwa](https://swgaide.com/resources/view.php?rid=1777733) **304** | [Ike](https://swgaide.com/resources/view.php?rid=1777256) **549** | Despawned / inactive |
 | Yavinian Wild Meat | DR | [Goexa](https://swgaide.com/resources/view.php?rid=1779582) **215** | [Goexa](https://swgaide.com/resources/view.php?rid=1779582) **215** | Active |
-| Yavinian Wild Meat | FL | [Goexa](https://swgaide.com/resources/view.php?rid=1779582) **153** | [Powhi](https://swgaide.com/resources/view.php?rid=1777257) **539** | Awaiting feed confirmation |
+| Yavinian Wild Meat | FL | [Goexa](https://swgaide.com/resources/view.php?rid=1779582) **153** | [Powhi](https://swgaide.com/resources/view.php?rid=1777257) **539** | Despawned / inactive |
 | Yavinian Wild Meat | OQ | [Goexa](https://swgaide.com/resources/view.php?rid=1779582) **642** | [Goexa](https://swgaide.com/resources/view.php?rid=1779582) **642** | Active |
-| Yavinian Wild Meat | PE | [Goexa](https://swgaide.com/resources/view.php?rid=1779582) **698** | [Powhi](https://swgaide.com/resources/view.php?rid=1777257) **735** | Awaiting feed confirmation |
+| Yavinian Wild Meat | PE | [Goexa](https://swgaide.com/resources/view.php?rid=1779582) **698** | [Powhi](https://swgaide.com/resources/view.php?rid=1777257) **735** | Despawned / inactive |
 | Yavinian Wild Milk | DR | [Osmife](https://swgaide.com/resources/view.php?rid=1777258) **861** | [Osmife](https://swgaide.com/resources/view.php?rid=1777258) **861** | Active |
 | Yavinian Wild Milk | FL | [Osmife](https://swgaide.com/resources/view.php?rid=1777258) **418** | [Osmife](https://swgaide.com/resources/view.php?rid=1777258) **418** | Active |
 | Yavinian Wild Milk | OQ | [Osmife](https://swgaide.com/resources/view.php?rid=1777258) **954** | [Osmife](https://swgaide.com/resources/view.php?rid=1777258) **954** | Active |
