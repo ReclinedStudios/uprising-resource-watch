@@ -1,0 +1,7737 @@
+{
+  "classes": {
+    "Acidic Asteroid": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Chemical"
+    },
+    "Agrinium Aluminum": {
+      "caps": {
+        "CD": 492,
+        "CR": 307,
+        "DR": 307,
+        "HR": 430,
+        "MA": 568,
+        "OQ": 1000,
+        "SR": 530,
+        "UT": 530
+      },
+      "category": "Aluminum"
+    },
+    "Alantium Carbonate Ore": {
+      "caps": {
+        "CR": 414,
+        "DR": 115,
+        "HR": 498,
+        "MA": 414,
+        "OQ": 1000,
+        "SR": 115,
+        "UT": 330
+      },
+      "category": "Carbonate Ore"
+    },
+    "Aluminum": {
+      "caps": {
+        "CD": 800,
+        "CR": 800,
+        "DR": 800,
+        "HR": 800,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 900,
+        "UT": 900
+      },
+      "category": "Aluminum"
+    },
+    "Amorphous Gemstone": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 800,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Ardanium Siliclastic Ore": {
+      "caps": {
+        "CR": 452,
+        "DR": 152,
+        "HR": 452,
+        "MA": 452,
+        "OQ": 1000,
+        "SR": 131,
+        "UT": 152
+      },
+      "category": "Siliclastic Ore"
+    },
+    "Asteroidal Chemical": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Chemical"
+    },
+    "Asteroidal Gas": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Gas"
+    },
+    "Asteroidal Gemstone": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Gemstone"
+    },
+    "Asteroidal Mineral": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Mineral"
+    },
+    "Avian Bone": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Axidite Iron": {
+      "caps": {
+        "CD": 207,
+        "CR": 331,
+        "DR": 589,
+        "HR": 706,
+        "MA": 248,
+        "OQ": 1000,
+        "SR": 648,
+        "UT": 648
+      },
+      "category": "Iron"
+    },
+    "Bal'ta'ran Crystal Amorphous Gemstone": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 800,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Baradium Amorphous Gemstone": {
+      "caps": {
+        "CR": 231,
+        "DR": 231,
+        "ER": 185,
+        "HR": 692,
+        "MA": 139,
+        "OQ": 1000,
+        "SR": 231,
+        "UT": 231
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Barthierium Carbonate Ore": {
+      "caps": {
+        "CR": 501,
+        "DR": 202,
+        "HR": 573,
+        "MA": 501,
+        "OQ": 1000,
+        "SR": 202,
+        "UT": 430
+      },
+      "category": "Carbonate Ore"
+    },
+    "Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Bene Extrusive Ore": {
+      "caps": {
+        "CR": 304,
+        "DR": 391,
+        "HR": 478,
+        "MA": 79,
+        "OQ": 1000,
+        "SR": 478,
+        "UT": 478
+      },
+      "category": "Extrusive Ore"
+    },
+    "Berries": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Berubium Intrusive Ore": {
+      "caps": {
+        "CR": 316,
+        "DR": 401,
+        "HR": 743,
+        "MA": 88,
+        "OQ": 1000,
+        "SR": 572,
+        "UT": 487
+      },
+      "category": "Intrusive Ore"
+    },
+    "Beyrllius Copper": {
+      "caps": {
+        "CD": 683,
+        "CR": 294,
+        "DR": 257,
+        "HR": 365,
+        "MA": 683,
+        "OQ": 1000,
+        "SR": 483,
+        "UT": 483
+      },
+      "category": "Copper"
+    },
+    "Bilal gas Inert Gas": {
+      "caps": {
+        "DR": 204,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Blended Wood": {
+      "caps": {
+        "DR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Wood"
+    },
+    "Bone": {
+      "caps": {
+        "DR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Bospridium Amorphous Gemstone": {
+      "caps": {
+        "CR": 131,
+        "DR": 131,
+        "ER": 105,
+        "HR": 652,
+        "MA": 79,
+        "OQ": 1000,
+        "SR": 131,
+        "UT": 131
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Bronzium Iron": {
+      "caps": {
+        "CD": 269,
+        "CR": 430,
+        "DR": 676,
+        "HR": 769,
+        "MA": 323,
+        "OQ": 1000,
+        "SR": 723,
+        "UT": 723
+      },
+      "category": "Iron"
+    },
+    "Byrothsis Crystalline Gemstone": {
+      "caps": {
+        "CR": 163,
+        "DR": 163,
+        "ER": 581,
+        "HR": 749,
+        "MA": 66,
+        "OQ": 1000,
+        "SR": 414,
+        "UT": 414
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Carbonaceous Asteroid": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Mineral"
+    },
+    "Carbonate Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 700,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 1000
+      },
+      "category": "Carbonate Ore"
+    },
+    "Carbonite Steel": {
+      "caps": {
+        "CD": 605,
+        "CR": 744,
+        "DR": 965,
+        "HR": 972,
+        "MA": 372,
+        "OQ": 1000,
+        "SR": 965,
+        "UT": 958
+      },
+      "category": "Steel"
+    },
+    "Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Cereal": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Organic"
+    },
+    "Chanlon Intrusive Ore": {
+      "caps": {
+        "CR": 404,
+        "DR": 479,
+        "HR": 777,
+        "MA": 154,
+        "OQ": 1000,
+        "SR": 628,
+        "UT": 553
+      },
+      "category": "Intrusive Ore"
+    },
+    "Chemical": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "PE": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Chemical Compound": {
+      "caps": {
+        "DR": 200,
+        "OQ": 200
+      },
+      "category": "Chemical Compound"
+    },
+    "Chromite Carbonate Ore": {
+      "caps": {
+        "CR": 589,
+        "DR": 289,
+        "HR": 648,
+        "MA": 589,
+        "OQ": 1000,
+        "SR": 289,
+        "UT": 530
+      },
+      "category": "Carbonate Ore"
+    },
+    "Chromium Aluminum": {
+      "caps": {
+        "CD": 575,
+        "CR": 440,
+        "DR": 440,
+        "HR": 530,
+        "MA": 685,
+        "OQ": 1000,
+        "SR": 630,
+        "UT": 630
+      },
+      "category": "Aluminum"
+    },
+    "Chronamite Extrusive Ore": {
+      "caps": {
+        "CR": 384,
+        "DR": 461,
+        "HR": 538,
+        "MA": 139,
+        "OQ": 1000,
+        "SR": 538,
+        "UT": 538
+      },
+      "category": "Extrusive Ore"
+    },
+    "Class 1 Liquid Petro Fuel": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Class 1 Radioactive": {
+      "caps": {
+        "DR": 474,
+        "OQ": 1000,
+        "PE": 593
+      },
+      "category": "Radioactive"
+    },
+    "Class 1 Solid Petro Fuel": {
+      "caps": {
+        "DR": 149,
+        "OQ": 1000,
+        "PE": 430
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Class 2 Liquid Petro Fuel": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Class 2 Radioactive": {
+      "caps": {
+        "DR": 531,
+        "OQ": 1000,
+        "PE": 664
+      },
+      "category": "Radioactive"
+    },
+    "Class 2 Solid Petro Fuel": {
+      "caps": {
+        "DR": 264,
+        "OQ": 1000,
+        "PE": 530
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Class 3 Liquid Petro Fuel": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Class 3 Radioactive": {
+      "caps": {
+        "DR": 589,
+        "OQ": 1000,
+        "PE": 736
+      },
+      "category": "Radioactive"
+    },
+    "Class 3 Solid Petro Fuel": {
+      "caps": {
+        "DR": 378,
+        "OQ": 1000,
+        "PE": 630
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Class 4 Liquid Petro Fuel": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Class 4 Radioactive": {
+      "caps": {
+        "DR": 646,
+        "OQ": 1000,
+        "PE": 807
+      },
+      "category": "Radioactive"
+    },
+    "Class 4 Solid Petro Fuel": {
+      "caps": {
+        "DR": 492,
+        "OQ": 1000,
+        "PE": 730
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Class 5 Liquid Petro Fuel": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Class 5 Radioactive": {
+      "caps": {
+        "DR": 703,
+        "OQ": 1000,
+        "PE": 879
+      },
+      "category": "Radioactive"
+    },
+    "Class 5 Solid Petro Fuel": {
+      "caps": {
+        "DR": 606,
+        "OQ": 1000,
+        "PE": 830
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Class 6 Liquid Petro Fuel": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Class 6 Radioactive": {
+      "caps": {
+        "DR": 760,
+        "OQ": 1000,
+        "PE": 950
+      },
+      "category": "Radioactive"
+    },
+    "Class 6 Solid Petro Fuel": {
+      "caps": {
+        "DR": 720,
+        "OQ": 1000,
+        "PE": 930
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Class 7 Liquid Petro Fuel": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Class 7 Radioactive": {
+      "caps": {
+        "DR": 800,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Radioactive"
+    },
+    "Class 7 Solid Petro Fuel": {
+      "caps": {
+        "DR": 800,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Codoan Copper": {
+      "caps": {
+        "CD": 739,
+        "CR": 383,
+        "DR": 335,
+        "HR": 415,
+        "MA": 739,
+        "OQ": 1000,
+        "SR": 539,
+        "UT": 539
+      },
+      "category": "Copper"
+    },
+    "Colat Iron": {
+      "caps": {
+        "CD": 332,
+        "CR": 530,
+        "DR": 764,
+        "HR": 831,
+        "MA": 398,
+        "OQ": 1000,
+        "SR": 798,
+        "UT": 798
+      },
+      "category": "Iron"
+    },
+    "Combined Radioactive Isotopes": {
+      "caps": {
+        "DR": 200,
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Radioactive"
+    },
+    "Conductive Borcarbitic Copper": {
+      "caps": {
+        "CD": 1000,
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Copper"
+    },
+    "Copper": {
+      "caps": {
+        "CD": 1000,
+        "CR": 800,
+        "DR": 700,
+        "HR": 650,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 800,
+        "UT": 800
+      },
+      "category": "Copper"
+    },
+    "Corellia Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Corellia Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Corellia Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Corellia Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Corellian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Corellian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Corellian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Corellian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Corellian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Corellian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Corellian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Corellian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Corellian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Corellian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Corellian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Corellian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Corellian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Corellian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Corellian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Corellian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Corellian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Corellian Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Corellian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Corellian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Corellian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Corellian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Corellian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Corellian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Corellian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Corellian Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Corellian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Corellian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Corellian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Corellian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Corellian Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Corellian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Corellian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Corellian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Corellian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Corellian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Corellian Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Corellian Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Corellian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Corintium Intrusive Ore": {
+      "caps": {
+        "CR": 493,
+        "DR": 557,
+        "HR": 810,
+        "MA": 221,
+        "OQ": 1000,
+        "SR": 683,
+        "UT": 620
+      },
+      "category": "Intrusive Ore"
+    },
+    "Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Corthel Inert Gas": {
+      "caps": {
+        "DR": 265,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Cortosis Siliclastic Ore": {
+      "caps": {
+        "CR": 568,
+        "DR": 269,
+        "HR": 568,
+        "MA": 568,
+        "OQ": 1000,
+        "SR": 231,
+        "UT": 269
+      },
+      "category": "Siliclastic Ore"
+    },
+    "Creature Food": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Organic"
+    },
+    "Creature Resources": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "PE": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Organic"
+    },
+    "Creature Structural": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Organic"
+    },
+    "Crism Siliclastic Ore": {
+      "caps": {
+        "CR": 685,
+        "DR": 385,
+        "HR": 685,
+        "MA": 685,
+        "OQ": 1000,
+        "SR": 330,
+        "UT": 385
+      },
+      "category": "Siliclastic Ore"
+    },
+    "Crustacean": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Crystal Asteroid": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Gemstone"
+    },
+    "Crystalline Gemstone": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 1000,
+        "HR": 1000,
+        "MA": 400,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Crystallized Bicorbantium Steel": {
+      "caps": {
+        "CD": 1000,
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Steel"
+    },
+    "Cubirian Steel": {
+      "caps": {
+        "CD": 215,
+        "CR": 265,
+        "DR": 665,
+        "HR": 732,
+        "MA": 133,
+        "OQ": 1000,
+        "SR": 665,
+        "UT": 598
+      },
+      "category": "Steel"
+    },
+    "Culsion Inert Gas": {
+      "caps": {
+        "DR": 327,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Cyanomethanic Asteroid": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Chemical"
+    },
+    "Dantooine Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Dantooine Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Dantooine Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dantooine Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Dantooine Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Dantooine Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dantooine Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Dantooine Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dantooine Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Dantooine Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Dantooine Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Dantooine Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Dantooine Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Dantooine Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Dantooine Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Dantooine Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dantooine Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Dantooine Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Dantooine Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dantooine Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Dantooine Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Dantooine Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Dantooine Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Dantooine Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Dantooine Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dantooine Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Dantooine Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dantooine Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dantooine Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Dantooine Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Dantooine Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Dantooine Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Dantooine Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Dantooine Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Dantooine Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Dantooine Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Dantooine Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dantooine Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Dantooine Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Dantooine Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Dantooine Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Dantooine Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Dantooine Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Dathomir Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Dathomir Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Dathomirian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Dathomirian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Dathomirian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Dathomirian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Dathomirian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Dathomirian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Dathomirian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Dathomirian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Dathomirian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Dathomirian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Dathomirian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Dathomirian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Dathomirian Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Dathomirian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Dathomirian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Dathomirian Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Dathomirian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Dathomirian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Dathomirian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Dathomirian Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Dathomirian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Dathomirian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Dathomirian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Dathomirian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Dathomirian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Dathomirian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Dathomirian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Dathomirian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Dathomirian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Dathomirian Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Dathomirian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Degraded Solid Petrochem Fuel": {
+      "caps": {
+        "DR": 200,
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Derillium Intrusive Ore": {
+      "caps": {
+        "CR": 582,
+        "DR": 634,
+        "HR": 843,
+        "MA": 287,
+        "OQ": 1000,
+        "SR": 739,
+        "UT": 687
+      },
+      "category": "Intrusive Ore"
+    },
+    "Desh Copper": {
+      "caps": {
+        "CD": 572,
+        "CR": 116,
+        "DR": 102,
+        "HR": 265,
+        "MA": 572,
+        "OQ": 1000,
+        "SR": 372,
+        "UT": 372
+      },
+      "category": "Copper"
+    },
+    "Diamond Asteroid": {
+      "caps": {
+        "OQ": 500
+      },
+      "category": "Asteroidal Gemstone"
+    },
+    "Diatium Copper": {
+      "caps": {
+        "CD": 794,
+        "CR": 472,
+        "DR": 413,
+        "HR": 465,
+        "MA": 794,
+        "OQ": 1000,
+        "SR": 594,
+        "UT": 594
+      },
+      "category": "Copper"
+    },
+    "Dioxis Inert Gas": {
+      "caps": {
+        "DR": 388,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Ditanium Steel": {
+      "caps": {
+        "CD": 475,
+        "CR": 584,
+        "DR": 865,
+        "HR": 892,
+        "MA": 292,
+        "OQ": 1000,
+        "SR": 865,
+        "UT": 838
+      },
+      "category": "Steel"
+    },
+    "Dolovite Iron": {
+      "caps": {
+        "CD": 394,
+        "CR": 630,
+        "DR": 851,
+        "HR": 894,
+        "MA": 473,
+        "OQ": 1000,
+        "SR": 873,
+        "UT": 873
+      },
+      "category": "Iron"
+    },
+    "Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Doonium Iron": {
+      "caps": {
+        "CD": 456,
+        "CR": 730,
+        "DR": 939,
+        "HR": 956,
+        "MA": 548,
+        "OQ": 1000,
+        "SR": 948,
+        "UT": 948
+      },
+      "category": "Iron"
+    },
+    "Duralloy Steel": {
+      "caps": {
+        "CD": 650,
+        "CR": 800,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 400,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Steel"
+    },
+    "Duralumin Aluminum": {
+      "caps": {
+        "CD": 658,
+        "CR": 574,
+        "DR": 574,
+        "HR": 630,
+        "MA": 802,
+        "OQ": 1000,
+        "SR": 730,
+        "UT": 730
+      },
+      "category": "Aluminum"
+    },
+    "Duranium Steel": {
+      "caps": {
+        "CD": 410,
+        "CR": 504,
+        "DR": 815,
+        "HR": 852,
+        "MA": 252,
+        "OQ": 1000,
+        "SR": 815,
+        "UT": 778
+      },
+      "category": "Steel"
+    },
+    "Dylinium Intrusive Ore": {
+      "caps": {
+        "CR": 760,
+        "DR": 790,
+        "HR": 910,
+        "MA": 420,
+        "OQ": 1000,
+        "SR": 850,
+        "UT": 820
+      },
+      "category": "Intrusive Ore"
+    },
+    "Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Eleton Reactive Gas": {
+      "caps": {
+        "DR": 400,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Endorian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Endorian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Endorian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Endorian Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Endorian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Endorian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Endorian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Endorian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Endorian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Endorian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Endorian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Endorian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Endorian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Endorian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Endorian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Endorian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Endorian Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Endorian Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Endorian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Endorian Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Endorian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Endorian Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Endorian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Endorian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Endorian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Endorian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Endorian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Endorian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Endorian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Endorian Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Endorian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Endorian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Endorian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Endorian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Endorian Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Endorian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Endorian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Endorian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Endorian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Endorian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Endorian Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Endorian Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Endorian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Energy"
+    },
+    "Evergreen Soft Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Extrusive Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Extrusive Ore"
+    },
+    "Fermionic Siliclastic Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Siliclastic Ore"
+    },
+    "Ferrous Metal": {
+      "caps": {
+        "CD": 650,
+        "CR": 800,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Ferrous Metal"
+    },
+    "Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Fish": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Flora Food": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Organic"
+    },
+    "Flora Resources": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "PE": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Organic"
+    },
+    "Flora Structural": {
+      "caps": {
+        "DR": 800,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Organic"
+    },
+    "Flowers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Frasium Carbonate Ore": {
+      "caps": {
+        "CR": 676,
+        "DR": 377,
+        "HR": 723,
+        "MA": 676,
+        "OQ": 1000,
+        "SR": 377,
+        "UT": 630
+      },
+      "category": "Carbonate Ore"
+    },
+    "Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Fruits": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Fungi": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Gallinorian Rainbow Gem Crystalline Gemstone": {
+      "caps": {
+        "CR": 288,
+        "DR": 288,
+        "ER": 644,
+        "HR": 786,
+        "MA": 116,
+        "OQ": 1000,
+        "SR": 501,
+        "UT": 501
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Gas": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Gemstone": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Geothermal Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Gravitonic Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Green Diamond Crystalline Gemstone": {
+      "caps": {
+        "CR": 413,
+        "DR": 413,
+        "ER": 706,
+        "HR": 824,
+        "MA": 166,
+        "OQ": 1000,
+        "SR": 589,
+        "UT": 589
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Ground Bones": {
+      "caps": {
+        "DR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Bone"
+    },
+    "Ground Horn": {
+      "caps": {
+        "DR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Horn"
+    },
+    "Hard Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Hardened Arveshium Steel": {
+      "caps": {
+        "CD": 1000,
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Steel"
+    },
+    "Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "High Grade Polymetric Radioactive": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Radioactive"
+    },
+    "Hollinium Intrusive Ore": {
+      "caps": {
+        "CR": 849,
+        "DR": 868,
+        "HR": 943,
+        "MA": 487,
+        "OQ": 1000,
+        "SR": 906,
+        "UT": 887
+      },
+      "category": "Intrusive Ore"
+    },
+    "Homogenized Milk": {
+      "caps": {
+        "DR": 200,
+        "FL": 200,
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Milk"
+    },
+    "Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Hurlothrombic Inert Gas": {
+      "caps": {
+        "DR": 450,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Hydron-3 Inert Gas": {
+      "caps": {
+        "DR": 81,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Icy Asteroid": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Mineral"
+    },
+    "Igneous Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Ilimium Extrusive Ore": {
+      "caps": {
+        "CR": 464,
+        "DR": 531,
+        "HR": 598,
+        "MA": 199,
+        "OQ": 1000,
+        "SR": 598,
+        "UT": 598
+      },
+      "category": "Extrusive Ore"
+    },
+    "Inert Gas": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Inert Petrochemical": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Inorganic": {
+      "caps": {
+        "CD": 1000,
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 1000,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "PE": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Intrusive Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Intrusive Ore"
+    },
+    "Ionite Intrusive Ore": {
+      "caps": {
+        "CR": 938,
+        "DR": 946,
+        "HR": 977,
+        "MA": 553,
+        "OQ": 1000,
+        "SR": 961,
+        "UT": 953
+      },
+      "category": "Intrusive Ore"
+    },
+    "Irolunn Reactive Gas": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Iron": {
+      "caps": {
+        "CD": 500,
+        "CR": 800,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Iron"
+    },
+    "Iron Asteroid": {
+      "caps": {
+        "OQ": 500
+      },
+      "category": "Asteroidal Mineral"
+    },
+    "Kalonterium Extrusive Ore": {
+      "caps": {
+        "CR": 544,
+        "DR": 601,
+        "HR": 658,
+        "MA": 259,
+        "OQ": 1000,
+        "SR": 658,
+        "UT": 658
+      },
+      "category": "Extrusive Ore"
+    },
+    "Kammris Iron": {
+      "caps": {
+        "CD": 500,
+        "CR": 800,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Iron"
+    },
+    "Kashyyykian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Kashyyykian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Kashyyykian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Kashyyykian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Kashyyykian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Kashyyykian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Kashyyykian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Kashyyykian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Kashyyykian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Kashyyykian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Kashyyykian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Kashyyykian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Kashyyykian Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Kashyyykian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Kashyyykian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Kashyyykian Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Kashyyykian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Kashyyykian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Kashyyykian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Kashyyykian Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Kashyyykian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Kashyyykian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Kashyyykian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Kashyyykian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Kashyyykian Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Kashyyykian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Kashyyykian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Kashyyykian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Kashyyykian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Kashyyykian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Kashyyykian Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Kashyyykian Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Kashyyykian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Katrium Intrusive Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Intrusive Ore"
+    },
+    "Kaylon Inert Gas": {
+      "caps": {
+        "DR": 511,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Kelsh Copper": {
+      "caps": {
+        "CD": 850,
+        "CR": 560,
+        "DR": 490,
+        "HR": 515,
+        "MA": 850,
+        "OQ": 1000,
+        "SR": 650,
+        "UT": 650
+      },
+      "category": "Copper"
+    },
+    "Kerol Fire-Gem Crystalline Gemstone": {
+      "caps": {
+        "CR": 538,
+        "DR": 538,
+        "ER": 769,
+        "HR": 861,
+        "MA": 215,
+        "OQ": 1000,
+        "SR": 676,
+        "UT": 676
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Keschel Extrusive Ore": {
+      "caps": {
+        "CR": 624,
+        "DR": 671,
+        "HR": 718,
+        "MA": 318,
+        "OQ": 1000,
+        "SR": 718,
+        "UT": 718
+      },
+      "category": "Extrusive Ore"
+    },
+    "Kiirium Steel": {
+      "caps": {
+        "CD": 150,
+        "CR": 185,
+        "DR": 615,
+        "HR": 692,
+        "MA": 93,
+        "OQ": 1000,
+        "SR": 615,
+        "UT": 538
+      },
+      "category": "Steel"
+    },
+    "Known Inert Gas": {
+      "caps": {
+        "DR": 800,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Known Liquid Petrochem Fuel": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Known Radioactive": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Radioactive"
+    },
+    "Known Reactive Gas": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Known Solid Petrochem Fuel": {
+      "caps": {
+        "DR": 800,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Korfaise Inert Gas": {
+      "caps": {
+        "DR": 573,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Laboi Mineral Crystal Crystalline Gemstone": {
+      "caps": {
+        "CR": 913,
+        "DR": 913,
+        "ER": 956,
+        "HR": 974,
+        "MA": 365,
+        "OQ": 1000,
+        "SR": 939,
+        "UT": 939
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Lidium Extrusive Ore": {
+      "caps": {
+        "CR": 704,
+        "DR": 741,
+        "HR": 778,
+        "MA": 378,
+        "OQ": 1000,
+        "SR": 778,
+        "UT": 778
+      },
+      "category": "Extrusive Ore"
+    },
+    "Link-Steel Aluminum": {
+      "caps": {
+        "CD": 742,
+        "CR": 707,
+        "DR": 707,
+        "HR": 730,
+        "MA": 918,
+        "OQ": 1000,
+        "SR": 830,
+        "UT": 830
+      },
+      "category": "Aluminum"
+    },
+    "Liquid Petrochem Fuel": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Lokian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Lokian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Lokian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Lokian Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Lokian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Lokian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Lokian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Lokian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Lokian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Lokian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Lokian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Lokian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Lokian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Lokian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Lokian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Lokian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Lokian Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Lokian Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Lokian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Lokian Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Lokian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Lokian Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Lokian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Lokian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Lokian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Lokian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Lokian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Lokian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Lokian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Lokian Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Lokian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Lokian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Lokian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Lokian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Lokian Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Lokian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Lokian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Lokian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Lokian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Lokian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Lokian Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Lokian Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Lokian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Lommite Carbonate Ore": {
+      "caps": {
+        "CR": 764,
+        "DR": 464,
+        "HR": 798,
+        "MA": 764,
+        "OQ": 1000,
+        "SR": 464,
+        "UT": 730
+      },
+      "category": "Carbonate Ore"
+    },
+    "Low Grade Ore (Igneous)": {
+      "caps": {
+        "CR": 200,
+        "DR": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Inorganic"
+    },
+    "Low Grade Ore (Sedimentary)": {
+      "caps": {
+        "CR": 200,
+        "DR": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Inorganic"
+    },
+    "Low Grade Ore (Siliclastic)": {
+      "caps": {
+        "CR": 200,
+        "DR": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Siliclastic Ore"
+    },
+    "Low Quality Gemstone": {
+      "caps": {
+        "CR": 200,
+        "DR": 200,
+        "ER": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Inorganic"
+    },
+    "Low-Grade Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Lubricating Oil": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Lubricating Oil"
+    },
+    "Malab Siliclastic Ore": {
+      "caps": {
+        "CR": 802,
+        "DR": 502,
+        "HR": 802,
+        "MA": 802,
+        "OQ": 1000,
+        "SR": 430,
+        "UT": 502
+      },
+      "category": "Siliclastic Ore"
+    },
+    "Malium Inert Gas": {
+      "caps": {
+        "DR": 142,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Maranium Extrusive Ore": {
+      "caps": {
+        "CR": 784,
+        "DR": 811,
+        "HR": 838,
+        "MA": 438,
+        "OQ": 1000,
+        "SR": 838,
+        "UT": 838
+      },
+      "category": "Extrusive Ore"
+    },
+    "Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Metal": {
+      "caps": {
+        "CD": 1000,
+        "CR": 800,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Methanagen Inert Gas": {
+      "caps": {
+        "DR": 634,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Methane Asteroid": {
+      "caps": {
+        "OQ": 500
+      },
+      "category": "Asteroidal Gas"
+    },
+    "Methane Reactive Gas": {
+      "caps": {
+        "DR": 700,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Mineral": {
+      "caps": {
+        "CD": 1000,
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 1000,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "PE": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Mirth Inert Gas": {
+      "caps": {
+        "DR": 696,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Mixed Fruits": {
+      "caps": {
+        "DR": 200,
+        "FL": 200,
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Fruit"
+    },
+    "Mixed Vegetables": {
+      "caps": {
+        "DR": 200,
+        "FL": 200,
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Vegetables"
+    },
+    "Mollusk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Aluminum": {
+      "caps": {
+        "CD": 800,
+        "CR": 800,
+        "DR": 800,
+        "HR": 800,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 900,
+        "UT": 900
+      },
+      "category": "Aluminum"
+    },
+    "Mustafarian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Mustafarian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Mustafarian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Mustafarian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Mustafarian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Mustafarian Copper": {
+      "caps": {
+        "CD": 1000,
+        "CR": 800,
+        "DR": 700,
+        "HR": 650,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 800,
+        "UT": 800
+      },
+      "category": "Copper"
+    },
+    "Mustafarian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Mustafarian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Mustafarian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Mustafarian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Mustafarian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Mustafarian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Mustafarian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Mustafarian Extrusive Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Extrusive Ore"
+    },
+    "Mustafarian Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Mustafarian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Mustafarian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Mustafarian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Mustafarian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Intrusive Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Intrusive Ore"
+    },
+    "Mustafarian Iron": {
+      "caps": {
+        "CD": 500,
+        "CR": 800,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Iron"
+    },
+    "Mustafarian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Mustafarian Liquid Petro Fuel": {
+      "caps": {
+        "DR": 600,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Mustafarian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Radioactive": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Radioactive"
+    },
+    "Mustafarian Reactive Gas": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Mustafarian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Mustafarian Solid Petro Fuel": {
+      "caps": {
+        "DR": 800,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Mustafarian Steel": {
+      "caps": {
+        "CD": 650,
+        "CR": 800,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 400,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Steel"
+    },
+    "Mustafarian Type 1 Crystal Amorphous Gem": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 800,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Mustafarian Type 1 Crystalline Gem": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 1000,
+        "HR": 1000,
+        "MA": 400,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Mustafarian Type 2 Crystal Amorphous Gem": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 800,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Mustafarian Type 2 Crystalline Gem": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 1000,
+        "HR": 1000,
+        "MA": 400,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Mustafarian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Mustafarian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Mustafarian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Mustafarian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Mustafarian Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Mustafarian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Mustafarian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Mustafarian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Mustafarian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Mustafarian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Mustafarian Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Mustafarian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Mythra Copper": {
+      "caps": {
+        "CD": 906,
+        "CR": 649,
+        "DR": 568,
+        "HR": 565,
+        "MA": 906,
+        "OQ": 1000,
+        "SR": 706,
+        "UT": 706
+      },
+      "category": "Copper"
+    },
+    "Nabooian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Nabooian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Nabooian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Nabooian Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Nabooian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Nabooian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Nabooian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Nabooian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Nabooian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Nabooian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Nabooian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Nabooian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Nabooian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Nabooian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Nabooian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Nabooian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Nabooian Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Nabooian Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Nabooian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Nabooian Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Nabooian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Nabooian Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Nabooian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Nabooian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Nabooian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Nabooian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Nabooian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Nabooian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Nabooian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Nabooian Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Nabooian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Nabooian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Nabooian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Nabooian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Nabooian Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Nabooian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Nabooian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Nabooian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Nabooian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Nabooian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Nabooian Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Nabooian Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Nabooian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Neutronium Steel": {
+      "caps": {
+        "CD": 345,
+        "CR": 424,
+        "DR": 765,
+        "HR": 812,
+        "MA": 212,
+        "OQ": 1000,
+        "SR": 765,
+        "UT": 718
+      },
+      "category": "Steel"
+    },
+    "Non Site-Restricted Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Energy"
+    },
+    "Non-Ferrous Metal": {
+      "caps": {
+        "CD": 1000,
+        "CR": 800,
+        "DR": 800,
+        "HR": 800,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 900,
+        "UT": 1000
+      },
+      "category": "Non-Ferrous Metal"
+    },
+    "Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Obah Inert Gas": {
+      "caps": {
+        "DR": 757,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Obsidian Asteroid": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Mineral"
+    },
+    "Organic": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "PE": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Organic"
+    },
+    "Organometallic Asteroid": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Gas"
+    },
+    "Oridium Intrusive Ore": {
+      "caps": {
+        "CR": 671,
+        "DR": 712,
+        "HR": 877,
+        "MA": 354,
+        "OQ": 1000,
+        "SR": 794,
+        "UT": 753
+      },
+      "category": "Intrusive Ore"
+    },
+    "Orveth Reactive Gas": {
+      "caps": {
+        "DR": 800,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Ostrine Carbonate Ore": {
+      "caps": {
+        "CR": 851,
+        "DR": 551,
+        "HR": 873,
+        "MA": 851,
+        "OQ": 1000,
+        "SR": 551,
+        "UT": 830
+      },
+      "category": "Carbonate Ore"
+    },
+    "Perovskitic Aluminum": {
+      "caps": {
+        "CD": 1000,
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Aluminum"
+    },
+    "Petrochemical Asteroid": {
+      "caps": {
+        "OQ": 500
+      },
+      "category": "Asteroidal Chemical"
+    },
+    "Pholokite Extrusive Ore": {
+      "caps": {
+        "CR": 864,
+        "DR": 881,
+        "HR": 898,
+        "MA": 498,
+        "OQ": 1000,
+        "SR": 898,
+        "UT": 898
+      },
+      "category": "Extrusive Ore"
+    },
+    "Phrik Aluminum": {
+      "caps": {
+        "CD": 800,
+        "CR": 800,
+        "DR": 800,
+        "HR": 800,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 900,
+        "UT": 900
+      },
+      "category": "Aluminum"
+    },
+    "Platinite Copper": {
+      "caps": {
+        "CD": 961,
+        "CR": 738,
+        "DR": 646,
+        "HR": 615,
+        "MA": 961,
+        "OQ": 1000,
+        "SR": 761,
+        "UT": 761
+      },
+      "category": "Copper"
+    },
+    "Plexite Amorphous Gemstone": {
+      "caps": {
+        "CR": 431,
+        "DR": 431,
+        "ER": 345,
+        "HR": 772,
+        "MA": 259,
+        "OQ": 1000,
+        "SR": 431,
+        "UT": 431
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Plumbum Iron": {
+      "caps": {
+        "CD": 82,
+        "CR": 131,
+        "DR": 414,
+        "HR": 581,
+        "MA": 98,
+        "OQ": 1000,
+        "SR": 498,
+        "UT": 498
+      },
+      "category": "Iron"
+    },
+    "Polonium Iron": {
+      "caps": {
+        "CD": 144,
+        "CR": 231,
+        "DR": 501,
+        "HR": 644,
+        "MA": 173,
+        "OQ": 1000,
+        "SR": 573,
+        "UT": 573
+      },
+      "category": "Iron"
+    },
+    "Polymer": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Polymer"
+    },
+    "Polysteel Copper": {
+      "caps": {
+        "CD": 1000,
+        "CR": 800,
+        "DR": 700,
+        "HR": 650,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 800,
+        "UT": 800
+      },
+      "category": "Copper"
+    },
+    "Processed Cereal": {
+      "caps": {
+        "DR": 200,
+        "FL": 200,
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Organic"
+    },
+    "Processed Meat": {
+      "caps": {
+        "DR": 200,
+        "FL": 200,
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Meat"
+    },
+    "Processed Seafood": {
+      "caps": {
+        "DR": 200,
+        "FL": 200,
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Meat"
+    },
+    "Quadranium Steel": {
+      "caps": {
+        "CD": 540,
+        "CR": 664,
+        "DR": 915,
+        "HR": 932,
+        "MA": 332,
+        "OQ": 1000,
+        "SR": 915,
+        "UT": 898
+      },
+      "category": "Steel"
+    },
+    "Quadrenium Extrusive Ore": {
+      "caps": {
+        "CR": 944,
+        "DR": 951,
+        "HR": 958,
+        "MA": 558,
+        "OQ": 1000,
+        "SR": 958,
+        "UT": 958
+      },
+      "category": "Extrusive Ore"
+    },
+    "Radioactive": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Radioactive"
+    },
+    "Reactive Gas": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Regvis Amorphous Gemstone": {
+      "caps": {
+        "CR": 331,
+        "DR": 331,
+        "ER": 265,
+        "HR": 732,
+        "MA": 199,
+        "OQ": 1000,
+        "SR": 331,
+        "UT": 331
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Energy"
+    },
+    "Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rethin Inert Gas": {
+      "caps": {
+        "DR": 800,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Rhodium Steel": {
+      "caps": {
+        "CD": 85,
+        "CR": 105,
+        "DR": 565,
+        "HR": 652,
+        "MA": 53,
+        "OQ": 1000,
+        "SR": 565,
+        "UT": 478
+      },
+      "category": "Steel"
+    },
+    "Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Robindun Siliclastic Ore": {
+      "caps": {
+        "CR": 918,
+        "DR": 618,
+        "HR": 918,
+        "MA": 918,
+        "OQ": 1000,
+        "SR": 530,
+        "UT": 618
+      },
+      "category": "Siliclastic Ore"
+    },
+    "Rori Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Rori Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Rori Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rori Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Rori Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Rori Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rori Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Rori Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rori Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Rori Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Rori Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Rori Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Rori Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Rori Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Rori Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Rori Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rori Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Rori Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Rori Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rori Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Rori Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Rori Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Rori Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Rori Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Rori Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rori Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Rori Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rori Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rori Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Rori Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Rori Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Rori Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Rori Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Rori Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Rori Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Rori Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Rori Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Rori Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Rori Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Rori Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Rori Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Rori Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Rori Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Rudic Amorphous Gemstone": {
+      "caps": {
+        "CR": 530,
+        "DR": 530,
+        "ER": 424,
+        "HR": 812,
+        "MA": 318,
+        "OQ": 1000,
+        "SR": 530,
+        "UT": 530
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Ryll Amorphous Gemstone": {
+      "caps": {
+        "CR": 630,
+        "DR": 630,
+        "ER": 504,
+        "HR": 852,
+        "MA": 378,
+        "OQ": 1000,
+        "SR": 630,
+        "UT": 630
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Seafah Jewel Crystalline Gemstone": {
+      "caps": {
+        "CR": 663,
+        "DR": 663,
+        "ER": 831,
+        "HR": 899,
+        "MA": 265,
+        "OQ": 1000,
+        "SR": 764,
+        "UT": 764
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Seafood": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Sedimentary Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 700,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Sedrellium Amorphous Gemstone": {
+      "caps": {
+        "CR": 730,
+        "DR": 730,
+        "ER": 584,
+        "HR": 892,
+        "MA": 438,
+        "OQ": 1000,
+        "SR": 730,
+        "UT": 730
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Seeds": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Organic"
+    },
+    "Sig Reactive Gas": {
+      "caps": {
+        "DR": 900,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Silicaceous Asteroid": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Mineral"
+    },
+    "Siliclastic Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 700,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 600,
+        "UT": 700
+      },
+      "category": "Siliclastic Ore"
+    },
+    "Site-Restricted Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Energy"
+    },
+    "Skevon Reactive Gas": {
+      "caps": {
+        "DR": 900,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Smelted Aluminum": {
+      "caps": {
+        "CD": 200,
+        "CR": 200,
+        "DR": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Aluminum"
+    },
+    "Smelted Copper": {
+      "caps": {
+        "CD": 200,
+        "CR": 200,
+        "DR": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Copper"
+    },
+    "Smelted Ferrous Metal": {
+      "caps": {
+        "CD": 200,
+        "CR": 200,
+        "DR": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Ferrous Metal"
+    },
+    "Smelted Iron": {
+      "caps": {
+        "CD": 200,
+        "CR": 200,
+        "DR": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Iron"
+    },
+    "Smelted Non-Ferrous Metal": {
+      "caps": {
+        "CD": 200,
+        "CR": 200,
+        "DR": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Non-Ferrous Metal"
+    },
+    "Smelted Steel": {
+      "caps": {
+        "CD": 200,
+        "CR": 200,
+        "DR": 200,
+        "HR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Steel"
+    },
+    "Soft Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Solar Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Solid Petrochem Fuel": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Sormahil Fire Gem Crystalline Gemstone": {
+      "caps": {
+        "CR": 788,
+        "DR": 788,
+        "ER": 894,
+        "HR": 936,
+        "MA": 315,
+        "OQ": 1000,
+        "SR": 851,
+        "UT": 851
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Space Resource": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Space Resource"
+    },
+    "Steel": {
+      "caps": {
+        "CD": 650,
+        "CR": 800,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 400,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Steel"
+    },
+    "Stygium Amorphous Gemstone": {
+      "caps": {
+        "CR": 830,
+        "DR": 830,
+        "ER": 664,
+        "HR": 932,
+        "MA": 498,
+        "OQ": 1000,
+        "SR": 830,
+        "UT": 830
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Sulfuric Asteroid": {
+      "caps": {
+        "OQ": 1000
+      },
+      "category": "Asteroidal Chemical"
+    },
+    "Synthesized Hides": {
+      "caps": {
+        "DR": 200,
+        "MA": 200,
+        "OQ": 200,
+        "SR": 200,
+        "UT": 200
+      },
+      "category": "Hide"
+    },
+    "Talusian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Talusian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Talusian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Talusian Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Talusian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Talusian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Talusian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Talusian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Talusian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Talusian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Talusian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Talusian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Talusian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Talusian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Talusian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Talusian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Talusian Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Talusian Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Talusian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Talusian Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Talusian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Talusian Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Talusian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Talusian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Talusian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Talusian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Talusian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Talusian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Talusian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Talusian Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Talusian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Talusian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Talusian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Talusian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Talusian Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Talusian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Talusian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Talusian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Talusian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Talusian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Talusian Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Talusian Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Talusian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Tatooinian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Tatooinian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Tatooinian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Tatooinian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Tatooinian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Tatooinian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Tatooinian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Tatooinian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Tatooinian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Tatooinian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Tatooinian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Tatooinian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Tatooinian Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Tatooinian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Tatooinian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Tatooinian Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Tatooinian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Tatooinian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Tatooinian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Tatooinian Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Tatooinian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Tatooinian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Tatooinian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Tatooinian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Tatooinian Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Tatooinian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Tatooinian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Tatooinian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Tatooinian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Tatooinian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Tatooinian Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Tatooinian Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Tatooinian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Tertian Siliclastic Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 700,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 600,
+        "UT": 700
+      },
+      "category": "Siliclastic Ore"
+    },
+    "Thallium Copper": {
+      "caps": {
+        "CD": 628,
+        "CR": 205,
+        "DR": 180,
+        "HR": 315,
+        "MA": 628,
+        "OQ": 1000,
+        "SR": 428,
+        "UT": 428
+      },
+      "category": "Copper"
+    },
+    "Thoranium Steel": {
+      "caps": {
+        "CD": 280,
+        "CR": 345,
+        "DR": 715,
+        "HR": 772,
+        "MA": 173,
+        "OQ": 1000,
+        "SR": 715,
+        "UT": 658
+      },
+      "category": "Steel"
+    },
+    "Titanium Aluminum": {
+      "caps": {
+        "CD": 408,
+        "CR": 174,
+        "DR": 174,
+        "HR": 330,
+        "MA": 452,
+        "OQ": 1000,
+        "SR": 430,
+        "UT": 430
+      },
+      "category": "Aluminum"
+    },
+    "Tolium Reactive Gas": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Unknown Ferrous Metal": {
+      "caps": {
+        "CD": 650,
+        "CR": 800,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Ferrous Metal"
+    },
+    "Unknown Gem Type": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Unknown Igneous Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Unknown Inert Gas": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Inert Gas"
+    },
+    "Unknown Liquid Petrochem Fuel": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Liquid Petrochem Fuel"
+    },
+    "Unknown Non-Ferrous Metal": {
+      "caps": {
+        "CD": 1000,
+        "CR": 800,
+        "DR": 700,
+        "HR": 800,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 900,
+        "UT": 1000
+      },
+      "category": "Non-Ferrous Metal"
+    },
+    "Unknown Radioactive": {
+      "caps": {
+        "DR": 800,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Radioactive"
+    },
+    "Unknown Reactive Gas": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Unknown Sedimentary Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 700,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 1000
+      },
+      "category": "Inorganic"
+    },
+    "Unknown Solid Petrochem Fuel": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Solid Petrochem Fuel"
+    },
+    "Unstable Organometallic Reactive Gas": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Reactive Gas"
+    },
+    "Varium Carbonate Ore": {
+      "caps": {
+        "CR": 939,
+        "DR": 639,
+        "HR": 948,
+        "MA": 939,
+        "OQ": 1000,
+        "SR": 639,
+        "UT": 930
+      },
+      "category": "Carbonate Ore"
+    },
+    "Vegetables": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Vendusii Crystal Amorphous Gemstone": {
+      "caps": {
+        "CR": 930,
+        "DR": 930,
+        "ER": 744,
+        "HR": 972,
+        "MA": 558,
+        "OQ": 1000,
+        "SR": 930,
+        "UT": 930
+      },
+      "category": "Amorphous Gemstone"
+    },
+    "Vertex Crystalline Gemstone": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "ER": 1000,
+        "HR": 1000,
+        "MA": 400,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Crystalline Gemstone"
+    },
+    "Vintrium Extrusive Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 1000,
+        "HR": 1000,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Extrusive Ore"
+    },
+    "Water": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Water Solution": {
+      "caps": {
+        "DR": 200,
+        "OQ": 200
+      },
+      "category": "Water"
+    },
+    "Weak Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Geothermal Energy"
+    },
+    "Weak Solar Renewable Energy": {
+      "caps": {
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Solar Energy"
+    },
+    "Weak Wind Renewable Energy": {
+      "caps": {
+        "OQ": 200,
+        "PE": 200
+      },
+      "category": "Wind Energy"
+    },
+    "Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Wind Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Yavinian Animal Bones": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Bone"
+    },
+    "Yavinian Avian Bones": {
+      "caps": {
+        "DR": 700,
+        "MA": 600,
+        "OQ": 1000,
+        "SR": 500,
+        "UT": 500
+      },
+      "category": "Bone"
+    },
+    "Yavinian Avian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Yavinian Berry Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Yavinian Bristley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Yavinian Carnivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Yavinian Conifer Wood": {
+      "caps": {
+        "DR": 600,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Yavinian Crustacean Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Yavinian Deciduous Wood": {
+      "caps": {
+        "DR": 800,
+        "MA": 800,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 800
+      },
+      "category": "Wood"
+    },
+    "Yavinian Domesticated Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Corn"
+    },
+    "Yavinian Domesticated Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Yavinian Domesticated Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Milk"
+    },
+    "Yavinian Domesticated Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Oats"
+    },
+    "Yavinian Domesticated Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Rice"
+    },
+    "Yavinian Domesticated Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Wheat"
+    },
+    "Yavinian Egg": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Yavinian Evergreen Wood": {
+      "caps": {
+        "DR": 500,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 400,
+        "UT": 300
+      },
+      "category": "Wood"
+    },
+    "Yavinian Fiberplast": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Fiberplast"
+    },
+    "Yavinian Fish Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Yavinian Flower Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Fruit"
+    },
+    "Yavinian Fruit": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Fruit"
+    },
+    "Yavinian Geothermal Renewable Energy": {
+      "caps": {
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Geothermal Energy"
+    },
+    "Yavinian Herbivore Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Meat"
+    },
+    "Yavinian Horn": {
+      "caps": {
+        "DR": 1000,
+        "MA": 500,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 500
+      },
+      "category": "Horn"
+    },
+    "Yavinian Insect Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Yavinian Leathery Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Yavinian Mollusk Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Yavinian Reptilian Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Yavinian Scaley Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Yavinian Solar Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 600
+      },
+      "category": "Solar Energy"
+    },
+    "Yavinian Vegetable Beans": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Yavinian Vegetable Fungus": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Yavinian Vegetable Greens": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Yavinian Vegetable Tubers": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Vegetables"
+    },
+    "Yavinian Water Vapor": {
+      "caps": {
+        "DR": 1000,
+        "OQ": 1000
+      },
+      "category": "Water"
+    },
+    "Yavinian Wild Corn": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Corn"
+    },
+    "Yavinian Wild Meat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 700,
+        "OQ": 1000,
+        "PE": 1000
+      },
+      "category": "Meat"
+    },
+    "Yavinian Wild Milk": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Milk"
+    },
+    "Yavinian Wild Oats": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Oats"
+    },
+    "Yavinian Wild Rice": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Rice"
+    },
+    "Yavinian Wild Wheat": {
+      "caps": {
+        "DR": 1000,
+        "FL": 1000,
+        "OQ": 1000,
+        "PE": 700
+      },
+      "category": "Wheat"
+    },
+    "Yavinian Wind Renewable Energy": {
+      "caps": {
+        "OQ": 500,
+        "PE": 400
+      },
+      "category": "Wind Energy"
+    },
+    "Yavinian Wooly Hide": {
+      "caps": {
+        "DR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 1000,
+        "UT": 1000
+      },
+      "category": "Hide"
+    },
+    "Zinsiam Carbonate Ore": {
+      "caps": {
+        "CR": 1000,
+        "DR": 700,
+        "HR": 1000,
+        "MA": 1000,
+        "OQ": 1000,
+        "SR": 700,
+        "UT": 1000
+      },
+      "category": "Carbonate Ore"
+    }
+  },
+  "retrieved": "2026-10-22",
+  "source": "https://swgaide.com/resources/restree.php"
+}

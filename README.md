@@ -1,16 +1,16 @@
 # SWG Uprising Resource Watch
 
-Discord alerts for the best currently active resource **per stat and exact resource class** on SWG Uprising (Pre-CU). Includes a persistent archive of imported and observed resource stats, even after despawn.
+Discord alerts for **NEW SERVER BEST** resources on SWG Uprising (Pre-CU), ranked by **SWGAide overall rating**, with **one winner per broad category** (Wood, Copper, Steel, Fruit, etc.). Comparisons include despawned resources.
 
 ## Free cloud setup
 
 Runs on GitHub Actions every 30 minutes (at minutes 17 and 47). Your PC can be off. Standard GitHub-hosted runners in a **public repository** are free under GitHub's current policy. This is a scheduled monitor, not a continuously connected Discord application. Schedules can be delayed; this is not instant notification or guaranteed uptime.
 
-1. Create a **public** GitHub repository named `uprising-resource-watch`. Upload this folder's contents to its default branch. Include `.github/workflows/resources.yml`, `monitor.py`, `config.json`, `tests/`, and `data/`.
+1. Create a **public** GitHub repository named `uprising-resource-watch`. Upload this folder's contents to its default branch. Include `.github/workflows/resources.yml`, `monitor.py`, `resource_rating.py`, `resource_classes.json`, `galaxy_harvester.py`, `config.json`, `tests/`, and `data/`.
 2. In Discord, create a normal text channel such as `#resource-alerts`. Open **Edit Channel > Integrations > Webhooks > New Webhook**, name it `Uprising Resource Watch`, select that channel, and copy its webhook URL. You need Manage Webhooks permission.
 3. In your GitHub repository, open **Settings > Secrets and variables > Actions > New repository secret**. Name it `DISCORD_WEBHOOK_URL`, paste the webhook URL as the value, and save. Keep the URL out of source files, screenshots and chat: it allows posting in the channel.
 4. Open **Actions > Uprising resource watch > Run workflow**. Leave `import_history` unchecked when the included history archive is present. Check it for a fresh import or if starting without the included archive.
-5. Confirm the workflow succeeds and the channel receives one setup message. Subsequent runs alert only when active leaders change. If Actions is disabled, enable it in the repository settings. The workflow requests repository content write permission to save its archive.
+5. Confirm the workflow succeeds and the channel receives one setup message. Subsequent runs alert only when an active resource beats its broad category’s historical rating record. If Actions is disabled, enable it in the repository settings. The workflow requests repository content write permission to save its archive.
 
 The monitor has not been connected to a Discord channel until the secret is added and a workflow runs successfully.
 
@@ -23,24 +23,24 @@ The monitor has not been connected to a Discord channel until the secret is adde
 
 ## Alert rules
 
-- All eleven stats are tracked: ER, CR, CD, DR, FL, HR, MA, PE, OQ, SR and UT.
-- Each exact resource class is compared separately, e.g. Axidite Iron against Axidite Iron, rather than all iron or all minerals.
-- Highest raw value wins. These are **stat leaders**, not crafting-specific scores or cap-normalized ratings.
-- One resource winning multiple stats produces one grouped alert.
-- Ties keep the existing active winner to avoid noise. A new equal-value resource does not generate a tie-only alert. If the current winner despawns, a tied replacement is announced.
-- A resource can become active best with lower stats when the previous leader despawns. The message labels this as a replacement and still shows the historical best.
-- Resource types or stats absent from the current feed cannot have a harvestable winner. Resources with no reported planets are excluded from active rankings.
-- A first run sends one setup message, not hundreds of alerts. The initial records are visible in `data/records.md`.
-- Discord Home links open **SWGAide Home with SWG Uprising selected automatically**. The public `docs/index.html` entry point submits `server=182` to SWGAide on each visit, overriding another saved server selection. Enable GitHub Pages from `main` / `/docs` for `https://reclinedstudios.github.io/uprising-resource-watch/`. A direct `swgaide.com/?server=182` link does not force the Home selection.
-- To post a current shortlist, open **Actions > Uprising resource watch > Run workflow** and check **Post a current strong-stat resource shortlist to Discord**. This queues one rich message with up to 12 different resource types, all stats, planets, age, and historical comparisons. Picks lead their exact type in one or more stats with a **SWGAide quality percentage of 95%+**. More qualifying stats rank first, with SWGAide's displayed average rating breaking ties. This is a harvest shortlist, not a universal crafting or recipe ranking. It uses the percentages displayed on SWGAide (relative to resource type ranges, not simply raw stat divided by 1000) and skips cards whose stats do not match the current XML data.
-- The optional `intro_message_id` workflow input updates an existing setup message posted by this webhook to use the Home link. It does not change other members' messages.
-- `home_message_ids` updates the Home links in existing webhook messages without replacing their resource details. Provide comma-separated message IDs from this webhook.
-- Future resource alerts and shortlists include the **highest reported concentration waypoint** (planet, coordinates, percentage and a copyable `/wp` command). Only points on currently reported resource planets with valid 0-100% concentrations are eligible; the highest concentration wins, with the newer report breaking a tie. This is the best reported survey point, not proof of the planet's absolute maximum. If no points are reported, the post explicitly says so. On setup, SWGAide's Uprising feed and waypoint page both had no waypoint reports; coordinates cannot be inferred from a resource's stats.
-- Historical stats are retained, and current resource stat corrections update their records. They are not treated as immutable high-water marks when source values are corrected.
+- One historical winner per broad category. All planetary Wood subtypes compete together; all Fruit subtypes compete together. Copper and Steel stay separate. The class hierarchy comes from [SWGAide Resource Class Info](https://swgaide.com/resources/restree.php).
+- Ranking uses SWGAide’s displayed overall **Rate**, based on all reported stats normalized to their class caps. Each normalized stat is truncated to an integer on the 0–1000 scale, then their average is rounded half up. This matched all 454 displayed Uprising resource cards checked on 2026-10-22.
+- Only a **strictly higher overall rating** than every imported/observed resource in that category triggers an alert. Individual stat records, ties and despawns are silent. Lower-rated active replacements never trigger alerts.
+- Records include despawned resources. SWGAide history is supplemented daily with complete Galaxy Harvester Uprising history records missing from the archive. Missing/unreported history cannot be reconstructed. GH-only entries are historical comparisons; SWGAide remains the current-spawn source. New active GH-only spawns after migration wait for SWGAide rather than being silently consumed as historical baselines.
+- Before each automatic record post, the live Galaxy Harvester Uprising lookup must match its resource name, type and every raw stat, and not mark the resource inactive. Missing or conflicting reports stay queued for later checks; they are never labelled verified or posted prematurely. Superseded or despawned SWGAide candidates are discarded.
+- Card percentages use Galaxy Harvester’s `(value - class minimum) / (class maximum - class minimum)` range calculation, rounded to a whole percent. They are labelled separately from SWGAide’s cap-normalized overall rating. A fixed min=max range has no percentage.
+- An existing installation switches silently: all current/archive data becomes the baseline, and legacy queued active-best alerts and old summaries are discarded. No catch-up flood. A completely new category is also baselined silently until a later resource beats its first record.
+- A fresh installation sends one setup message. The records table shows every category’s historical winner and whether it is active.
+- Source stat corrections update the archive. Correcting a record downward does not announce a replacement. A later genuine improvement is compared against the corrected archive.
+- Pending alerts are checked again before delivery; superseded, corrected or missing resource winners are discarded. Failed valid sends remain queued.
+- Posts use a compact Discord card: resource icon, name/type, overall rating versus the previous record, raw-stat table with Galaxy Harvester range percentages, planets and any reported concentration waypoint. Mentions are disabled.
+- Optional manual summaries show at most 25 active historical record holders, one per broad category. They never run on a normal scheduled check.
+- Resource title links open the specific resource. Home links use the existing Uprising selector page at https://reclinedstudios.github.io/uprising-resource-watch/.
+- Existing message link/intro refresh commands remain available for explicit maintenance; upgrading does not edit old Discord messages.
 
 ## Reliability and free-plan limits
 
-- The source is SWGAide's documented Uprising XML export (server **182**), not a page scraper for regular checks. SWGAide aggregates upstream/user reports; in-game spawn changes may take time to appear. The Galaxy Harvester ID **161** is a different site's numbering.
+- Current spawns come from SWGAide's documented Uprising XML export (server **182**), with bundled SWGAide class caps for calculating ratings. Galaxy Harvester’s public Uprising API (galaxy **161**) supplies extra historical comparisons and live verification. SWGAide aggregates upstream/user reports; in-game spawn changes may take time to appear. The Galaxy Harvester ID **161** is a different site's numbering.
 - Rejects stale exports, wrong server data, empty feeds, time reversals and sudden feed-size drops greater than 50%, preserving the last good state. A rejected check fails the Actions run; review GitHub failure notifications.
 - Pending alerts and the archive are committed **before** delivery, then delivery progress is committed. Failed sends can be retried on a later run. A crash after Discord accepts a message but before delivery progress reaches GitHub can cause a duplicate; exactly-once delivery across the two services is not guaranteed.
 - Discord mentions are disabled. The webhook can only post; no bot token, gateway process, slash commands or read access to your Discord chat is needed.
@@ -50,7 +50,7 @@ The monitor has not been connected to a Discord channel until the secret is adde
 
 ## Configuration
 
-Edit `config.json`. An empty `resource_types` list means every exact class; populate it with exact SWGAide class names to narrow alerts. Remove unwanted stat abbreviations from `stats` to reduce alerts. Adding a new stat or class after initialization can trigger an initial leader alert for that category.
+Edit `config.json`. An empty `resource_types` list means every broad category; use names such as `Wood`, `Copper` or `Steel` to narrow alerts. All stats are required for overall ratings. Unknown classes or incomplete stats fail the check without changing the archive; update `resource_classes.json` from the public SWGAide class tree before retrying.
 
 ## Local checks (Python 3.11+; no packages needed)
 
@@ -67,6 +67,7 @@ python monitor.py report
 ## Sources
 
 - [SWGAide Uprising resources](https://swgaide.com/resources/?server=182)
+- [Galaxy Harvester Uprising](https://galaxyharvester.net/ghHome.py/161)
 - [SWGAide data exports](https://swgaide.com/resources/exports.php)
 - [SWGAide history search](https://swgaide.com/resources/find.php?server=182)
 - [Discord webhooks](https://docs.discord.com/developers/resources/webhook)

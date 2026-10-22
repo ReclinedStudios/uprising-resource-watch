@@ -1,7 +1,10 @@
-"""SWG Uprising active-best monitor. Python 3.11+, standard library only."""
+"""SWG Uprising server-record monitor. Python 3.11+, standard library only."""
 from __future__ import annotations
 
 import argparse
+import copy
+from resource_rating import POLICY, category, rating, winners
+import galaxy_harvester as harvester
 from collections import defaultdict
 from datetime import datetime, timezone, timedelta
 import gzip
@@ -125,64 +128,100 @@ def waypoint_text(resource):
     return f"{text_safe(best['planet'])}: **{best['concentration']:g}%** at **{best['x']}, {best['y']}**\n`{command}`"
 
 
-def key_for(resource, stat):
-    # Compare the exact SWGAide class, e.g. Axidite Iron, rather than all metals.
-    return json.dumps([resource['type'].casefold(), stat])
-
-
-def leaders(resources, config, previous=None, active_only=True):
-    groups = defaultdict(list)
-    selected = {t.casefold() for t in config.get('resource_types', [])}
-    for rid, resource in resources.items():
-        if active_only and (not resource.get('active') or resource.get('missing_snapshots', 0)):
-            continue
-        if selected and resource['type'].casefold() not in selected:
-            continue
-        for stat in config['stats']:
-            if stat in resource['stats']:
-                groups[key_for(resource, stat)].append((resource['stats'][stat], rid))
-    result = {}
-    for key, entries in groups.items():
-        best = max(value for value, _ in entries)
-        tied = sorted(rid for value, rid in entries if value == best)
-        old_id = (previous or {}).get(key, {}).get('id')
-        rid = old_id if old_id in tied else tied[0]
-        result[key] = {'id': rid, 'value': best, 'tied_ids': tied}
-    return result
-
-
 def text_safe(value):
     return re.sub(r'([\\`*_~|<>])', r'\\\1', str(value)).replace('@', '@\u200b')
 
 
-def make_alert(resource, changes, state, history):
-    fields = [{'name': 'Highest reported concentration', 'value': waypoint_text(resource), 'inline': False}]
-    for stat, old, current, is_new in changes:
-        record = history[key_for(resource, stat)]
-        record_resource = state['resources'][record['id']]
-        suffix = 'active' if record_resource.get('active') else 'despawned / inactive'
-        if record_resource.get('active') and record_resource.get('missing_snapshots'):
-            suffix = 'not in latest feed; awaiting confirmation'
-        previous = f"{old['value']} ({text_safe(state['resources'][old['id']]['name'])})" if old else 'none tracked'
-        reason = 'Newly reported resource' if is_new else 'Active leader changed / stats updated'
-        if old and current['value'] < old['value']:
-            reason = 'Previous leader left spawn; replacement active best'
-        fields.append({'name': f'{stat} - {STAT_NAMES[stat]}', 'inline': False,
-            'value': f"**Active best: {current['value']}** | Previous: {previous}\n"
-                     f"Historical best: **{record['value']}** - {text_safe(record_resource['name'])} ({suffix})\n{reason}"})
-    all_stats = ' | '.join(f'{s} {v}' for s, v in resource['stats'].items())
-    return {'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []},
-        'embeds': [{'title': f"New active best: {resource['name']}"[:256], 'url': HOME_URL,
-            'description': f"**{text_safe(resource['type'])}**\nPlanets: {text_safe(', '.join(resource['planets']))}\n{all_stats}",
-            'color': 0x32B97C, 'fields': fields,
-            'footer': {'text': 'SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records'},
-            'timestamp': stamp()}]}
+def stat_table(resource, verification):
+    stats = [s for s in STATS if s in resource['stats']]
+    percentages = verification.get('percentages', {})
+    lines = []
+    for offset in range(0, len(stats), 8):
+        group = stats[offset:offset+8]
+        lines.append(' '.join(f'{s:>6}' for s in group))
+        lines.append(' '.join(f'{resource["stats"][s]:>6}' for s in group))
+        lines.append(' '.join(f'{str(percentages[s]) + "%":>6}' if s in percentages else f'{"—":>6}' for s in group))
+    return '```\n' + '\n'.join(lines) + '\n```'
+
+
+def make_record_alert(resource, previous, verification=None):
+    value = rating(resource)
+    verification = verification or {}
+    embed = {'title': f"NEW SERVER BEST — {category(resource).upper()}"[:256],
+            'url': resource['url'],
+            'description': f"**{text_safe(resource['name'])}** · {text_safe(resource['type'])}\n"
+                f"SWGAide rating: **{value} / 1000** (previous record: {previous['value']})\n"
+                f"Planets: {text_safe(', '.join(resource['planets']))}",
+            'color': 0xF3A638,
+            'fields': [{'name': 'Stats · Galaxy Harvester range %', 'value': stat_table(resource, verification), 'inline': False},
+                {'name': 'Best reported concentration', 'value': waypoint_text(resource), 'inline': False}],
+            'footer': {'text': 'SWG Uprising | SWGAide overall rating · GH range percentages | Imported + observed history'},
+            'timestamp': stamp()}
+    if verification.get('status') == 'matched':
+        embed['thumbnail'] = {'url': verification['icon']}
+        embed['description'] += f"\n[SWGAide]({resource['url']}) · [Galaxy Harvester]({verification['url']}) · stats match"
+    return {'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []}, 'embeds': [embed]}
+
+
+def sync_harvester_history(state, force=False):
+    last = state.get('harvester_history', {}).get('checked_at')
+    if last and not force and utcnow() - datetime.fromisoformat(last) < timedelta(hours=24):
+        return
+    rows = harvester.history(fetch)
+    working = copy.deepcopy(state['resources'])
+    by_name = {r['name'].casefold(): r for r in sorted(working.values(),
+        key=lambda r: r.get('source') != 'Galaxy Harvester history')}
+    added, matched, conflicts, skipped = 0, 0, [], []
+    baselining = state.get('alert_policy') != POLICY
+    for row in rows:
+        name, kind = row['spawn_name'], harvester.canonical_type(row['resource_type_name'])
+        stats = {s: row[s] for s in STATS if s in row}
+        rid = 'gh:' + str(row['spawn_id'])
+        record = {'id': rid, 'name': name, 'type': kind, 'stats': stats,
+            'active': False, 'planets': [], 'source': 'Galaxy Harvester history',
+            'url': 'https://galaxyharvester.net/resource.py/161/' + harvester.quote(name, safe=''),
+            'first_seen': stamp()}
+        try:
+            rating(record)
+        except ValueError:
+            skipped.append(name)
+            continue
+        # Refresh a previously imported GH record even if SWGAide now has the same
+        # name too; source corrections must not leave a stale duplicate high score.
+        if rid in working and working[rid].get('source') == 'Galaxy Harvester history':
+            record['first_seen'] = working[rid].get('first_seen', record['first_seen'])
+            working[rid] = record
+        old = by_name.get(name.casefold())
+        if old and old.get('source') != 'Galaxy Harvester history':
+            if harvester.canonical_type(old['type']) == kind and old['stats'] == stats:
+                matched += 1
+            else:
+                conflicts.append(name)
+            continue
+        # Current GH-only spawns are not silently consumed as history before SWGAide
+        # can detect their record. Existing records at first upgrade are baselined.
+        if old is None and not baselining and 'unavailable' not in row:
+            continue
+        if old:
+            record['first_seen'] = old.get('first_seen', record['first_seen'])
+        working[rid] = record
+        by_name[name.casefold()] = record
+        added += old is None
+    state['resources'] = working
+    state['harvester_history'] = {'checked_at': stamp(), 'galaxy': '161',
+        'records_found': len(rows), 'records_added': added, 'matching_swgaide_records': matched,
+        'conflicts': conflicts, 'incomplete_or_unknown': skipped,
+        'coverage': 'Public Galaxy Harvester Uprising history; GH-only records retained as historical comparisons'}
+    print(f'Galaxy Harvester: {len(rows)} history records, {added} added, {matched} matching, {len(conflicts)} conflicts, {len(skipped)} incomplete/unknown')
 
 
 def intro_payload(state):
     return {'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []},
-        'content': f"Resource monitoring enabled for **SWG Uprising (Pre-CU)**. Tracking **{state.get('feed_count', 0)}** current resources and **{len(state['resources'])}** imported/observed records. Alerts compare each stat within the same resource class. Historical stats remain saved after despawn.\n"
-                   f"**SWG Uprising Home (selected automatically):** {HOME_URL}"}
+        'content': 'Resource alerts: **NEW SERVER BEST** only, ranked by **SWGAide overall rating**. '
+            'One winner per broad category (Wood, Copper, Steel, Fruit, etc.). '
+            'Ties and despawns are silent. History includes SWGAide and Galaxy Harvester reports; '
+            'record alerts wait for matching live stats on both sites.\n'
+            f'**SWG Uprising Home (selected automatically):** {HOME_URL}'}
 
 
 def collect(state, config, raw):
@@ -192,48 +231,51 @@ def collect(state, config, raw):
     prior_count = state.get('feed_count', 0)
     if prior_count and len(current) < prior_count * config['minimum_feed_size_ratio']:
         raise ValueError('Unexpected large feed drop; retaining previous state for review')
-    # Do not count a second poll of the same export as a second missing observation.
-    if generated == state.get('feed_generated'):
+    # Validate all archived and incoming ratings before mutating state.
+    before = winners(state['resources'], config, previous=state.get('leaders'))
+    winners(current, config)
+    migrating = state.get('alert_policy') != POLICY
+    repeated = generated == state.get('feed_generated')
+    if repeated and not migrating:
         return 0
+    working = copy.deepcopy(state)
     now = stamp()
-    old_leaders = state['leaders']
-    old_ids = set(state['resources'])
-    for rid, resource in state['resources'].items():
-        if resource.get('active') and rid not in current:
-            resource['missing_snapshots'] = resource.get('missing_snapshots', 0) + 1
-            if resource['missing_snapshots'] >= config['missing_snapshots_before_inactive']:
-                resource['active'] = False
-                resource['inactive_observed_at'] = now
-    for rid, resource in current.items():
-        first_seen = state['resources'].get(rid, {}).get('first_seen', now)
-        state['resources'][rid] = {**resource, 'first_seen': first_seen, 'missing_snapshots': 0}
-    # Keep leaders whose disappearance is still unconfirmed; suppress those alerts for one export.
-    eligible = {rid: r for rid, r in state['resources'].items() if r.get('active')}
-    eligible = {rid: {**r, 'missing_snapshots': 0} for rid, r in eligible.items()}
-    new_leaders = leaders(eligible, config, previous=old_leaders)
-    history = leaders(state['resources'], config, active_only=False)
-    grouped = defaultdict(list)
-    if state['initialized']:
-        for key, winner in new_leaders.items():
-            old = old_leaders.get(key)
-            if old and old['id'] == winner['id'] and old['value'] == winner['value']:
+    if not repeated:
+        for rid, resource in working['resources'].items():
+            if resource.get('active') and rid not in current:
+                resource['missing_snapshots'] = resource.get('missing_snapshots', 0) + 1
+                if resource['missing_snapshots'] >= config['missing_snapshots_before_inactive']:
+                    resource['active'] = False
+                    resource['inactive_observed_at'] = now
+        for rid, resource in current.items():
+            first_seen = working['resources'].get(rid, {}).get('first_seen', now)
+            working['resources'][rid] = {**resource, 'first_seen': first_seen, 'missing_snapshots': 0}
+    records = winners(working['resources'], config, previous=before)
+    queued = 0
+    if migrating:
+        # Old queued active/stat leaders and manual summaries do not satisfy this policy.
+        working['outbox'] = []
+        working['policy_baselined_at'] = now
+    elif working['initialized']:
+        for key, record in sorted(records.items()):
+            old = before.get(key)
+            resource = working['resources'][record['id']]
+            if old is None or record['value'] <= old['value']:
                 continue
-            rid = winner['id']
-            resource = state['resources'][rid]
-            if resource.get('missing_snapshots'):
+            if record['id'] not in current or not resource.get('active'):
                 continue
-            stat = json.loads(key)[1]
-            grouped[rid].append((stat, old, winner, rid not in old_ids))
-    else:
-        # One setup message instead of thousands of initial per-stat alerts.
-        state['outbox'].append({'kind': 'baseline', 'payload': intro_payload({**state, 'feed_count': len(current)})})
-    for rid, changes in sorted(grouped.items()):
-        state['outbox'].append({'kind': 'leader', 'resource_id': rid,
-            'winner_values': {stat: winner['value'] for stat, _, winner, _ in changes},
-            'payload': make_alert(state['resources'][rid], changes, state, history)})
-    state.update(initialized=True, leaders=new_leaders, feed_generated=generated,
-                 feed_count=len(current), last_successful_collection=now)
-    return len(grouped)
+            working['outbox'].append({'kind': 'record', 'policy': POLICY, 'category': key,
+                'resource_id': resource['id'], 'value': record['value'], 'previous': old,
+                'payload': make_record_alert(resource, old)})
+            queued += 1
+    # A brand-new install gets one intro; an existing installation migrates silently.
+    if not state['initialized']:
+        working['outbox'].append({'kind': 'baseline', 'policy': POLICY, 'payload': intro_payload(working)})
+    working.update(initialized=True, alert_policy=POLICY, leaders=records,
+        feed_generated=generated, feed_count=len(current), last_successful_collection=now)
+    state.clear()
+    state.update(working)
+    return queued
 
 
 class HistoryTable(HTMLParser):
@@ -284,7 +326,7 @@ class HistoryTable(HTMLParser):
 
 
 class ResourceCards(HTMLParser):
-    """Read displayed SWGAide stat values and cap percentages for a manual summary."""
+    """Read displayed SWGAide ratings for independent calculation verification."""
     def __init__(self):
         super().__init__()
         self.cards = {}
@@ -344,60 +386,30 @@ class ResourceCards(HTMLParser):
             self.table = None
 
 
-def summary_payload(state, config, html):
-    parser = ResourceCards()
-    parser.feed(html)
-    if not parser.cards:
-        raise ValueError('No SWGAide resource cards found; summary not posted')
-    current = leaders(state['resources'], config, previous=state['leaders'])
-    history = leaders(state['resources'], config, active_only=False)
-    candidates = []
-    for rid, resource in state['resources'].items():
-        card = parser.cards.get(rid)
-        if not resource.get('active') or resource.get('missing_snapshots') or not card:
+def summary_payload(state, config, html=None):
+    # Optional manual summary: one resource per broad category, and only historical winners.
+    records = winners(state['resources'], config, previous=state.get('leaders'))
+    fields = []
+    for key, record in sorted(records.items(), key=lambda pair: (-pair[1]['value'], pair[0])):
+        # If a record is tied, an active tied resource can represent the category in a summary.
+        eligible = [state['resources'][rid] for rid in record['tied_ids']
+            if state['resources'][rid].get('active') and not state['resources'][rid].get('missing_snapshots')]
+        if not eligible:
             continue
-        # Do not combine percentages from an older/corrected page with different XML stats.
-        if card['stats'] != resource['stats']:
-            continue
-        strong = [s for s, p in card['percentages'].items() if p >= 95
-            and key_for(resource, s) in current and rid in current[key_for(resource, s)]['tied_ids']]
-        if strong:
-            candidates.append((len(strong), card['rating'], resource['name'], resource, card, strong))
-    candidates.sort(key=lambda c: (-c[0], -c[1], c[2]))
-    fields, selected_types = [], set()
-    for _, _, _, resource, card, strong in candidates:
-        if resource['type'] in selected_types:
-            continue
-        highlights = ' | '.join(f"{s} {card['percentages'][s]:g}%" for s in strong)
-        stats = ' | '.join(f'{s} {resource["stats"][s]}' for s in STATS if s in resource['stats'])
-        old_records = []
-        for stat in strong[:3]:
-            best = history[key_for(resource, stat)]
-            old = state['resources'][best['id']]
-            status = 'active' if old.get('active') else 'despawned'
-            old_records.append(f"{stat} {best['value']} ({text_safe(old['name'])}, {status})")
-        field = {'name': f"{len(fields)+1}. {resource['name']} - {resource['type']}"[:256],
-            'value': f"**Strong leading stats (SWGAide):** {highlights}\n**Stats:** {stats}\n"
-                     f"**Planets:** {text_safe(', '.join(resource['planets']))}\n"
-                     f"**Age:** {card['age']}\n**Best reported concentration:** {waypoint_text(resource)}\n"
-                     f"**Historical best:** {'; '.join(old_records)}",
+        resource = next((r for r in eligible if r['id'] == record['id']), eligible[0])
+        field = {'name': f"{record['category']} — {record['value']} / 1000"[:256],
+            'value': f"[{text_safe(resource['name'])}]({resource['url']}) · {text_safe(', '.join(resource['planets']))}",
             'inline': False}
-        if len(field['value']) > 1024:
-            raise ValueError('Summary resource details exceed Discord field limit')
-        if sum(len(f['name']) + len(f['value']) for f in fields + [field]) > 4800:
+        if len(fields) == 25 or sum(len(f['name']) + len(f['value']) for f in fields + [field]) > 4800:
             break
         fields.append(field)
-        selected_types.add(resource['type'])
-        if len(fields) == 12:
-            break
     if not fields:
-        raise ValueError('No matching active leaders with stats at 95% of cap; summary not posted')
+        raise ValueError('No historical record holders are currently active; summary not posted')
     return {'username': 'Uprising Resource Watch', 'allowed_mentions': {'parse': []},
-        'content': f"**SWG Uprising Home (selected automatically):** {HOME_URL}\n[Complete active and historical records]({RECORDS_URL})",
-        'embeds': [{'title': 'Current resource shortlist - SWG Uprising', 'url': HOME_URL,
-            'description': 'Harvest candidates with several strong stats. Highlighted stats lead their own resource type and have a SWGAide quality percentage of at least 95%. More highlighted stats come first; one pick per type. Crafting recipes have different needs, so this is not a universal crafting ranking. All raw stats are shown below.',
-            'fields': fields, 'color': 0x42B9AD,
-            'footer': {'text': 'Percentages: SWGAide stat quality for this resource type. Historical details show up to 3 highlighted stats.'},
+        'embeds': [{'title': 'Harvestable server records — SWG Uprising', 'url': HOME_URL,
+            'description': 'SWGAide overall rating. One pick per broad category; up to 25 highest-rated active historical record holders.',
+            'fields': fields, 'color': 0xF3A638,
+            'footer': {'text': 'Imported + observed SWGAide history, including despawned resources'},
             'timestamp': state['feed_generated']}]}
 
 
@@ -512,30 +524,40 @@ def refresh_message_links(raw_webhook, message_id):
 
 def deliver(state, state_path, config, url):
     valid = webhook_url(url)
+    records = winners(state['resources'], config, previous=state.get('leaders'))
     sent = 0
-    while state['outbox']:
+    remaining = len(state['outbox'])
+    while state['outbox'] and remaining:
+        remaining -= 1
         event = state['outbox'][0]
-        if event['kind'] == 'baseline':
+        resource = state['resources'].get(event.get('resource_id'))
+        record = records.get(event.get('category'), {})
+        permitted = state.get('alert_policy') == POLICY and event.get('policy') == POLICY
+        if event['kind'] == 'record':
+            permitted = permitted and bool(resource) and resource.get('active') and not resource.get('missing_snapshots')
+            permitted = permitted and record.get('id') == event['resource_id'] and record.get('value') == event['value']
+            permitted = permitted and event['value'] > event['previous']['value']
+            if permitted:
+                verification = harvester.detail(resource, fetch)
+                if verification['status'] != 'matched':
+                    event['crosscheck_status'] = verification['status']
+                    event['last_checked_at'] = stamp()
+                    state['outbox'].append(state['outbox'].pop(0))
+                    save_state(state_path, state)
+                    print(f"Held record alert for {event['category']}: Galaxy Harvester {verification['status']}")
+                    continue
+                event['payload'] = make_record_alert(resource, event['previous'], verification)
+        elif event['kind'] == 'baseline':
             event['payload'] = intro_payload(state)
-        if event['kind'] == 'leader':
-            resource = state['resources'][event['resource_id']]
-            if not resource.get('active') or resource.get('missing_snapshots'):
-                state['outbox'].pop(0)
-                save_state(state_path, state)
-                continue
-            current_values = {s: v for s, v in event['winner_values'].items()
-                if state['leaders'].get(key_for(resource, s), {}).get('id') == resource['id']
-                and state['leaders'][key_for(resource, s)]['value'] == v}
-            if not current_values:
-                state['outbox'].pop(0)
-                save_state(state_path, state)
-                continue
-            # Refresh historical comparison and remove stale stat wins before posting a retry.
-            changes = [(s, None, {'id': resource['id'], 'value': v}, False) for s, v in current_values.items()]
-            if len(current_values) != len(event['winner_values']):
-                event['payload'] = make_alert(resource, changes, state, leaders(state['resources'], config, active_only=False))
-            for embed in event['payload'].get('embeds', []):
-                embed['url'] = HOME_URL
+        elif event['kind'] == 'summary':
+            if permitted:
+                event['payload'] = summary_payload(state, config)
+        else:
+            permitted = False
+        if not permitted:
+            state['outbox'].pop(0)
+            save_state(state_path, state)
+            continue
         send_webhook(valid, event['payload'])
         state['outbox'].pop(0)
         sent += 1
@@ -545,27 +567,24 @@ def deliver(state, state_path, config, url):
 
 
 def write_report(state, config, path):
-    active = leaders(state['resources'], config, previous=state['leaders'])
-    history = leaders(state['resources'], config, active_only=False)
-    lines = ['# Uprising resource records', '',
+    history = winners(state['resources'], config, previous=state.get('leaders'))
+    lines = ['# Uprising server records', '',
         f"Latest SWGAide export: {state.get('feed_generated', 'not collected yet')}", '',
-        'Historical best means the best imported or observed record, including despawned resources.',
-        'Comparisons use each stat within the exact resource class; these are not crafting scores.', '',
-        '| Resource class | Stat | Active best | Historical best | Historical status |',
-        '|---|---|---|---|---|']
+        'One historical winner per broad category, ranked by SWGAide overall rating.',
+        'History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.', '',
+        '| Category | Server best | SWGAide rating | Status |', '|---|---|---|---|']
     for key, record in sorted(history.items()):
-        hist = state['resources'][record['id']]
-        stat = json.loads(key)[1]
-        current = active.get(key)
-        value = 'None reported active'
-        if current:
-            resource = state['resources'][current['id']]
-            value = f"[{resource['name']}]({resource['url']}) **{current['value']}**"
-        status = 'Active' if hist.get('active') else 'Despawned / inactive'
-        if hist.get('active') and hist.get('missing_snapshots'):
+        resource = state['resources'][record['id']]
+        active_ties = [state['resources'][rid] for rid in record['tied_ids']
+            if state['resources'][rid].get('active') and not state['resources'][rid].get('missing_snapshots')]
+        if active_ties:
+            resource = active_ties[0]
+        status = 'Active' if resource.get('active') else 'Despawned / inactive'
+        if resource.get('source') == 'Galaxy Harvester history':
+            status = 'Historical comparison (Galaxy Harvester)'
+        if resource.get('active') and resource.get('missing_snapshots'):
             status = 'Awaiting feed confirmation'
-        safe_type = hist['type'].replace('|', '\\|')
-        lines.append(f"| {safe_type} | {stat} | {value} | [{hist['name']}]({hist['url']}) **{record['value']}** | {status} |")
+        lines.append(f"| {record['category']} | [{resource['name']}]({resource['url']}) | {record['value']} / 1000 | {status} |")
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text('\n'.join(lines) + '\n', encoding='utf-8')
 
@@ -579,8 +598,6 @@ def main():
     parser.add_argument('--message-id', help='Existing webhook setup message to update')
     args = parser.parse_args()
     config = json.loads(args.config.read_text(encoding='utf-8'))
-    if not set(config['stats']).issubset(STATS) or not config['stats']:
-        raise ValueError('Select valid stat abbreviations in config.json')
     state = load_state(args.state)
     if args.command == 'seed-history':
         print(f'Imported {seed_history(state, config)} new historical records')
@@ -589,6 +606,9 @@ def main():
         raw = args.feed.read_bytes() if args.feed else fetch(config['feed_url'])
         if raw.startswith(b'\x1f\x8b'):
             raw = gzip.decompress(raw)
+        # Saved-feed dry runs remain offline. Cloud checks refresh GH history daily.
+        if not args.feed:
+            sync_harvester_history(state)
         print(f'Queued {collect(state, config, raw)} resource alerts')
         save_state(args.state, state)
         write_report(state, config, args.state.parent / 'records.md')
@@ -600,9 +620,8 @@ def main():
     elif args.command == 'report':
         write_report(state, config, args.state.parent / 'records.md')
     elif args.command == 'queue-summary':
-        html = fetch(f"https://swgaide.com/resources/?server={config['server_id']}").decode('utf-8')
-        payload = summary_payload(state, config, html)
-        state['outbox'].append({'kind': 'summary', 'payload': payload})
+        payload = summary_payload(state, config)
+        state['outbox'].append({'kind': 'summary', 'policy': POLICY, 'payload': payload})
         save_state(args.state, state)
         print(f"Queued one summary with {len(payload['embeds'][0]['fields'])} resources")
     elif args.command == 'refresh-intro':

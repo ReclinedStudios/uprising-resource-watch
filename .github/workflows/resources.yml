@@ -10,7 +10,7 @@ on:
         type: boolean
         default: false
       post_summary:
-        description: Post a current strong-stat resource shortlist to Discord
+        description: Post a summary of active historical category record holders
         type: boolean
         default: false
       intro_message_id:
