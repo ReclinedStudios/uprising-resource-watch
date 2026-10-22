@@ -1,6 +1,6 @@
 # Uprising resource records
 
-Latest SWGAide export: 2026-10-21T20:50:10+00:00
+Latest SWGAide export: 2026-10-21T23:50:11+00:00
 
 Historical best means the best imported or observed record, including despawned resources.
 Comparisons use each stat within the exact resource class; these are not crafting scores.
@@ -38,14 +38,14 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Bene Extrusive Ore | OQ | [Deberis](https://swgaide.com/resources/view.php?rid=1779527) **588** | [Deberis](https://swgaide.com/resources/view.php?rid=1779527) **588** | Active |
 | Bene Extrusive Ore | SR | [Deberis](https://swgaide.com/resources/view.php?rid=1779527) **428** | [Deberis](https://swgaide.com/resources/view.php?rid=1779527) **428** | Active |
 | Bene Extrusive Ore | UT | [Deberis](https://swgaide.com/resources/view.php?rid=1779527) **424** | [Deberis](https://swgaide.com/resources/view.php?rid=1779527) **424** | Active |
-| Beyrllius Copper | CD | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **617** | [Towouate](https://swgaide.com/resources/view.php?rid=1776814) **662** | Despawned / inactive |
+| Beyrllius Copper | CD | [Vobikai](https://swgaide.com/resources/view.php?rid=1779819) **669** | [Vobikai](https://swgaide.com/resources/view.php?rid=1779819) **669** | Active |
 | Beyrllius Copper | CR | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **272** | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **272** | Active |
 | Beyrllius Copper | DR | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **245** | [Towouate](https://swgaide.com/resources/view.php?rid=1776814) **254** | Despawned / inactive |
-| Beyrllius Copper | HR | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **329** | [Towouate](https://swgaide.com/resources/view.php?rid=1776814) **344** | Despawned / inactive |
+| Beyrllius Copper | HR | [Vobikai](https://swgaide.com/resources/view.php?rid=1779819) **363** | [Vobikai](https://swgaide.com/resources/view.php?rid=1779819) **363** | Active |
 | Beyrllius Copper | MA | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **683** | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **683** | Active |
-| Beyrllius Copper | OQ | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **415** | [Towouate](https://swgaide.com/resources/view.php?rid=1776814) **770** | Despawned / inactive |
+| Beyrllius Copper | OQ | [Vobikai](https://swgaide.com/resources/view.php?rid=1779819) **994** | [Vobikai](https://swgaide.com/resources/view.php?rid=1779819) **994** | Active |
 | Beyrllius Copper | SR | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **416** | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **416** | Active |
-| Beyrllius Copper | UT | [Kidavaium](https://swgaide.com/resources/view.php?rid=1776815) **420** | [Towouate](https://swgaide.com/resources/view.php?rid=1776814) **426** | Despawned / inactive |
+| Beyrllius Copper | UT | [Vobikai](https://swgaide.com/resources/view.php?rid=1779819) **446** | [Vobikai](https://swgaide.com/resources/view.php?rid=1779819) **446** | Active |
 | Bronzium Iron | CD | [Cahe](https://swgaide.com/resources/view.php?rid=1776818) **212** | [Cahe](https://swgaide.com/resources/view.php?rid=1776818) **212** | Active |
 | Bronzium Iron | CR | [Cahe](https://swgaide.com/resources/view.php?rid=1776818) **333** | [Roha](https://swgaide.com/resources/view.php?rid=1776816) **404** | Despawned / inactive |
 | Bronzium Iron | DR | [Cahe](https://swgaide.com/resources/view.php?rid=1776818) **579** | [Roha](https://swgaide.com/resources/view.php?rid=1776816) **587** | Despawned / inactive |
@@ -854,14 +854,14 @@ Comparisons use each stat within the exact resource class; these are not craftin
 | Frasium Carbonate Ore | OQ | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **785** | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **785** | Active |
 | Frasium Carbonate Ore | SR | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **275** | [Hibesis](https://swgaide.com/resources/view.php?rid=1776995) **357** | Despawned / inactive |
 | Frasium Carbonate Ore | UT | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **595** | [Isooti](https://swgaide.com/resources/view.php?rid=1779552) **595** | Active |
-| Gallinorian Rainbow Gem Crystalline Gemstone | CR | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **104** | Despawned / inactive |
-| Gallinorian Rainbow Gem Crystalline Gemstone | DR | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **143** | Despawned / inactive |
-| Gallinorian Rainbow Gem Crystalline Gemstone | ER | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **606** | Despawned / inactive |
-| Gallinorian Rainbow Gem Crystalline Gemstone | HR | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **751** | Despawned / inactive |
-| Gallinorian Rainbow Gem Crystalline Gemstone | MA | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **106** | Despawned / inactive |
-| Gallinorian Rainbow Gem Crystalline Gemstone | OQ | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **103** | Despawned / inactive |
-| Gallinorian Rainbow Gem Crystalline Gemstone | SR | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **375** | Despawned / inactive |
-| Gallinorian Rainbow Gem Crystalline Gemstone | UT | None reported active | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **432** | Despawned / inactive |
+| Gallinorian Rainbow Gem Crystalline Gemstone | CR | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **107** | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **107** | Active |
+| Gallinorian Rainbow Gem Crystalline Gemstone | DR | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **136** | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **143** | Despawned / inactive |
+| Gallinorian Rainbow Gem Crystalline Gemstone | ER | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **629** | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **629** | Active |
+| Gallinorian Rainbow Gem Crystalline Gemstone | HR | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **768** | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **768** | Active |
+| Gallinorian Rainbow Gem Crystalline Gemstone | MA | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **107** | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **107** | Active |
+| Gallinorian Rainbow Gem Crystalline Gemstone | OQ | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **411** | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **411** | Active |
+| Gallinorian Rainbow Gem Crystalline Gemstone | SR | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **421** | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **421** | Active |
+| Gallinorian Rainbow Gem Crystalline Gemstone | UT | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) **389** | [Pebeine](https://swgaide.com/resources/view.php?rid=1776996) **432** | Despawned / inactive |
 | Gravitonic Fiberplast | DR | [Leki](https://swgaide.com/resources/view.php?rid=1776997) **375** | [Leki](https://swgaide.com/resources/view.php?rid=1776997) **375** | Active |
 | Gravitonic Fiberplast | MA | [Leki](https://swgaide.com/resources/view.php?rid=1776997) **932** | [Leki](https://swgaide.com/resources/view.php?rid=1776997) **932** | Active |
 | Gravitonic Fiberplast | OQ | [Leki](https://swgaide.com/resources/view.php?rid=1776997) **170** | [Leki](https://swgaide.com/resources/view.php?rid=1776997) **170** | Active |

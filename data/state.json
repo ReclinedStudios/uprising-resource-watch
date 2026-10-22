@@ -1,6 +1,6 @@
 {
-  "feed_count": 447,
-  "feed_generated": "2026-10-21T20:50:10+00:00",
+  "feed_count": 449,
+  "feed_generated": "2026-10-21T23:50:11+00:00",
   "history_imports": [
     {
       "coverage": "Reported records in the searched SWGAide categories; not guaranteed complete server history",
@@ -13,7 +13,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-10-21T20:55:06+00:00",
+  "last_successful_collection": "2026-10-22T00:01:33+00:00",
   "leaders": {
     "[\"agrinium aluminum\", \"CD\"]": {
       "id": "1779084",
@@ -177,11 +177,11 @@
       "value": 424
     },
     "[\"beyrllius copper\", \"CD\"]": {
-      "id": "1776815",
+      "id": "1779819",
       "tied_ids": [
-        "1776815"
+        "1779819"
       ],
-      "value": 617
+      "value": 669
     },
     "[\"beyrllius copper\", \"CR\"]": {
       "id": "1776815",
@@ -198,11 +198,11 @@
       "value": 245
     },
     "[\"beyrllius copper\", \"HR\"]": {
-      "id": "1776815",
+      "id": "1779819",
       "tied_ids": [
-        "1776815"
+        "1779819"
       ],
-      "value": 329
+      "value": 363
     },
     "[\"beyrllius copper\", \"MA\"]": {
       "id": "1776815",
@@ -212,11 +212,11 @@
       "value": 683
     },
     "[\"beyrllius copper\", \"OQ\"]": {
-      "id": "1776815",
+      "id": "1779819",
       "tied_ids": [
-        "1776815"
+        "1779819"
       ],
-      "value": 415
+      "value": 994
     },
     "[\"beyrllius copper\", \"SR\"]": {
       "id": "1776815",
@@ -226,11 +226,11 @@
       "value": 416
     },
     "[\"beyrllius copper\", \"UT\"]": {
-      "id": "1776815",
+      "id": "1779819",
       "tied_ids": [
-        "1776815"
+        "1779819"
       ],
-      "value": 420
+      "value": 446
     },
     "[\"bronzium iron\", \"CD\"]": {
       "id": "1776818",
@@ -5453,6 +5453,62 @@
         "1779552"
       ],
       "value": 595
+    },
+    "[\"gallinorian rainbow gem crystalline gemstone\", \"CR\"]": {
+      "id": "1779814",
+      "tied_ids": [
+        "1779814"
+      ],
+      "value": 107
+    },
+    "[\"gallinorian rainbow gem crystalline gemstone\", \"DR\"]": {
+      "id": "1779814",
+      "tied_ids": [
+        "1779814"
+      ],
+      "value": 136
+    },
+    "[\"gallinorian rainbow gem crystalline gemstone\", \"ER\"]": {
+      "id": "1779814",
+      "tied_ids": [
+        "1779814"
+      ],
+      "value": 629
+    },
+    "[\"gallinorian rainbow gem crystalline gemstone\", \"HR\"]": {
+      "id": "1779814",
+      "tied_ids": [
+        "1779814"
+      ],
+      "value": 768
+    },
+    "[\"gallinorian rainbow gem crystalline gemstone\", \"MA\"]": {
+      "id": "1779814",
+      "tied_ids": [
+        "1779814"
+      ],
+      "value": 107
+    },
+    "[\"gallinorian rainbow gem crystalline gemstone\", \"OQ\"]": {
+      "id": "1779814",
+      "tied_ids": [
+        "1779814"
+      ],
+      "value": 411
+    },
+    "[\"gallinorian rainbow gem crystalline gemstone\", \"SR\"]": {
+      "id": "1779814",
+      "tied_ids": [
+        "1779814"
+      ],
+      "value": 421
+    },
+    "[\"gallinorian rainbow gem crystalline gemstone\", \"UT\"]": {
+      "id": "1779814",
+      "tied_ids": [
+        "1779814"
+      ],
+      "value": 389
     },
     "[\"gravitonic fiberplast\", \"DR\"]": {
       "id": "1776997",
@@ -13191,7 +13247,142 @@
       "value": 51
     }
   },
-  "outbox": [],
+  "outbox": [
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Gallinorian Rainbow Gem Crystalline Gemstone**\nPlanets: Rori\nER 629 | CR 107 | DR 136 | HR 768 | MA 107 | OQ 411 | SR 421 | UT 389",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "ER - Entangle Resistance",
+                "value": "**Active best: 629** | Previous: none tracked\nHistorical best: **629** - Widehi (active)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "CR - Cold Resistance",
+                "value": "**Active best: 107** | Previous: none tracked\nHistorical best: **107** - Widehi (active)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "DR - Decay Resistance",
+                "value": "**Active best: 136** | Previous: none tracked\nHistorical best: **143** - Pebeine (despawned / inactive)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "HR - Heat Resistance",
+                "value": "**Active best: 768** | Previous: none tracked\nHistorical best: **768** - Widehi (active)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "MA - Malleability",
+                "value": "**Active best: 107** | Previous: none tracked\nHistorical best: **107** - Widehi (active)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 411** | Previous: none tracked\nHistorical best: **411** - Widehi (active)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "SR - Shock Resistance",
+                "value": "**Active best: 421** | Previous: none tracked\nHistorical best: **421** - Widehi (active)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 389** | Previous: none tracked\nHistorical best: **432** - Pebeine (despawned / inactive)\nNewly reported resource"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-22T00:01:33+00:00",
+            "title": "New active best: Widehi",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779814",
+      "winner_values": {
+        "CR": 107,
+        "DR": 136,
+        "ER": 629,
+        "HR": 768,
+        "MA": 107,
+        "OQ": 411,
+        "SR": 421,
+        "UT": 389
+      }
+    },
+    {
+      "kind": "leader",
+      "payload": {
+        "allowed_mentions": {
+          "parse": []
+        },
+        "embeds": [
+          {
+            "color": 3324284,
+            "description": "**Beyrllius Copper**\nPlanets: Naboo\nCR 163 | CD 669 | DR 239 | HR 363 | MA 653 | OQ 994 | SR 409 | UT 446",
+            "fields": [
+              {
+                "inline": false,
+                "name": "Highest reported concentration",
+                "value": "No concentration waypoint reported on SWGAide yet."
+              },
+              {
+                "inline": false,
+                "name": "CD - Conductivity",
+                "value": "**Active best: 669** | Previous: 617 (Kidavaium)\nHistorical best: **669** - Vobikai (active)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "HR - Heat Resistance",
+                "value": "**Active best: 363** | Previous: 329 (Kidavaium)\nHistorical best: **363** - Vobikai (active)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "OQ - Overall Quality",
+                "value": "**Active best: 994** | Previous: 415 (Kidavaium)\nHistorical best: **994** - Vobikai (active)\nNewly reported resource"
+              },
+              {
+                "inline": false,
+                "name": "UT - Unit Toughness",
+                "value": "**Active best: 446** | Previous: 420 (Kidavaium)\nHistorical best: **446** - Vobikai (active)\nNewly reported resource"
+              }
+            ],
+            "footer": {
+              "text": "SWG Uprising (Pre-CU) | Historical best = imported + observed SWGAide records"
+            },
+            "timestamp": "2026-10-22T00:01:33+00:00",
+            "title": "New active best: Vobikai",
+            "url": "https://reclinedstudios.github.io/uprising-resource-watch/"
+          }
+        ],
+        "username": "Uprising Resource Watch"
+      },
+      "resource_id": "1779819",
+      "winner_values": {
+        "CD": 669,
+        "HR": 363,
+        "OQ": 994,
+        "UT": 446
+      }
+    }
+  ],
   "resources": {
     "1776811": {
       "active": false,
@@ -27902,6 +28093,58 @@
       "type": "Yavinian Wild Meat",
       "type_id": "yawmt",
       "url": "https://swgaide.com/resources/view.php?rid=1779582",
+      "waypoints": []
+    },
+    "1779814": {
+      "active": true,
+      "available_timestamp": "1792621035",
+      "first_seen": "2026-10-22T00:01:33+00:00",
+      "id": "1779814",
+      "missing_snapshots": 0,
+      "name": "Widehi",
+      "planets": [
+        "Rori"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "CR": 107,
+        "DR": 136,
+        "ER": 629,
+        "HR": 768,
+        "MA": 107,
+        "OQ": 411,
+        "SR": 421,
+        "UT": 389
+      },
+      "type": "Gallinorian Rainbow Gem Crystalline Gemstone",
+      "type_id": "gacry",
+      "url": "https://swgaide.com/resources/view.php?rid=1779814",
+      "waypoints": []
+    },
+    "1779819": {
+      "active": true,
+      "available_timestamp": "1792624692",
+      "first_seen": "2026-10-22T00:01:33+00:00",
+      "id": "1779819",
+      "missing_snapshots": 0,
+      "name": "Vobikai",
+      "planets": [
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "CD": 669,
+        "CR": 163,
+        "DR": 239,
+        "HR": 363,
+        "MA": 653,
+        "OQ": 994,
+        "SR": 409,
+        "UT": 446
+      },
+      "type": "Beyrllius Copper",
+      "type_id": "becpr",
+      "url": "https://swgaide.com/resources/view.php?rid=1779819",
       "waypoints": []
     }
   },
