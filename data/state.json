@@ -1,15 +1,16 @@
 {
   "alert_policy": "broad-category-swgaide-rate-record-v1",
   "feed_count": 451,
-  "feed_generated": "2026-10-24T16:00:09+00:00",
+  "feed_generated": "2026-10-24T18:40:10+00:00",
   "harvester_history": {
-    "checked_at": "2026-10-23T17:13:38+00:00",
+    "checked_at": "2026-10-24T18:49:33+00:00",
     "conflicts": [
       "osoiam"
     ],
     "coverage": "Public Galaxy Harvester Uprising history; GH-only records retained as historical comparisons",
     "galaxy": "161",
     "incomplete_or_unknown": [
+      "owoase",
       "ofiism",
       "vabaic",
       "fakeate",
@@ -91,9 +92,9 @@
       "autwoitho",
       "arporpiian"
     ],
-    "matching_swgaide_records": 718,
+    "matching_swgaide_records": 760,
     "records_added": 0,
-    "records_found": 1103
+    "records_found": 1147
   },
   "history_imports": [
     {
@@ -107,7 +108,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-10-24T16:04:02+00:00",
+  "last_successful_collection": "2026-10-24T18:49:33+00:00",
   "leaders": {
     "aluminum": {
       "category": "Aluminum",
