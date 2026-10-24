@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-10-24T01:50:09+00:00
+Latest SWGAide export: 2026-10-24T07:10:10+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
