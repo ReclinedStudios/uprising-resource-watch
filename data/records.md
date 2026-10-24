@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-10-24T07:10:10+00:00
+Latest SWGAide export: 2026-10-24T12:10:10+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -18,7 +18,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Ferrous Metal | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) | 762 / 1000 | Despawned / inactive |
 | Fiberplast | [Auco](https://swgaide.com/resources/view.php?rid=1778189) | 711 / 1000 | Active |
 | Fruit | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) | 848 / 1000 | Active |
-| Hide | [Cresro](https://swgaide.com/resources/view.php?rid=1776933) | 841 / 1000 | Active |
+| Hide | [Cresro](https://swgaide.com/resources/view.php?rid=1776933) | 841 / 1000 | Awaiting feed confirmation |
 | Horn | [Aba](https://swgaide.com/resources/view.php?rid=1777120) | 875 / 1000 | Despawned / inactive |
 | Inert Gas | [ridi](https://galaxyharvester.net/resource.py/161/ridi) | 978 / 1000 | Historical comparison (Galaxy Harvester) |
 | Intrusive Ore | [Deasyiam](https://swgaide.com/resources/view.php?rid=1779103) | 909 / 1000 | Active |
@@ -27,11 +27,11 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Lubricating Oil | [Nirae](https://swgaide.com/resources/view.php?rid=1778656) | 724 / 1000 | Active |
 | Meat | [spato](https://galaxyharvester.net/resource.py/161/spato) | 865 / 1000 | Historical comparison (Galaxy Harvester) |
 | Milk | [vamia](https://galaxyharvester.net/resource.py/161/vamia) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
-| Oats | [Padi](https://swgaide.com/resources/view.php?rid=1777259) | 850 / 1000 | Active |
+| Oats | [Padi](https://swgaide.com/resources/view.php?rid=1777259) | 850 / 1000 | Awaiting feed confirmation |
 | Polymer | [Foexotuium](https://swgaide.com/resources/view.php?rid=1780880) | 672 / 1000 | Active |
 | Radioactive | [doordi](https://galaxyharvester.net/resource.py/161/doordi) | 933 / 1000 | Historical comparison (Galaxy Harvester) |
 | Reactive Gas | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) | 828 / 1000 | Despawned / inactive |
-| Rice | [Cihofa](https://swgaide.com/resources/view.php?rid=1777194) | 832 / 1000 | Active |
+| Rice | [Cihofa](https://swgaide.com/resources/view.php?rid=1777194) | 832 / 1000 | Awaiting feed confirmation |
 | Siliclastic Ore | [Saietaian](https://swgaide.com/resources/view.php?rid=1776867) | 802 / 1000 | Despawned / inactive |
 | Solar Energy | [Oati](https://swgaide.com/resources/view.php?rid=1778674) | 998 / 1000 | Active |
 | Solid Petrochem Fuel | [llimosti](https://galaxyharvester.net/resource.py/161/llimosti) | 926 / 1000 | Historical comparison (Galaxy Harvester) |
