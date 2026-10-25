@@ -392,53 +392,7 @@
       "value": 843
     }
   },
-  "outbox": [
-    {
-      "category": "copper",
-      "kind": "record",
-      "payload": {
-        "allowed_mentions": {
-          "parse": []
-        },
-        "embeds": [
-          {
-            "color": 15967800,
-            "description": "**Alliism** \u00b7 Platinite Copper\nSWGAide rating: **954 / 1000** (previous record: 929)\nPlanets: Corellia, Endor, Lok, Naboo, Rori, Talus, Tatooine, Yavin 4",
-            "fields": [
-              {
-                "inline": false,
-                "name": "Stats \u00b7 Galaxy Harvester range %",
-                "value": "```\n    CR     CD     DR     HR     MA     OQ     SR     UT\n   725    947    619    604    924    889    705    725\n     \u2014      \u2014      \u2014      \u2014      \u2014      \u2014      \u2014      \u2014\n```"
-              },
-              {
-                "inline": false,
-                "name": "Best reported concentration",
-                "value": "No concentration waypoint reported on SWGAide yet."
-              }
-            ],
-            "footer": {
-              "text": "SWG Uprising | SWGAide overall rating \u00b7 GH range percentages | Imported + observed history"
-            },
-            "timestamp": "2026-10-25T12:36:12+00:00",
-            "title": "NEW SERVER BEST \u2014 COPPER",
-            "url": "https://swgaide.com/resources/view.php?rid=1781883"
-          }
-        ],
-        "username": "Uprising Resource Watch"
-      },
-      "policy": "broad-category-swgaide-rate-record-v1",
-      "previous": {
-        "category": "Copper",
-        "id": "1776948",
-        "tied_ids": [
-          "1776948"
-        ],
-        "value": 929
-      },
-      "resource_id": "1781883",
-      "value": 954
-    }
-  ],
+  "outbox": [],
   "policy_baselined_at": "2026-10-22T13:21:38+00:00",
   "resources": {
     "1776811": {
