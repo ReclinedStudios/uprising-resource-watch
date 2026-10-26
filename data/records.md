@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-10-26T11:30:12+00:00
+Latest SWGAide export: 2026-10-26T17:30:14+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -9,7 +9,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 |---|---|---|---|
 | Aluminum | [Olaris](https://swgaide.com/resources/view.php?rid=1777090) | 909 / 1000 | Despawned / inactive |
 | Amorphous Gemstone | [Eri](https://swgaide.com/resources/view.php?rid=1776813) | 860 / 1000 | Despawned / inactive |
-| Bone | [Aco](https://swgaide.com/resources/view.php?rid=1777048) | 800 / 1000 | Awaiting feed confirmation |
+| Bone | [Aco](https://swgaide.com/resources/view.php?rid=1777048) | 800 / 1000 | Despawned / inactive |
 | Carbonate Ore | [jageris](https://galaxyharvester.net/resource.py/161/jageris) | 845 / 1000 | Historical comparison (Galaxy Harvester) |
 | Copper | [Alliism](https://swgaide.com/resources/view.php?rid=1781883) | 954 / 1000 | Active |
 | Corn | [sesro](https://galaxyharvester.net/resource.py/161/sesro) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
