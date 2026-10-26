@@ -1,7 +1,7 @@
 {
   "alert_policy": "broad-category-swgaide-rate-record-v1",
   "feed_count": 452,
-  "feed_generated": "2026-10-26T00:20:13+00:00",
+  "feed_generated": "2026-10-26T05:20:09+00:00",
   "harvester_history": {
     "checked_at": "2026-10-25T19:42:02+00:00",
     "conflicts": [
@@ -108,7 +108,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-10-26T00:25:50+00:00",
+  "last_successful_collection": "2026-10-26T05:24:53+00:00",
   "leaders": {
     "aluminum": {
       "category": "Aluminum",
