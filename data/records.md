@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-10-27T13:10:13+00:00
+Latest SWGAide export: 2026-10-27T18:50:08+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -17,7 +17,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Extrusive Ore | [Copeneoian](https://swgaide.com/resources/view.php?rid=1777097) | 889 / 1000 | Despawned / inactive |
 | Ferrous Metal | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) | 762 / 1000 | Despawned / inactive |
 | Fiberplast | [Auco](https://swgaide.com/resources/view.php?rid=1778189) | 711 / 1000 | Despawned / inactive |
-| Fruit | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) | 848 / 1000 | Awaiting feed confirmation |
+| Fruit | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) | 848 / 1000 | Despawned / inactive |
 | Hide | [Cresro](https://swgaide.com/resources/view.php?rid=1776933) | 841 / 1000 | Despawned / inactive |
 | Horn | [Aba](https://swgaide.com/resources/view.php?rid=1777120) | 875 / 1000 | Despawned / inactive |
 | Inert Gas | [ridi](https://galaxyharvester.net/resource.py/161/ridi) | 978 / 1000 | Historical comparison (Galaxy Harvester) |
