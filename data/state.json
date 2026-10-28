@@ -1,7 +1,7 @@
 {
   "alert_policy": "broad-category-swgaide-rate-record-v1",
-  "feed_count": 454,
-  "feed_generated": "2026-10-28T02:10:08+00:00",
+  "feed_count": 453,
+  "feed_generated": "2026-10-28T08:50:08+00:00",
   "harvester_history": {
     "checked_at": "2026-10-27T22:59:32+00:00",
     "conflicts": [
@@ -117,7 +117,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-10-28T02:21:03+00:00",
+  "last_successful_collection": "2026-10-28T09:00:20+00:00",
   "leaders": {
     "aluminum": {
       "category": "Aluminum",
@@ -1334,7 +1334,7 @@
       "available_timestamp": "1792034583",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1776852",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Waiko",
       "planets": [
         "Corellia"
@@ -2006,7 +2006,7 @@
       "available_timestamp": "1791826231",
       "first_seen": "2026-10-19T15:58:02+00:00",
       "id": "1776881",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Steneiace",
       "planets": [
         "Dantooine"
@@ -2289,7 +2289,7 @@
       "available_timestamp": "1791766149",
       "first_seen": "2026-10-19T15:58:02+00:00",
       "id": "1776894",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Tako",
       "planets": [
         "Dantooine"
@@ -2373,7 +2373,7 @@
       "available_timestamp": "1791674576",
       "first_seen": "2026-10-19T15:58:08+00:00",
       "id": "1776898",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Pekoo",
       "planets": [
         "Dantooine"
@@ -3958,7 +3958,7 @@
       "available_timestamp": "1791894318",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1776969",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Vari",
       "planets": [
         "Endor"
@@ -5557,7 +5557,7 @@
       "available_timestamp": "1792056127",
       "first_seen": "2026-10-19T15:58:04+00:00",
       "id": "1777041",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Ckapli",
       "planets": [
         "Lok"
@@ -5935,7 +5935,7 @@
       "available_timestamp": "1791765929",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777058",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Jagi",
       "planets": [
         "Naboo"
@@ -6217,7 +6217,7 @@
       "available_timestamp": "1791826148",
       "first_seen": "2026-10-19T15:58:04+00:00",
       "id": "1777071",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Kotwoa",
       "planets": [
         "Naboo"
@@ -6448,7 +6448,7 @@
       "available_timestamp": "1792110104",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777082",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Ahe",
       "planets": [
         "Naboo"
@@ -7491,7 +7491,7 @@
       "available_timestamp": "1791912157",
       "first_seen": "2026-10-19T15:58:06+00:00",
       "id": "1777127",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Deha",
       "planets": [
         "Rori"
@@ -7893,7 +7893,7 @@
       "available_timestamp": "1792034560",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777146",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Ovote",
       "planets": [
         "Talus"
@@ -8440,7 +8440,7 @@
       "available_timestamp": "1791894209",
       "first_seen": "2026-10-19T15:58:08+00:00",
       "id": "1777173",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Rdice",
       "planets": [
         "Talus"
@@ -9139,7 +9139,7 @@
       "available_timestamp": "1792034549",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777205",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Clice",
       "planets": [
         "Tatooine"
@@ -9560,7 +9560,7 @@
       "available_timestamp": "1792056149",
       "first_seen": "2026-10-19T15:58:05+00:00",
       "id": "1777224",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Sreto",
       "planets": [
         "Yavin 4"
@@ -9583,7 +9583,7 @@
       "available_timestamp": "1792048928",
       "first_seen": "2026-10-19T15:58:05+00:00",
       "id": "1777225",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Vigha",
       "planets": [
         "Yavin 4"
@@ -10009,7 +10009,7 @@
       "available_timestamp": "1791825774",
       "first_seen": "2026-10-19T15:58:05+00:00",
       "id": "1777245",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Agi",
       "planets": [
         "Yavin 4"
@@ -10885,7 +10885,7 @@
       "available_timestamp": "1792196533",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1777715",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Xarihi",
       "planets": [
         "Lok"
@@ -11197,7 +11197,7 @@
       "available_timestamp": "1792138918",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1777729",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Temiide",
       "planets": [
         "Dantooine",
@@ -11644,7 +11644,7 @@
       "available_timestamp": "1792297337",
       "first_seen": "2026-10-19T15:58:06+00:00",
       "id": "1778198",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Cridia",
       "planets": [
         "Endor"
@@ -11734,7 +11734,7 @@
       "available_timestamp": "1792261311",
       "first_seen": "2026-10-19T15:58:08+00:00",
       "id": "1778202",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Okleki",
       "planets": [
         "Naboo"
@@ -11859,7 +11859,7 @@
       "available_timestamp": "1792304488",
       "first_seen": "2026-10-19T15:58:07+00:00",
       "id": "1778207",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Kenne",
       "planets": [
         "Rori"
@@ -11971,7 +11971,7 @@
       "available_timestamp": "1792290177",
       "first_seen": "2026-10-19T15:58:05+00:00",
       "id": "1778212",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Tasto",
       "planets": [
         "Talus"
@@ -11994,7 +11994,7 @@
       "available_timestamp": "1792251426",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1778213",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Roovo",
       "planets": [
         "Tatooine"
@@ -12038,7 +12038,7 @@
       "available_timestamp": "1792297359",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1778215",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Sricra",
       "planets": [
         "Yavin 4"
@@ -12193,7 +12193,7 @@
       "available_timestamp": "1792340503",
       "first_seen": "2026-10-19T15:58:05+00:00",
       "id": "1778641",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Forocte",
       "planets": [
         "Corellia"
@@ -12262,7 +12262,7 @@
       "available_timestamp": "1792362220",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1778644",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Ewo",
       "planets": [
         "Dantooine"
@@ -12331,7 +12331,7 @@
       "available_timestamp": "1792384641",
       "first_seen": "2026-10-19T15:58:12+00:00",
       "id": "1778647",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Ewoa",
       "planets": [
         "Dantooine",
@@ -12364,7 +12364,7 @@
       "available_timestamp": "1792354913",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1778648",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Leana",
       "planets": [
         "Endor"
@@ -12547,7 +12547,7 @@
       "available_timestamp": "1792394498",
       "first_seen": "2026-10-19T15:58:01+00:00",
       "id": "1778656",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Nirae",
       "planets": [
         "Corellia",
@@ -12574,7 +12574,7 @@
       "available_timestamp": "1792340548",
       "first_seen": "2026-10-19T15:58:00+00:00",
       "id": "1778657",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Nohockiic",
       "planets": [
         "Naboo"
@@ -12594,7 +12594,7 @@
       "available_timestamp": "1792394592",
       "first_seen": "2026-10-19T15:58:12+00:00",
       "id": "1778658",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Owyris",
       "planets": [
         "Dantooine",
@@ -12734,7 +12734,7 @@
       "available_timestamp": "1792387352",
       "first_seen": "2026-10-19T15:58:05+00:00",
       "id": "1778664",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Enota",
       "planets": [
         "Talus"
@@ -12803,7 +12803,7 @@
       "available_timestamp": "1792318903",
       "first_seen": "2026-10-19T15:58:00+00:00",
       "id": "1778667",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Sregnewwe",
       "planets": [
         "Talus"
@@ -12823,7 +12823,7 @@
       "available_timestamp": "1792369348",
       "first_seen": "2026-10-19T15:58:00+00:00",
       "id": "1778668",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Stenicoa",
       "planets": [
         "Talus"
@@ -12912,7 +12912,7 @@
       "available_timestamp": "1792387489",
       "first_seen": "2026-10-19T15:58:01+00:00",
       "id": "1778672",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Tobo",
       "planets": [
         "Yavin 4"
@@ -12935,7 +12935,7 @@
       "available_timestamp": "1792340572",
       "first_seen": "2026-10-19T15:58:05+00:00",
       "id": "1778673",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Sawwathio",
       "planets": [
         "Yavin 4"
@@ -12958,7 +12958,7 @@
       "available_timestamp": "1792354924",
       "first_seen": "2026-10-19T15:58:00+00:00",
       "id": "1778674",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Oati",
       "planets": [
         "Yavin 4"
@@ -13061,7 +13061,7 @@
       "available_timestamp": "1792409113",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779086",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Trepeine",
       "planets": [
         "Rori"
@@ -13087,7 +13087,7 @@
       "available_timestamp": "1792444956",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779087",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Ixira",
       "planets": [
         "Corellia"
@@ -13189,7 +13189,7 @@
       "available_timestamp": "1792463037",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779091",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Llaibo",
       "planets": [
         "Dantooine"
@@ -13278,7 +13278,7 @@
       "available_timestamp": "1792437967",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779095",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Kafewi",
       "planets": [
         "Dathomir"
@@ -13298,7 +13298,7 @@
       "available_timestamp": "1792437978",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779096",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Kisa",
       "planets": [
         "Dathomir"
@@ -13588,7 +13588,7 @@
       "available_timestamp": "1792416233",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779108",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Veeka",
       "planets": [
         "Lok"
@@ -13610,7 +13610,7 @@
       "available_timestamp": "1792438000",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779109",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Skeacheaate",
       "planets": [
         "Corellia",
@@ -13736,7 +13736,7 @@
       "available_timestamp": "1792409019",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779114",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Nofo",
       "planets": [
         "Corellia",
@@ -13766,7 +13766,7 @@
       "available_timestamp": "1792437937",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779115",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Gewoe",
       "planets": [
         "Rori"
@@ -14031,7 +14031,7 @@
       "available_timestamp": "1792513400",
       "first_seen": "2026-10-21T11:57:27+00:00",
       "id": "1779527",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Deberis",
       "planets": [
         "Corellia",
@@ -14129,7 +14129,7 @@
       "available_timestamp": "1792524089",
       "first_seen": "2026-10-21T11:57:27+00:00",
       "id": "1779531",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Bipeece",
       "planets": [
         "Corellia"
@@ -14502,7 +14502,7 @@
       "available_timestamp": "1792513649",
       "first_seen": "2026-10-21T11:57:27+00:00",
       "id": "1779548",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Midabo",
       "planets": [
         "Endor"
@@ -14676,7 +14676,7 @@
       "available_timestamp": "1792549391",
       "first_seen": "2026-10-21T11:57:27+00:00",
       "id": "1779555",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Gaci",
       "planets": [
         "Lok"
@@ -14877,7 +14877,7 @@
       "available_timestamp": "1792538541",
       "first_seen": "2026-10-21T11:57:27+00:00",
       "id": "1779564",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Loweo",
       "planets": [
         "Naboo"
@@ -15521,7 +15521,7 @@
       "available_timestamp": "1792588954",
       "first_seen": "2026-10-22T10:16:12+00:00",
       "id": "1780121",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Eahi",
       "planets": [
         "Corellia",
@@ -15554,7 +15554,7 @@
       "available_timestamp": "1792571095",
       "first_seen": "2026-10-22T10:16:12+00:00",
       "id": "1780122",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Siottacco",
       "planets": [
         "Endor"
@@ -15661,7 +15661,7 @@
       "available_timestamp": "1792571106",
       "first_seen": "2026-10-22T10:16:12+00:00",
       "id": "1780127",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Yaso",
       "planets": [
         "Naboo"
@@ -16634,7 +16634,7 @@
       "available_timestamp": "1792683035",
       "first_seen": "2026-10-23T12:11:14+00:00",
       "id": "1780869",
-      "missing_snapshots": 0,
+      "missing_snapshots": 1,
       "name": "Rami",
       "planets": [
         "Lok"
@@ -19869,6 +19869,1247 @@
       "type": "Yavinian Vegetable Tubers",
       "type_id": "yatub",
       "url": "https://swgaide.com/resources/view.php?rid=1782886",
+      "waypoints": []
+    },
+    "1783340": {
+      "active": true,
+      "available_timestamp": "1793110851",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783340",
+      "missing_snapshots": 0,
+      "name": "Ivecaie",
+      "planets": [
+        "Dathomir",
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "CR": 216,
+        "DR": 381,
+        "HR": 469,
+        "MA": 52,
+        "OQ": 127,
+        "SR": 445,
+        "UT": 403
+      },
+      "type": "Bene Extrusive Ore",
+      "type_id": "beext",
+      "url": "https://swgaide.com/resources/view.php?rid=1783340",
+      "waypoints": []
+    },
+    "1783341": {
+      "active": true,
+      "available_timestamp": "1793110738",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783341",
+      "missing_snapshots": 0,
+      "name": "Eiwo",
+      "planets": [
+        "Lok",
+        "Rori",
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "CD": 267,
+        "CR": 384,
+        "DR": 733,
+        "HR": 772,
+        "MA": 352,
+        "OQ": 887,
+        "SR": 706,
+        "UT": 728
+      },
+      "type": "Colat Iron",
+      "type_id": "coirn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783341",
+      "waypoints": []
+    },
+    "1783342": {
+      "active": true,
+      "available_timestamp": "1793110829",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783342",
+      "missing_snapshots": 0,
+      "name": "Higau",
+      "planets": [
+        "Corellia"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 525,
+        "MA": 776,
+        "OQ": 827,
+        "SR": 208,
+        "UT": 517
+      },
+      "type": "Corellia Fiberplast",
+      "type_id": "cofib",
+      "url": "https://swgaide.com/resources/view.php?rid=1783342",
+      "waypoints": []
+    },
+    "1783343": {
+      "active": true,
+      "available_timestamp": "1793110727",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783343",
+      "missing_snapshots": 0,
+      "name": "Edo",
+      "planets": [
+        "Corellia"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 415,
+        "MA": 76,
+        "OQ": 260,
+        "SR": 384,
+        "UT": 478
+      },
+      "type": "Corellian Horn",
+      "type_id": "cohrn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783343",
+      "waypoints": []
+    },
+    "1783344": {
+      "active": true,
+      "available_timestamp": "1793157848",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783344",
+      "missing_snapshots": 0,
+      "name": "Behivi",
+      "planets": [
+        "Corellia"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 281,
+        "FL": 207,
+        "OQ": 847,
+        "PE": 923
+      },
+      "type": "Corellian Insect Meat",
+      "type_id": "coimt",
+      "url": "https://swgaide.com/resources/view.php?rid=1783344",
+      "waypoints": []
+    },
+    "1783345": {
+      "active": true,
+      "available_timestamp": "1793136418",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783345",
+      "missing_snapshots": 0,
+      "name": "Weli",
+      "planets": [
+        "Corellia"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 537,
+        "FL": 302,
+        "OQ": 409,
+        "PE": 323
+      },
+      "type": "Corellian Vegetable Beans",
+      "type_id": "cobns",
+      "url": "https://swgaide.com/resources/view.php?rid=1783345",
+      "waypoints": []
+    },
+    "1783346": {
+      "active": true,
+      "available_timestamp": "1793110925",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783346",
+      "missing_snapshots": 0,
+      "name": "Mepo",
+      "planets": [
+        "Dantooine"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 133,
+        "MA": 749,
+        "OQ": 240,
+        "SR": 272,
+        "UT": 234
+      },
+      "type": "Dantooine Conifer Wood",
+      "type_id": "dncwd",
+      "url": "https://swgaide.com/resources/view.php?rid=1783346",
+      "waypoints": []
+    },
+    "1783347": {
+      "active": true,
+      "available_timestamp": "1793136429",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783347",
+      "missing_snapshots": 0,
+      "name": "Weuthoeri",
+      "planets": [
+        "Dantooine"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 670,
+        "FL": 389,
+        "OQ": 773,
+        "PE": 342
+      },
+      "type": "Dantooine Domesticated Milk",
+      "type_id": "dndmk",
+      "url": "https://swgaide.com/resources/view.php?rid=1783347",
+      "waypoints": []
+    },
+    "1783348": {
+      "active": true,
+      "available_timestamp": "1793111123",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783348",
+      "missing_snapshots": 0,
+      "name": "Xiajjeatio",
+      "planets": [
+        "Dantooine"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 181,
+        "MA": 833,
+        "OQ": 634,
+        "SR": 890,
+        "UT": 573
+      },
+      "type": "Dantooine Leathery Hide",
+      "type_id": "dnlhd",
+      "url": "https://swgaide.com/resources/view.php?rid=1783348",
+      "waypoints": []
+    },
+    "1783349": {
+      "active": true,
+      "available_timestamp": "1793110889",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783349",
+      "missing_snapshots": 0,
+      "name": "Keipi",
+      "planets": [
+        "Dantooine"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 356,
+        "FL": 437,
+        "OQ": 264,
+        "PE": 325
+      },
+      "type": "Dantooine Mollusk Meat",
+      "type_id": "dnmmt",
+      "url": "https://swgaide.com/resources/view.php?rid=1783349",
+      "waypoints": []
+    },
+    "1783350": {
+      "active": true,
+      "available_timestamp": "1793110873",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783350",
+      "missing_snapshots": 0,
+      "name": "Ivei",
+      "planets": [
+        "Dantooine"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 678,
+        "FL": 698,
+        "OQ": 961,
+        "PE": 584
+      },
+      "type": "Dantooine Vegetable Fungus",
+      "type_id": "dnfgs",
+      "url": "https://swgaide.com/resources/view.php?rid=1783350",
+      "waypoints": []
+    },
+    "1783351": {
+      "active": true,
+      "available_timestamp": "1793172161",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783351",
+      "missing_snapshots": 0,
+      "name": "Rescoine",
+      "planets": [
+        "Dathomir"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "OQ": 500,
+        "PE": 246
+      },
+      "type": "Dathomirian Solar Renewable Energy",
+      "type_id": "daseg",
+      "url": "https://swgaide.com/resources/view.php?rid=1783351",
+      "waypoints": []
+    },
+    "1783352": {
+      "active": true,
+      "available_timestamp": "1793110817",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783352",
+      "missing_snapshots": 0,
+      "name": "Foyaite",
+      "planets": [
+        "Dathomir"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "OQ": 500,
+        "PE": 277
+      },
+      "type": "Dathomirian Wind Renewable Energy",
+      "type_id": "daweg",
+      "url": "https://swgaide.com/resources/view.php?rid=1783352",
+      "waypoints": []
+    },
+    "1783353": {
+      "active": true,
+      "available_timestamp": "1793150760",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783353",
+      "missing_snapshots": 0,
+      "name": "Rotiate",
+      "planets": [
+        "Dantooine",
+        "Talus",
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "CD": 422,
+        "CR": 659,
+        "DR": 852,
+        "HR": 913,
+        "MA": 432,
+        "OQ": 632,
+        "SR": 844,
+        "UT": 921
+      },
+      "type": "Doonium Iron",
+      "type_id": "doirn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783353",
+      "waypoints": []
+    },
+    "1783354": {
+      "active": true,
+      "available_timestamp": "1793110592",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783354",
+      "missing_snapshots": 0,
+      "name": "Aroic",
+      "planets": [
+        "Corellia",
+        "Dantooine",
+        "Dathomir",
+        "Endor",
+        "Lok",
+        "Naboo",
+        "Tatooine",
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "CD": 637,
+        "CR": 459,
+        "DR": 410,
+        "HR": 494,
+        "MA": 784,
+        "OQ": 423,
+        "SR": 691,
+        "UT": 630
+      },
+      "type": "Duralumin Aluminum",
+      "type_id": "dualu",
+      "url": "https://swgaide.com/resources/view.php?rid=1783354",
+      "waypoints": []
+    },
+    "1783355": {
+      "active": true,
+      "available_timestamp": "1793114637",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783355",
+      "missing_snapshots": 0,
+      "name": "Basti",
+      "planets": [
+        "Endor"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 726,
+        "FL": 503,
+        "OQ": 117,
+        "PE": 440
+      },
+      "type": "Endorian Domesticated Milk",
+      "type_id": "endmk",
+      "url": "https://swgaide.com/resources/view.php?rid=1783355",
+      "waypoints": []
+    },
+    "1783356": {
+      "active": true,
+      "available_timestamp": "1793136395",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783356",
+      "missing_snapshots": 0,
+      "name": "Depo",
+      "planets": [
+        "Endor"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 395,
+        "MA": 815,
+        "OQ": 594,
+        "SR": 223,
+        "UT": 115
+      },
+      "type": "Endorian Evergreen Wood",
+      "type_id": "enewd",
+      "url": "https://swgaide.com/resources/view.php?rid=1783356",
+      "waypoints": []
+    },
+    "1783357": {
+      "active": true,
+      "available_timestamp": "1793110705",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783357",
+      "missing_snapshots": 0,
+      "name": "Boulao",
+      "planets": [
+        "Endor"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 787,
+        "FL": 81,
+        "OQ": 898,
+        "PE": 18
+      },
+      "type": "Endorian Herbivore Meat",
+      "type_id": "enhmt",
+      "url": "https://swgaide.com/resources/view.php?rid=1783357",
+      "waypoints": []
+    },
+    "1783358": {
+      "active": true,
+      "available_timestamp": "1793110983",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783358",
+      "missing_snapshots": 0,
+      "name": "Nillasri",
+      "planets": [
+        "Endor"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 980,
+        "FL": 452,
+        "OQ": 770,
+        "PE": 270
+      },
+      "type": "Endorian Wild Corn",
+      "type_id": "enwcn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783358",
+      "waypoints": []
+    },
+    "1783359": {
+      "active": true,
+      "available_timestamp": "1793110682",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783359",
+      "missing_snapshots": 0,
+      "name": "Atcho",
+      "planets": [
+        "Endor"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 475,
+        "FL": 497,
+        "OQ": 281,
+        "PE": 188
+      },
+      "type": "Endorian Wild Rice",
+      "type_id": "enwrc",
+      "url": "https://swgaide.com/resources/view.php?rid=1783359",
+      "waypoints": []
+    },
+    "1783360": {
+      "active": true,
+      "available_timestamp": "1793110693",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783360",
+      "missing_snapshots": 0,
+      "name": "Beagixio",
+      "planets": [
+        "Endor"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "OQ": 500,
+        "PE": 76
+      },
+      "type": "Endorian Wind Renewable Energy",
+      "type_id": "enweg",
+      "url": "https://swgaide.com/resources/view.php?rid=1783360",
+      "waypoints": []
+    },
+    "1783361": {
+      "active": true,
+      "available_timestamp": "1793164983",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783361",
+      "missing_snapshots": 0,
+      "name": "Gesna",
+      "planets": [
+        "Lok"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 526,
+        "MA": 382,
+        "OQ": 409,
+        "SR": 676,
+        "UT": 43
+      },
+      "type": "Lokian Animal Bones",
+      "type_id": "loabn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783361",
+      "waypoints": []
+    },
+    "1783362": {
+      "active": true,
+      "available_timestamp": "1793110970",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783362",
+      "missing_snapshots": 0,
+      "name": "Nectica",
+      "planets": [
+        "Lok"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 961,
+        "FL": 464,
+        "OQ": 63,
+        "PE": 267
+      },
+      "type": "Lokian Crustacean Meat",
+      "type_id": "lotmt",
+      "url": "https://swgaide.com/resources/view.php?rid=1783362",
+      "waypoints": []
+    },
+    "1783363": {
+      "active": true,
+      "available_timestamp": "1793110790",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783363",
+      "missing_snapshots": 0,
+      "name": "Fighopoe",
+      "planets": [
+        "Lok"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 963,
+        "FL": 474,
+        "OQ": 197,
+        "PE": 416
+      },
+      "type": "Lokian Wild Milk",
+      "type_id": "lowmk",
+      "url": "https://swgaide.com/resources/view.php?rid=1783363",
+      "waypoints": []
+    },
+    "1783364": {
+      "active": true,
+      "available_timestamp": "1793110901",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783364",
+      "missing_snapshots": 0,
+      "name": "Kipa",
+      "planets": [
+        "Lok"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 239,
+        "MA": 106,
+        "OQ": 38,
+        "SR": 22,
+        "UT": 683
+      },
+      "type": "Lokian Wooly Hide",
+      "type_id": "lowhd",
+      "url": "https://swgaide.com/resources/view.php?rid=1783364",
+      "waypoints": []
+    },
+    "1783365": {
+      "active": true,
+      "available_timestamp": "1793165005",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783365",
+      "missing_snapshots": 0,
+      "name": "Squoveyl",
+      "planets": [
+        "Corellia",
+        "Dantooine",
+        "Dathomir",
+        "Naboo",
+        "Rori",
+        "Talus",
+        "Tatooine",
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 440,
+        "OQ": 2
+      },
+      "type": "Methane Reactive Gas",
+      "type_id": "mektv",
+      "url": "https://swgaide.com/resources/view.php?rid=1783365",
+      "waypoints": []
+    },
+    "1783366": {
+      "active": true,
+      "available_timestamp": "1793150637",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783366",
+      "missing_snapshots": 0,
+      "name": "Cale",
+      "planets": [
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 504,
+        "FL": 411,
+        "OQ": 580,
+        "PE": 420
+      },
+      "type": "Nabooian Domesticated Meat",
+      "type_id": "nadmt",
+      "url": "https://swgaide.com/resources/view.php?rid=1783366",
+      "waypoints": []
+    },
+    "1783367": {
+      "active": true,
+      "available_timestamp": "1793136406",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783367",
+      "missing_snapshots": 0,
+      "name": "Esta",
+      "planets": [
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 308,
+        "MA": 654,
+        "OQ": 764,
+        "SR": 91,
+        "UT": 510
+      },
+      "type": "Nabooian Leathery Hide",
+      "type_id": "nalhd",
+      "url": "https://swgaide.com/resources/view.php?rid=1783367",
+      "waypoints": []
+    },
+    "1783368": {
+      "active": true,
+      "available_timestamp": "1793157826",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783368",
+      "missing_snapshots": 0,
+      "name": "Ahosis",
+      "planets": [
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "OQ": 500,
+        "PE": 256
+      },
+      "type": "Nabooian Solar Renewable Energy",
+      "type_id": "naseg",
+      "url": "https://swgaide.com/resources/view.php?rid=1783368",
+      "waypoints": []
+    },
+    "1783369": {
+      "active": true,
+      "available_timestamp": "1793164993",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783369",
+      "missing_snapshots": 0,
+      "name": "Lomo",
+      "planets": [
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 302,
+        "OQ": 833
+      },
+      "type": "Nabooian Water Vapor",
+      "type_id": "nawtr",
+      "url": "https://swgaide.com/resources/view.php?rid=1783369",
+      "waypoints": []
+    },
+    "1783370": {
+      "active": true,
+      "available_timestamp": "1793110716",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783370",
+      "missing_snapshots": 0,
+      "name": "Ckamo",
+      "planets": [
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 605,
+        "FL": 553,
+        "OQ": 213,
+        "PE": 576
+      },
+      "type": "Nabooian Wild Milk",
+      "type_id": "nawmk",
+      "url": "https://swgaide.com/resources/view.php?rid=1783370",
+      "waypoints": []
+    },
+    "1783371": {
+      "active": true,
+      "available_timestamp": "1793110778",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783371",
+      "missing_snapshots": 0,
+      "name": "Fapo",
+      "planets": [
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 482,
+        "FL": 395,
+        "OQ": 587,
+        "PE": 197
+      },
+      "type": "Nabooian Wild Oats",
+      "type_id": "nawot",
+      "url": "https://swgaide.com/resources/view.php?rid=1783371",
+      "waypoints": []
+    },
+    "1783372": {
+      "active": true,
+      "available_timestamp": "1793157837",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783372",
+      "missing_snapshots": 0,
+      "name": "Beecha",
+      "planets": [
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "OQ": 500,
+        "PE": 60
+      },
+      "type": "Nabooian Wind Renewable Energy",
+      "type_id": "naweg",
+      "url": "https://swgaide.com/resources/view.php?rid=1783372",
+      "waypoints": []
+    },
+    "1783373": {
+      "active": true,
+      "available_timestamp": "1793136291",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783373",
+      "missing_snapshots": 0,
+      "name": "Beiga",
+      "planets": [
+        "Corellia",
+        "Dathomir",
+        "Endor",
+        "Lok",
+        "Naboo",
+        "Rori",
+        "Talus",
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "CD": 939,
+        "CR": 685,
+        "DR": 576,
+        "HR": 564,
+        "MA": 905,
+        "OQ": 97,
+        "SR": 699,
+        "UT": 718
+      },
+      "type": "Platinite Copper",
+      "type_id": "plcpr",
+      "url": "https://swgaide.com/resources/view.php?rid=1783373",
+      "waypoints": []
+    },
+    "1783374": {
+      "active": true,
+      "available_timestamp": "1793111047",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783374",
+      "missing_snapshots": 0,
+      "name": "Uwriris",
+      "planets": [
+        "Dantooine",
+        "Endor",
+        "Naboo"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "CD": 54,
+        "CR": 75,
+        "DR": 491,
+        "HR": 617,
+        "MA": 110,
+        "OQ": 244,
+        "SR": 519,
+        "UT": 534
+      },
+      "type": "Polonium Iron",
+      "type_id": "poirn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783374",
+      "waypoints": []
+    },
+    "1783375": {
+      "active": true,
+      "available_timestamp": "1793157859",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783375",
+      "missing_snapshots": 0,
+      "name": "Mewo",
+      "planets": [
+        "Corellia",
+        "Dantooine",
+        "Dathomir",
+        "Endor",
+        "Lok",
+        "Naboo",
+        "Tatooine",
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 947,
+        "MA": 158,
+        "OQ": 640,
+        "SR": 490,
+        "UT": 132
+      },
+      "type": "Polymer",
+      "type_id": "pol",
+      "url": "https://swgaide.com/resources/view.php?rid=1783375",
+      "waypoints": []
+    },
+    "1783376": {
+      "active": true,
+      "available_timestamp": "1793111089",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783376",
+      "missing_snapshots": 0,
+      "name": "Wewi",
+      "planets": [
+        "Rori"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 506,
+        "FL": 684,
+        "OQ": 173,
+        "PE": 444
+      },
+      "type": "Rori Domesticated Corn",
+      "type_id": "rodcn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783376",
+      "waypoints": []
+    },
+    "1783377": {
+      "active": true,
+      "available_timestamp": "1793111101",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783377",
+      "missing_snapshots": 0,
+      "name": "Wopla",
+      "planets": [
+        "Rori"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 797,
+        "FL": 251,
+        "OQ": 981,
+        "PE": 140
+      },
+      "type": "Rori Vegetable Fungus",
+      "type_id": "rofgs",
+      "url": "https://swgaide.com/resources/view.php?rid=1783377",
+      "waypoints": []
+    },
+    "1783378": {
+      "active": true,
+      "available_timestamp": "1793125364",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783378",
+      "missing_snapshots": 0,
+      "name": "Wowopi",
+      "planets": [
+        "Rori"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 569,
+        "FL": 348,
+        "OQ": 520,
+        "PE": 346
+      },
+      "type": "Rori Vegetable Tubers",
+      "type_id": "rotub",
+      "url": "https://swgaide.com/resources/view.php?rid=1783378",
+      "waypoints": []
+    },
+    "1783379": {
+      "active": true,
+      "available_timestamp": "1793172128",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783379",
+      "missing_snapshots": 0,
+      "name": "Are",
+      "planets": [
+        "Talus"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 28,
+        "MA": 371,
+        "OQ": 593,
+        "SR": 930,
+        "UT": 227
+      },
+      "type": "Talusian Bristley Hide",
+      "type_id": "tubhd",
+      "url": "https://swgaide.com/resources/view.php?rid=1783379",
+      "waypoints": []
+    },
+    "1783380": {
+      "active": true,
+      "available_timestamp": "1793172139",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783380",
+      "missing_snapshots": 0,
+      "name": "Issolo",
+      "planets": [
+        "Talus"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 141,
+        "FL": 841,
+        "OQ": 378,
+        "PE": 381
+      },
+      "type": "Talusian Carnivore Meat",
+      "type_id": "tucmt",
+      "url": "https://swgaide.com/resources/view.php?rid=1783380",
+      "waypoints": []
+    },
+    "1783381": {
+      "active": true,
+      "available_timestamp": "1793136440",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783381",
+      "missing_snapshots": 0,
+      "name": "Wosta",
+      "planets": [
+        "Talus"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 307,
+        "MA": 888,
+        "OQ": 736,
+        "SR": 554,
+        "UT": 208
+      },
+      "type": "Talusian Scaley Hide",
+      "type_id": "tushd",
+      "url": "https://swgaide.com/resources/view.php?rid=1783381",
+      "waypoints": []
+    },
+    "1783382": {
+      "active": true,
+      "available_timestamp": "1793125342",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783382",
+      "missing_snapshots": 0,
+      "name": "Beuteoke",
+      "planets": [
+        "Talus"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "OQ": 500,
+        "PE": 409
+      },
+      "type": "Talusian Solar Renewable Energy",
+      "type_id": "tuseg",
+      "url": "https://swgaide.com/resources/view.php?rid=1783382",
+      "waypoints": []
+    },
+    "1783383": {
+      "active": true,
+      "available_timestamp": "1793172150",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783383",
+      "missing_snapshots": 0,
+      "name": "Piefe",
+      "planets": [
+        "Talus"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 303,
+        "FL": 523,
+        "OQ": 261,
+        "PE": 83
+      },
+      "type": "Talusian Wild Corn",
+      "type_id": "tuwcn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783383",
+      "waypoints": []
+    },
+    "1783384": {
+      "active": true,
+      "available_timestamp": "1793111022",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783384",
+      "missing_snapshots": 0,
+      "name": "Rario",
+      "planets": [
+        "Talus"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "OQ": 500,
+        "PE": 301
+      },
+      "type": "Talusian Wind Renewable Energy",
+      "type_id": "tuweg",
+      "url": "https://swgaide.com/resources/view.php?rid=1783384",
+      "waypoints": []
+    },
+    "1783385": {
+      "active": true,
+      "available_timestamp": "1793150648",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783385",
+      "missing_snapshots": 0,
+      "name": "Eslisou",
+      "planets": [
+        "Tatooine"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 554,
+        "FL": 478,
+        "OQ": 389,
+        "PE": 982
+      },
+      "type": "Tatooinian Insect Meat",
+      "type_id": "taimt",
+      "url": "https://swgaide.com/resources/view.php?rid=1783385",
+      "waypoints": []
+    },
+    "1783386": {
+      "active": true,
+      "available_timestamp": "1793110580",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783386",
+      "missing_snapshots": 0,
+      "name": "Anamo",
+      "planets": [
+        "Tatooine"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 779,
+        "FL": 9,
+        "OQ": 64,
+        "PE": 764
+      },
+      "type": "Tatooinian Mollusk Meat",
+      "type_id": "tammt",
+      "url": "https://swgaide.com/resources/view.php?rid=1783386",
+      "waypoints": []
+    },
+    "1783387": {
+      "active": true,
+      "available_timestamp": "1793110938",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783387",
+      "missing_snapshots": 0,
+      "name": "Mokri",
+      "planets": [
+        "Naboo",
+        "Rori"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 282,
+        "OQ": 363,
+        "PE": 335
+      },
+      "type": "Unknown Liquid Petrochem Fuel",
+      "type_id": "upf",
+      "url": "https://swgaide.com/resources/view.php?rid=1783387",
+      "waypoints": []
+    },
+    "1783388": {
+      "active": true,
+      "available_timestamp": "1793110801",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783388",
+      "missing_snapshots": 0,
+      "name": "Foveiane",
+      "planets": [
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 539,
+        "MA": 351,
+        "OQ": 660,
+        "SR": 949,
+        "UT": 650
+      },
+      "type": "Yavinian Animal Bones",
+      "type_id": "yaabn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783388",
+      "waypoints": []
+    },
+    "1783389": {
+      "active": true,
+      "available_timestamp": "1793111112",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783389",
+      "missing_snapshots": 0,
+      "name": "Xaveva",
+      "planets": [
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 879,
+        "FL": 476,
+        "OQ": 983,
+        "PE": 472
+      },
+      "type": "Yavinian Domesticated Milk",
+      "type_id": "yadmk",
+      "url": "https://swgaide.com/resources/view.php?rid=1783389",
+      "waypoints": []
+    },
+    "1783390": {
+      "active": true,
+      "available_timestamp": "1793110994",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783390",
+      "missing_snapshots": 0,
+      "name": "Ouvo",
+      "planets": [
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 844,
+        "MA": 181,
+        "OQ": 684,
+        "SR": 851,
+        "UT": 477
+      },
+      "type": "Yavinian Fiberplast",
+      "type_id": "yafib",
+      "url": "https://swgaide.com/resources/view.php?rid=1783390",
+      "waypoints": []
+    },
+    "1783391": {
+      "active": true,
+      "available_timestamp": "1793157957",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783391",
+      "missing_snapshots": 0,
+      "name": "Povo",
+      "planets": [
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 705,
+        "MA": 475,
+        "OQ": 235,
+        "SR": 370,
+        "UT": 112
+      },
+      "type": "Yavinian Horn",
+      "type_id": "yahrn",
+      "url": "https://swgaide.com/resources/view.php?rid=1783391",
+      "waypoints": []
+    },
+    "1783392": {
+      "active": true,
+      "available_timestamp": "1793110840",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783392",
+      "missing_snapshots": 0,
+      "name": "Iome",
+      "planets": [
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "DR": 660,
+        "MA": 982,
+        "OQ": 32,
+        "SR": 99,
+        "UT": 243
+      },
+      "type": "Yavinian Leathery Hide",
+      "type_id": "yalhd",
+      "url": "https://swgaide.com/resources/view.php?rid=1783392",
+      "waypoints": []
+    },
+    "1783393": {
+      "active": true,
+      "available_timestamp": "1793110913",
+      "first_seen": "2026-10-28T09:00:20+00:00",
+      "id": "1783393",
+      "missing_snapshots": 0,
+      "name": "Ktisporis",
+      "planets": [
+        "Yavin 4"
+      ],
+      "source": "SWGAide",
+      "stats": {
+        "OQ": 500,
+        "PE": 476
+      },
+      "type": "Yavinian Solar Renewable Energy",
+      "type_id": "yaseg",
+      "url": "https://swgaide.com/resources/view.php?rid=1783393",
       "waypoints": []
     },
     "gh:2707305": {
