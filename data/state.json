@@ -1,7 +1,7 @@
 {
   "alert_policy": "broad-category-swgaide-rate-record-v1",
   "feed_count": 453,
-  "feed_generated": "2026-10-29T14:20:07+00:00",
+  "feed_generated": "2026-10-29T19:50:08+00:00",
   "harvester_history": {
     "checked_at": "2026-10-29T01:01:12+00:00",
     "conflicts": [
@@ -122,7 +122,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-10-29T14:25:26+00:00",
+  "last_successful_collection": "2026-10-29T19:54:26+00:00",
   "leaders": {
     "aluminum": {
       "category": "Aluminum",
@@ -830,11 +830,12 @@
       "waypoints": []
     },
     "1776828": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791766571",
       "first_seen": "2026-10-19T15:58:04+00:00",
       "id": "1776828",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Weuko",
       "planets": [
         "Corellia"
@@ -898,11 +899,12 @@
       "waypoints": []
     },
     "1776831": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791926540",
       "first_seen": "2026-10-19T15:58:04+00:00",
       "id": "1776831",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Egia",
       "planets": [
         "Corellia"
@@ -2965,11 +2967,12 @@
       "waypoints": []
     },
     "1776925": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791549821",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1776925",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Nasaho",
       "planets": [
         "Dathomir"
@@ -3681,11 +3684,12 @@
       "url": "https://swgaide.com/resources/view.php?rid=1776955"
     },
     "1776956": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791559440",
       "first_seen": "2026-10-19T15:58:02+00:00",
       "id": "1776956",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Cistaokoo",
       "planets": [
         "Endor"
@@ -6519,11 +6523,12 @@
       "waypoints": []
     },
     "1777085": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791840098",
       "first_seen": "2026-10-19T15:58:06+00:00",
       "id": "1777085",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Egho",
       "planets": [
         "Naboo"
@@ -6562,11 +6567,12 @@
       "waypoints": []
     },
     "1777087": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791826219",
       "first_seen": "2026-10-19T15:58:04+00:00",
       "id": "1777087",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Srilo",
       "planets": [
         "Naboo"
@@ -7608,11 +7614,12 @@
       "waypoints": []
     },
     "1777132": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791559416",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777132",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Cetia",
       "planets": [
         "Rori"
@@ -8851,11 +8858,12 @@
       "waypoints": []
     },
     "1777191": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792110165",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777191",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Lliyo",
       "planets": [
         "Tatooine"
@@ -9388,11 +9396,12 @@
       "waypoints": []
     },
     "1777216": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792077788",
       "first_seen": "2026-10-19T15:58:09+00:00",
       "id": "1777216",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Watommo",
       "planets": [
         "Tatooine"
@@ -9622,11 +9631,12 @@
       "waypoints": []
     },
     "1777226": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1791657374",
       "first_seen": "2026-10-19T15:58:03+00:00",
       "id": "1777226",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Vyoati",
       "planets": [
         "Yavin 4"
@@ -11352,11 +11362,12 @@
       "waypoints": []
     },
     "1777886": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792298236",
       "first_seen": "2026-10-19T15:58:11+00:00",
       "id": "1777886",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Osoiam",
       "planets": [
         "Talus"
@@ -11541,11 +11552,12 @@
       "waypoints": []
     },
     "1778193": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792283022",
       "first_seen": "2026-10-19T15:58:12+00:00",
       "id": "1778193",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Lovaide",
       "planets": [
         "Corellia",
@@ -12549,11 +12561,12 @@
       "waypoints": []
     },
     "1778655": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792326095",
       "first_seen": "2026-10-19T15:58:01+00:00",
       "id": "1778655",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Kehi",
       "planets": [
         "Corellia",
@@ -13297,11 +13310,12 @@
       "waypoints": []
     },
     "1779094": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792416244",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779094",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Wwixeipi",
       "planets": [
         "Dathomir"
@@ -13361,11 +13375,12 @@
       "waypoints": []
     },
     "1779097": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792409124",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779097",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Venaeti",
       "planets": [
         "Dantooine",
@@ -13394,11 +13409,12 @@
       "waypoints": []
     },
     "1779098": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792466558",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779098",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Bitu",
       "planets": [
         "Endor",
@@ -13727,11 +13743,12 @@
       "waypoints": []
     },
     "1779112": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792463048",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779112",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Monifaian",
       "planets": [
         "Corellia",
@@ -13753,11 +13770,12 @@
       "waypoints": []
     },
     "1779113": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792445056",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779113",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Sheonaate",
       "planets": [
         "Endor",
@@ -13926,11 +13944,12 @@
       "waypoints": []
     },
     "1779120": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792438210",
       "first_seen": "2026-10-20T10:27:23+00:00",
       "id": "1779120",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Zilita",
       "planets": [
         "Talus"
@@ -14419,11 +14438,12 @@
       "waypoints": []
     },
     "1779542": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792513676",
       "first_seen": "2026-10-21T11:57:27+00:00",
       "id": "1779542",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Niba",
       "planets": [
         "Dathomir"
@@ -14485,11 +14505,12 @@
       "waypoints": []
     },
     "1779545": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792513820",
       "first_seen": "2026-10-21T11:57:27+00:00",
       "id": "1779545",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Vafe",
       "planets": [
         "Endor"
@@ -14749,11 +14770,12 @@
       "waypoints": []
     },
     "1779556": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792560437",
       "first_seen": "2026-10-21T11:57:27+00:00",
       "id": "1779556",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Siople",
       "planets": [
         "Lok"
@@ -15416,11 +15438,12 @@
       "waypoints": []
     },
     "1780114": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792617856",
       "first_seen": "2026-10-22T10:16:12+00:00",
       "id": "1780114",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Ceaho",
       "planets": [
         "Dantooine",
@@ -15439,11 +15462,12 @@
       "waypoints": []
     },
     "1780115": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792589074",
       "first_seen": "2026-10-22T10:16:12+00:00",
       "id": "1780115",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Rima",
       "planets": [
         "Corellia"
@@ -15871,11 +15895,12 @@
       "waypoints": []
     },
     "1780134": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792617927",
       "first_seen": "2026-10-22T10:16:12+00:00",
       "id": "1780134",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Larhoa",
       "planets": [
         "Tatooine"
@@ -16081,11 +16106,12 @@
       "waypoints": []
     },
     "1780842": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792700552",
       "first_seen": "2026-10-23T12:11:14+00:00",
       "id": "1780842",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Ofiism",
       "planets": [
         "Corellia"
@@ -16347,11 +16373,12 @@
       "waypoints": []
     },
     "1780854": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792683024",
       "first_seen": "2026-10-23T12:11:14+00:00",
       "id": "1780854",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Phivonai",
       "planets": [
         "Dathomir"
@@ -16391,11 +16418,12 @@
       "waypoints": []
     },
     "1780856": {
-      "active": true,
+      "active": false,
       "available_timestamp": "1792683339",
       "first_seen": "2026-10-23T12:11:14+00:00",
       "id": "1780856",
-      "missing_snapshots": 1,
+      "inactive_observed_at": "2026-10-29T19:54:26+00:00",
+      "missing_snapshots": 2,
       "name": "Vepoo",
       "planets": [
         "Dathomir"
