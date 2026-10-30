@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-10-30T05:50:07+00:00
+Latest SWGAide export: 2026-10-30T13:00:07+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -16,12 +16,12 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Crystalline Gemstone | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) | 718 / 1000 | Despawned / inactive |
 | Extrusive Ore | [Copeneoian](https://swgaide.com/resources/view.php?rid=1777097) | 889 / 1000 | Despawned / inactive |
 | Ferrous Metal | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) | 762 / 1000 | Despawned / inactive |
-| Fiberplast | [Auco](https://swgaide.com/resources/view.php?rid=1778189) | 711 / 1000 | Despawned / inactive |
+| Fiberplast | [Sridra](https://swgaide.com/resources/view.php?rid=1784285) | 717 / 1000 | Active |
 | Fruit | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) | 848 / 1000 | Despawned / inactive |
 | Hide | [Cresro](https://swgaide.com/resources/view.php?rid=1776933) | 841 / 1000 | Despawned / inactive |
 | Horn | [Aba](https://swgaide.com/resources/view.php?rid=1777120) | 875 / 1000 | Despawned / inactive |
 | Inert Gas | [ridi](https://galaxyharvester.net/resource.py/161/ridi) | 978 / 1000 | Historical comparison (Galaxy Harvester) |
-| Intrusive Ore | [Deasyiam](https://swgaide.com/resources/view.php?rid=1779103) | 909 / 1000 | Active |
+| Intrusive Ore | [Deasyiam](https://swgaide.com/resources/view.php?rid=1779103) | 909 / 1000 | Awaiting feed confirmation |
 | Iron | [Osoiam](https://swgaide.com/resources/view.php?rid=1777886) | 942 / 1000 | Despawned / inactive |
 | Liquid Petrochem Fuel | [lloavairis](https://galaxyharvester.net/resource.py/161/lloavairis) | 867 / 1000 | Historical comparison (Galaxy Harvester) |
 | Lubricating Oil | [Nirae](https://swgaide.com/resources/view.php?rid=1778656) | 724 / 1000 | Despawned / inactive |
@@ -41,4 +41,4 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Water | [Boessi](https://swgaide.com/resources/view.php?rid=1778197) | 963 / 1000 | Despawned / inactive |
 | Wheat | [sodo](https://galaxyharvester.net/resource.py/161/sodo) | 883 / 1000 | Historical comparison (Galaxy Harvester) |
 | Wind Energy | [Ofiism](https://swgaide.com/resources/view.php?rid=1780842) | 964 / 1000 | Despawned / inactive |
-| Wood | [Revio](https://swgaide.com/resources/view.php?rid=1776962) | 843 / 1000 | Despawned / inactive |
+| Wood | [Klebo](https://swgaide.com/resources/view.php?rid=1784291) | 845 / 1000 | Active |
