@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-10-31T08:20:07+00:00
+Latest SWGAide export: 2026-10-31T14:40:09+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -29,7 +29,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Milk | [vamia](https://galaxyharvester.net/resource.py/161/vamia) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
 | Non-Ferrous Metal | [Shouhehi](https://swgaide.com/resources/view.php?rid=1781888) | 670 / 1000 | Active |
 | Oats | [Padi](https://swgaide.com/resources/view.php?rid=1777259) | 850 / 1000 | Despawned / inactive |
-| Polymer | [Foexotuium](https://swgaide.com/resources/view.php?rid=1780880) | 672 / 1000 | Awaiting feed confirmation |
+| Polymer | [Foexotuium](https://swgaide.com/resources/view.php?rid=1780880) | 672 / 1000 | Despawned / inactive |
 | Radioactive | [doordi](https://galaxyharvester.net/resource.py/161/doordi) | 933 / 1000 | Historical comparison (Galaxy Harvester) |
 | Reactive Gas | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) | 828 / 1000 | Despawned / inactive |
 | Rice | [Cihofa](https://swgaide.com/resources/view.php?rid=1777194) | 832 / 1000 | Despawned / inactive |
