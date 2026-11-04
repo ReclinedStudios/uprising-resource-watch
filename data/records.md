@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-11-04T08:00:07+00:00
+Latest SWGAide export: 2026-11-04T16:20:07+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -11,7 +11,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Amorphous Gemstone | [Eri](https://swgaide.com/resources/view.php?rid=1776813) | 860 / 1000 | Despawned / inactive |
 | Bone | [Aco](https://swgaide.com/resources/view.php?rid=1777048) | 800 / 1000 | Despawned / inactive |
 | Carbonate Ore | [Weoboe](https://swgaide.com/resources/view.php?rid=1784911) | 890 / 1000 | Active |
-| Copper | [Alliism](https://swgaide.com/resources/view.php?rid=1781883) | 954 / 1000 | Active |
+| Copper | [Alliism](https://swgaide.com/resources/view.php?rid=1781883) | 954 / 1000 | Awaiting feed confirmation |
 | Corn | [sesro](https://galaxyharvester.net/resource.py/161/sesro) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
 | Crystalline Gemstone | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) | 718 / 1000 | Despawned / inactive |
 | Extrusive Ore | [Copeneoian](https://swgaide.com/resources/view.php?rid=1777097) | 889 / 1000 | Despawned / inactive |
@@ -29,7 +29,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Milk | [vamia](https://galaxyharvester.net/resource.py/161/vamia) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
 | Non-Ferrous Metal | [Shouhehi](https://swgaide.com/resources/view.php?rid=1781888) | 670 / 1000 | Despawned / inactive |
 | Oats | [Padi](https://swgaide.com/resources/view.php?rid=1777259) | 850 / 1000 | Despawned / inactive |
-| Polymer | [Foexotuium](https://swgaide.com/resources/view.php?rid=1780880) | 672 / 1000 | Despawned / inactive |
+| Polymer | [Vate](https://swgaide.com/resources/view.php?rid=1786837) | 786 / 1000 | Active |
 | Radioactive | [doordi](https://galaxyharvester.net/resource.py/161/doordi) | 933 / 1000 | Historical comparison (Galaxy Harvester) |
 | Reactive Gas | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) | 828 / 1000 | Despawned / inactive |
 | Rice | [Cihofa](https://swgaide.com/resources/view.php?rid=1777194) | 832 / 1000 | Despawned / inactive |
