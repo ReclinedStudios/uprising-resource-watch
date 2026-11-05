@@ -1,15 +1,19 @@
 {
   "alert_policy": "broad-category-swgaide-rate-record-v1",
   "feed_count": 450,
-  "feed_generated": "2026-11-05T18:00:09+00:00",
+  "feed_generated": "2026-11-05T23:30:10+00:00",
   "harvester_history": {
-    "checked_at": "2026-11-04T22:14:48+00:00",
+    "checked_at": "2026-11-05T23:41:17+00:00",
     "conflicts": [
       "osoiam"
     ],
     "coverage": "Public Galaxy Harvester Uprising history; GH-only records retained as historical comparisons",
     "galaxy": "161",
     "incomplete_or_unknown": [
+      "vasa",
+      "lectoe",
+      "cheleide",
+      "raibo",
       "srotogiris",
       "clodoki",
       "woode",
@@ -126,9 +130,9 @@
       "autwoitho",
       "arporpiian"
     ],
-    "matching_swgaide_records": 1097,
-    "records_added": 2,
-    "records_found": 1544
+    "matching_swgaide_records": 1134,
+    "records_added": 3,
+    "records_found": 1587
   },
   "history_imports": [
     {
@@ -142,7 +146,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-11-05T18:05:03+00:00",
+  "last_successful_collection": "2026-11-05T23:41:17+00:00",
   "leaders": {
     "aluminum": {
       "category": "Aluminum",
@@ -32823,6 +32827,52 @@
       },
       "type": "Dathomir Wild Wheat",
       "url": "https://galaxyharvester.net/resource.py/161/peeggi"
+    },
+    "gh:2721437": {
+      "active": false,
+      "first_seen": "2026-11-05T23:41:17+00:00",
+      "id": "gh:2721437",
+      "name": "provi",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 552,
+        "FL": 631,
+        "OQ": 949,
+        "PE": 966
+      },
+      "type": "Tatooinian Egg",
+      "url": "https://galaxyharvester.net/resource.py/161/provi"
+    },
+    "gh:2722057": {
+      "active": false,
+      "first_seen": "2026-11-05T23:41:17+00:00",
+      "id": "gh:2722057",
+      "name": "ome",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 85,
+        "OQ": 907
+      },
+      "type": "Dathomir Water Vapor",
+      "url": "https://galaxyharvester.net/resource.py/161/ome"
+    },
+    "gh:2722588": {
+      "active": false,
+      "first_seen": "2026-11-05T23:41:17+00:00",
+      "id": "gh:2722588",
+      "name": "kalamo",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 543,
+        "FL": 422,
+        "OQ": 306,
+        "PE": 166
+      },
+      "type": "Dantooine Reptilian Meat",
+      "url": "https://galaxyharvester.net/resource.py/161/kalamo"
     }
   },
   "version": 1
