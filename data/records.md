@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-11-07T03:10:10+00:00
+Latest SWGAide export: 2026-11-07T10:20:11+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -32,13 +32,13 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Polymer | [Vate](https://swgaide.com/resources/view.php?rid=1786837) | 786 / 1000 | Active |
 | Radioactive | [doordi](https://galaxyharvester.net/resource.py/161/doordi) | 933 / 1000 | Historical comparison (Galaxy Harvester) |
 | Reactive Gas | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) | 828 / 1000 | Despawned / inactive |
-| Rice | [Cihofa](https://swgaide.com/resources/view.php?rid=1777194) | 832 / 1000 | Despawned / inactive |
+| Rice | [Wige](https://swgaide.com/resources/view.php?rid=1788496) | 883 / 1000 | Active |
 | Siliclastic Ore | [Faobopi](https://swgaide.com/resources/view.php?rid=1782885) | 889 / 1000 | Despawned / inactive |
 | Solar Energy | [Sreodouiam](https://swgaide.com/resources/view.php?rid=1777074) | 998 / 1000 | Despawned / inactive |
 | Solid Petrochem Fuel | [llimosti](https://galaxyharvester.net/resource.py/161/llimosti) | 926 / 1000 | Historical comparison (Galaxy Harvester) |
-| Steel | [Kowyism](https://swgaide.com/resources/view.php?rid=1784895) | 927 / 1000 | Active |
+| Steel | [Kowyism](https://swgaide.com/resources/view.php?rid=1784895) | 927 / 1000 | Awaiting feed confirmation |
 | Vegetables | [Ilohe](https://swgaide.com/resources/view.php?rid=1782886) | 908 / 1000 | Active |
 | Water | [Boessi](https://swgaide.com/resources/view.php?rid=1778197) | 963 / 1000 | Despawned / inactive |
 | Wheat | [sodo](https://galaxyharvester.net/resource.py/161/sodo) | 883 / 1000 | Historical comparison (Galaxy Harvester) |
 | Wind Energy | [Citigoate](https://swgaide.com/resources/view.php?rid=1786300) | 986 / 1000 | Active |
-| Wood | [Klebo](https://swgaide.com/resources/view.php?rid=1784291) | 845 / 1000 | Active |
+| Wood | [Klebo](https://swgaide.com/resources/view.php?rid=1784291) | 845 / 1000 | Awaiting feed confirmation |
