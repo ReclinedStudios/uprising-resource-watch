@@ -1,15 +1,16 @@
 {
   "alert_policy": "broad-category-swgaide-rate-record-v1",
   "feed_count": 455,
-  "feed_generated": "2026-11-07T23:50:11+00:00",
+  "feed_generated": "2026-11-08T06:00:11+00:00",
   "harvester_history": {
-    "checked_at": "2026-11-07T03:15:32+00:00",
+    "checked_at": "2026-11-08T06:10:26+00:00",
     "conflicts": [
       "osoiam"
     ],
     "coverage": "Public Galaxy Harvester Uprising history; GH-only records retained as historical comparisons",
     "galaxy": "161",
     "incomplete_or_unknown": [
+      "ttipaloiam",
       "meharis",
       "enaeka",
       "gloklavoiam",
@@ -134,9 +135,9 @@
       "autwoitho",
       "arporpiian"
     ],
-    "matching_swgaide_records": 1168,
-    "records_added": 1,
-    "records_found": 1634
+    "matching_swgaide_records": 1200,
+    "records_added": 3,
+    "records_found": 1682
   },
   "history_imports": [
     {
@@ -150,7 +151,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-11-08T00:00:13+00:00",
+  "last_successful_collection": "2026-11-08T06:10:26+00:00",
   "leaders": {
     "aluminum": {
       "category": "Aluminum",
@@ -34540,6 +34541,22 @@
       "type": "Corellia Berry Fruit",
       "url": "https://galaxyharvester.net/resource.py/161/boeteli"
     },
+    "gh:2719819": {
+      "active": false,
+      "first_seen": "2026-11-08T06:10:26+00:00",
+      "id": "gh:2719819",
+      "name": "clalfe",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 388,
+        "FL": 464,
+        "OQ": 214,
+        "PE": 19
+      },
+      "type": "Tatooinian Reptilian Meat",
+      "url": "https://galaxyharvester.net/resource.py/161/clalfe"
+    },
     "gh:2720828": {
       "active": false,
       "first_seen": "2026-11-07T03:15:32+00:00",
@@ -34572,6 +34589,22 @@
       "type": "Dathomir Wild Wheat",
       "url": "https://galaxyharvester.net/resource.py/161/peeggi"
     },
+    "gh:2721383": {
+      "active": false,
+      "first_seen": "2026-11-08T06:10:26+00:00",
+      "id": "gh:2721383",
+      "name": "taomone",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 739,
+        "FL": 183,
+        "OQ": 600,
+        "PE": 970
+      },
+      "type": "Rori Egg",
+      "url": "https://galaxyharvester.net/resource.py/161/taomone"
+    },
     "gh:2721437": {
       "active": false,
       "first_seen": "2026-11-05T23:41:17+00:00",
@@ -34587,6 +34620,20 @@
       },
       "type": "Tatooinian Egg",
       "url": "https://galaxyharvester.net/resource.py/161/provi"
+    },
+    "gh:2721679": {
+      "active": false,
+      "first_seen": "2026-11-08T06:10:26+00:00",
+      "id": "gh:2721679",
+      "name": "galai",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 165,
+        "OQ": 999
+      },
+      "type": "Bilal gas Inert Gas",
+      "url": "https://galaxyharvester.net/resource.py/161/galai"
     },
     "gh:2722057": {
       "active": false,
