@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-11-08T06:00:11+00:00
+Latest SWGAide export: 2026-11-08T13:20:12+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -16,7 +16,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Crystalline Gemstone | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) | 718 / 1000 | Despawned / inactive |
 | Extrusive Ore | [Copeneoian](https://swgaide.com/resources/view.php?rid=1777097) | 889 / 1000 | Despawned / inactive |
 | Ferrous Metal | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) | 762 / 1000 | Despawned / inactive |
-| Fiberplast | [Sridra](https://swgaide.com/resources/view.php?rid=1784285) | 717 / 1000 | Active |
+| Fiberplast | [Wararee](https://swgaide.com/resources/view.php?rid=1788867) | 749 / 1000 | Active |
 | Fruit | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) | 848 / 1000 | Despawned / inactive |
 | Hide | [Cresro](https://swgaide.com/resources/view.php?rid=1776933) | 841 / 1000 | Despawned / inactive |
 | Horn | [Aba](https://swgaide.com/resources/view.php?rid=1777120) | 875 / 1000 | Despawned / inactive |
@@ -37,7 +37,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Solar Energy | [Sreodouiam](https://swgaide.com/resources/view.php?rid=1777074) | 998 / 1000 | Despawned / inactive |
 | Solid Petrochem Fuel | [llimosti](https://galaxyharvester.net/resource.py/161/llimosti) | 926 / 1000 | Historical comparison (Galaxy Harvester) |
 | Steel | [Kowyism](https://swgaide.com/resources/view.php?rid=1784895) | 927 / 1000 | Despawned / inactive |
-| Vegetables | [Ilohe](https://swgaide.com/resources/view.php?rid=1782886) | 908 / 1000 | Active |
+| Vegetables | [Ilohe](https://swgaide.com/resources/view.php?rid=1782886) | 908 / 1000 | Awaiting feed confirmation |
 | Water | [Boessi](https://swgaide.com/resources/view.php?rid=1778197) | 963 / 1000 | Despawned / inactive |
 | Wheat | [sodo](https://galaxyharvester.net/resource.py/161/sodo) | 883 / 1000 | Historical comparison (Galaxy Harvester) |
 | Wind Energy | [Citigoate](https://swgaide.com/resources/view.php?rid=1786300) | 986 / 1000 | Active |
