@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-11-09T09:50:10+00:00
+Latest SWGAide export: 2026-11-09T20:40:10+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -10,7 +10,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Aluminum | [Olaris](https://swgaide.com/resources/view.php?rid=1777090) | 909 / 1000 | Despawned / inactive |
 | Amorphous Gemstone | [Eri](https://swgaide.com/resources/view.php?rid=1776813) | 860 / 1000 | Despawned / inactive |
 | Bone | [Aco](https://swgaide.com/resources/view.php?rid=1777048) | 800 / 1000 | Despawned / inactive |
-| Carbonate Ore | [Weoboe](https://swgaide.com/resources/view.php?rid=1784911) | 890 / 1000 | Awaiting feed confirmation |
+| Carbonate Ore | [Weoboe](https://swgaide.com/resources/view.php?rid=1784911) | 890 / 1000 | Despawned / inactive |
 | Copper | [Alliism](https://swgaide.com/resources/view.php?rid=1781883) | 954 / 1000 | Despawned / inactive |
 | Corn | [sesro](https://galaxyharvester.net/resource.py/161/sesro) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
 | Crystalline Gemstone | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) | 718 / 1000 | Despawned / inactive |
@@ -40,5 +40,5 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Vegetables | [Ilohe](https://swgaide.com/resources/view.php?rid=1782886) | 908 / 1000 | Despawned / inactive |
 | Water | [Boessi](https://swgaide.com/resources/view.php?rid=1778197) | 963 / 1000 | Despawned / inactive |
 | Wheat | [sodo](https://galaxyharvester.net/resource.py/161/sodo) | 883 / 1000 | Historical comparison (Galaxy Harvester) |
-| Wind Energy | [Citigoate](https://swgaide.com/resources/view.php?rid=1786300) | 986 / 1000 | Awaiting feed confirmation |
+| Wind Energy | [Citigoate](https://swgaide.com/resources/view.php?rid=1786300) | 986 / 1000 | Despawned / inactive |
 | Wood | [Klebo](https://swgaide.com/resources/view.php?rid=1784291) | 845 / 1000 | Despawned / inactive |
