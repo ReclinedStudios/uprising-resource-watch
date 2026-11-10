@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-11-10T03:30:10+00:00
+Latest SWGAide export: 2026-11-10T11:40:12+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -24,7 +24,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Intrusive Ore | [Koacamaism](https://swgaide.com/resources/view.php?rid=1789390) | 915 / 1000 | Active |
 | Iron | [Osoiam](https://swgaide.com/resources/view.php?rid=1777886) | 942 / 1000 | Despawned / inactive |
 | Liquid Petrochem Fuel | [lloavairis](https://galaxyharvester.net/resource.py/161/lloavairis) | 867 / 1000 | Historical comparison (Galaxy Harvester) |
-| Lubricating Oil | [Nirae](https://swgaide.com/resources/view.php?rid=1778656) | 724 / 1000 | Despawned / inactive |
+| Lubricating Oil | [Bedresoe](https://swgaide.com/resources/view.php?rid=1790032) | 853 / 1000 | Active |
 | Meat | [spato](https://galaxyharvester.net/resource.py/161/spato) | 865 / 1000 | Historical comparison (Galaxy Harvester) |
 | Milk | [vamia](https://galaxyharvester.net/resource.py/161/vamia) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
 | Non-Ferrous Metal | [Shouhehi](https://swgaide.com/resources/view.php?rid=1781888) | 670 / 1000 | Despawned / inactive |
