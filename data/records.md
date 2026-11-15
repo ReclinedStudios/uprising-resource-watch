@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-11-15T14:40:09+00:00
+Latest SWGAide export: 2026-11-15T20:20:10+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -16,12 +16,12 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Crystalline Gemstone | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) | 718 / 1000 | Despawned / inactive |
 | Extrusive Ore | [Copeneoian](https://swgaide.com/resources/view.php?rid=1777097) | 889 / 1000 | Despawned / inactive |
 | Ferrous Metal | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) | 762 / 1000 | Despawned / inactive |
-| Fiberplast | [Wararee](https://swgaide.com/resources/view.php?rid=1788867) | 749 / 1000 | Awaiting feed confirmation |
+| Fiberplast | [Wararee](https://swgaide.com/resources/view.php?rid=1788867) | 749 / 1000 | Despawned / inactive |
 | Fruit | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) | 848 / 1000 | Despawned / inactive |
 | Hide | [Cresro](https://swgaide.com/resources/view.php?rid=1776933) | 841 / 1000 | Despawned / inactive |
 | Horn | [Aba](https://swgaide.com/resources/view.php?rid=1777120) | 875 / 1000 | Despawned / inactive |
 | Inert Gas | [ridi](https://galaxyharvester.net/resource.py/161/ridi) | 978 / 1000 | Historical comparison (Galaxy Harvester) |
-| Intrusive Ore | [Koacamaism](https://swgaide.com/resources/view.php?rid=1789390) | 915 / 1000 | Awaiting feed confirmation |
+| Intrusive Ore | [Koacamaism](https://swgaide.com/resources/view.php?rid=1789390) | 915 / 1000 | Despawned / inactive |
 | Iron | [Osoiam](https://swgaide.com/resources/view.php?rid=1777886) | 942 / 1000 | Despawned / inactive |
 | Liquid Petrochem Fuel | [lloavairis](https://galaxyharvester.net/resource.py/161/lloavairis) | 867 / 1000 | Historical comparison (Galaxy Harvester) |
 | Lubricating Oil | [Bedresoe](https://swgaide.com/resources/view.php?rid=1790032) | 853 / 1000 | Active |
@@ -29,7 +29,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Milk | [vamia](https://galaxyharvester.net/resource.py/161/vamia) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
 | Non-Ferrous Metal | [Shouhehi](https://swgaide.com/resources/view.php?rid=1781888) | 670 / 1000 | Despawned / inactive |
 | Oats | [Ire](https://swgaide.com/resources/view.php?rid=1792522) | 885 / 1000 | Active |
-| Polymer | [Vate](https://swgaide.com/resources/view.php?rid=1786837) | 786 / 1000 | Awaiting feed confirmation |
+| Polymer | [Vate](https://swgaide.com/resources/view.php?rid=1786837) | 786 / 1000 | Despawned / inactive |
 | Radioactive | [doordi](https://galaxyharvester.net/resource.py/161/doordi) | 933 / 1000 | Historical comparison (Galaxy Harvester) |
 | Reactive Gas | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) | 828 / 1000 | Despawned / inactive |
 | Rice | [Wige](https://swgaide.com/resources/view.php?rid=1788496) | 883 / 1000 | Active |
