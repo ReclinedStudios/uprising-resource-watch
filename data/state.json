@@ -1,15 +1,20 @@
 {
   "alert_policy": "broad-category-swgaide-rate-record-v1",
   "feed_count": 453,
-  "feed_generated": "2026-11-16T00:20:09+00:00",
+  "feed_generated": "2026-11-16T07:10:10+00:00",
   "harvester_history": {
-    "checked_at": "2026-11-15T00:25:42+00:00",
+    "checked_at": "2026-11-16T07:21:30+00:00",
     "conflicts": [
       "osoiam"
     ],
     "coverage": "Public Galaxy Harvester Uprising history; GH-only records retained as historical comparisons",
     "galaxy": "161",
     "incomplete_or_unknown": [
+      "ineupo",
+      "sreichiian",
+      "etchole",
+      "kovieine",
+      "nishafoate",
       "sathaic",
       "meivoine",
       "fefiris",
@@ -153,9 +158,9 @@
       "autwoitho",
       "arporpiian"
     ],
-    "matching_swgaide_records": 1450,
-    "records_added": 0,
-    "records_found": 1939
+    "matching_swgaide_records": 1476,
+    "records_added": 3,
+    "records_found": 1982
   },
   "history_imports": [
     {
@@ -169,7 +174,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-11-16T00:25:13+00:00",
+  "last_successful_collection": "2026-11-16T07:21:30+00:00",
   "leaders": {
     "aluminum": {
       "category": "Aluminum",
@@ -41846,6 +41851,22 @@
       "type": "Dathomir Water Vapor",
       "url": "https://galaxyharvester.net/resource.py/161/ome"
     },
+    "gh:2722320": {
+      "active": false,
+      "first_seen": "2026-11-16T07:21:30+00:00",
+      "id": "gh:2722320",
+      "name": "faigole",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 618,
+        "FL": 527,
+        "OQ": 609,
+        "PE": 397
+      },
+      "type": "Lokian Reptilian Meat",
+      "url": "https://galaxyharvester.net/resource.py/161/faigole"
+    },
     "gh:2722588": {
       "active": false,
       "first_seen": "2026-11-05T23:41:17+00:00",
@@ -41926,6 +41947,36 @@
       },
       "type": "Corellia Evergreen Wood",
       "url": "https://galaxyharvester.net/resource.py/161/dauttea"
+    },
+    "gh:2727338": {
+      "active": false,
+      "first_seen": "2026-11-16T07:21:30+00:00",
+      "id": "gh:2727338",
+      "name": "boopa",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 979,
+        "OQ": 945
+      },
+      "type": "Dathomir Water Vapor",
+      "url": "https://galaxyharvester.net/resource.py/161/boopa"
+    },
+    "gh:2729035": {
+      "active": false,
+      "first_seen": "2026-11-16T07:21:30+00:00",
+      "id": "gh:2729035",
+      "name": "kifio",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 538,
+        "FL": 415,
+        "OQ": 73,
+        "PE": 270
+      },
+      "type": "Yavinian Egg",
+      "url": "https://galaxyharvester.net/resource.py/161/kifio"
     }
   },
   "version": 1
