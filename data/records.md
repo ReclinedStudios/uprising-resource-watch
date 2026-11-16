@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-11-16T07:10:10+00:00
+Latest SWGAide export: 2026-11-16T17:20:09+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -14,9 +14,9 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Copper | [Alliism](https://swgaide.com/resources/view.php?rid=1781883) | 954 / 1000 | Despawned / inactive |
 | Corn | [sesro](https://galaxyharvester.net/resource.py/161/sesro) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
 | Crystalline Gemstone | [Widehi](https://swgaide.com/resources/view.php?rid=1779814) | 718 / 1000 | Despawned / inactive |
-| Extrusive Ore | [Copeneoian](https://swgaide.com/resources/view.php?rid=1777097) | 889 / 1000 | Despawned / inactive |
+| Extrusive Ore | [Konamoism](https://swgaide.com/resources/view.php?rid=1792950) | 915 / 1000 | Active |
 | Ferrous Metal | [Vonakeiam](https://swgaide.com/resources/view.php?rid=1777221) | 762 / 1000 | Despawned / inactive |
-| Fiberplast | [Wararee](https://swgaide.com/resources/view.php?rid=1788867) | 749 / 1000 | Despawned / inactive |
+| Fiberplast | [Vaikeho](https://swgaide.com/resources/view.php?rid=1792964) | 801 / 1000 | Active |
 | Fruit | [Cteovvi](https://swgaide.com/resources/view.php?rid=1777705) | 848 / 1000 | Despawned / inactive |
 | Hide | [Cresro](https://swgaide.com/resources/view.php?rid=1776933) | 841 / 1000 | Despawned / inactive |
 | Horn | [Aba](https://swgaide.com/resources/view.php?rid=1777120) | 875 / 1000 | Despawned / inactive |
