@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-11-19T07:50:07+00:00
+Latest SWGAide export: 2026-11-19T17:20:11+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -32,7 +32,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Polymer | [Vate](https://swgaide.com/resources/view.php?rid=1786837) | 786 / 1000 | Despawned / inactive |
 | Radioactive | [doordi](https://galaxyharvester.net/resource.py/161/doordi) | 933 / 1000 | Historical comparison (Galaxy Harvester) |
 | Reactive Gas | [Rohoo](https://swgaide.com/resources/view.php?rid=1777139) | 828 / 1000 | Despawned / inactive |
-| Rice | [Wige](https://swgaide.com/resources/view.php?rid=1788496) | 883 / 1000 | Active |
+| Rice | [Wige](https://swgaide.com/resources/view.php?rid=1788496) | 883 / 1000 | Awaiting feed confirmation |
 | Siliclastic Ore | [Faobopi](https://swgaide.com/resources/view.php?rid=1782885) | 889 / 1000 | Despawned / inactive |
 | Solar Energy | [Sreodouiam](https://swgaide.com/resources/view.php?rid=1777074) | 998 / 1000 | Despawned / inactive |
 | Solid Petrochem Fuel | [llimosti](https://galaxyharvester.net/resource.py/161/llimosti) | 926 / 1000 | Historical comparison (Galaxy Harvester) |
