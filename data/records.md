@@ -1,6 +1,6 @@
 # Uprising server records
 
-Latest SWGAide export: 2026-11-20T07:20:08+00:00
+Latest SWGAide export: 2026-11-20T16:20:09+00:00
 
 One historical winner per broad category, ranked by SWGAide overall rating.
 History includes imported + observed SWGAide and Galaxy Harvester reports, including despawned resources; unreported server history is unknown.
@@ -23,7 +23,7 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Inert Gas | [ridi](https://galaxyharvester.net/resource.py/161/ridi) | 978 / 1000 | Historical comparison (Galaxy Harvester) |
 | Intrusive Ore | [Koacamaism](https://swgaide.com/resources/view.php?rid=1789390) | 915 / 1000 | Despawned / inactive |
 | Iron | [Osoiam](https://swgaide.com/resources/view.php?rid=1777886) | 942 / 1000 | Despawned / inactive |
-| Liquid Petrochem Fuel | [lloavairis](https://galaxyharvester.net/resource.py/161/lloavairis) | 867 / 1000 | Historical comparison (Galaxy Harvester) |
+| Liquid Petrochem Fuel | [Tagloiam](https://swgaide.com/resources/view.php?rid=1794670) | 894 / 1000 | Active |
 | Lubricating Oil | [Bedresoe](https://swgaide.com/resources/view.php?rid=1790032) | 853 / 1000 | Despawned / inactive |
 | Meat | [spato](https://galaxyharvester.net/resource.py/161/spato) | 865 / 1000 | Historical comparison (Galaxy Harvester) |
 | Milk | [vamia](https://galaxyharvester.net/resource.py/161/vamia) | 873 / 1000 | Historical comparison (Galaxy Harvester) |
@@ -40,5 +40,5 @@ History includes imported + observed SWGAide and Galaxy Harvester reports, inclu
 | Vegetables | [Ilohe](https://swgaide.com/resources/view.php?rid=1782886) | 908 / 1000 | Despawned / inactive |
 | Water | [Boessi](https://swgaide.com/resources/view.php?rid=1778197) | 963 / 1000 | Despawned / inactive |
 | Wheat | [sodo](https://galaxyharvester.net/resource.py/161/sodo) | 883 / 1000 | Historical comparison (Galaxy Harvester) |
-| Wind Energy | [Citigoate](https://swgaide.com/resources/view.php?rid=1786300) | 986 / 1000 | Despawned / inactive |
+| Wind Energy | [Iafu](https://swgaide.com/resources/view.php?rid=1794706) | 990 / 1000 | Active |
 | Wood | [Klebo](https://swgaide.com/resources/view.php?rid=1784291) | 845 / 1000 | Despawned / inactive |
