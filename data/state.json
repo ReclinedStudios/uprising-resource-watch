@@ -1,15 +1,22 @@
 {
   "alert_policy": "broad-category-swgaide-rate-record-v1",
   "feed_count": 456,
-  "feed_generated": "2026-11-19T23:50:09+00:00",
+  "feed_generated": "2026-11-20T07:20:08+00:00",
   "harvester_history": {
-    "checked_at": "2026-11-19T00:27:20+00:00",
+    "checked_at": "2026-11-20T07:24:15+00:00",
     "conflicts": [
       "osoiam"
     ],
     "coverage": "Public Galaxy Harvester Uprising history; GH-only records retained as historical comparisons",
     "galaxy": "161",
     "incomplete_or_unknown": [
+      "nihao",
+      "iriism",
+      "eno",
+      "ikaian",
+      "iafu",
+      "ivoate",
+      "azo",
       "vawewwa",
       "wightimia",
       "dhouca",
@@ -162,9 +169,9 @@
       "autwoitho",
       "arporpiian"
     ],
-    "matching_swgaide_records": 1580,
-    "records_added": 1,
-    "records_found": 2083
+    "matching_swgaide_records": 1610,
+    "records_added": 2,
+    "records_found": 2144
   },
   "history_imports": [
     {
@@ -178,7 +185,7 @@
   "home_links_refreshed": "2026-10-19T16:35:05+00:00",
   "initialized": true,
   "intro_home_link_updated": "2026-10-19T16:27:14+00:00",
-  "last_successful_collection": "2026-11-19T23:53:27+00:00",
+  "last_successful_collection": "2026-11-20T07:24:15+00:00",
   "leaders": {
     "aluminum": {
       "category": "Aluminum",
@@ -45398,6 +45405,22 @@
       "type": "Dantooine Reptilian Meat",
       "url": "https://galaxyharvester.net/resource.py/161/kalamo"
     },
+    "gh:2724386": {
+      "active": false,
+      "first_seen": "2026-11-20T07:24:15+00:00",
+      "id": "gh:2724386",
+      "name": "ofyiwi",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 83,
+        "FL": 949,
+        "OQ": 984,
+        "PE": 849
+      },
+      "type": "Nabooian Egg",
+      "url": "https://galaxyharvester.net/resource.py/161/ofyiwi"
+    },
     "gh:2724534": {
       "active": false,
       "first_seen": "2026-11-17T09:16:45+00:00",
@@ -45540,6 +45563,22 @@
       },
       "type": "Yavinian Egg",
       "url": "https://galaxyharvester.net/resource.py/161/kifio"
+    },
+    "gh:2731833": {
+      "active": false,
+      "first_seen": "2026-11-20T07:24:15+00:00",
+      "id": "gh:2731833",
+      "name": "gigo",
+      "planets": [],
+      "source": "Galaxy Harvester history",
+      "stats": {
+        "DR": 261,
+        "FL": 219,
+        "OQ": 117,
+        "PE": 978
+      },
+      "type": "Lokian Egg",
+      "url": "https://galaxyharvester.net/resource.py/161/gigo"
     }
   },
   "version": 1
